@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:09:56.117Z",
+  "generated": "2026-10-09T12:10:14.401Z",
   "type": "work",
   "records": [
     {
@@ -78,6 +78,13 @@
       "headword": "2 Kings (Melakhim Bet)",
       "altNames": [],
       "file": "data/works/11.xml"
+    },
+    {
+      "id": "12",
+      "uri": "https://biblia-arabica.com/work/12",
+      "headword": "Isaiah",
+      "altNames": [],
+      "file": "data/works/12.xml"
     }
   ]
 }
