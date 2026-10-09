@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:20:15.584Z",
+  "generated": "2026-10-09T12:20:36.597Z",
   "type": "work",
   "records": [
     {
@@ -295,6 +295,13 @@
       "headword": "1 Maccabees",
       "altNames": [],
       "file": "data/works/43.xml"
+    },
+    {
+      "id": "44",
+      "uri": "https://biblia-arabica.com/work/44",
+      "headword": "2 Maccabees",
+      "altNames": [],
+      "file": "data/works/44.xml"
     }
   ]
 }
