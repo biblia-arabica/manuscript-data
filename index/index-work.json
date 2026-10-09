@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:23:23.139Z",
+  "generated": "2026-10-09T12:23:38.244Z",
   "type": "work",
   "records": [
     {
@@ -365,6 +365,13 @@
       "headword": "Additions to Esther",
       "altNames": [],
       "file": "data/works/53.xml"
+    },
+    {
+      "id": "54",
+      "uri": "https://biblia-arabica.com/work/54",
+      "headword": "Prayer of Manasseh",
+      "altNames": [],
+      "file": "data/works/54.xml"
     }
   ]
 }
