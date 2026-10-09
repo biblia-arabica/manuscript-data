@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:15:27.619Z",
+  "generated": "2026-10-09T12:15:44.763Z",
   "type": "work",
   "records": [
     {
@@ -190,6 +190,13 @@
       "headword": "Psalms (Tehillim)",
       "altNames": [],
       "file": "data/works/28.xml"
+    },
+    {
+      "id": "29",
+      "uri": "https://biblia-arabica.com/work/29",
+      "headword": "Job",
+      "altNames": [],
+      "file": "data/works/29.xml"
     }
   ]
 }
