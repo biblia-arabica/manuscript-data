@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:30:34.121Z",
+  "generated": "2026-10-09T12:31:04.941Z",
   "type": "work",
   "records": [
     {
@@ -519,6 +519,20 @@
       "headword": "Hebrews",
       "altNames": [],
       "file": "data/works/75.xml"
+    },
+    {
+      "id": "76",
+      "uri": "https://biblia-arabica.com/work/76",
+      "headword": "James",
+      "altNames": [],
+      "file": "data/works/76.xml"
+    },
+    {
+      "id": "77",
+      "uri": "https://biblia-arabica.com/work/77",
+      "headword": "1 Peter",
+      "altNames": [],
+      "file": "data/works/77.xml"
     }
   ]
 }
