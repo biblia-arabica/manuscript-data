@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:09:04.231Z",
+  "generated": "2026-10-09T12:09:18.163Z",
   "type": "work",
   "records": [
     {
@@ -57,6 +57,13 @@
       "headword": "1 Samuel (Shmuel Aleph)",
       "altNames": [],
       "file": "data/works/8.xml"
+    },
+    {
+      "id": "9",
+      "uri": "https://biblia-arabica.com/work/9",
+      "headword": "2 Samuel (Shmuel Bet)",
+      "altNames": [],
+      "file": "data/works/9.xml"
     }
   ]
 }
