@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:25:51.202Z",
+  "generated": "2026-10-09T12:26:15.229Z",
   "type": "work",
   "records": [
     {
@@ -421,6 +421,13 @@
       "headword": "Acts of the Apostles",
       "altNames": [],
       "file": "data/works/61.xml"
+    },
+    {
+      "id": "62",
+      "uri": "https://biblia-arabica.com/work/62",
+      "headword": "Romans",
+      "altNames": [],
+      "file": "data/works/62.xml"
     }
   ]
 }
