@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:17:27.342Z",
+  "generated": "2026-10-09T12:17:42.301Z",
   "type": "work",
   "records": [
     {
@@ -232,6 +232,13 @@
       "headword": "Lamentations (Eikha)",
       "altNames": [],
       "file": "data/works/34.xml"
+    },
+    {
+      "id": "35",
+      "uri": "https://biblia-arabica.com/work/35",
+      "headword": "Esther",
+      "altNames": [],
+      "file": "data/works/35.xml"
     }
   ]
 }
