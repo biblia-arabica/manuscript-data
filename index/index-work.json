@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:21:06.755Z",
+  "generated": "2026-10-09T12:21:23.926Z",
   "type": "work",
   "records": [
     {
@@ -316,6 +316,13 @@
       "headword": "4 Maccabees",
       "altNames": [],
       "file": "data/works/46.xml"
+    },
+    {
+      "id": "47",
+      "uri": "https://biblia-arabica.com/work/47",
+      "headword": "1 Enoch",
+      "altNames": [],
+      "file": "data/works/47.xml"
     }
   ]
 }
