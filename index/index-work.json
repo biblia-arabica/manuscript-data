@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:14:10.124Z",
+  "generated": "2026-10-09T12:14:25.210Z",
   "type": "work",
   "records": [
     {
@@ -162,6 +162,13 @@
       "headword": "Zephaniah",
       "altNames": [],
       "file": "data/works/24.xml"
+    },
+    {
+      "id": "25",
+      "uri": "https://biblia-arabica.com/work/25",
+      "headword": "Haggai",
+      "altNames": [],
+      "file": "data/works/25.xml"
     }
   ]
 }
