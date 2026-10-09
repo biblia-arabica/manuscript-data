@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:27:07.352Z",
+  "generated": "2026-10-09T12:27:23.039Z",
   "type": "work",
   "records": [
     {
@@ -449,6 +449,13 @@
       "headword": "Galatians",
       "altNames": [],
       "file": "data/works/65.xml"
+    },
+    {
+      "id": "66",
+      "uri": "https://biblia-arabica.com/work/66",
+      "headword": "Ephesians",
+      "altNames": [],
+      "file": "data/works/66.xml"
     }
   ]
 }
