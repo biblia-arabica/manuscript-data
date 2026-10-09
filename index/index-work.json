@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:11:22.028Z",
+  "generated": "2026-10-09T12:11:36.850Z",
   "type": "work",
   "records": [
     {
@@ -106,6 +106,13 @@
       "headword": "Hosea",
       "altNames": [],
       "file": "data/works/15.xml"
+    },
+    {
+      "id": "16",
+      "uri": "https://biblia-arabica.com/work/16",
+      "headword": "Joel",
+      "altNames": [],
+      "file": "data/works/16.xml"
     }
   ]
 }
