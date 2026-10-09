@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:25:12.774Z",
+  "generated": "2026-10-09T12:25:31.164Z",
   "type": "work",
   "records": [
     {
@@ -407,6 +407,13 @@
       "headword": "Luke",
       "altNames": [],
       "file": "data/works/59.xml"
+    },
+    {
+      "id": "60",
+      "uri": "https://biblia-arabica.com/work/60",
+      "headword": "John",
+      "altNames": [],
+      "file": "data/works/60.xml"
     }
   ]
 }
