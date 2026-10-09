@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:08:46.625Z",
+  "generated": "2026-10-09T12:09:04.231Z",
   "type": "work",
   "records": [
     {
@@ -50,6 +50,13 @@
       "headword": "Judges (Shofetim)",
       "altNames": [],
       "file": "data/works/7.xml"
+    },
+    {
+      "id": "8",
+      "uri": "https://biblia-arabica.com/work/8",
+      "headword": "1 Samuel (Shmuel Aleph)",
+      "altNames": [],
+      "file": "data/works/8.xml"
     }
   ]
 }
