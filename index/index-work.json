@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:31:30.918Z",
+  "generated": "2026-10-09T12:31:58.242Z",
   "type": "work",
   "records": [
     {
@@ -540,6 +540,13 @@
       "headword": "2 Peter",
       "altNames": [],
       "file": "data/works/78.xml"
+    },
+    {
+      "id": "79",
+      "uri": "https://biblia-arabica.com/work/79",
+      "headword": "1 John",
+      "altNames": [],
+      "file": "data/works/79.xml"
     }
   ]
 }
