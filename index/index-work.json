@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:18:30.705Z",
+  "generated": "2026-10-09T12:18:51.388Z",
   "type": "work",
   "records": [
     {
@@ -260,6 +260,13 @@
       "headword": "Nehemiah",
       "altNames": [],
       "file": "data/works/38.xml"
+    },
+    {
+      "id": "39",
+      "uri": "https://biblia-arabica.com/work/39",
+      "headword": "1 Chronicles (Divrei Hayamim Aleph)",
+      "altNames": [],
+      "file": "data/works/39.xml"
     }
   ]
 }
