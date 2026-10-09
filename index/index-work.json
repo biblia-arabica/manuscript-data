@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:34:58.118Z",
+  "generated": "2026-10-09T12:35:29.170Z",
   "type": "work",
   "records": [
     {
@@ -603,6 +603,13 @@
       "headword": "Uncertain",
       "altNames": [],
       "file": "data/works/87.xml"
+    },
+    {
+      "id": "88",
+      "uri": "https://biblia-arabica.com/work/88",
+      "headword": "Other",
+      "altNames": [],
+      "file": "data/works/88.xml"
     }
   ]
 }
