@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:26:15.229Z",
+  "generated": "2026-10-09T12:26:33.494Z",
   "type": "work",
   "records": [
     {
@@ -428,6 +428,13 @@
       "headword": "Romans",
       "altNames": [],
       "file": "data/works/62.xml"
+    },
+    {
+      "id": "63",
+      "uri": "https://biblia-arabica.com/work/63",
+      "headword": "1 Corinthians",
+      "altNames": [],
+      "file": "data/works/63.xml"
     }
   ]
 }
