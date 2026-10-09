@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:29:26.373Z",
+  "generated": "2026-10-09T12:29:46.476Z",
   "type": "work",
   "records": [
     {
@@ -491,6 +491,13 @@
       "headword": "1 Timothy",
       "altNames": [],
       "file": "data/works/71.xml"
+    },
+    {
+      "id": "72",
+      "uri": "https://biblia-arabica.com/work/72",
+      "headword": "2 Timothy",
+      "altNames": [],
+      "file": "data/works/72.xml"
     }
   ]
 }
