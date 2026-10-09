@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:11:05.702Z",
+  "generated": "2026-10-09T12:11:22.028Z",
   "type": "work",
   "records": [
     {
@@ -99,6 +99,13 @@
       "headword": "Ezekiel",
       "altNames": [],
       "file": "data/works/14.xml"
+    },
+    {
+      "id": "15",
+      "uri": "https://biblia-arabica.com/work/15",
+      "headword": "Hosea",
+      "altNames": [],
+      "file": "data/works/15.xml"
     }
   ]
 }
