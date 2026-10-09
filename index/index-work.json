@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:06:13.631Z",
+  "generated": "2026-10-09T12:06:36.725Z",
   "type": "work",
   "records": [
     {
@@ -15,6 +15,13 @@
       "headword": "Exodus (Shemot)",
       "altNames": [],
       "file": "data/works/2.xml"
+    },
+    {
+      "id": "3",
+      "uri": "https://biblia-arabica.com/work/3",
+      "headword": "Leviticus (Wayiqra)",
+      "altNames": [],
+      "file": "data/works/3.xml"
     }
   ]
 }
