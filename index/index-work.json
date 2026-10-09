@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:06:36.725Z",
+  "generated": "2026-10-09T12:07:06.500Z",
   "type": "work",
   "records": [
     {
@@ -22,6 +22,13 @@
       "headword": "Leviticus (Wayiqra)",
       "altNames": [],
       "file": "data/works/3.xml"
+    },
+    {
+      "id": "4",
+      "uri": "https://biblia-arabica.com/work/4",
+      "headword": "Numbers (Bemidbar)",
+      "altNames": [],
+      "file": "data/works/4.xml"
     }
   ]
 }
