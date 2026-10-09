@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:14:47.315Z",
+  "generated": "2026-10-09T12:15:07.397Z",
   "type": "work",
   "records": [
     {
@@ -176,6 +176,13 @@
       "headword": "Zechariah",
       "altNames": [],
       "file": "data/works/26.xml"
+    },
+    {
+      "id": "27",
+      "uri": "https://biblia-arabica.com/work/27",
+      "headword": "Malachi",
+      "altNames": [],
+      "file": "data/works/27.xml"
     }
   ]
 }
