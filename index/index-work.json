@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:33:12.196Z",
+  "generated": "2026-10-09T12:33:41.213Z",
   "type": "work",
   "records": [
     {
@@ -575,6 +575,13 @@
       "headword": "Revelation",
       "altNames": [],
       "file": "data/works/83.xml"
+    },
+    {
+      "id": "84",
+      "uri": "https://biblia-arabica.com/work/84",
+      "headword": "Hebrew Bible/Old Testament",
+      "altNames": [],
+      "file": "data/works/84.xml"
     }
   ]
 }
