@@ -45,7 +45,7 @@
                                         <authority>
                                             <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
                                         </authority>
-                                        <idno type="URI">https://biblia-arabica.com/manuscript/1952</idno>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/1</idno>
                                         <availability>
                                             <licence target="http://creativecommons.org/licenses/by/3.0/">
                                                 <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
@@ -73,7 +73,7 @@
                                                 <idno>T-S AS 71.29</idno>
                                             </msIdentifier>
                                             <msContents>
-                                                <msItem xml:id="msitem-1952-1" class="tafsir">
+                                                <msItem xml:id="msitem-1-1" class="tafsir">
                                                     <title xml:lang="en">Old Testament</title>
                                                     <textLang mainLang="ar-Hebr"/>
                                                     <note xml:lang="en">Saadiah Gaon&apos;s Judaeo-Arabic Tafsir witness. Vollandt 2024, trilingual Tafsir group, n. 37: T-S AS 71.29 Biblical book and passage are intentionally left unspecified until leaf-level identification is available.</note>
