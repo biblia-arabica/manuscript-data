@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:16:28.977Z",
+  "generated": "2026-10-09T12:16:50.670Z",
   "type": "work",
   "records": [
     {
@@ -211,6 +211,13 @@
       "headword": "Ruth",
       "altNames": [],
       "file": "data/works/31.xml"
+    },
+    {
+      "id": "32",
+      "uri": "https://biblia-arabica.com/work/32",
+      "headword": "Song of Songs (Shir Hashirim)",
+      "altNames": [],
+      "file": "data/works/32.xml"
     }
   ]
 }
