@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:21:23.926Z",
+  "generated": "2026-10-09T12:21:44.608Z",
   "type": "work",
   "records": [
     {
@@ -323,6 +323,13 @@
       "headword": "1 Enoch",
       "altNames": [],
       "file": "data/works/47.xml"
+    },
+    {
+      "id": "48",
+      "uri": "https://biblia-arabica.com/work/48",
+      "headword": "Jubilees",
+      "altNames": [],
+      "file": "data/works/48.xml"
     }
   ]
 }
