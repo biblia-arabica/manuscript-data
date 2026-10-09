@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:18:51.388Z",
+  "generated": "2026-10-09T12:19:08.954Z",
   "type": "work",
   "records": [
     {
@@ -267,6 +267,13 @@
       "headword": "1 Chronicles (Divrei Hayamim Aleph)",
       "altNames": [],
       "file": "data/works/39.xml"
+    },
+    {
+      "id": "40",
+      "uri": "https://biblia-arabica.com/work/40",
+      "headword": "2 Chronicles (Divrei Hayamim Bet)",
+      "altNames": [],
+      "file": "data/works/40.xml"
     }
   ]
 }
