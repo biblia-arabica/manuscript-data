@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:05:24.463Z",
+  "generated": "2026-10-09T12:06:13.631Z",
   "type": "work",
   "records": [
     {
@@ -8,6 +8,13 @@
       "headword": "Genesis (Bereshit)",
       "altNames": [],
       "file": "data/works/1.xml"
+    },
+    {
+      "id": "2",
+      "uri": "https://biblia-arabica.com/work/2",
+      "headword": "Exodus (Shemot)",
+      "altNames": [],
+      "file": "data/works/2.xml"
     }
   ]
 }
