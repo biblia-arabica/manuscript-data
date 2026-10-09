@@ -1,13 +1,5 @@
 {
-  "generated": "2026-09-17T09:35:57.138Z",
+  "generated": "2026-10-09T12:02:49.190Z",
   "type": "work",
-  "records": [
-    {
-      "id": "3",
-      "uri": "https://biblia-arabica.com/work/3",
-      "headword": "Book of Job",
-      "altNames": [],
-      "file": "data/works/3.xml"
-    }
-  ]
+  "records": []
 }
