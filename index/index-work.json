@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:32:50.252Z",
+  "generated": "2026-10-09T12:33:12.196Z",
   "type": "work",
   "records": [
     {
@@ -568,6 +568,13 @@
       "headword": "Jude",
       "altNames": [],
       "file": "data/works/82.xml"
+    },
+    {
+      "id": "83",
+      "uri": "https://biblia-arabica.com/work/83",
+      "headword": "Revelation",
+      "altNames": [],
+      "file": "data/works/83.xml"
     }
   ]
 }
