@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:12:16.748Z",
+  "generated": "2026-10-09T12:12:29.737Z",
   "type": "work",
   "records": [
     {
@@ -127,6 +127,13 @@
       "headword": "Obadiah",
       "altNames": [],
       "file": "data/works/18.xml"
+    },
+    {
+      "id": "19",
+      "uri": "https://biblia-arabica.com/work/19",
+      "headword": "Jonah",
+      "altNames": [],
+      "file": "data/works/19.xml"
     }
   ]
 }
