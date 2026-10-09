@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:17:07.272Z",
+  "generated": "2026-10-09T12:17:27.342Z",
   "type": "work",
   "records": [
     {
@@ -225,6 +225,13 @@
       "headword": "Ecclesiastes (Qohelet)",
       "altNames": [],
       "file": "data/works/33.xml"
+    },
+    {
+      "id": "34",
+      "uri": "https://biblia-arabica.com/work/34",
+      "headword": "Lamentations (Eikha)",
+      "altNames": [],
+      "file": "data/works/34.xml"
     }
   ]
 }
