@@ -1,7 +1,16 @@
 {
-  "generated": "2026-10-09T13:18:37.529Z",
+  "generated": "2026-10-09T13:20:37.639Z",
   "type": "manuscript",
   "records": [
+    {
+      "id": "1",
+      "uri": "https://biblia-arabica.com/manuscript/1",
+      "headword": "Cambridge University Library T-S AS 71.29",
+      "altNames": [
+        "Old Testament"
+      ],
+      "file": "data/manuscripts/1.xml"
+    },
     {
       "id": "2",
       "uri": "https://biblia-arabica.com/manuscript/2",
@@ -17,15 +26,6 @@
         "Book of Job"
       ],
       "file": "data/manuscripts/3.xml"
-    },
-    {
-      "id": "1952",
-      "uri": "https://biblia-arabica.com/manuscript/1952",
-      "headword": "Cambridge University Library T-S AS 71.29",
-      "altNames": [
-        "Old Testament"
-      ],
-      "file": "data/manuscripts/1952.xml"
     }
   ]
 }
