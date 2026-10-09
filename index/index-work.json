@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:22:24.414Z",
+  "generated": "2026-10-09T12:22:48.401Z",
   "type": "work",
   "records": [
     {
@@ -344,6 +344,13 @@
       "headword": "Wisdom (of Solomon)Sirach/Ecclesiasticus",
       "altNames": [],
       "file": "data/works/50.xml"
+    },
+    {
+      "id": "51",
+      "uri": "https://biblia-arabica.com/work/51",
+      "headword": "Baruch, incl. the Letter of Jeremiah",
+      "altNames": [],
+      "file": "data/works/51.xml"
     }
   ]
 }
