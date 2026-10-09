@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:17:42.301Z",
+  "generated": "2026-10-09T12:17:58.505Z",
   "type": "work",
   "records": [
     {
@@ -239,6 +239,13 @@
       "headword": "Esther",
       "altNames": [],
       "file": "data/works/35.xml"
+    },
+    {
+      "id": "36",
+      "uri": "https://biblia-arabica.com/work/36",
+      "headword": "Daniel",
+      "altNames": [],
+      "file": "data/works/36.xml"
     }
   ]
 }
