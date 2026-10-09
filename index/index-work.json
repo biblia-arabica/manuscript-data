@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:07:06.500Z",
+  "generated": "2026-10-09T12:07:27.262Z",
   "type": "work",
   "records": [
     {
@@ -29,6 +29,13 @@
       "headword": "Numbers (Bemidbar)",
       "altNames": [],
       "file": "data/works/4.xml"
+    },
+    {
+      "id": "5",
+      "uri": "https://biblia-arabica.com/work/5",
+      "headword": "Deuteronomy (Devarim)",
+      "altNames": [],
+      "file": "data/works/5.xml"
     }
   ]
 }
