@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:34:13.176Z",
+  "generated": "2026-10-09T12:34:33.590Z",
   "type": "work",
   "records": [
     {
@@ -589,6 +589,13 @@
       "headword": "Deuterocanonical and Apocryphal Books",
       "altNames": [],
       "file": "data/works/85.xml"
+    },
+    {
+      "id": "86",
+      "uri": "https://biblia-arabica.com/work/86",
+      "headword": "New Testament",
+      "altNames": [],
+      "file": "data/works/86.xml"
     }
   ]
 }
