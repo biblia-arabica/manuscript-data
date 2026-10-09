@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:16:50.670Z",
+  "generated": "2026-10-09T12:17:07.272Z",
   "type": "work",
   "records": [
     {
@@ -218,6 +218,13 @@
       "headword": "Song of Songs (Shir Hashirim)",
       "altNames": [],
       "file": "data/works/32.xml"
+    },
+    {
+      "id": "33",
+      "uri": "https://biblia-arabica.com/work/33",
+      "headword": "Ecclesiastes (Qohelet)",
+      "altNames": [],
+      "file": "data/works/33.xml"
     }
   ]
 }
