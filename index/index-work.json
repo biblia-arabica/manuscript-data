@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:17:58.505Z",
+  "generated": "2026-10-09T12:18:30.705Z",
   "type": "work",
   "records": [
     {
@@ -246,6 +246,20 @@
       "headword": "Daniel",
       "altNames": [],
       "file": "data/works/36.xml"
+    },
+    {
+      "id": "37",
+      "uri": "https://biblia-arabica.com/work/37",
+      "headword": "Ezra",
+      "altNames": [],
+      "file": "data/works/37.xml"
+    },
+    {
+      "id": "38",
+      "uri": "https://biblia-arabica.com/work/38",
+      "headword": "Nehemiah",
+      "altNames": [],
+      "file": "data/works/38.xml"
     }
   ]
 }
