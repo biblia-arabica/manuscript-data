@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:28:50.683Z",
+  "generated": "2026-10-09T12:29:06.112Z",
   "type": "work",
   "records": [
     {
@@ -477,6 +477,13 @@
       "headword": "1 Thessalonians",
       "altNames": [],
       "file": "data/works/69.xml"
+    },
+    {
+      "id": "70",
+      "uri": "https://biblia-arabica.com/work/70",
+      "headword": "2 Thessalonians",
+      "altNames": [],
+      "file": "data/works/70.xml"
     }
   ]
 }
