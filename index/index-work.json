@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:23:57.411Z",
+  "generated": "2026-10-09T12:24:40.061Z",
   "type": "work",
   "records": [
     {
@@ -379,6 +379,20 @@
       "headword": "1/3 Esdras",
       "altNames": [],
       "file": "data/works/55.xml"
+    },
+    {
+      "id": "56",
+      "uri": "https://biblia-arabica.com/work/56",
+      "headword": "2/4 Esdras",
+      "altNames": [],
+      "file": "data/works/56.xml"
+    },
+    {
+      "id": "57",
+      "uri": "https://biblia-arabica.com/work/57",
+      "headword": "Matthew",
+      "altNames": [],
+      "file": "data/works/57.xml"
     }
   ]
 }
