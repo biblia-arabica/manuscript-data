@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:22:48.401Z",
+  "generated": "2026-10-09T12:23:23.139Z",
   "type": "work",
   "records": [
     {
@@ -351,6 +351,20 @@
       "headword": "Baruch, incl. the Letter of Jeremiah",
       "altNames": [],
       "file": "data/works/51.xml"
+    },
+    {
+      "id": "52",
+      "uri": "https://biblia-arabica.com/work/52",
+      "headword": "Additions to Daniel",
+      "altNames": [],
+      "file": "data/works/52.xml"
+    },
+    {
+      "id": "53",
+      "uri": "https://biblia-arabica.com/work/53",
+      "headword": "Additions to Esther",
+      "altNames": [],
+      "file": "data/works/53.xml"
     }
   ]
 }
