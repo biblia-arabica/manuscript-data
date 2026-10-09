@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:21:44.608Z",
+  "generated": "2026-10-09T12:22:06.824Z",
   "type": "work",
   "records": [
     {
@@ -330,6 +330,13 @@
       "headword": "Jubilees",
       "altNames": [],
       "file": "data/works/48.xml"
+    },
+    {
+      "id": "49",
+      "uri": "https://biblia-arabica.com/work/49",
+      "headword": "Psalm 151",
+      "altNames": [],
+      "file": "data/works/49.xml"
     }
   ]
 }
