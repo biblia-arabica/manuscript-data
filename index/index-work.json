@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:15:07.397Z",
+  "generated": "2026-10-09T12:15:27.619Z",
   "type": "work",
   "records": [
     {
@@ -183,6 +183,13 @@
       "headword": "Malachi",
       "altNames": [],
       "file": "data/works/27.xml"
+    },
+    {
+      "id": "28",
+      "uri": "https://biblia-arabica.com/work/28",
+      "headword": "Psalms (Tehillim)",
+      "altNames": [],
+      "file": "data/works/28.xml"
     }
   ]
 }
