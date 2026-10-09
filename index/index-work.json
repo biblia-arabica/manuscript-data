@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:16:07.385Z",
+  "generated": "2026-10-09T12:16:28.977Z",
   "type": "work",
   "records": [
     {
@@ -204,6 +204,13 @@
       "headword": "Proverbs (Mishlei)",
       "altNames": [],
       "file": "data/works/30.xml"
+    },
+    {
+      "id": "31",
+      "uri": "https://biblia-arabica.com/work/31",
+      "headword": "Ruth",
+      "altNames": [],
+      "file": "data/works/31.xml"
     }
   ]
 }
