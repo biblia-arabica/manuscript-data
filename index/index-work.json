@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:27:23.039Z",
+  "generated": "2026-10-09T12:28:32.429Z",
   "type": "work",
   "records": [
     {
@@ -456,6 +456,20 @@
       "headword": "Ephesians",
       "altNames": [],
       "file": "data/works/66.xml"
+    },
+    {
+      "id": "67",
+      "uri": "https://biblia-arabica.com/work/67",
+      "headword": "Philippians",
+      "altNames": [],
+      "file": "data/works/67.xml"
+    },
+    {
+      "id": "68",
+      "uri": "https://biblia-arabica.com/work/68",
+      "headword": "Colossians",
+      "altNames": [],
+      "file": "data/works/68.xml"
     }
   ]
 }
