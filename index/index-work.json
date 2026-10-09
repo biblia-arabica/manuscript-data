@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:07:27.262Z",
+  "generated": "2026-10-09T12:07:55.979Z",
   "type": "work",
   "records": [
     {
@@ -36,6 +36,13 @@
       "headword": "Deuteronomy (Devarim)",
       "altNames": [],
       "file": "data/works/5.xml"
+    },
+    {
+      "id": "6",
+      "uri": "https://biblia-arabica.com/work/6",
+      "headword": "Joshua",
+      "altNames": [],
+      "file": "data/works/6.xml"
     }
   ]
 }
