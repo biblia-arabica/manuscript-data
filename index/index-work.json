@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:07:55.979Z",
+  "generated": "2026-10-09T12:08:46.625Z",
   "type": "work",
   "records": [
     {
@@ -43,6 +43,13 @@
       "headword": "Joshua",
       "altNames": [],
       "file": "data/works/6.xml"
+    },
+    {
+      "id": "7",
+      "uri": "https://biblia-arabica.com/work/7",
+      "headword": "Judges (Shofetim)",
+      "altNames": [],
+      "file": "data/works/7.xml"
     }
   ]
 }
