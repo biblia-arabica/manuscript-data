@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:09:39.094Z",
+  "generated": "2026-10-09T12:09:56.117Z",
   "type": "work",
   "records": [
     {
@@ -71,6 +71,13 @@
       "headword": "1 Kings (Melakhim Aleph)",
       "altNames": [],
       "file": "data/works/10.xml"
+    },
+    {
+      "id": "11",
+      "uri": "https://biblia-arabica.com/work/11",
+      "headword": "2 Kings (Melakhim Bet)",
+      "altNames": [],
+      "file": "data/works/11.xml"
     }
   ]
 }
