@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:12:50.142Z",
+  "generated": "2026-10-09T12:13:27.497Z",
   "type": "work",
   "records": [
     {
@@ -141,6 +141,20 @@
       "headword": "Micah",
       "altNames": [],
       "file": "data/works/21.xml"
+    },
+    {
+      "id": "22",
+      "uri": "https://biblia-arabica.com/work/22",
+      "headword": "Nahum",
+      "altNames": [],
+      "file": "data/works/22.xml"
+    },
+    {
+      "id": "23",
+      "uri": "https://biblia-arabica.com/work/23",
+      "headword": "Habakkuk",
+      "altNames": [],
+      "file": "data/works/23.xml"
     }
   ]
 }
