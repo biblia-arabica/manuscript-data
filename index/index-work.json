@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:26:50.705Z",
+  "generated": "2026-10-09T12:27:07.352Z",
   "type": "work",
   "records": [
     {
@@ -442,6 +442,13 @@
       "headword": "2 Corinthians",
       "altNames": [],
       "file": "data/works/64.xml"
+    },
+    {
+      "id": "65",
+      "uri": "https://biblia-arabica.com/work/65",
+      "headword": "Galatians",
+      "altNames": [],
+      "file": "data/works/65.xml"
     }
   ]
 }
