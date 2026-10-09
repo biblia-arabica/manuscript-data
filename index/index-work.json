@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:22:06.824Z",
+  "generated": "2026-10-09T12:22:24.414Z",
   "type": "work",
   "records": [
     {
@@ -337,6 +337,13 @@
       "headword": "Psalm 151",
       "altNames": [],
       "file": "data/works/49.xml"
+    },
+    {
+      "id": "50",
+      "uri": "https://biblia-arabica.com/work/50",
+      "headword": "Wisdom (of Solomon)Sirach/Ecclesiasticus",
+      "altNames": [],
+      "file": "data/works/50.xml"
     }
   ]
 }
