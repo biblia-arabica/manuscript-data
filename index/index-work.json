@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:19:23.832Z",
+  "generated": "2026-10-09T12:19:50.980Z",
   "type": "work",
   "records": [
     {
@@ -281,6 +281,13 @@
       "headword": "Tobit",
       "altNames": [],
       "file": "data/works/41.xml"
+    },
+    {
+      "id": "42",
+      "uri": "https://biblia-arabica.com/work/42",
+      "headword": "Judith",
+      "altNames": [],
+      "file": "data/works/42.xml"
     }
   ]
 }
