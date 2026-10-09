@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:33:41.213Z",
+  "generated": "2026-10-09T12:34:13.176Z",
   "type": "work",
   "records": [
     {
@@ -582,6 +582,13 @@
       "headword": "Hebrew Bible/Old Testament",
       "altNames": [],
       "file": "data/works/84.xml"
+    },
+    {
+      "id": "85",
+      "uri": "https://biblia-arabica.com/work/85",
+      "headword": "Deuterocanonical and Apocryphal Books",
+      "altNames": [],
+      "file": "data/works/85.xml"
     }
   ]
 }
