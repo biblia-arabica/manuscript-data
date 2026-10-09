@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:19:08.954Z",
+  "generated": "2026-10-09T12:19:23.832Z",
   "type": "work",
   "records": [
     {
@@ -274,6 +274,13 @@
       "headword": "2 Chronicles (Divrei Hayamim Bet)",
       "altNames": [],
       "file": "data/works/40.xml"
+    },
+    {
+      "id": "41",
+      "uri": "https://biblia-arabica.com/work/41",
+      "headword": "Tobit",
+      "altNames": [],
+      "file": "data/works/41.xml"
     }
   ]
 }
