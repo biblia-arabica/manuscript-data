@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:10:38.459Z",
+  "generated": "2026-10-09T12:11:05.702Z",
   "type": "work",
   "records": [
     {
@@ -92,6 +92,13 @@
       "headword": "Jeremiah",
       "altNames": [],
       "file": "data/works/13.xml"
+    },
+    {
+      "id": "14",
+      "uri": "https://biblia-arabica.com/work/14",
+      "headword": "Ezekiel",
+      "altNames": [],
+      "file": "data/works/14.xml"
     }
   ]
 }
