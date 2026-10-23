@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-22"/>
+                                    <change who="#nfaqsh" when="2026-10-23"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -128,12 +129,54 @@
                                                             <p>وخمس مايه وثلثه ابواب واحد جاد لاسير وواحد لنفتالى واحاطها ثمانية عشر الفا واسم المدينة من يومها الرب سماها كمل كتاب حزقيال النبي وهو ثمانية وعشرين صحاح (كذا) سبح لله خالق السما والارض والحمدلله رب العالمين.</p>
                                                         </quote>
                                                     </explicit>
+                                                    <note>
+                                                        <p>  ملاحظات حول المخطوط: كتب تعليق خبر عجيب يقوي الايمان ورقة (١٤٨ ب) وهو بقلم آخر مما يدل على أن كاتبه غير كاتب المخطوط، والخط نسخي غليظ يرجع إلى تاريخ مبكر ، والعنوان بالمداد الأحمر وسجل تحته كاتبه المسمى خريستودولوس الكاهن والراهب اضطهادات الحاكم بغيرامر الله ; (٣٩٦- ٤١١ه/٩٩٦-١٠٢٠م) يقول خريستودولوس: لو كنت ادخل بلد بلد واعمل الميامر واعظ واقوى الامم ان تعبد ـهكذا وردت عند عطيهـولكن ربما ان تصبر !،فعند التمام يكون الفوز بالخلاص حتى اتيت مدينة دمشق وفعلت بها كذلك وفي اعمالها الى طبرية والساحل والبرارى الى حد الحفار ورأيت بدمشق امور فظيعة. وهذا التعليق ربما يدل على أن تاريخ المخطوط سابق للقرن العاشر ويحتمل كما ذكر سابقا أنه من القرن التاسع الميلادي المخطوط عبارة عن ملازم من ثمان ورقات مرقمة بالآبقطى يتضح منها فقدان ملزمتين وورقة واحدة من الملزمة الثالثة من بداية المخطوط وبالتالي هناك ١٧ ورقة ناقصة من البداية الورقة ٥٩ خالية من الكتابة هذه الترجمة ،مثيلاتها من التراجم العتيقة للعهد القديم يمكن ان تكون أساسا طيبا لمراجعة التراجم العربية الحديثة قامت بعثة مكتبة الكونجرس وجامعة الاسكندرية بتصوير المخطوط بالميكروفيلم سنة ١٩٥٠</p>
+                                                    </note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
                                                 <ab type="codicological-definition">
                                                     <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                                                 </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Parchment</material>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">١٤٨</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">٢٣</height>
+                                                                <width unit="mm">١٦</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                        <condition>
+                                                            <note xml:lang="ar"/>
+                                                        </condition>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <desc>Text on recto and verso</desc>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="ar">
+                                                        <note>
+                                                            <p>كوفي منقط بمداد مختلف عن الأصل ، ربما أضيفت هذه النقط في عصر لاحق للمخطوط، العناوين ورءوس الموضوعات بالمداد الأحمر</p>
+                                                        </note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <material>Wood</material>
+                                                            <note>
+                                                                <p>غلاف خشبي مكسو بجلد بني داكن ، الجانب الأيسر من الغلاف مفقود</p>
+                                                            </note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
                                                 <musicNotation>
                                                     <p/>
                                                 </musicNotation>
@@ -141,6 +184,9 @@
                                                 </sealDesc>
                                             </physDesc>
                                             <history>
+                                                <summary>
+                                                    <p>حوالي القرن التاسع الميلادي</p>
+                                                </summary>
                                                 <origin>
                                                     <geo/>
                                                     <origDate notBefore="0800" notAfter="0899">حوالي القرن التاسع الميلادي</origDate>
