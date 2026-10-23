@@ -59,6 +59,7 @@
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-22"/>
                                     <change who="#nfaqsh" when="2026-10-23"/>
+                                    <change who="#nfaqsh" when="2026-10-23">Name by which manuscript is generally known</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -74,7 +75,7 @@
                                                 <altIdentifier>
                                                     <idno>Arabic 1</idno>
                                                 </altIdentifier>
-                                                <msName>العهد القديم</msName>
+                                                <msName>Sinai, Saint Catherine Monastery Ar. 1</msName>
                                                 <geogName>
                                                     <geo/>
                                                 </geogName>
