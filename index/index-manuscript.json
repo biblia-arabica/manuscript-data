@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T15:54:33.299Z",
+  "generated": "2026-10-30T16:41:36.023Z",
   "type": "manuscript",
   "records": [
     {
@@ -82,6 +82,17 @@
         "الكتاب الخامس: التثنية"
       ],
       "file": "data/manuscripts/7.xml"
+    },
+    {
+      "id": "8",
+      "uri": "https://biblia-arabica.com/manuscript/8",
+      "headword": "سفر الخروج",
+      "altNames": [
+        "unknown (entity whose identity is not known)",
+        "القراءة الرابعة، البداية",
+        "القراءة التاسعة عشرة، النهاية"
+      ],
+      "file": "data/manuscripts/8.xml"
     }
   ]
 }
