@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T17:28:44.892Z",
+  "generated": "2026-10-30T17:45:47.221Z",
   "type": "manuscript",
   "records": [
     {
@@ -104,6 +104,32 @@
         "الأيام الثاني"
       ],
       "file": "data/manuscripts/9.xml"
+    },
+    {
+      "id": "10",
+      "uri": "https://biblia-arabica.com/manuscript/10",
+      "headword": "العهد القديم",
+      "altNames": [
+        "unknown (entity whose identity is not known)",
+        "أشعيا",
+        "هوشع",
+        "يوئيل",
+        "عاموص",
+        "عوبديا",
+        "يونان",
+        "ميخا",
+        "ناحوم",
+        "حبقوق",
+        "صفونيا",
+        "حجي",
+        "زكريا",
+        "ملاخي",
+        "أرميا",
+        "مراثي أرميا النبي",
+        "حزقيال",
+        "دانيال"
+      ],
+      "file": "data/manuscripts/10.xml"
     }
   ]
 }
