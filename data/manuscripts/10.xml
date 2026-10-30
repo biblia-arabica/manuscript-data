@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٩</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/10</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#nfaqsh" when="2026-10-30"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>مصر</country>
+                                                <settlement>دير القديسة كاترينة</settlement>
+                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <collection>Arabic</collection>
+                                                <idno>٩</idno>
+                                                <altIdentifier>
+                                                    <idno>Arabic 9</idno>
+                                                </altIdentifier>
+                                                <msName>العهد القديم</msName>
+                                                <geogName>
+                                                    <geo/>
+                                                </geogName>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>يحتوي على أسفار الأنبياء الكبار والصغار.</summary>
+                                                <msItem xml:id="msitem-1">
+                                                    <locus from="١ب" to="٨٠ ب"/>
+                                                    <title>أشعيا</title>
+                                                    <author ref="http://www.wikidata.org/entity/Q24238356">unknown (entity whose identity is not known)</author>
+                                                    <incipit>
+                                                        <quote>بسم الله الأب والابن والروح القدس نكتب بتأييد الله جل اسمه كتاب شعيا النبي وحي الله الذي أوحى إلى أشعيا ابن موسى...</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>وينظرون إلى جيف القوم الذين غدروا بي أن دودها لا يموت ونارهم لا تطفى ويصيرون عجبا لكل لحم. انقضا بعون الله كتاب اشعيا النبي بحمد الله وعونه وفضله ورحمته .</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-2">
+                                                    <locus from="٨١ أ" to="٩٣ أ"/>
+                                                    <title>هوشع</title>
+                                                    <incipit>
+                                                        <quote>باسم الاب والبن والروح القدس الاله الواحد نبدا بترجمة كتاب الاثني عشر وأولها كتاب هوشع النبي ونكتب اولا حديث هوشع ونقول أنه وان كان من الاثنى عشر فهو أقدم من الاثني عشر بالنبوة والسن جميعا وكان على اشعيا النبي في أرض يهوذا.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>النهاية :والذي يعقل يعرف هذه المقالات ويعلم أن طرق الرب معتدلة بسير الابرار فيها سيرا صالحا والآثمة يتغيرون فيها . انقضا بعون الله كتاب هوشع النبي.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <locus from="٩٣ب" to="٩٧ب"/>
+                                                    <title>يوئيل</title>
+                                                    <incipit>
+                                                        <quote>نبدأ بترجمة كتاب يوسيل النبي وحي الذي أوحى إلى النبي ابن بتوال اسمعوا هذه المقالة يا معشر المشايخ وانصتوا يا جميع سكان الأرض.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>النهاية :وتعمّر اورشلم إلى الابد و(انتقم) \(انتقي) من تنقية الدماء ! دماهم ولا اغفر لنساىهم ويحل الرب في صهيون. انقضا بعون الله كتاب يوال النبي.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <locus from="٩٧ ب" to="١٠٧ أ"/>
+                                                    <title>عاموص</title>
+                                                    <incipit>
+                                                        <quote>البداية: نبدا بترجمة كتاب عاموص النبي هذا قول النبي الذي كان من الرعاة الذين من تقوع والوحي الذي أوحى الله في سبب بني اسرائيل.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>النهاية: ويغرسون البساتين ويشربون خمرها ويغرسون البساتين ويأكلون ثمرها واثبتهم في أرضهم التي اعطيتهم بقول الله ربك. تمت نبوة عاموص النبي والمنه لله جل اسمه.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <locus from="١٠٧ أ" to="١٠٨أ"/>
+                                                    <title>عوبديا</title>
+                                                    <incipit>
+                                                        <quote>نبدا بترجمة كتاب عبوديا النبي رؤية عبوديا والوحي الذي أوحي إليه من قبل الرب.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>ويصعد المخلصون إلى جبل صهيون ليعاقبوا جبل عاسوا ويصير الملك الرب. انقضت نبوة عبوديا النبي .</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <locus from="١٠٨ ب" to="١١١ب"/>
+                                                    <title>يونان</title>
+                                                    <incipit>
+                                                        <quote>نكتب بعون الله كتاب يونان النبي أوحى الله إلى يونان ابن أماثي وقال له قم فانطلق.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>من الناس لا يعلمونها بين يمانهم الى شمايلهم وبهائهم كثيرة لا تحصا. انقضى كتاب يونان .</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-7">
+                                                    <locus from="١١١ب" to="١١٨أ"/>
+                                                    <title>ميخا</title>
+                                                    <incipit>
+                                                        <quote>نبدأ بترجمة كتاب ميخا النبي . هذا قول الرب ووحيه الذى أوحى الى ميخا.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>النهاية :أنت خولت آل يعقوب القسط وآل إبراهيم النعمة كما أقسمت لابانا في الأيام الأولى وأوائل الدهر. انقضى بعون الله كتاب ميخا النبي.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-8">
+                                                    <locus from="١١٨أ" to="١٢١أ"/>
+                                                    <title>ناحوم</title>
+                                                    <incipit>
+                                                        <quote>البداية: ؛تاب ناحوم النبي ضربة نينوى التي ذكرها ناحوم .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>كل من سمع خبر ضربتك صفق يديه متزفرا لأن سرك كان دايما على جميع الناس . انقضى بعون الله سبحانه كتاب ياحوم النبي .</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-9">
+                                                    <locus from="١٢١أ" to="١٢٤ب"/>
+                                                    <title>حبقوق</title>
+                                                    <incipit>
+                                                        <quote>نكتب كتاب حبقوق النبي هذه الرويا التي ترا في حبقوق النبي الذي أوحى إليه .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>الذي ثبت قدمي وصلبها كالايل وأقامني على علو الأرض لأرتل تسابيحه . انقضى كتاب حبقوق النبي.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-10">
+                                                    <locus from="١٢٤ب" to="١٢٧ب"/>
+                                                    <title>صفونيا</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-11">
+                                                    <locus from="١٢٨ أ" to="١٣٠ أ"/>
+                                                    <title>حجي</title>
+                                                    <incipit>
+                                                        <quote>كتاب حجى النبي في السنة الثانية من ملك داريوس الملك في الشهر السادس في أول يوم من الشهر أوحى الرب إلى حجى النبي.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>في ذلك اليوم يقول الرب القوي اتخذك يا زريايل ابن شاليايل عندي يقول الرب كالخاتم على اليد لأني انتخبتك يقول الرب القوي . انقضى كتاب جحى النبي بعون الله وإرشاده .</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-12">
+                                                    <locus from="١٣٠أ" to="١٤٣ ب"/>
+                                                    <title>زكريا</title>
+                                                    <incipit>
+                                                        <quote>كتاب زكريا النبي في الشهر الثامن في أول يوم من الشهر في السنة الثانية من ملك داريوس.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>يذبحون الذبايح يأخذون منها ويطبخون منها ولا يدخل في ذلك اليوم إنسان من الكنعانين بيت الرب القوي . انقضى بعون اللع كتاب زكريا النبي.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-13">
+                                                    <locus from="١٤٣ب" to="١٤٧ب"/>
+                                                    <title>ملاخي</title>
+                                                    <incipit>
+                                                        <quote>نبدأ بترجمة كتاب ملاخى وحي الرب وقوله لبني اسرائيل ورسالته إليهم على يدي ملاخى النبي.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>قبل أن آتي فأضرب الأرض وأصيرها إلى الهلاك . تم بعون الله كتاب ملاخى</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-14">
+                                                    <locus from="١٤٨أ" to="٢٣٩أ"/>
+                                                    <title>أرميا</title>
+                                                    <incipit>
+                                                        <quote>نكتب بعون ربنا اليسوع المسيح برحمته كتاب آرميا النبي . هذه أقوال أرميا ابن خالقنا من الأحبار .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>وكان يخرج نزله من عند بابل كل يوم إلى يوم وفاته جميع أيام حياته.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-15">
+                                                    <locus from="٢٣٩أ" to="٢٤٧أ"/>
+                                                    <title>مراثي أرميا النبي</title>
+                                                    <incipit>
+                                                        <quote>نكتب مراثى إرميا النبي. كيف بقيت وحدها المدينة التي كانت كثيرة الشعب .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>جدد أيامنا كالزمان الأول لأنك قد رذلتنا وغضبت علينا جدا . انقضى بعون الله مراثى إرميا النبي .</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-16">
+                                                    <locus from="٢٤٧أ" to="٣٣٠أ"/>
+                                                    <title>حزقيال</title>
+                                                    <incipit>
+                                                        <quote>وسط الحيوان مصباح يسير معها وكانت منظر النار تلمع شديدا.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>وباب لفنتالي وحول المدينة كما تدور</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-17">
+                                                    <locus from="٣٣١ أ" to="٣٤١أ"/>
+                                                    <title>دانيال</title>
+                                                    <incipit>
+                                                        <quote>بسم الله الرحمن الرحيم نبدأ بترجمة كتاب دانيال النبي في السنة الثالثة من ملك يواقيم ملك يهوذا .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>فأما أعدا دانيال الذين سعوا به وأرادوا قتله فألقوهم في الجب فافترسهم الأسد من ساعتهم بين يدي الملك وبين يدي دانيال- انقضا بعون الله وتوفيقه كتاب دانيال النبي وتم بنعمة الله والسبح لله دايما وأبدا. أرحم يارب المهتم والقاري والناسخ والخاطي.</quote>
+                                                    </explicit>
+                                                    <note xml:lang="ar">
+                                                        <p>لاحظات: بداية المخطوط مكتوب على ما يبدو وصفة طبية لعلاج لدغة الحية وهي عبارة عن تعويذة تتضمن عبارات من السحر ولكن الخط غير مفهوم. ورقة ٢ب على الهامش كتبت كلمة غير مفهومة أو إشارة للدلالة على شئ ما ! ورقة ٣ ب على الهامش كتبت إضافة في الأعلى كمثل \ وفي نتصف الصفحة الاربعا. ورقة ٤ أ اضيفت في السطر الرابع كلمة نغفر بمداد مغاير! وفي بداية السطر السادس يبدو أنه تم إزالة كلمة -فله- نغفروا! كما هناك كتابات على الهامش كل منها بمداد مختلف جملتان وكلمة أحدهما أضيفت بعد شطب جملة من المخطوط في السطر الرابع من الأسفل وهي : حاشية دياديه يعني روابي. ورقة ٤ ب ف السطر الثامن تم شطب كلمة التي على ما يبدو لزيادتها في النص ! كما أن هناك إضافة على الهامش. ورقة ٥ ب آخر الصفحة بمداد مختلف إضافة على الهامش أو تعديل لجملة وردت في النص: حسنهن يفسد. لُوحظ تكرار تصحيحات على كلمات وردت في النص بمداد مختلف. توجد كتابات على الهوامس تتعلق بالأيام التي تتلي فيها مختلف إصحاحات الكتاب وأقسامه تاريخ المخطوط غير معروف ولكن بمقارنته بمخطوط بطرياركية الأقباط رقم ١٢ تاريخ (انظر لوحة رقم ٤٢ في كتالوج المتحف القبطي- ج٢ قسم ١) وتاريخه يشنس ٩٩١ للشهداء الموافق ٦٧٣ هلالية (١٢٧٥م) يكون تاريخ هذا المخطوط قطعا هو القرن الثالث عشر الميلادي توجد ثمان ورقات ممزقة من الكتاب بعد ورقة ٣٤١ أ التي تنتهي بقصة الوحش والتنين مما يدل على أن هذه الترجمة مأخوذة عن الترجمة السبعينية للتوراه توجد خمس صحائف من ورق حديث في نهاية المخطوط تتضمن بيانات مختلفة المخطوط موقوف على دير سينا قامت بعثة الكونجرس وجامعة الإسكندرية بتصويره بالميكروفيلم سنة ١٩٥٠. قلوفون يفيد وقف الكتاب على زير سينا (ورقة ١ ب): أقول أنا جرمانوس اسقف طورسينا المقدس ان هذه النبوات وقف على طورسينا المقدس فمن اخرجه منه يكون محروم ومفروز. كما أن هناك تعليقات إضافيه على الورقة منها تلعيق يفيد رطلاع أحد القراء على المخطوط (٣٤٣أ) طالع فيه يواكيم باسم خورى الغز/ي ابن المرحوم يعقوب -ابن - اسحاق الخياط - (لم يرد في عطيه) ،وذلك بتاريخ نهار الاثنين المبارك عشرين يوم مضت من تموز المبارك يوم عيد القديس المعظم ماري إلياس النبي الحي الغيور سنة سبعت آلاف وثلاثه واربعين لابينا آدم. قصة شوشنا ورقة (٣٤٣ب-٣٤٧أ) وفقا للترجمة السبعينيه وهي بخط يرجع إلى تاريخ لاحق للمخطوط، وعلى ورق حديث مغاير. البداية (٣٤٣ب) بسم الاب والبن والروح القدس الاه واحد - هذه النبوة نقلتها من كتاب آخر وهي اول ما تنبا به دانيال النبي فلما وجدتها نقلتها الى هذه النسخة وفي السنة الثالثه من مل؛ يواقيم ملك يهودا انا بخنصر ملك بابل الي اورشليم واحاط بها.... وكان رجل من سبي بني اسراييل يسكن بابل اسمه يواقيم وانه تزوج مره يقال له شوشنا. النهاية(٣٤٧أ) ومجدوا ابنتهما شوشنا مع يواقيم بعلها ومع جميع اقاربها اذ لم يجدوا فيها فعل قبيح وصار دانيل عظيم قدام الشعب اسراييل ذلك اليوم. يوجد على الغلاف الأخير من الداخل الخبر التالي: ظهر في شهر تموز تاريخ الف وخمسمايه وسبعين الاسكندر اليوناني في السما في جهة الشرق نجم وله شعاع يخرج منه الى فوق وكان ظهوره مع نجم الصبح وبقي إلى شهر آب.</p>
+                                                    </note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>
+                                                                <p>نسخ متنسق منتظم بعض العناوين بالمداد الأحمر</p>
+                                                            </note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">347</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">٢٥.٥ cm</height>
+                                                                <width unit="mm">١٦.٥ cm</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <material>Wood</material>
+                                                            <note>
+                                                                <p>غلاف خشبي مكسو بجلد بني</p>
+                                                            </note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                                <musicNotation>
+                                                    <p/>
+                                                </musicNotation>
+                                                <sealDesc>
+                                                </sealDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>
+                                                    <p>القرن الثالث عشر</p>
+                                                </summary>
+                                                <origin>
+                                                    <geo/>
+                                                    <origDate notBefore="1200" notAfter="1299">القرن الثالث عشر</origDate>
+                                                </origin>
+                                            </history>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1321071"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
