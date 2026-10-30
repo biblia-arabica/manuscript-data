@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٣</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/12</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#nfaqsh" when="2026-10-30"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>مصر</country>
+                                                <settlement>St Catherine’s Monastery</settlement>
+                                                <repository>Library of St Catherine’s Monastery, Mount Sinai</repository>
+                                                <collection>عهد قديم</collection>
+                                                <idno>٣</idno>
+                                                <msName>أسفار موسى الخمسة</msName>
+                                                <geogName>
+                                                    <geo/>
+                                                </geogName>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Preface, contents table, Pentateuch, and Joshua; originally from Damascus.</summary>
+                                                <msItem xml:id="msitem-1">
+                                                    <locus from="١ أ" to="٧ ب"/>
+                                                    <title>فهرست غير كامل بمحتويات الكتاب الأول، وهو سفر التكوين</title>
+                                                    <author ref="http://www.wikidata.org/entity/Q24238356">يوسف بن سباط الآمدي السرياني</author>
+                                                    <incipit>
+                                                        <quote>أطراف الجبال وذلك في يوم من أ.... لذلك أرسل الغراب فلم يعد إليه ومن ب... فعادت إليه بمعرفة هبوط الماء... (المخطوط ناقص من بدايته حيث بدأ بنص على ما يبدو أنه من الفصل السادس)</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>واوتق يوسف لاخوته انهم امينين من ناحيته وتقدم اليهم ان يحملوا عظامه من مصر عند خروجهم عنها فلما مات جعلوه في تاوبت ووضعوه بمصر الى وقت امكانهم. كملت كملت جوامع هذا السفر المقدس وهو السفر الاول من التوراه والحمدلله دايما ،علينا رحمته امين.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-2">
+                                                    <locus from="٨أ" to="٥٦ب"/>
+                                                    <title>سفر التكوين</title>
+                                                    <incipit>
+                                                        <quote>بسم الله الأب والابن والروح القدس الإله الواحد - كتاب سفر تكوين الخلائق وهو السفر الأول من كتاب التوراه الشريف...</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">واستخلف يوسف بنو اسراىيل وقال اذا ذكركم الله واخرجكم من هذه الارض فاصعدوا عظامي معكم من ها هنا ومات يوسف وهو من (اثنا) ! مايه سنة وعشرة سنين فدفنوه ووضعوه في (جرن رخام)! بمصرهم. كمل السفر الأول من كتاب التوراه الشريف على ما نقله السبعون شيخا وترجمه الى اللغةالعربيه الحرث بن سنان رحمه الله بعد ان قوبل وصحح على عدة نسخ ولله الشكر دايما</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <locus from="٥٧ أ" to="٦٠ ب"/>
+                                                    <title xml:lang="ar">مقدمة وفهرست بمحتويات سفر الخروج</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote xml:lang="ar">بسم الاب والابن والروح القدس الاله الواحد . ترجمة السفر الثاني من كتاب التوراه ويسمى سفر الخروج. ينبغي ان نعلم ان جميع ما يصف لنا المغبوط موسى في هذا السفر الثاني الذي يدعى سفر الخروج اي خروج شعب اسراىيل من ارض مصر.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">وانهم كانوا ياتون بذلك مع سرورا عظيم حتى فضل منه. وكان الصانع له ولما يحتاج اليه من العده بصليال من سبط يهودا واليات من سبط دان. وان القبة قامت . وان العمامه تجللتها هم. كملت جوامع هذا السفر المقدس العشرة ولله السبح والمجد والوقار الى الابد</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <locus from="٦١ أ" to="١٠٠ أ"/>
+                                                    <title>سفر الخروج</title>
+                                                    <incipit>
+                                                        <quote>بسم الاب والابن والروح القدس الاله الواحد . كتاب سفر خروج بني اسراىيل من ارض مصر وهو السفر الثاني من كتاب التوراه الفصل الاول. هذه اسما بني اسراىيل الذين دخلوا لمصر مع يعقوب ابيهم . كل رجل مع اهل بيته دخلوا</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">وكان اذا ارتفعت الغمامة ارتحل بنو اسراىيل بانقالهم . وان لم ترتفع الغمامه لم يرتحلوا حتى اليوم الذي فيه ترتفع .وكانت غمامة الرب على القبة في النهار ثم عليها بالليل نارا. فاذا حضره جميع بيت اسراىيل ومراجلهم. -قلوفون- (كمل بعون الله سفر كتاب خروج بني اسراىيل من ارض مصر وهو السفر الثاني من كتاب التوراه بمنه الله وكرمه مما نقل بدير القديس ان (ابولا اول السواح رحم الله ناقله ومقتنيه ومن قال امين.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <locus from="١٠٠ ب" to="١٠١ أ"/>
+                                                    <title xml:lang="ar">مقدمة لسفر اللاويين لا تتضمن فهرست بالمحتويات</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>بسم الاب والابن ،الروح القدس الاله الواحد . شرح مختصر في سبب السفر الثالث من كتاب التوراه وهو الذي يسمى سفر الكهنه الاويين. ان الله خالقنا تبارك وتعالى امر بتقريب القرابين والدبايح لا لانه سبحانه هو يحتاج اليها لكنه احب بتفضله ان يربط الناس بمحبته والقربا اليه، النهاية:</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>وكانت غمامة الرب على القبة في النهار ثم عليها بالليل نارا فاذا حضره جميع بيت اسراىيل ومراحلهم. -قلوفون-( كمل بعون الله سفر كتاب خروج بني اسراىيل من ارض مصر وهو سفر الثاني من كتاب التوراه منه الله وكرمه مما نقل بدير الفديس (انايولا أول السواح رحم الله ناقله ومقتنيه ومن قال امين.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <locus from="١٠١ ب" to="١٢٨ أ"/>
+                                                    <title>سفر اللاويين</title>
+                                                    <incipit>
+                                                        <quote xml:lang="ar">بسم الاب والابن والروح القدس الاله الواحد كتاب الاويين الاحبار كهنة قبة الزمان وتسمى قبة الشهادة وهو السفر الثالث من التوراة . الفصل الأول، البداية: ونادى الله موسى فكلمه في قبة الشهادة قايلا كلم بني اسراىيل وقل لهم اذا قرب الرجل منكم قربانا للرب من الأنعام</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">فليكن زكوه قديسا للرب ولا يبدل الجيد بالردي ولا الردي بالجيد فإن هو أبدل فليكن به قدسا للرب لا يفتدى . هذه هي الوصايا التي أوصى موسى بني اسراىيل بطور سينا. ولله السبح والمجد والوقار دايما. -قلوفون- (ثم وكمل كتاب اللاويين الأحبار وهو السفر الثالث من كتاب التوراه مما تقلد من العبرني الاثنان وسبعون الشيوخ بطبريه وترجمة الحارث بن سنان بتفضل الله ومنته الذي علينا رحمته امين. أيها القارئ أكمل الوصية الانجليلية في المحبة واذكر الناسخ إن تجاوز عما سلف له من المآثم ويحرسه الله في بقية ما بقي من هذا العمر الحاضر من فخاخ العدو ومكامنه ويكون لك )</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-7">
+                                                    <locus from="١٢٩ أ" to="١٧٠ ب"/>
+                                                    <title xml:lang="ar">كتاب الإحصاء، بدون مقدمة أو فهرست بالمحتويات</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>بسم الاب والابن والروح القدس الاله الواحد. نبدأ برحمة الله بنقل كتاب الاحصا وهو السفر الرابع من كتاب التوراه وسمي سفر الاعداد أي عدد بني اسراىيل الفصل الأول. وكلم الرب موسى في برية طورسينا في قبج الشهادة في أول يوم من الشهر الثانيمن السنة الثانية لخروج بني اسراىيل من أرض مصر.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">فهذه هي الوصايا والسنن والأحكام التي أمر الرب بها اسراىيل على يد موسى في غريب مواب على الأردن قباله اريحا. -قلوفون- (تم كتاب الاحصا وهو السفر الرابع من كتاب التوراه مما نقله الى اليونانيه الاثنان وسبعون الشيوخ وفسره الحرث ابن سنان) رحمه الله وتجاوز الرب عن خطايانا اجمعين وترحم الرب على من رحم على ناقله المسكين الخاطي وغفر ذلاتنا وجميه بني المعموديه</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-8">
+                                                    <locus from="١٧١ أ" to="٢٠٥ ب"/>
+                                                    <title>كتاب الاستثناء، بدون مقدمة أو فهرست بالمحتويات</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>بسم الاب والابن والروح القدس الاله الواحد. كتاب الاستثنا وهو السفر الخامس من كتاب التوراه الشريف الفصل الأول. هذا الكلام الذي كلم به موسى جميع بني اسرىيل في عب الأردن في البريه مما يلي الغرب .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>ويقرب أيضا من البلوط المرتفع القريب من قرية سجيم هذا وجد في نسخة السمره زايد اصفح يارب واغفر خطايا ناقل هذه النسخة التوراه المقدسة بحرمة انبياك وصانعي هواك آمين.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-9">
+                                                    <locus from="٢أ" to="٢٣ب"/>
+                                                    <title xml:lang="ar">مقدمة أدبية وفهرست بالمحتويات</title>
+                                                    <author>[object Object]</author>
+                                                    <incipit>
+                                                        <quote>بسم الله الرحمن الرحيم نبتدي بعون الله تعالى بكتب كتاب التوراه الخمسة اسفار موسى الذي انزلها الله على موسى النبي ابن عمران باللسان السرياني الترجوم ونقلها السبعين شيخ من السرياني للعبراني &quot; بالمداد الأحمر&quot;</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">الاصحاح العشرين
+لما ذكر يشوع لبني اسراييل ما فعل الله معهم من العجايب واوصاهم وحذرهم علي عبادة الله ربهم وخبر موت يشوع ابن نون وخبر موت اليعازرا الحبر.
+تم فهرست سفر يشوع ابن نون خادم موسى النبي.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-10">
+                                                    <locus from="٢٤ب" to="١٠٤ أ"/>
+                                                    <title>سفر التكوين</title>
+                                                    <author>[object Object]</author>
+                                                    <incipit>
+                                                        <quote>البداية:
+بسم الله الخالق الأبدي القديم الأزلي الملك العظيم نبتدى بارادة الله سبحانه وتعالى بكتب كتاب التوراة تكوين الخلايق وهو السفر الأول من التوراة. في البدي خلق الله السموات والأرض وكانت غير محبوسة وغير منظوره خاوية غير محكمة وكانت الظلمة غاشىة على وجه المياه .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">ان الله سيذكركم من هذه الأمور فارفعوا عظامي من هاهنا وخذوا معكم .فمات يوسف.وكان عمره مايه وعشره سنين.فحنطوه وجعلوه في تابوت .ودفنوه بأرض مصر والسلام.
+تم السفر الاول وهو سفر الخليقة. وبالله المستعان</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-11">
+                                                    <locus from="١٠٤ب" to="١٦٥أ"/>
+                                                    <title>سفر الخروج</title>
+                                                    <author>[object Object]</author>
+                                                    <incipit>
+                                                        <quote>بسم الله الحي الخالق القديم الأزلي الأبدى السرمدى . هذا كتاب خروج بني اسراىيل من مصر وخلاصهم .وهو السفر الثاني من التوراة . الاصحاح الأول لما امر فرعون الدايات ان يقتلوا كل ذكر يولد في بني اسراىيل وقصة ميلاد موسى ابن عمران. هولي اسماء بني اسراىىل الذين دخلوا مصر مع يعقوب كل رجل واهل بيته. روبيل.وشمعون. ويهوذا.وايساخرا وزبالون وبنيامين ودان ونفتالى وجاد واشير.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>النهاية:
+من اجل ان غماماة الله كانت على قبة الزمان بالنخار يكون فيها النار في الليل عيان جميع بني اسراىيل وفي كل من تجلتهم والسلام. كمل السفر الثاني من التوراة وهو سفر خروج بني اسراىىل من مصر.ولمانح العطايا المجد والوقار والكرامة الى دهر الداهرين.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-12">
+                                                    <locus from="١٦٥ب" to="٢٠٧ب"/>
+                                                    <title>اللاويين</title>
+                                                    <author>[object Object]</author>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>بسم الله الخالق الحي الناطق هذا السفر الثالث من التوراة وهو سفر الاحبار الاصحاح الاول في تقدمة القرابين من غنم وبقر.
+ودعا الله موسى من قبة الزمان وكلمه وقال له كلم بني اسراىيل وقل لهم . اينا رجل منكم اذا قرب قربانه للرب من الدواب والانعام فقربوا قربانكم من البقر والغنم .</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">ولا يسال عن الصالح والطالح ولا يبذله فانما هو وبدله طهر لله ولا يفدوا الوصايا التي امر الله موسى علي بني اسراىيل في طورسينا والسلام.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-13">
+                                                    <locus from="٢٠٨ب" to="٢٧٢أ"/>
+                                                    <title xml:lang="ar">العدد</title>
+                                                    <author>[object Object]</author>
+                                                    <incipit>
+                                                        <quote>ولمانح العطايا المجد والوقار والكرامة الى دهر الداهرين. بسم الله الخالق الحي الناطق وهذا سفر الرابع من الوره وهو سفر الاعداد باسما بني اسراىيل الاصحاح الاول .تواليد الاسباط. وكلّم الله موسى في قبة الزمان في برّية سينا في اول يوم من السهر الثاني في السنة الثانية من خروج بني اسراىيل من ارض مصر وقال له . احصي عدد روس جماعة بني اسرىيل كلهم.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>وكان من ميراثهن من سبط ابيهن نصيبا كثيرا هذه الوصايا والسنن والقضايا التي اوصا الله على يدّي موسى لبنى اسراىيل مواب على نهر الأردن في مقابلة اريحا.
+تم السفر الرابع وهو سفر الاعداد والمانح العطايا المجد والاكرام والتحية ،الوقار الى ابد الابدين</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-14">
+                                                    <locus from="٢٧٢ب" to="٣٣٠ب"/>
+                                                    <title>الاستثناء</title>
+                                                    <author>[object Object]</author>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>بسم الله الخالق الحي الناطق هذه السفر الختمس من التوراة وهو سفر الاستثناء الاصحاح الاول معاتبة موسى لبني اسراىيل والشيوخ على ما عملوا والوصايا التي امر الله بها في عبر الاردن. هذا القول الذي قاله موسى لبني اسراىيل كلهم وهم في عبّر نهر الاردن في الفقار في عربا مقابل بحر سوف.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>وبكل يد عزيزة قوية وجميع الايات العظيمات التي اوراهم وعمل ذلك موسى بحضرة بني اسرىيل والسلام . كمل كتاب الاستثنا وهو السفر الخامس من التوراة ولله المنة والشكر والمجد والعزة والوقار الى الابد امين.</quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-15">
+                                                    <locus from="٣٣١ب" to="٣٧٢أ"/>
+                                                    <title>يشوع بن نون</title>
+                                                    <author>[object Object]</author>
+                                                    <incipit>
+                                                        <quote xml:lang="ar">بسم الله القديم الرحيم .نبتدي بعونه الله سبحانه ن؛تب سفر يشوع ابن نون تلميد موسى وهو الثاني من الانبيا الكبار الاصحاح الاول الوحي الى يشوع ابن نون وذلك في سبعة ايام من شهر نيسان وخبر الجواسيس الذي بعثهم يسوع ل ( ) مدينه اريحا.
+من بعد وفاة موسى عبد الرب قال الله ليشوع ابن نون خادم موسى ان موسى عبدي قد توفي فقم الان وجز هذا الاردن انت وجميع هذا الشعب.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">وعبد بني اسراييل الهة الشعوب التي حولهم، فاسلمهم الرب في يدي جلعود ملك مواب (كذا) واستعبدهن مدة ثمان عشر سنة الى حين تولا القضاء حكم بني اسراييل-تم سفر يشوع ابن نون تلميذ موسى</quote>
+                                                    </explicit>
+                                                    <note xml:lang="ar">
+                                                        <p>المخطوط به إضافات من العصور الوسيطة والحديثة بالعربية والسوريانية واليونانية</p>
+                                                        <p>به آوراق بياض في الأصل عند بداية المخطوط ونهايته</p>
+                                                        <p>صحائف المخطوط مرقمة أصلا بالقبطي وبها أخطاء عديدة</p>
+                                                        <p>أصل المخطوط من دمشق</p>
+                                                        <p>قامت بعثة الكونغرس وجامعة الاسكندرية بتصويره بالميكروفيلم سنة ١٩٥٠</p>
+                                                        <p>ورقة ١ أ كتبت ملاحظة بقلم رصاص الخط مغاير لخط المخطوط ،كتن مفادها: نظر في هذه التواره الشريفه فضل الله ولد حن(ا....)  ادمشقي موطنا  والارثدكسي مذهبا حين حضر لهذا الدير المقدس صحبة قدس الاب الارشيمندريتي يورفيروس الروسي سنة ألف وثمانمايه وخمسين للتجسيد الالهي ويتضرع الى كل من قرا هذه الاسطر يطلب له ولوالديه من الرب الاله مغفرة  خطاياهم لكي يكون له نظير&amp;quot;</p>
+                                                        <p>كُتب  أسفل صفحة ٢٤ أ  بخط ومداد مغاير ملاحظة تعرضت للمسح او الإتلاف فتعّذرت قراءتها كاملة : طالع فيها العبد الفقير إلى رحمة</p>
+                                                        <p>ورقة ١٦٥ أ كتبت: اللهم أنك  اهل العفو والغفران سامح واغفر وارحم العبد الحقير الغارق ببحر الخطايا والذنوب  الناسخ البايس المسكين يوسف بن  سباط الآمدي وكل من دعا له بالرحمة والغفران يرزق من الله الرحمة والغفران يوم يطلب فيه الرحمة اللهم سامح وارحم المتهم في نسخ هذا الكتاب السعيد وكذلك كل من له تعب فيه</p>
+                                                        <p>بصلاة المختارين الابرار المكرمين وساير الاتقيا اجمعين امين.</p>
+                                                        <p>ملاحظة ورقة ٣٣٠ ب:</p>
+                                                        <p>وكان الفراغ من كتابة هذا الكتاب المعظم الخمسة اسفار التوراخ الذي انرلها الله على موسى ابن عمران باللسان السرياني الترجوم ونقلها إلى لسان العبراني وذلك في يوم الاربعا تاسع من شهر كانون الثاني سنة ستة الف ووستماية وسبعين الاسكندر اليوناني الموافق للسنى ادم سنة سته الف وثمان مايه وثمانيه وستين الموافق لسنه الف وثلثمايه وثمانيه وخمسين للمسيح وكاتبها احقر مخلوقات الله الفقر الى رحمه ربه من لا يستحق يسما انسان لاسيّما باسم شماس بن يوسف ابن سباط الامدي السرياني.</p>
+                                                        <p>قلوفون بتاريخ المخطوط ورقة (٣٧٢ب) نصه:</p>
+                                                        <p>العزة لله هذه التوراه المباركه</p>
+                                                        <p>سلموك،فسطّرها أقل عبيد الله واكثرهم خطايا الراجي غفران خطاياه - لكن الله لم يغفر- وهو يسال كل واقفا -على هذه الأحرف أن يدعو   </p>
+                                                        <p>( لم ترد عند عطية )له بالمغفرة</p>
+                                                        <p>وكلمن قال شي له واضعافه وذلك بتاريخ سابع عشرين كانون الاول من شهور سنة سته الف وتسعمايه اربعه واربعين الموافق ثاني عشر شهر جماد الاخره سنه تسع وثلثين وثمانمياه احسن الله عاقبتها وكرمه وخفى لطفه .</p>
+                                                        <p>هناك قلوفونات أخرى أيضا بالسيريانيه واليونانيه على ورقتي ٢٧٢ ب و ٢٧٣ أ</p>
+                                                        <p>ويوجد في المخطوط ثلاثة تعليقات إضافيه :</p>
+                                                        <p>الأولى تتحدث عن مصدر المخطوط في ورقة ٢أ ونص التعليق : صار من عوادي الزمان في نوبة العبد الفقير الي الله تعالى عيسى بن سعيد الطبيب بمدينة الشام نفعه الله.</p>
+                                                        <p>التعليق الثاني عن كاتب المخطوط ورقة ١٦٥ أ: اللهم إنك اهل العفو والغفران، سامح واغفر وارحم، العبد الحقير الغارق في لجج بحر الخطايا والذنوب الناسخ البايس المسكين ، يوسف بن سباط الآمديى وكلمن دعا له بالرجمة.....الخ</p>
+                                                        <p>التعليق الثالث يتحدِث عن مصدر  المخطوط و كاتبه وتاريخه ورقة    :٣٣٠ب - ٣٣١ أ</p>
+                                                        <p>يوم الاربعا تاسع شهر من كانون الثاني سنه الف وستمايه وسبعين للاسكندر اليوناني الموافق لسنى آدم سنة الف وثمان مايه وثمانيه وستين الموافق لسنة الف وثلثمايه وثمانيه وخمسين للمسيح وكاتبها احقر مخلوقات الله الفقير الى رحمة ربه من لايستحق يسما انسان</p>
+                                                        <p>لاسيما باسم شماس يوسف بن سباط الآمدى ..... الخ</p>
+                                                        <p>ورقة ١٠٠ يبدو من الترقيم القبطي أنه بدأ دفتر جديد.</p>
+                                                        <p>المخطوط مرقم بالقبطي والترقيم غير واضح من البداية إلا أنه يتناسب مع الترقيم اللاحق المتأخر بالرصاص كما لوحظ وجود بعض الأخطاء أو التكرارات في الترقيم القبطي .</p>
+                                                        <p>ورقة ٢٠٨ هناك ملاحظة أو قراءة مضافة على المخطوط أي ليست من أصله ولوحظ فيها تواريخ مختلفة في الأسطر الأخيرة. بعد التدقيق والحساب تبين أنها توافق ٨٤١ الهجري الموافق جمادى الثاني</p>
+                                                    </note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note xml:lang="ar">
+                                                                <p>سخ جيد وهو الخط المألوف في تلك الفترة - حروف مضبوطة-العناوين ون ورؤوس الموضوعات باللون الأحمر</p>
+                                                            </note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">٣٧٣</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">٢٥</height>
+                                                                <width unit="mm">١٧.٥</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <material>Leather</material>
+                                                            <note>
+                                                                <p>غلف بجلد بني مزين بنقوش بارزة</p>
+                                                            </note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                                <musicNotation>
+                                                    <p/>
+                                                </musicNotation>
+                                                <sealDesc>
+                                                </sealDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>
+                                                    <p>١٣٥٨</p>
+                                                </summary>
+                                                <origin>
+                                                    <geo/>
+                                                    <origDate notBefore="" notAfter="">1358 CE</origDate>
+                                                </origin>
+                                            </history>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <publisher>عهد قديم</publisher>
+                                                            <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz16t1r0h"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
