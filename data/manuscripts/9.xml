@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٦</title>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٧</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -69,7 +69,7 @@
                                                 <settlement>دير القديسة كاترينة</settlement>
                                                 <repository>مكتبة دير طور سيناء</repository>
                                                 <collection>عهد قديم</collection>
-                                                <idno>٦</idno>
+                                                <idno>٧</idno>
                                                 <altIdentifier>
                                                     <idno>Arabic 7</idno>
                                                 </altIdentifier>
@@ -95,8 +95,7 @@
                                                         <quote>تم وكمل سفر دهو يامين يعني تدبير سير ملوك بني اسراييل وملوك آل يهوذا وانسابهم وانساب بني اسراييل لآباء قبايلهم في أيامهم وذكر انبييايهم وانسابهم</quote>
                                                     </explicit>
                                                     <note>
-                                                        <p>لاحظات حول المخطوط: المخطوط مقسم إلى قراءات مكتوبه بالمداد الأحمر، وهو ناقص من البداية والنهاية مصدر المخطوط مجهول نص الأجزاء المتبقية من المخطوط تتطابق النص الوارد في المخطوط ٥ المخطوط ناقص ما يقارب ١٠٠ ورقة ورقة ٢٣ مرقمة ترقيما قبطيا يبدأ مخطوط ٦ بالورقة ١ وهي تطابق الورقة ١٠١ من المخطوط الخامس.</p>
-                                                        <p>في بداية المخطوط أعلى الصفحة كتب بالرصاص ع٨ ربما للدلاله على رقم المخطوط في المكتب كما كُتب أعلى اليسار - الثانية عشر- أي أن المخطوط بدأ بالدفتر رقم ١٢ وكل دفتر هو ١٠ ورقات .</p>
+                                                        <p>لاحظات حول المخطوط: ي المخطوط تعليقات إضافيه ورقة (٧٤ ب-٧٥ب) بها وصفات طبيه وهي بخط يختلف عن الأصل ويرجع إل/ي فترة متأخرة عن تاريخ المخطوط نفسه وعلى الغلاف من الداخل تعليق جاء فيه خبر عن الخراب الأول لبيت اله (كذا ) .وهو بخط باهت مختلف عن الأصل ، اختلاف الخط من ورقة ٨ حتى ١٨ ورقة ٦٦ بعض الكلمات ربما تعرضت للمسح او الورقة تعرضت للاتلاف ورقة٢٢ب اخر سطر وردت كلمة عيد في المخطوط وبخط نسخي مغاير بمداد مغاير كتب تحتها عهد وتكرر ذلك في صفحة ٢٣ب، كما ورد في صفحة ٢٣ ب على هامش الصفحة بنفس الخط والمداد يبدو أنها اضافة من الكاتب عبارة :يعني بالروح ذكرين وانثا بينهما المخطوط عبارة عن أربع كراسات كل كراس ٨ ورقات ، مفقود من المخطوط ما يقارب ٨٠ صفحة وأول دفترين مفقودين بالكامل وهو ما يقارب ٢٠ صفحة</p>
                                                     </note>
                                                 </msItem>
                                             </msContents>
@@ -108,15 +107,15 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Paper</material>
-                                                            <note>
-                                                                <p>نسخ منتظم يبدوأنه من الطابع المصري العناوين ورؤس الموضوعات بالامداد الأحمر</p>
+                                                            <note xml:lang="ar">
+                                                                <p>متوسط بين الكوفي والنسخ</p>
                                                             </note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">١٦٠</measure>
+                                                            <measure unit="folio">٧٥</measure>
                                                             <dimensions>
-                                                                <height unit="mm">٢١.٥ cm</height>
-                                                                <width unit="mm">١٤.٥ cm</width>
+                                                                <height unit="mm">٢٧.٥ cm</height>
+                                                                <width unit="mm">١٦ cm</width>
                                                             </dimensions>
                                                         </extent>
                                                         <collation>
@@ -124,6 +123,17 @@
                                                         </collation>
                                                     </supportDesc>
                                                 </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <material>Paper</material>
+                                                            <note>
+                                                                <p>الجانب الأيمن من الغلاف مفقود ويوجد مكانه غلاف حديث من الورق</p>
+                                                            </note>
+                                                        </decoNote>
+                                                        <condition key="deficient"/>
+                                                    </binding>
+                                                </bindingDesc>
                                                 <musicNotation>
                                                     <p/>
                                                 </musicNotation>
@@ -132,7 +142,7 @@
                                             </physDesc>
                                             <history>
                                                 <summary>
-                                                    <p>القرن السادس/السابع عشر الميلادي</p>
+                                                    <p>القرن العاشر الميلادي</p>
                                                 </summary>
                                                 <origin>
                                                     <geo/>
@@ -145,6 +155,10 @@
                                                         <bibl>
                                                             <title>Digital image online</title>
                                                             <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz16m4rdz"/>
+                                                        </bibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1321071"/>
                                                         </bibl>
                                                     </listBibl>
                                                 </surrogates>
