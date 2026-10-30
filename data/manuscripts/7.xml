@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٤</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/7</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#nfaqsh" when="2026-10-30"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>مصر</country>
+                                                <settlement>دير القديسة كاترينة</settlement>
+                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <collection>عهد قديم</collection>
+                                                <idno>٤</idno>
+                                                <altIdentifier>
+                                                    <idno>Arabic 4</idno>
+                                                </altIdentifier>
+                                                <msName>أسفار موسى الخمسة</msName>
+                                                <geogName>
+                                                    <geo/>
+                                                </geogName>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>يحتوي على أسفار موسى الخمسة.</summary>
+                                                <msItem xml:id="msitem-1">
+                                                    <locus from="١أ" to="٦٤ب"/>
+                                                    <title>الكتاب الأول: سفر الخليقة، أي التكوين</title>
+                                                    <author>جبريل بن موسى</author>
+                                                    <incipit>
+                                                        <quote>الفردوس وكان ينفصل من هناك ويتفرق على أربعة أنهار اسم أحدها فيشون الذي يحيط بجميع أرض الهند وتلك البلاد كثيرة الذهب</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>والله سيدكركم(كذا) ويخرجكم من هذه الارض الى الارض التي اقسم بها لا (..) واسحق(...) يوسف على بني اسراييل وقال ان الله سيدكركم  فاصعدوا عطامي معكم فتوفى يوسف وهو ابن مايه وسته وعشرين سنه فحنطوه ووضعوه في (..) بارض مصر. انقضى بعون الله السفر الاول من التوره وهو يدعى سفر الخليقه.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-2">
+                                                    <locus from="٦٥ب" to="١٢٥ب"/>
+                                                    <title>الكتاب الثاني: الخروج</title>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>بسم الله الرحمن الرحيم ترجمة السفر الثاني من التوره وهذه اسما بني اسراييل .الدين دخلوا مصر مع بعض دخل كل امرئ منهم باهل بيته</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>لان سحابه الرب كانت تغشي القبه بالنهار وكانت النار تضي عليها بالليل و (...) وتنير فجاء جميع بني اسراييل وجميع مطاعنهم انقضا بعون الله وتوفيقه السفر الثاني من اسفار التوراه</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <locus from="١٢٦ب" to="١٧٠ب"/>
+                                                    <title>الكتاب الثالث: سفر الأحبار، اللاويين</title>
+                                                    <incipit>
+                                                        <quote>بسم الله الرحمن الرحيم هذا السفر الثالث من التوراه وهو سفر الكهنه وفيه تلخيص القرابين واسير ما حرم وما حلل. ودعا الرب موسى وكلمه من قبه الامد وقال له كلم بني اسراييل وقل لهم كل انسان منكم اذا قرب للرب قربانا من البهايم فلتكن قرابينكن من البقر والغنم.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>ولا يسل صاحبه عن جودته او رداته ولا يبدله بغيره وان ابدله بغيره يصير هو وبديله مقدسين للرب فلا يخلصا .هذه الوصايا والسنن التي امر الله بها بني اسراييل على يدي موسى في حبل وهي على الارجح -جبل- (..) ربما سينا ! انقضى بعون الله السفر الثالث من اسفار التوراه</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <locus from="١٧١ب" to="٢٢٩ب"/>
+                                                    <title>الكتاب الرابع: العدد</title>
+                                                    <incipit>
+                                                        <quote>بسم الله الرحمن الرحيم ترجمة السفر الرابع من اسفار التوره. قال الرب كلم موسى النبي في جبل سينا وفي قبه الامد في اول يوم من الشهر الثاني في السنه الثانيه لخروج بني اسراييل من مصر.</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>وصار ميراثهن في ميرات قبيله ابايهم وهذه الاحكام والشرايع والوصايا التي (اوصى)  الرب بني اسراييل على يدي موسى ..... انقضى بعون الله وتوفيقه السفر الرابع من اسفار التوره وهو النعروف ب(...)</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <locus from="٢٣٠ب" to="٢٨٠ب"/>
+                                                    <title>الكتاب الخامس: التثنية</title>
+                                                    <incipit>
+                                                        <quote>بسم الله الرحمن الرحيم ترجمة السفر الخامس من التوره هذه الايات والاقوال التي قال موسى لبني اسراييل عند مجار الاردن</quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>وعمل جميع الايات التي ارسله ان يعلمها بأرض مصر بفرعون وجميع عبيده وكل ارضه واكمل كل اليد العزيزة المطو العظيم الذين عاين جميع بني اسرايل من فعال موسى - انقضى بعون الله السفر الخامس من اسفار التوريه وتكت ترجمتها- والتوره خمسة أسفار مايه وستة وعشرون اصحاحا منها السفر الأول الذي يسمى سفر الخليقة اربعه وثلثون اصحاحا والسفر الثاني سته وعشرون اصحاحا والسفر الثالث وهو الذي يسمى سفر الاحبا عشرين والسفر الرابع وهو الذي يسمى سفر العدد سته وعشرون اصحاحا والسفر الخامس عشرون اصحاحا.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                    <note xml:lang="ar">
+                                                        <p>ملاحظات حول المخطوط: يبدأ المخطوط بالآية العاشرة من الاصحاح الثاني من سفر التكوين المخطوط بال ومتآكل في أكثر من موضع الهوامش ضيقة الحواف مقصوصة ومتأكله مع الأسطر الأولى في بعص الصفحات عند البداية والنهاية يختلف هذا النص الخطي عن المخطوط رقم ٣ والاثنان يختلفان عن النسخة المطبوعة ورد هذا المخطوط في كتالوج ج مز.م.د.جبسون تحت اسم (كتاب مقالات عن سيرة ابراهيم) قامت بعتثة مكتبة الكونجرس وجامعة الاسكندريه بتصويره بالميكروفيلم سنة ١٩٥٠ قلوفون بتاريخ المخطوط وكاتبه ورقه (٢٨١أ) نصه: انقضى نسخها يوم الجمعة لثلث ليال خلون من رجب سنة ثلث وخمسين وثلثمايه وكان ذلك اليوم من تموز يوم عيد مار قراقوس وهي بخط جبريل بن موسى المعروف -حسلعه- هكذا وردت في عطية ، وقد تكون حنبله! الكاتب رضي الله عنه رضا أبراره واحبابه ورحم من قرأ أو قري عليه فقال امين امين. وهناك تعليق إضافي بخط نسخي حسن يختلف عن الأصل بقلم أحد القراء ورقة (٢٨١ أ): طالع في هذه التوريه المقدسه عبد عبيد الكلمه الالهيه ميخاييل المصري بدير طورسينا المقدس وذلك في سنة سبعمايه وادح للهجرة الرب الاله يعني لمن دعى له. لوحظ تحسن الخط قليلا ووضوحه عند السفر الثالث وهو سفر الكهنه.، ولكنه عاد بعدها كما في البداية</p>
+                                                    </note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <note xml:lang="ar"/>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">٢٨١</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">٢٦.٥ cm</height>
+                                                                <width unit="mm">16 cm</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                        <collation>
+                                                            <note xml:lang="ar">
+                                                                <p>نسخ رديئ</p>
+                                                            </note>
+                                                        </collation>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <origPlace>الجانب الأيمن مفقود</origPlace>
+                                                            <material>Wood</material>
+                                                            <note>
+                                                                <p>غلاف خشبي مكسو بجلد بني- الجانب الأيمن من الغلاف مفقود.</p>
+                                                            </note>
+                                                        </decoNote>
+                                                        <condition key="deficient"/>
+                                                    </binding>
+                                                </bindingDesc>
+                                                <musicNotation>
+                                                    <p/>
+                                                </musicNotation>
+                                                <sealDesc>
+                                                </sealDesc>
+                                            </physDesc>
+                                            <history>
+                                                <origin>
+                                                    <geo/>
+                                                    <origDate notBefore="" notAfter="">٣٥٣ هـ / ٩٦٣ م</origDate>
+                                                </origin>
+                                            </history>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1989wgw"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
