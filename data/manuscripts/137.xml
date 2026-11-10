@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Austria, Vienna, Österreichische Nationalbibliothek Cod. A.F. 403</title>
+                <title level="a" xml:lang="en">Austria, Vienna, Österreichische Nationalbibliothek Cod. A.F. 479</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -69,21 +69,36 @@
                                                 <country>Austria</country>
                                                 <settlement>Vienna</settlement>
                                                 <repository>Österreichische Nationalbibliothek</repository>
-                                                <collection>22569</collection>
-                                                <idno>Cod. A.F. 403</idno>
+                                                <collection>22593</collection>
+                                                <idno>Cod. A.F. 479</idno>
                                                 <altIdentifier type="vhmml-readingroom">
-                                                    <idno>527967</idno>
+                                                    <idno>528062</idno>
                                                 </altIdentifier>
                                                 <altIdentifier type="hmml-project">
-                                                    <idno>22569</idno>
+                                                    <idno>22593</idno>
                                                 </altIdentifier>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 965916): 1300–1400 [1300–1400]; Naskh</summary>
-                                                <msItem xml:id="vhmm-527967-item-1" class="part-1">
-                                                    <title xml:lang="en">Miscellany</title>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 966785): 1729 [1729–1729]; Naskh</summary>
+                                                <msItem xml:id="vhmm-528062-item-1" class="part-1">
+                                                    <title xml:lang="en">Additions to Daniel</title>
+                                                    <title xml:lang="ar">عجايب سوسنه وتسبحة الثلاثة فتية وخبر بيل الصنم</title>
+                                                    <title xml:lang="en">Bible. Daniel</title>
                                                     <textLang mainLang="ar"/>
-                                                    <note xml:lang="en">vHMML part 1 (ID 965916); catalogue-content-id: 1764838; content-contributor: {&quot;id&quot;: 648517, &quot;contributor&quot;: {&quot;id&quot;: 15242, &quot;name&quot;: &quot;Luqmān, the Sage&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n84006374&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/64253834&quot;, &quot;displayName&quot;: &quot;Luqmān, the Sage&quot;}}; Title classification: provisional: Miscellany</note>
+                                                    <incipit>
+                                                        <quote>وكان رجلا ساكنا في بابل واسمه يواقيم</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 966785); catalogue-content-id: 1765854; Title classification: provisional: Additions to Daniel; Title classification: original: عجايب سوسنه وتسبحة الثلاثة فتية وخبر بيل الصنم; Title classification: uniform: Bible. Daniel</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-528062-item-2" class="part-1">
+                                                    <title xml:lang="en">5 Maccabees</title>
+                                                    <title xml:lang="ar">كتاب التاني المقابييين</title>
+                                                    <title xml:lang="en">Fifth book of Maccabees</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>كان من رسوم ملوك اليونانيين ان ينفدوا الي مدينة بيت المقدس في كل سنه مالا جزيلا</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 966785); catalogue-content-id: 1765855; Title classification: provisional: 5 Maccabees; Title classification: original: كتاب التاني المقابييين; Title classification: uniform: Fifth book of Maccabees</note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
@@ -91,10 +106,10 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Paper</material>
-                                                            <note>Part 1: material PAPER; Part 1: catchwords: False; Part 1: signatures: False; Part 1: centuries: [14]</note>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: False; Part 1: signatures: False; Part 1: partNotes: Copied by الشماس عبد الله ولد جرجس مسابكي الماروني من دمشق الشام. Colophons, fol. 1v, 199v. Lower half of each page left blank; Part 1: centuries: [18]</note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">124 leaf(ves)</measure>
+                                                            <measure unit="folio">199 leaf(ves)</measure>
                                                         </extent>
                                                     </supportDesc>
                                                     <layoutDesc>
@@ -113,22 +128,22 @@
                                                 </scriptDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 965916): 1300–1400 [1300–1400]; Naskh</summary>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 966785): 1729 [1729–1729]; Naskh</summary>
                                             </history>
                                             <additional>
                                                 <listBibl>
                                                     <bibl xml:id="bib1">
-                                                        <title>vHMML Reading Room source record 527967</title>
-                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/527967"/>
+                                                        <title>vHMML Reading Room source record 528062</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/528062"/>
                                                     </bibl>
                                                     <bibl xml:id="bib2">
-                                                        <title>Joseph von Hammer-Purgstall, Codices arabicos, persicos, turcicos, Bibliothecae Caesareo-Regio-Palatinae Vindobonensis (1820), 298; Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1552.</title>
-                                                        <citedRange>Joseph von Hammer-Purgstall, Codices arabicos, persicos, turcicos, Bibliothecae Caesareo-Regio-Palatinae Vindobonensis (1820), 298; Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1552.</citedRange>
+                                                        <title>Joseph von Hammer-Purgstall, Codices arabicos, persicos, turcicos, Bibliothecae Caesareo-Regio-Palatinae Vindobonensis (1820), 110; Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1548; Muḥammad ʻĀyish, Fihris al</title>
+                                                        <citedRange>Joseph von Hammer-Purgstall, Codices arabicos, persicos, turcicos, Bibliothecae Caesareo-Regio-Palatinae Vindobonensis (1820), 110; Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1548; Muḥammad ʻĀyish, Fihris al-makhṭūṭāt al-ʻArabīyah fī al-Maktabah al-Waṭanīyah al-Namsāwīyah (2008), 985.</citedRange>
                                                     </bibl>
                                                 </listBibl>
                                                 <adminInfo>
                                                     <note type="catalogue-source">
-                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/527967">https://w3id.org/vhmml/readingRoom/view/527967</ref>
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/528062">https://w3id.org/vhmml/readingRoom/view/528062</ref>
                                                     </note>
                                                 </adminInfo>
                                                 <note type="acknowledgments">Cataloged by Josh Mugler; reproduced by permission of Österreichische Nationalbibliothek</note>
@@ -140,19 +155,29 @@
                                             </additional>
                                             <msPart n="1">
                                                 <msIdentifier>
-                                                    <idno type="vhmml-part">965916</idno>
+                                                    <idno type="vhmml-part">966785</idno>
                                                 </msIdentifier>
                                                 <msContents>
                                                     <msItem n="1">
-                                                        <title type="provisional">Miscellany</title>
+                                                        <title type="provisional">Additions to Daniel</title>
+                                                        <title type="original">عجايب سوسنه وتسبحة الثلاثة فتية وخبر بيل الصنم</title>
+                                                        <title type="uniform">Bible. Daniel</title>
                                                         <textLang>Arabic</textLang>
-                                                        <note type="catalogue-content-id">1764838</note>
-                                                        <note type="content-contributor">{"id": 648517, "contributor": {"id": 15242, "name": "Luqmān, the Sage", "authorityUriLC": "https://id.loc.gov/authorities/names/n84006374", "authorityUriVIAF": "https://viaf.org/viaf/64253834", "displayName": "Luqmān, the Sage"}}</note>
+                                                        <note type="catalogue-content-id">1765854</note>
+                                                        <note type="incipit">وكان رجلا ساكنا في بابل واسمه يواقيم</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">5 Maccabees</title>
+                                                        <title type="original">كتاب التاني المقابييين</title>
+                                                        <title type="uniform">Fifth book of Maccabees</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1765855</note>
+                                                        <note type="incipit">كان من رسوم ملوك اليونانيين ان ينفدوا الي مدينة بيت المقدس في كل سنه مالا جزيلا</note>
                                                     </msItem>
                                                 </msContents>
                                                 <history>
                                                     <origin>
-                                                        <origDate notBefore="1300" notAfter="1400">1300–1400</origDate>
+                                                        <origDate notBefore="1729" notAfter="1729">1729</origDate>
                                                         <note type="script">Naskh</note>
                                                     </origin>
                                                 </history>
@@ -162,11 +187,12 @@
                                                             <support>PAPER</support>
                                                         </supportDesc>
                                                     </objectDesc>
-                                                    <note type="layout">1 column, 12 lines per page</note>
+                                                    <note type="layout">1 column, 8-9 lines per page</note>
                                                     <note type="writingSystem">Arabic</note>
                                                     <note type="catchwords">False</note>
                                                     <note type="signatures">False</note>
-                                                    <note type="centuries">[14]</note>
+                                                    <note type="partNotes">Copied by الشماس عبد الله ولد جرجس مسابكي الماروني من دمشق الشام. Colophons, fol. 1v, 199v. Lower half of each page left blank</note>
+                                                    <note type="centuries">[18]</note>
                                                 </physDesc>
                                             </msPart>
                                         </msDesc>
