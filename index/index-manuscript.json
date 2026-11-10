@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:35:36.708Z",
+  "generated": "2026-11-10T19:35:56.898Z",
   "type": "manuscript",
   "records": [
     {
@@ -4284,6 +4284,17 @@
         "al-Injīl al-sharīf al-ṭāhir wa-al-miṣbāḥ al-munīr al-zāhir"
       ],
       "file": "data/manuscripts/362.xml"
+    },
+    {
+      "id": "363",
+      "uri": "https://biblia-arabica.com/manuscript/363",
+      "headword": "Ordre Basilien Choueirite MS 45",
+      "altNames": [
+        "Acts, Epistles of Paul, Catholic Epistles",
+        "الابركسيس الذى هو اعمال الرسل المنسوب للرسول لوقا الانجيلى والأربعة عشر رساله التى لبولص الرسول والسبعة رسآيل التى للرسل القديسين",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/363.xml"
     }
   ]
 }
