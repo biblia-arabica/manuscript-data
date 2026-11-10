@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:18:29.708Z",
+  "generated": "2026-11-10T18:19:16.852Z",
   "type": "manuscript",
   "records": [
     {
@@ -3025,6 +3025,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/253.xml"
+    },
+    {
+      "id": "254",
+      "uri": "https://biblia-arabica.com/manuscript/254",
+      "headword": "Near East School of Theology MS AC 36-35",
+      "altNames": [
+        "Gospel of John",
+        "انجيل يوحنا",
+        "Bible. John",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/254.xml"
     }
   ]
 }
