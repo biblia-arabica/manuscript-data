@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:44:24.819Z",
+  "generated": "2026-11-10T17:44:41.063Z",
   "type": "manuscript",
   "records": [
     {
@@ -2417,6 +2417,17 @@
         "ܣܦܪ ܝܫܘܥ ܐܒܢ ܢܘܢ"
       ],
       "file": "data/manuscripts/200.xml"
+    },
+    {
+      "id": "201",
+      "uri": "https://biblia-arabica.com/manuscript/201",
+      "headword": "Saint Mark's Monastery MS 43",
+      "altNames": [
+        "Pentateuch with commentary",
+        "ܐܠܬܘܪܝܗ̈ ܐܠܡܥܜܡܗ",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/201.xml"
     }
   ]
 }
