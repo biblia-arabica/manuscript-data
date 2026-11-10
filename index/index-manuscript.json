@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:57:49.730Z",
+  "generated": "2026-11-10T19:58:10.772Z",
   "type": "manuscript",
   "records": [
     {
@@ -4671,6 +4671,18 @@
         "Commentary on 1 & 2 Corinthians"
       ],
       "file": "data/manuscripts/394.xml"
+    },
+    {
+      "id": "395",
+      "uri": "https://biblia-arabica.com/manuscript/395",
+      "headword": "Notre Dame University, Louaize BL 15",
+      "altNames": [
+        "Bible. Tafsīr. Pauline Epistles",
+        "تفسير رسالة بولس الرسول إلى الغلاطيين وتفسير رسالته ايضا إلى الأفسوسيين",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Epistles to Galatians and Ephesian"
+      ],
+      "file": "data/manuscripts/395.xml"
     }
   ]
 }
