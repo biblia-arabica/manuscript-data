@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:20:54.667Z",
+  "generated": "2026-11-10T17:21:17.700Z",
   "type": "manuscript",
   "records": [
     {
@@ -1776,6 +1776,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/146.xml"
+    },
+    {
+      "id": "147",
+      "uri": "https://biblia-arabica.com/manuscript/147",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 12",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/147.xml"
     }
   ]
 }
