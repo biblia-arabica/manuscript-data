@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:54:26.638Z",
+  "generated": "2026-11-10T17:54:46.254Z",
   "type": "manuscript",
   "records": [
     {
@@ -2667,6 +2667,17 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/222.xml"
+    },
+    {
+      "id": "223",
+      "uri": "https://biblia-arabica.com/manuscript/223",
+      "headword": "Near East School of Theology MS AC 1",
+      "altNames": [
+        "Pentateuch",
+        "خمسة اسفار التورت",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/223.xml"
     }
   ]
 }
