@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:55:12.158Z",
+  "generated": "2026-11-10T18:55:27.132Z",
   "type": "manuscript",
   "records": [
     {
@@ -3519,6 +3519,15 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/296.xml"
+    },
+    {
+      "id": "297",
+      "uri": "https://biblia-arabica.com/manuscript/297",
+      "headword": "Near East School of Theology MS AC 9",
+      "altNames": [
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/297.xml"
     }
   ]
 }
