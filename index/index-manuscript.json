@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:06:18.963Z",
+  "generated": "2026-11-10T19:06:41.017Z",
   "type": "manuscript",
   "records": [
     {
@@ -3878,6 +3878,17 @@
         "Wisdom of Sirach"
       ],
       "file": "data/manuscripts/327.xml"
+    },
+    {
+      "id": "328",
+      "uri": "https://biblia-arabica.com/manuscript/328",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 212",
+      "altNames": [
+        "Gospel Book",
+        "انجيل سيدنا يسوع المسيح حسب الاربع بشارات يقرأ يوميا في القداس الالهي حسب طقس الكنيسة الارمنية الكاثوليكية",
+        "Gospel Book (Armenian Rite)"
+      ],
+      "file": "data/manuscripts/328.xml"
     }
   ]
 }
