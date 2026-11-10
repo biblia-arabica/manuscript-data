@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Syria, Damascus, Greek Orthodox Patriarchate of Antioch. Library 271</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/131</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Syria</country>
+                                                <settlement>Damascus</settlement>
+                                                <repository>Greek Orthodox Patriarchate of Antioch. Library</repository>
+                                                <collection>MARI</collection>
+                                                <idno>MS 271</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>607562</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>MARI 00271</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 845581): 1828 [1828–1828]; Ḥazīrān 1828 CE [?–?]</summary>
+                                                <msItem xml:id="vhmm-607562-item-1" class="part-1">
+                                                    <title xml:lang="en">Commentary on the Song of songs</title>
+                                                    <title xml:lang="ar">كتاب نشيد الأنشاد إلى غريغوريوس نيصص</title>
+                                                    <title xml:lang="en">Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum</title>
+                                                    <title xml:lang="en">Accurate exposition of the Canticle of canticles</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 845581); catalogue-content-id: 1473199; content-contributor: {&quot;id&quot;: 446955, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;غريغوريوس الثاولوغوس&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4111, &quot;name&quot;: &quot;Gregory, of Nyssa, Saint, approximately 335-approximately 394&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n79021401&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/103646160&quot;, &quot;displayName&quot;: &quot;Gregory, of Nyssa, approximately 335-approximately 394&quot;}}; Title classification: provisional: Commentary on the Song of songs; Title classification: original: كتاب نشيد الأنشاد إلى غريغوريوس نيصص; Title classification: uniform: Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum; Title classification: alternative: Accurate exposition of the Canticle of canticles</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-607562-item-2" class="part-1">
+                                                    <title xml:lang="en">Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd</title>
+                                                    <title xml:lang="ar">فوائد العقود وخلاصة النقود بالرد على اليهود</title>
+                                                    <title xml:lang="en">Zākhir, ʻAbd Allāh, 1684-1748. Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>إن أشعيا النبي يقول في الأصحاح الثاني من نبوته هكذا</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 845581); catalogue-content-id: 1473200; content-contributor: {&quot;id&quot;: 446956, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;كمال زاخر&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4488, &quot;name&quot;: &quot;Zākhir, ʻAbd Allāh, 1684-1748&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n2003067340&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/51658463&quot;, &quot;displayName&quot;: &quot;Zākhir, ʻAbd Allāh, 1684-1748&quot;}}; Title classification: provisional: Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd; Title classification: original: فوائد العقود وخلاصة النقود بالرد على اليهود; Title classification: uniform: Zākhir, ʻAbd Allāh, 1684-1748. Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-607562-item-3" class="part-1">
+                                                    <title xml:lang="en">Questions and answers of Basil and Gregory</title>
+                                                    <title xml:lang="ar">مسايل</title>
+                                                    <title xml:lang="en">Questions and answers of Basil and Gregory</title>
+                                                    <title xml:lang="en">Dialogue between Basil Bishop of Caesarea and Gregory of Nyssa</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 845581); catalogue-content-id: 1473201; content-contributor: {&quot;id&quot;: 446957, &quot;type&quot;: &quot;Attributed name&quot;, &quot;contributor&quot;: {&quot;id&quot;: 3557, &quot;name&quot;: &quot;Basil, Saint, Bishop of Caesarea, approximately 329-379&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n80004066&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/88967224&quot;, &quot;displayName&quot;: &quot;Basil, Bishop of Caesarea, approximately 329-379&quot;}}; content-contributor: {&quot;id&quot;: 446958, &quot;type&quot;: &quot;Attributed name&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4111, &quot;name&quot;: &quot;Gregory, of Nyssa, Saint, approximately 335-approximately 394&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n79021401&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/103646160&quot;, &quot;displayName&quot;: &quot;Gregory, of Nyssa, approximately 335-approximately 394&quot;}}; Title classification: provisional: Questions and answers of Basil and Gregory; Title classification: original: مسايل; Title classification: uniform: Questions and answers of Basil and Gregory; Title classification: alternative: Dialogue between Basil Bishop of Caesarea and Gregory of Nyssa</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-607562-item-4" class="part-1">
+                                                    <title xml:lang="en">al-Firaq al-mutaʻārafah min al-naṣārá</title>
+                                                    <title xml:lang="ar">الفرق المتعارفة من النصارى</title>
+                                                    <title xml:lang="en">Paul, of Antioch, Bishop of Sidon, active 12th century. Firaq al-mutaʻārafah min al-Naṣārá</title>
+                                                    <title xml:lang="en">Treatise on Christian sects</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>اني لما تاملت الخلف الذي بين النصارى رايت ان اشرح ما تراه كل فرقة منهم</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 845581); catalogue-content-id: 1473202; content-contributor: {&quot;id&quot;: 446959, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;بولص الراهب اسقف صيدا الانطاكي&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8477, &quot;name&quot;: &quot;Paul, of Antioch, Bishop of Sidon, active 12th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/no2020071690&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/280933273&quot;, &quot;displayName&quot;: &quot;Paul, of Antioch, Bishop of Sidon, active 12th century&quot;}}; Title classification: provisional: al-Firaq al-mutaʻārafah min al-naṣārá; Title classification: original: الفرق المتعارفة من النصارى; Title classification: uniform: Paul, of Antioch, Bishop of Sidon, active 12th century. Firaq al-mutaʻārafah min al-Naṣārá; Title classification: alternative: Treatise on Christian sects</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-607562-item-5" class="part-1">
+                                                    <title xml:lang="en">Nūr al-albāb al-muhdī ilá al-ṣawāb</title>
+                                                    <title xml:lang="ar">نور الألباب المهدي إلى الصواب</title>
+                                                    <title xml:lang="en">Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity</title>
+                                                    <title xml:lang="en">Apology for Christianity</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>الحمد لله المنير الألباب بنعمة الايمان بسيدنا يسوع المسيح</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 845581); catalogue-content-id: 1473203; content-contributor: {&quot;id&quot;: 446960, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;بولص داود بن موسى الإزمرلي&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8463, &quot;name&quot;: &quot;Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758&quot;, &quot;displayName&quot;: &quot;Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758&quot;}}; Title classification: provisional: Nūr al-albāb al-muhdī ilá al-ṣawāb; Title classification: original: نور الألباب المهدي إلى الصواب; Title classification: uniform: Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity; Title classification: alternative: Apology for Christianity</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Copied by موسى نجل جبراييل موسى ميداني. Scribe and date information from colophon, fol. 133v; Part 1: centuries: [19]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">134 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">230</height>
+                                                                <width unit="mm">180</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 845581): 1828 [1828–1828]; Ḥazīrān 1828 CE [?–?]</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 607562</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/607562"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Ilyās Jubārah, al-makhṭūṭāt al-ʻarabīyah fī maktabat Baṭriyarkīyat anṭākiyah wa-sāʼīr al-mashriq lil-Rūm al-Urthūdhuks, Beirut (1988), 47.</title>
+                                                        <citedRange>Ilyās Jubārah, al-makhṭūṭāt al-ʻarabīyah fī maktabat Baṭriyarkīyat anṭākiyah wa-sāʼīr al-mashriq lil-Rūm al-Urthūdhuks, Beirut (1988), 47.</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/607562">https://w3id.org/vhmml/readingRoom/view/607562</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="acknowledgments">Cataloged by Vevian Zaki</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2023/07/05</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2016/06/15</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">845581</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Commentary on the Song of songs</title>
+                                                        <title type="original">كتاب نشيد الأنشاد إلى غريغوريوس نيصص</title>
+                                                        <title type="uniform">Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum</title>
+                                                        <title type="alternative">Accurate exposition of the Canticle of canticles</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1473199</note>
+                                                        <note type="content-contributor">{"id": 446955, "type": "Author", "nameNs": "غريغوريوس الثاولوغوس", "contributor": {"id": 4111, "name": "Gregory, of Nyssa, Saint, approximately 335-approximately 394", "authorityUriLC": "https://id.loc.gov/authorities/names/n79021401", "authorityUriVIAF": "https://viaf.org/viaf/103646160", "displayName": "Gregory, of Nyssa, approximately 335-approximately 394"}}</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd</title>
+                                                        <title type="original">فوائد العقود وخلاصة النقود بالرد على اليهود</title>
+                                                        <title type="uniform">Zākhir, ʻAbd Allāh, 1684-1748. Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1473200</note>
+                                                        <note type="content-contributor">{"id": 446956, "type": "Author", "nameNs": "كمال زاخر", "contributor": {"id": 4488, "name": "Zākhir, ʻAbd Allāh, 1684-1748", "authorityUriLC": "https://id.loc.gov/authorities/names/n2003067340", "authorityUriVIAF": "https://viaf.org/viaf/51658463", "displayName": "Zākhir, ʻAbd Allāh, 1684-1748"}}</note>
+                                                        <note type="incipit">إن أشعيا النبي يقول في الأصحاح الثاني من نبوته هكذا</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Questions and answers of Basil and Gregory</title>
+                                                        <title type="original">مسايل</title>
+                                                        <title type="uniform">Questions and answers of Basil and Gregory</title>
+                                                        <title type="alternative">Dialogue between Basil Bishop of Caesarea and Gregory of Nyssa</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1473201</note>
+                                                        <note type="content-contributor">{"id": 446957, "type": "Attributed name", "contributor": {"id": 3557, "name": "Basil, Saint, Bishop of Caesarea, approximately 329-379", "authorityUriLC": "https://id.loc.gov/authorities/names/n80004066", "authorityUriVIAF": "https://viaf.org/viaf/88967224", "displayName": "Basil, Bishop of Caesarea, approximately 329-379"}}</note>
+                                                        <note type="content-contributor">{"id": 446958, "type": "Attributed name", "contributor": {"id": 4111, "name": "Gregory, of Nyssa, Saint, approximately 335-approximately 394", "authorityUriLC": "https://id.loc.gov/authorities/names/n79021401", "authorityUriVIAF": "https://viaf.org/viaf/103646160", "displayName": "Gregory, of Nyssa, approximately 335-approximately 394"}}</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">al-Firaq al-mutaʻārafah min al-naṣārá</title>
+                                                        <title type="original">الفرق المتعارفة من النصارى</title>
+                                                        <title type="uniform">Paul, of Antioch, Bishop of Sidon, active 12th century. Firaq al-mutaʻārafah min al-Naṣārá</title>
+                                                        <title type="alternative">Treatise on Christian sects</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1473202</note>
+                                                        <note type="content-contributor">{"id": 446959, "type": "Author", "nameNs": "بولص الراهب اسقف صيدا الانطاكي", "contributor": {"id": 8477, "name": "Paul, of Antioch, Bishop of Sidon, active 12th century", "authorityUriLC": "https://id.loc.gov/authorities/names/no2020071690", "authorityUriVIAF": "https://viaf.org/viaf/280933273", "displayName": "Paul, of Antioch, Bishop of Sidon, active 12th century"}}</note>
+                                                        <note type="incipit">اني لما تاملت الخلف الذي بين النصارى رايت ان اشرح ما تراه كل فرقة منهم</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Nūr al-albāb al-muhdī ilá al-ṣawāb</title>
+                                                        <title type="original">نور الألباب المهدي إلى الصواب</title>
+                                                        <title type="uniform">Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity</title>
+                                                        <title type="alternative">Apology for Christianity</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1473203</note>
+                                                        <note type="content-contributor">{"id": 446960, "type": "Author", "nameNs": "بولص داود بن موسى الإزمرلي", "contributor": {"id": 8463, "name": "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758", "displayName": "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758"}}</note>
+                                                        <note type="incipit">الحمد لله المنير الألباب بنعمة الايمان بسيدنا يسوع المسيح</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1828" notAfter="1828">1828</origDate>
+                                                        <origDate type="original-calendar">Ḥazīrān 1828 CE</origDate>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 23 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Copied by موسى نجل جبراييل موسى ميداني. Scribe and date information from colophon, fol. 133v</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
