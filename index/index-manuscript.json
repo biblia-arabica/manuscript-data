@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:01:29.664Z",
+  "generated": "2026-11-10T19:01:47.244Z",
   "type": "manuscript",
   "records": [
     {
@@ -3753,6 +3753,17 @@
         "Poems"
       ],
       "file": "data/manuscripts/316.xml"
+    },
+    {
+      "id": "317",
+      "uri": "https://biblia-arabica.com/manuscript/317",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale Syr. 1",
+      "altNames": [
+        "Gospels",
+        "ܐܢܓܠܝܘܢ ܩܕܝܫܐ",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/317.xml"
     }
   ]
 }
