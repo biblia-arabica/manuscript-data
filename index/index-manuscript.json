@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:56:11.785Z",
+  "generated": "2026-11-10T16:58:58.638Z",
   "type": "manuscript",
   "records": [
     {
@@ -1447,6 +1447,16 @@
         "Apostolos (Byzantine Rite)"
       ],
       "file": "data/manuscripts/118.xml"
+    },
+    {
+      "id": "119",
+      "uri": "https://biblia-arabica.com/manuscript/119",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 144",
+      "altNames": [
+        "Commentary on the Pauline Epistles",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/119.xml"
     }
   ]
 }
