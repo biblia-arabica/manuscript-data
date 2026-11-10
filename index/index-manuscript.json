@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:13:18.034Z",
+  "generated": "2026-11-10T12:13:40.575Z",
   "type": "manuscript",
   "records": [
     {
@@ -374,6 +374,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/31.xml"
+    },
+    {
+      "id": "32",
+      "uri": "https://biblia-arabica.com/manuscript/32",
+      "headword": "Mār Behnām Monastery MS 262",
+      "altNames": [
+        "Psalms",
+        "الزبور الالهي لداود النبي",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/32.xml"
     }
   ]
 }
