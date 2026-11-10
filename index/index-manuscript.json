@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:55:35.062Z",
+  "generated": "2026-11-10T19:55:50.202Z",
   "type": "manuscript",
   "records": [
     {
@@ -4578,6 +4578,18 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/386.xml"
+    },
+    {
+      "id": "387",
+      "uri": "https://biblia-arabica.com/manuscript/387",
+      "headword": "Notre Dame University, Louaize BL 04",
+      "altNames": [
+        "Acts of the Apostles",
+        "Bible. Acts",
+        "Pauline Epistles",
+        "ܪܣܐܝܠ ܐܠܩܕܝܣ ܡܐܪ ܒܘܠܨ ܐܠܪܣܘܠ"
+      ],
+      "file": "data/manuscripts/387.xml"
     }
   ]
 }
