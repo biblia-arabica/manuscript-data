@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:53:19.791Z",
+  "generated": "2026-11-10T17:54:26.638Z",
   "type": "manuscript",
   "records": [
     {
@@ -2656,6 +2656,17 @@
         "Commentary on the Gospels"
       ],
       "file": "data/manuscripts/221.xml"
+    },
+    {
+      "id": "222",
+      "uri": "https://biblia-arabica.com/manuscript/222",
+      "headword": "Āl Budayrī MS 465",
+      "altNames": [
+        "Gospel of John",
+        "بشارة القديس الجليل التلميذ الرسول يوحنا ابن زبدىحبيب سيدنا يسوع المسيح له المجد دائما",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/222.xml"
     }
   ]
 }
