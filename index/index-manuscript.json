@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:53:01.808Z",
+  "generated": "2026-11-10T19:53:20.869Z",
   "type": "manuscript",
   "records": [
     {
@@ -4474,6 +4474,30 @@
         "Theological miscellany"
       ],
       "file": "data/manuscripts/378.xml"
+    },
+    {
+      "id": "379",
+      "uri": "https://biblia-arabica.com/manuscript/379",
+      "headword": "Dayr Sayyidat al-Balamand MS 160",
+      "altNames": [
+        "History of Susanna",
+        "قصة القديسه العفيفه سوسنه",
+        "Bible. History of Susanna",
+        "Life of John Calybite",
+        "قصة ابونا فى القديسين يوحنا الكوخي صاحب انجيل الذهب",
+        "Account of the 40 martyrs of Sebaste",
+        "قصه الاربعين شاهد الذى استشهدوا فى بحيرة سبسطيه",
+        "Homily on worship and confession",
+        "ميمر قاله ليعلم الناس حسن العباده والاعتراف بالخطايا",
+        "Homily on Sunday, Friday, and the departure of the soul from the body",
+        "ميمر على يوم الاحد المقدس ويوم الجمعه وعلى خروج النفس من الجسد",
+        "Life of George",
+        "قصة القديس الكبير فى القديسين مار جرجس",
+        "Hymn for Palm Sunday",
+        "مديحة الشعنين",
+        "Chapters on vices and virtues"
+      ],
+      "file": "data/manuscripts/379.xml"
     }
   ]
 }
