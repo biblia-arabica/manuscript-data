@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:14:06.437Z",
+  "generated": "2026-11-10T19:14:40.530Z",
   "type": "manuscript",
   "records": [
     {
@@ -4114,6 +4114,17 @@
         "Summary of the Psalms of David"
       ],
       "file": "data/manuscripts/347.xml"
+    },
+    {
+      "id": "348",
+      "uri": "https://biblia-arabica.com/manuscript/348",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Gospels",
+        "ܐܠܐܢܐܓܝܠ ܐܠܡܩܕܣܗ̈",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/348.xml"
     }
   ]
 }
