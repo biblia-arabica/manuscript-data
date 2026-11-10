@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:44:41.063Z",
+  "generated": "2026-11-10T17:45:00.371Z",
   "type": "manuscript",
   "records": [
     {
@@ -2428,6 +2428,16 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/201.xml"
+    },
+    {
+      "id": "202",
+      "uri": "https://biblia-arabica.com/manuscript/202",
+      "headword": "Saint Mark's Monastery MS 5",
+      "altNames": [
+        "Old Testament. Historical books",
+        "ܬܪܓܡܗ̈ ܢܒܘܗ̈ ܐܫܥܝܐ ܐܠܢܒܝ ܐܒܢ ܥܐܡܘܨ"
+      ],
+      "file": "data/manuscripts/202.xml"
     }
   ]
 }
