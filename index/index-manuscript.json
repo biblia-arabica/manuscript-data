@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:58:27.492Z",
+  "generated": "2026-11-10T17:58:52.524Z",
   "type": "manuscript",
   "records": [
     {
@@ -2719,6 +2719,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/227.xml"
+    },
+    {
+      "id": "228",
+      "uri": "https://biblia-arabica.com/manuscript/228",
+      "headword": "Near East School of Theology MS AC 2",
+      "altNames": [
+        "Samaritan pentateuch",
+        "التوراة",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/228.xml"
     }
   ]
 }
