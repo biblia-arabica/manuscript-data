@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:43:23.336Z",
+  "generated": "2026-11-10T17:43:43.057Z",
   "type": "manuscript",
   "records": [
     {
@@ -2390,6 +2390,23 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/198.xml"
+    },
+    {
+      "id": "199",
+      "uri": "https://biblia-arabica.com/manuscript/199",
+      "headword": "Saint Mark's Monastery MS 270",
+      "altNames": [
+        "Precious pearl",
+        "الدر الثمين",
+        "Sāwīrus ibn al-Muqaffaʻ, Bishop of el-Ashmunein, active 955-987. Durr al-thamīn",
+        "Song of Solomon",
+        "كتاب سليمن ابن داوود الملك المعروف بسبح التسابيح وهو نشيد الانشاد",
+        "Bible. Song of Solomon",
+        "Commentary on the Song of Solomon",
+        "نشيد الانشاد لسليمن الحكيم وشرح معانيه الروحانية",
+        "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
+      ],
+      "file": "data/manuscripts/199.xml"
     }
   ]
 }
