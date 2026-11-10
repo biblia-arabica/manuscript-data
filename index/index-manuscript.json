@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T15:02:10.410Z",
+  "generated": "2026-11-10T15:02:51.934Z",
   "type": "manuscript",
   "records": [
     {
@@ -1105,6 +1105,31 @@
         "Book of the Histories of the Hebrews"
       ],
       "file": "data/manuscripts/90.xml"
+    },
+    {
+      "id": "91",
+      "uri": "https://biblia-arabica.com/manuscript/91",
+      "headword": "Ancien Testament.",
+      "altNames": [
+        "Deuxième partie, reliée, par suite d'une erreur, avant la première.",
+        "Première partie, reliée, par suite d'une erreur, après la deuxième."
+      ],
+      "file": "data/manuscripts/91.xml"
+    },
+    {
+      "id": "92",
+      "uri": "https://biblia-arabica.com/manuscript/92",
+      "headword": "Pentateuch, for Samaritan use",
+      "altNames": [
+        "Introduction of Abū Saʿīd",
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy",
+        "Glosses"
+      ],
+      "file": "data/manuscripts/92.xml"
     }
   ]
 }
