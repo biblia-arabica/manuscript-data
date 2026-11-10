@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:04:28.837Z",
+  "generated": "2026-11-10T17:05:01.693Z",
   "type": "manuscript",
   "records": [
     {
@@ -1554,6 +1554,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/128.xml"
+    },
+    {
+      "id": "129",
+      "uri": "https://biblia-arabica.com/manuscript/129",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 253",
+      "altNames": [
+        "Gospels",
+        "الكتاب الشريف انجيل سيدنا ومخلصنا الرب يسوع المسيح",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/129.xml"
     }
   ]
 }
