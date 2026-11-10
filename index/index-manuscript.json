@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:38:59.217Z",
+  "generated": "2026-11-10T17:39:54.815Z",
   "type": "manuscript",
   "records": [
     {
@@ -2263,6 +2263,18 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/189.xml"
+    },
+    {
+      "id": "190",
+      "uri": "https://biblia-arabica.com/manuscript/190",
+      "headword": "Universität Tübingen. Universitätsbibliothek Ma VI 225",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament",
+        "Sayings of the wise",
+        "قول الحكما نفعنا الله بقولهم والعمل به"
+      ],
+      "file": "data/manuscripts/190.xml"
     }
   ]
 }
