@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:02:36.259Z",
+  "generated": "2026-11-10T12:03:39.365Z",
   "type": "manuscript",
   "records": [
     {
@@ -229,6 +229,18 @@
         "Commentary on the Gospels"
       ],
       "file": "data/manuscripts/18.xml"
+    },
+    {
+      "id": "19",
+      "uri": "https://biblia-arabica.com/manuscript/19",
+      "headword": "Mar Hirmiz Keldani Kilisesi 98",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels",
+        "Epistle to the Romans",
+        "Bible. Romans"
+      ],
+      "file": "data/manuscripts/19.xml"
     }
   ]
 }
