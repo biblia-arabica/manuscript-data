@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:57:42.345Z",
+  "generated": "2026-11-10T18:58:03.326Z",
   "type": "manuscript",
   "records": [
     {
@@ -3607,6 +3607,17 @@
         "Ḥadīth qudsī"
       ],
       "file": "data/manuscripts/304.xml"
+    },
+    {
+      "id": "305",
+      "uri": "https://biblia-arabica.com/manuscript/305",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 419",
+      "altNames": [
+        "Old Testament. Selections",
+        "الكتاب المقدس",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/305.xml"
     }
   ]
 }
