@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:20:34.304Z",
+  "generated": "2026-11-10T20:20:52.186Z",
   "type": "manuscript",
   "records": [
     {
@@ -5115,6 +5115,38 @@
         "Psalms"
       ],
       "file": "data/manuscripts/432.xml"
+    },
+    {
+      "id": "433",
+      "uri": "https://biblia-arabica.com/manuscript/433",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 80",
+      "altNames": [
+        "Psalter",
+        "Psalter (Byzantine Rite)",
+        "الزبور الالهي لداود النبي",
+        "Horologion",
+        "الاورولوجيون",
+        "Horologion (Byzantine Rite)",
+        "Synaxarion",
+        "طروباريات وقناديق",
+        "Synaxarion (Byzantine Rite)",
+        "Triodion",
+        "التريودي",
+        "Triodion (Byzantine Rite)",
+        "Octoechos",
+        "الاكطويخوس",
+        "Octoechos (Byzantine Rite)",
+        "Kitāb al-lītūrjiyā al-Ilāhīyah",
+        "كتاب الليتورجيا الالهية",
+        "Abridged divine liturgy",
+        "Euchologion",
+        "الافخولوجيون",
+        "Euchologion (Byzantine Rite)",
+        "Taqwīmāt takhtaṣ bi-al-aʻyād",
+        "تقويمات تختص بالاعياد",
+        "Feast Calendars"
+      ],
+      "file": "data/manuscripts/433.xml"
     }
   ]
 }
