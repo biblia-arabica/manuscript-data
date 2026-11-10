@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:53:39.297Z",
+  "generated": "2026-11-10T19:53:57.322Z",
   "type": "manuscript",
   "records": [
     {
@@ -4513,6 +4513,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/380.xml"
+    },
+    {
+      "id": "381",
+      "uri": "https://biblia-arabica.com/manuscript/381",
+      "headword": "Dayr Sayyidat al-Balamand MS 2",
+      "altNames": [
+        "Ecclesiasticus",
+        "کتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/381.xml"
     }
   ]
 }
