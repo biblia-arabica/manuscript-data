@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:06:50.053Z",
+  "generated": "2026-11-10T17:07:28.149Z",
   "type": "manuscript",
   "records": [
     {
@@ -1615,6 +1615,16 @@
         "Islamic Psalms"
       ],
       "file": "data/manuscripts/132.xml"
+    },
+    {
+      "id": "133",
+      "uri": "https://biblia-arabica.com/manuscript/133",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 66",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/133.xml"
     }
   ]
 }
