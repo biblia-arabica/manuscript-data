@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:18:56.644Z",
+  "generated": "2026-11-10T17:19:25.117Z",
   "type": "manuscript",
   "records": [
     {
@@ -1735,6 +1735,17 @@
         "Bible. Revelation"
       ],
       "file": "data/manuscripts/142.xml"
+    },
+    {
+      "id": "143",
+      "uri": "https://biblia-arabica.com/manuscript/143",
+      "headword": "Franjevački samostan Duha Svetoga Fojnica. Arhiv 45/118",
+      "altNames": [
+        "Notes on grammar and lexicography",
+        "Gospel of Matthew",
+        "Bible. Matthew"
+      ],
+      "file": "data/manuscripts/143.xml"
     }
   ]
 }
