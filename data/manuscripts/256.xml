@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Lebanon, Beirut, Near East School of Theology AC 36-37</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/256</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Lebanon</country>
+                                                <settlement>Beirut</settlement>
+                                                <repository>Near East School of Theology</repository>
+                                                <collection>NEST AC</collection>
+                                                <idno>MS AC 36-37</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>505741</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>NEST AC 00036 37</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 572283): date not supplied; Naskh</summary>
+                                                <msItem xml:id="vhmm-505741-item-1" class="part-1">
+                                                    <title xml:lang="en">Romans</title>
+                                                    <title xml:lang="ar">رسالة بولس الرسول الى اهل رومية</title>
+                                                    <title xml:lang="en">Bible. Romans</title>
+                                                    <title xml:lang="en">Van Dyck Arabic Bible</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 572283); catalogue-content-id: 932171; content-contributor: {&quot;id&quot;: 73231, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8953, &quot;name&quot;: &quot;Bustānī, Buṭrus ibn Būlus, 1818 or 1819-1882 or 1883&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr90017999&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/79119650&quot;, &quot;displayName&quot;: &quot;Bustānī, Buṭrus, 1818 or 1819-1882 or 1883&quot;}}; content-contributor: {&quot;id&quot;: 73232, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4498, &quot;name&quot;: &quot;Yāzijī, Nāṣīf, 1800-1871&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n84199426&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/90060796&quot;, &quot;displayName&quot;: &quot;Yāzijī, Nāṣīf, 1800-1871&quot;}}; content-contributor: {&quot;id&quot;: 73233, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8952, &quot;name&quot;: &quot;Van Dyck, Cornelius Van Alen, 1818-1895&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr90007863&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/26912968&quot;, &quot;displayName&quot;: &quot;Van Dyck, Cornelius Van Alen, 1818-1895&quot;}}; content-contributor: {&quot;id&quot;: 73234, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8574, &quot;name&quot;: &quot;Smith, Eli, 1801-1857&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n94062558&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/12145602342601360946&quot;, &quot;displayName&quot;: &quot;Smith, Eli, 1801-1857&quot;}}; Title classification: provisional: Romans; Title classification: original: رسالة بولس الرسول الى اهل رومية; Title classification: uniform: Bible. Romans; Title classification: alternative: Van Dyck Arabic Bible</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: centuries: [19]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">73 leaf(ves)</measure>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 572283): date not supplied; Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 505741</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/505741"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>James Pollock, Catalogue of Manuscripts of the Library of the Near Eastern School of Theology (1981).</title>
+                                                        <citedRange>James Pollock, Catalogue of Manuscripts of the Library of the Near Eastern School of Theology (1981).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/505741">https://w3id.org/vhmml/readingRoom/view/505741</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="acknowledgments">Cataloged by Salam Rassi</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2020/02/10</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2010/01/29</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">572283</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Romans</title>
+                                                        <title type="original">رسالة بولس الرسول الى اهل رومية</title>
+                                                        <title type="uniform">Bible. Romans</title>
+                                                        <title type="alternative">Van Dyck Arabic Bible</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">932171</note>
+                                                        <note type="content-contributor">{"id": 73231, "type": "Translator", "contributor": {"id": 8953, "name": "Bustānī, Buṭrus ibn Būlus, 1818 or 1819-1882 or 1883", "authorityUriLC": "https://id.loc.gov/authorities/names/nr90017999", "authorityUriVIAF": "https://viaf.org/viaf/79119650", "displayName": "Bustānī, Buṭrus, 1818 or 1819-1882 or 1883"}}</note>
+                                                        <note type="content-contributor">{"id": 73232, "type": "Translator", "contributor": {"id": 4498, "name": "Yāzijī, Nāṣīf, 1800-1871", "authorityUriLC": "https://id.loc.gov/authorities/names/n84199426", "authorityUriVIAF": "https://viaf.org/viaf/90060796", "displayName": "Yāzijī, Nāṣīf, 1800-1871"}}</note>
+                                                        <note type="content-contributor">{"id": 73233, "type": "Translator", "contributor": {"id": 8952, "name": "Van Dyck, Cornelius Van Alen, 1818-1895", "authorityUriLC": "https://id.loc.gov/authorities/names/nr90007863", "authorityUriVIAF": "https://viaf.org/viaf/26912968", "displayName": "Van Dyck, Cornelius Van Alen, 1818-1895"}}</note>
+                                                        <note type="content-contributor">{"id": 73234, "type": "Translator", "contributor": {"id": 8574, "name": "Smith, Eli, 1801-1857", "authorityUriLC": "https://id.loc.gov/authorities/names/n94062558", "authorityUriVIAF": "https://viaf.org/viaf/12145602342601360946", "displayName": "Smith, Eli, 1801-1857"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 9 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
