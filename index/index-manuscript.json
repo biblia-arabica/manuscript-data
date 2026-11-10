@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:52:20.025Z",
+  "generated": "2026-11-10T17:53:19.791Z",
   "type": "manuscript",
   "records": [
     {
@@ -2642,6 +2642,20 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/220.xml"
+    },
+    {
+      "id": "221",
+      "uri": "https://biblia-arabica.com/manuscript/221",
+      "headword": "Séminaire Sainte-Anne de Jérusalem N/A",
+      "altNames": [
+        "Homilies on the Epistle to the Hebrews",
+        "John Chrysostom, Saint, -407. Homilies on the Epistle to the Hebrews",
+        "Commentary on Hebrews",
+        "Tafsīr. Gospels. Selections",
+        "تفسير الاناجيل",
+        "Commentary on the Gospels"
+      ],
+      "file": "data/manuscripts/221.xml"
     }
   ]
 }
