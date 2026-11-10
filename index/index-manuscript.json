@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:43:03.270Z",
+  "generated": "2026-11-10T17:43:23.336Z",
   "type": "manuscript",
   "records": [
     {
@@ -2380,6 +2380,16 @@
         "Lectionary (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/197.xml"
+    },
+    {
+      "id": "198",
+      "uri": "https://biblia-arabica.com/manuscript/198",
+      "headword": "Saint Mark's Monastery MS 267",
+      "altNames": [
+        "Pentateuch with commentary",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/198.xml"
     }
   ]
 }
