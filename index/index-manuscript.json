@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:56:42.933Z",
+  "generated": "2026-11-10T19:57:01.917Z",
   "type": "manuscript",
   "records": [
     {
@@ -4623,6 +4623,18 @@
         "Commentary on the Epistle to the Hebrews"
       ],
       "file": "data/manuscripts/390.xml"
+    },
+    {
+      "id": "391",
+      "uri": "https://biblia-arabica.com/manuscript/391",
+      "headword": "Notre Dame University, Louaize BL 09",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. 1 Corinthians, 2 Corinthians",
+        "تفسير رسالتي القديس بولس الرسول إلى القرنتيين",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on 1 & 2 Corinthians"
+      ],
+      "file": "data/manuscripts/391.xml"
     }
   ]
 }
