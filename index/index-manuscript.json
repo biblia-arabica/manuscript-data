@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:41:34.910Z",
+  "generated": "2026-11-10T16:41:54.617Z",
   "type": "manuscript",
   "records": [
     {
@@ -1272,6 +1272,19 @@
         "Deuteronomy"
       ],
       "file": "data/manuscripts/102.xml"
+    },
+    {
+      "id": "103",
+      "uri": "https://biblia-arabica.com/manuscript/103",
+      "headword": "Pentateuch",
+      "altNames": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "file": "data/manuscripts/103.xml"
     }
   ]
 }
