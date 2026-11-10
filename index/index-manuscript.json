@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:06:56.764Z",
+  "generated": "2026-11-10T19:07:11.180Z",
   "type": "manuscript",
   "records": [
     {
@@ -3903,6 +3903,17 @@
         "Bible. Revelation"
       ],
       "file": "data/manuscripts/329.xml"
+    },
+    {
+      "id": "330",
+      "uri": "https://biblia-arabica.com/manuscript/330",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 216",
+      "altNames": [
+        "Gospels",
+        "كتاب الانجيل الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/330.xml"
     }
   ]
 }
