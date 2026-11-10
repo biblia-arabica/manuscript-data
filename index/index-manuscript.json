@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T08:22:44.602Z",
+  "generated": "2026-11-10T08:27:52.767Z",
   "type": "manuscript",
   "records": [
     {
@@ -169,6 +169,15 @@
         "نبوة مالاخي"
       ],
       "file": "data/manuscripts/13.xml"
+    },
+    {
+      "id": "14",
+      "uri": "https://biblia-arabica.com/manuscript/14",
+      "headword": "مكتبة دير طور سيناء 597",
+      "altNames": [
+        "نبوة دانيال"
+      ],
+      "file": "data/manuscripts/14.xml"
     }
   ]
 }
