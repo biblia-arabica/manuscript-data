@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:58:35.040Z",
+  "generated": "2026-11-10T15:00:09.150Z",
   "type": "manuscript",
   "records": [
     {
@@ -1061,6 +1061,50 @@
         "Sentences de l'Ecr. Ste: B"
       ],
       "file": "data/manuscripts/89.xml"
+    },
+    {
+      "id": "90",
+      "uri": "https://biblia-arabica.com/manuscript/90",
+      "headword": "Ancien testament; Kitāb aḫbār al-ʿibrāniyyīn",
+      "altNames": [
+        "Joseph ben Gorion",
+        "Ancien Testament",
+        "Old Testament",
+        "Introduction",
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy",
+        "Joshua",
+        "Judges",
+        "Ruth",
+        "Kings, books I-IV",
+        "Paralipomena, books I-II",
+        "Ezra",
+        "Nehemiah I-II, 13",
+        "Nehemiah",
+        "Tobit",
+        "Judith",
+        "Esther",
+        "Job",
+        "Psalms",
+        "Isaiah",
+        "Jeremiah, Baruch, Lamentations, Epistle",
+        "Ezekiel",
+        "Introduction to Daniel",
+        "Daniel",
+        "Minor Prophets",
+        "Wisdom",
+        "Proverbs",
+        "Ecclesiastes",
+        "Song of Songs",
+        "Ecclesiasticus",
+        "Maccabees, book II",
+        "Kitāb aḫbār al-ʿibrāniyyīn",
+        "Book of the Histories of the Hebrews"
+      ],
+      "file": "data/manuscripts/90.xml"
     }
   ]
 }
