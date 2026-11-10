@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:09:42.999Z",
+  "generated": "2026-11-10T14:10:42.353Z",
   "type": "manuscript",
   "records": [
     {
@@ -726,6 +726,16 @@
         "Psalter (Syriac Rite, Eastern)"
       ],
       "file": "data/manuscripts/58.xml"
+    },
+    {
+      "id": "59",
+      "uri": "https://biblia-arabica.com/manuscript/59",
+      "headword": "Mar Hirmiz Keldani Kilisesi N/A",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/59.xml"
     }
   ]
 }
