@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:13:25.196Z",
+  "generated": "2026-11-10T14:14:07.119Z",
   "type": "manuscript",
   "records": [
     {
@@ -787,6 +787,18 @@
         "دروس في الكتاب المقدس"
       ],
       "file": "data/manuscripts/64.xml"
+    },
+    {
+      "id": "65",
+      "uri": "https://biblia-arabica.com/manuscript/65",
+      "headword": "Private Library of Albīr Abūnā MS 7",
+      "altNames": [
+        "Yasūʻ: ṣūrat al-insān (injīl Lūqā)",
+        "يسوع: صورة الانسان (انجيل لوقا)",
+        "Grün, Anselm. Jesus, Bild des Menschen",
+        "Jesus: the image of man (Gospel of Luke)"
+      ],
+      "file": "data/manuscripts/65.xml"
     }
   ]
 }
