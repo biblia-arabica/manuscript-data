@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:09:05.030Z",
+  "generated": "2026-11-10T13:09:39.445Z",
   "type": "manuscript",
   "records": [
     {
@@ -618,6 +618,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/49.xml"
+    },
+    {
+      "id": "50",
+      "uri": "https://biblia-arabica.com/manuscript/50",
+      "headword": "Dominican Friars of Mosul MS 9",
+      "altNames": [
+        "Ecclesiasticus",
+        "سفر يشوع ابن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/50.xml"
     }
   ]
 }
