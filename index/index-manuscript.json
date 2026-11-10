@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:15:19.565Z",
+  "generated": "2026-11-10T18:15:42.690Z",
   "type": "manuscript",
   "records": [
     {
@@ -2929,6 +2929,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/245.xml"
+    },
+    {
+      "id": "246",
+      "uri": "https://biblia-arabica.com/manuscript/246",
+      "headword": "Near East School of Theology MS AC 36-28",
+      "altNames": [
+        "Book of Ezra",
+        "سفر عزرا",
+        "Bible. Ezra",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/246.xml"
     }
   ]
 }
