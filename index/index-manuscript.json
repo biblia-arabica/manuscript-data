@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:25:00.721Z",
+  "generated": "2026-11-10T17:25:22.377Z",
   "type": "manuscript",
   "records": [
     {
@@ -1872,6 +1872,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/154.xml"
+    },
+    {
+      "id": "155",
+      "uri": "https://biblia-arabica.com/manuscript/155",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 25",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/155.xml"
     }
   ]
 }
