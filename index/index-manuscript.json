@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:18:40.487Z",
+  "generated": "2026-11-10T17:18:56.644Z",
   "type": "manuscript",
   "records": [
     {
@@ -1723,11 +1723,16 @@
     {
       "id": "142",
       "uri": "https://biblia-arabica.com/manuscript/142",
-      "headword": "Österreichische Nationalbibliothek Cod. Mixt. 664",
+      "headword": "Österreichische Nationalbibliothek Cod. Mixt. 732",
       "altNames": [
-        "Pentateuch",
-        "التوراة",
-        "Bible. Pentateuch"
+        "Khalāṣ al-khuṭāh. Part 3",
+        "بعض عجايب العذرى سيدتنا والدة الاله الدايمة الطوبى",
+        "Agapios, Monachos, active 17th century. Hamartōlōn sōtēria",
+        "Miracles of Mary",
+        "Salvation of sinners",
+        "Revelation",
+        "رويا القديس يوحنا الرسول الانجيلى",
+        "Bible. Revelation"
       ],
       "file": "data/manuscripts/142.xml"
     }
