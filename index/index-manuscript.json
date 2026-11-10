@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:52:08.740Z",
+  "generated": "2026-11-10T18:52:27.494Z",
   "type": "manuscript",
   "records": [
     {
@@ -3419,6 +3419,17 @@
         "Bible. Haggai"
       ],
       "file": "data/manuscripts/287.xml"
+    },
+    {
+      "id": "288",
+      "uri": "https://biblia-arabica.com/manuscript/288",
+      "headword": "Near East School of Theology MS AC 36-67",
+      "altNames": [
+        "Zechariah",
+        "زكريا",
+        "Bible. Zechariah"
+      ],
+      "file": "data/manuscripts/288.xml"
     }
   ]
 }
