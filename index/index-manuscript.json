@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:14:02.880Z",
+  "generated": "2026-11-10T12:15:30.733Z",
   "type": "manuscript",
   "records": [
     {
@@ -396,6 +396,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/33.xml"
+    },
+    {
+      "id": "34",
+      "uri": "https://biblia-arabica.com/manuscript/34",
+      "headword": "Mār Behnām Monastery MS 264",
+      "altNames": [
+        "Gospels, Acts",
+        "الاناجيل الاربعة واعمال الرسل",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/34.xml"
     }
   ]
 }
