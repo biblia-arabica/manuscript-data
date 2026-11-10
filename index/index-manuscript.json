@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:56:24.200Z",
+  "generated": "2026-11-10T19:56:42.933Z",
   "type": "manuscript",
   "records": [
     {
@@ -4611,6 +4611,18 @@
         "John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"
       ],
       "file": "data/manuscripts/389.xml"
+    },
+    {
+      "id": "390",
+      "uri": "https://biblia-arabica.com/manuscript/390",
+      "headword": "Notre Dame University, Louaize BL 08",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. Hebrews",
+        "ܬܦܣܝܪ ܪܣܐܠܬܝ ܐܠܩܕܝܣ ܒܘܠܣ ܐܠܪܣܘܠ ܐܠܝ ܐܠܥܒܪܐܢܝܝܢ",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Epistle to the Hebrews"
+      ],
+      "file": "data/manuscripts/390.xml"
     }
   ]
 }
