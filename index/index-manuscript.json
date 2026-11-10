@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:51:17.907Z",
+  "generated": "2026-11-10T17:51:35.525Z",
   "type": "manuscript",
   "records": [
     {
@@ -2608,6 +2608,18 @@
         "Commentary on the Gospel of Matthew"
       ],
       "file": "data/manuscripts/217.xml"
+    },
+    {
+      "id": "218",
+      "uri": "https://biblia-arabica.com/manuscript/218",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS I.1",
+      "altNames": [
+        "Tafsīr. Gospels",
+        "كتاب تفسير الاناجيل الاربعة",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospel of Matthew"
+      ],
+      "file": "data/manuscripts/218.xml"
     }
   ]
 }
