@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:35:28.478Z",
+  "generated": "2026-11-10T13:08:36.112Z",
   "type": "manuscript",
   "records": [
     {
@@ -596,6 +596,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/47.xml"
+    },
+    {
+      "id": "48",
+      "uri": "https://biblia-arabica.com/manuscript/48",
+      "headword": "Syriac Orthodox Church. Archdiocese of Mosul MS 233",
+      "altNames": [
+        "Psalms",
+        "كتاب المزامير",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/48.xml"
     }
   ]
 }
