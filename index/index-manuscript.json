@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:55:06.921Z",
+  "generated": "2026-11-10T17:55:26.417Z",
   "type": "manuscript",
   "records": [
     {
@@ -2687,6 +2687,17 @@
         "Selections from the Gospels and Epistles"
       ],
       "file": "data/manuscripts/224.xml"
+    },
+    {
+      "id": "225",
+      "uri": "https://biblia-arabica.com/manuscript/225",
+      "headword": "Near East School of Theology MS AC 13",
+      "altNames": [
+        "Revelation",
+        "رؤية يوحنا اللاهوتي",
+        "Bible. Revelation"
+      ],
+      "file": "data/manuscripts/225.xml"
     }
   ]
 }
