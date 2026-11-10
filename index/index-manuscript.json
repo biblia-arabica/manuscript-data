@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:49:55.969Z",
+  "generated": "2026-11-10T17:50:12.587Z",
   "type": "manuscript",
   "records": [
     {
@@ -2559,6 +2559,18 @@
         "Commentary on the Gospel of Luke"
       ],
       "file": "data/manuscripts/213.xml"
+    },
+    {
+      "id": "214",
+      "uri": "https://biblia-arabica.com/manuscript/214",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 8",
+      "altNames": [
+        "Tafsīr. Gospels",
+        "تفسير انجيل مار يوحنا الرسول",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospel of John"
+      ],
+      "file": "data/manuscripts/214.xml"
     }
   ]
 }
