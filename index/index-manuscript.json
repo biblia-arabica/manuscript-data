@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:30:00.122Z",
+  "generated": "2026-11-10T17:30:20.256Z",
   "type": "manuscript",
   "records": [
     {
@@ -2019,6 +2019,16 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/168.xml"
+    },
+    {
+      "id": "169",
+      "uri": "https://biblia-arabica.com/manuscript/169",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 40",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/169.xml"
     }
   ]
 }
