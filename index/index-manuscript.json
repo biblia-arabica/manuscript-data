@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:04:05.071Z",
+  "generated": "2026-11-10T20:04:28.123Z",
   "type": "manuscript",
   "records": [
     {
@@ -4833,6 +4833,19 @@
         "John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"
       ],
       "file": "data/manuscripts/408.xml"
+    },
+    {
+      "id": "409",
+      "uri": "https://biblia-arabica.com/manuscript/409",
+      "headword": "Notre Dame University, Louaize BL 32",
+      "altNames": [
+        "Commentary on the book of Acts",
+        "كتاب أعمال الرسل القديسين الاطهار وهو الابركسيس",
+        "Bible. Acts",
+        "Commentary on the Pauline Epistles",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/409.xml"
     }
   ]
 }
