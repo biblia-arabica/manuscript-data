@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:59:41.840Z",
+  "generated": "2026-11-10T19:00:00.878Z",
   "type": "manuscript",
   "records": [
     {
@@ -3667,6 +3667,22 @@
         "كتاب يشوع بن سيراج"
       ],
       "file": "data/manuscripts/310.xml"
+    },
+    {
+      "id": "311",
+      "uri": "https://biblia-arabica.com/manuscript/311",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 425",
+      "altNames": [
+        "Ecclesiasticus",
+        "ܚܟܡܗ̈ ܝܫܘܥ ܐܒܢ ܫܝܪܐܟ",
+        "Bible. Ecclesiasticus",
+        "Story of Afīqiyā the wise, wife of Jesus ben Sirach",
+        "ܟܒܪ ܐܦܝܩܝܐ ܐܠܚܟܝܡܗ̈ ܐܡܪܐܗ̈ ܝܫܘܥ ܐܒܢ ܫܝܪܐܟ",
+        "Ahiqar",
+        "ܟܒܪ ܐܠܚܟܝܡ ܐܠܡܐܗܪ ܐܠܦܝܠܣܘܦ ܐܠܫܐܛܪ ܚܝܩܐܪ ܘܙܝܪ ܣܢܚܐܪܝܒ ܐܒܢ ܣܪܚܐܕܘܡ ܡܠܟ ܐܬܘܪ ܘܢܝܢܘܝ ܘܐܠܡܘܨܠ ܘܡܐ ܔܪܐ ܡܢܗ ܘܡܢ ܐܒܢ ܐܟܬܗ ܢܐܕܐܢ",
+        "Ahikar (Folktale)"
+      ],
+      "file": "data/manuscripts/311.xml"
     }
   ]
 }
