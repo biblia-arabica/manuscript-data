@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:17:52.741Z",
+  "generated": "2026-11-10T18:18:12.087Z",
   "type": "manuscript",
   "records": [
     {
@@ -3001,6 +3001,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/251.xml"
+    },
+    {
+      "id": "252",
+      "uri": "https://biblia-arabica.com/manuscript/252",
+      "headword": "Near East School of Theology MS AC 36-33",
+      "altNames": [
+        "Gospel of Mark",
+        "انجيل مرقس",
+        "Bible. Mark",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/252.xml"
     }
   ]
 }
