@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:37:16.914Z",
+  "generated": "2026-11-10T19:44:49.839Z",
   "type": "manuscript",
   "records": [
     {
@@ -4305,6 +4305,17 @@
         "دفتر مواعظ"
       ],
       "file": "data/manuscripts/364.xml"
+    },
+    {
+      "id": "365",
+      "uri": "https://biblia-arabica.com/manuscript/365",
+      "headword": "Ordre Basilien Choueirite N/A",
+      "altNames": [
+        "Pentateuch",
+        "التوراة",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/365.xml"
     }
   ]
 }
