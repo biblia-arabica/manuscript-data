@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">France, Paris, Bibliothèque nationale de France, Arabe 2</title>
+                <title level="a" xml:lang="en">France, Paris, Bibliothèque nationale de France, Arabe 3</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -71,44 +71,173 @@
                                                 <settlement>Paris</settlement>
                                                 <repository>Bibliothèque nationale de France. Département des Manuscrits</repository>
                                                 <collection>Arabe</collection>
-                                                <idno>Arabe 2</idno>
-                                                <msName>Ancien Testament.</msName>
+                                                <idno>Arabe 3</idno>
+                                                <altIdentifier type="old">
+                                                    <idno>A. O. 2 (Sainte-Geneviève)</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="old">
+                                                    <idno>Supplément arabe 4 bis</idno>
+                                                </altIdentifier>
+                                                <msName>Pentateuch, for Samaritan use</msName>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>Ancien Testament.</summary>
-                                                <msItem xml:id="bnf-arabe-2-item-1">
-                                                    <locus from="1" to="255"/>
-                                                    <title xml:lang="fr">Deuxième partie, reliée, par suite d&apos;une erreur, avant la première.</title>
+                                                <summary xml:lang="en">Pentateuch, for Samaritan use</summary>
+                                                <msItem xml:id="bnf-arabe-3-item-1">
+                                                    <locus from="3v" to="3v"/>
+                                                    <title>Introduction of Abū Saʿīd</title>
                                                     <textLang mainLang="ar"/>
-                                                    <note xml:lang="fr">BnF original locus: 1. F. 1-255
-Esdras (1 v-6) ; Néhémie (6 v-13) ; Tobie (13 v-18) ; Judith (18 v-25) ; Esther (25-31) ; Job (31-43) ; Psaumes (43-71 v) ; Proverbes (71 v-82 v) ; Ecclésiaste (82 v-86 v) ; Cantique des Cantiques (86 v-88) ; Sagesse (88 v-96) ; Ecclésiastique (96-116) ; Isaïe (116-139) ; Jérémie (139-172) ; Jérémie I-LII (139-166), Lamentations (166-168 v), Baruch (168 v-172) ; Ezéchiel (172 v-196 v) ; Daniel (196 v-207 v) ; Petits Prophètes (207 v-227) ; Maccabées, livres I-II (227-255 v.).</note>
                                                 </msItem>
-                                                <msItem xml:id="bnf-arabe-2-item-2">
-                                                    <title xml:lang="fr">Première partie, reliée, par suite d&apos;une erreur, après la deuxième.</title>
+                                                <msItem xml:id="bnf-arabe-3-item-2">
+                                                    <locus from="4v" to="120"/>
+                                                    <title>Genesis</title>
                                                     <textLang mainLang="ar"/>
-                                                    <note xml:lang="fr">BnF original locus: 2. F. 256 v-479
-Genèse (256 v-282) Inc. : في البدي خلق الله السماء و الارض و كانت الارض خاوية خالية و كانت الظلمة على وجه الارض Exode (282-302 v) ; Lévitique (303-317) ; Nombres (317-337 v) ; Deutéronome (338-355 v) ; Josué (356-368 v) ; Juges (369-381 v) ; Ruth (381-383 v) ; Rois, livres I-IV (383 v-448) ; Paralipomènes, livres I-II (448-479 v).</note>
+                                                    <incipit>
+                                                        <quote xml:lang="ar">البداية خلق الله السموات و الارض و الارض كانت مغمورة و مستبحرة وظلاما على وجه الغمر</quote>
+                                                    </incipit>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-3-item-3">
+                                                    <locus from="120v" to="218"/>
+                                                    <title>Exodus</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-3-item-4">
+                                                    <locus from="218v" to="276"/>
+                                                    <title>Leviticus</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-3-item-5">
+                                                    <locus from="276v" to="365v"/>
+                                                    <title>Numbers</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-3-item-6">
+                                                    <locus from="366" to="444"/>
+                                                    <title>Deuteronomy</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-3-item-7">
+                                                    <locus from="444v" to="475v"/>
+                                                    <title>Glosses</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">A note at f. 446 states that the glosses are by Yūsuf ibn Abī Saʿīd and Ṣadaqa ibn Mīḫā.</note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType style="codex">Single manuscript</objectType>
+                                                </ab>
                                                 <objectDesc>
                                                     <supportDesc>
                                                         <support>
-                                                            <note>BnF EAD physical description (srcphys_940d27b591f0889d1fc958): 23 lignes à la page. Surface écrite 175 × 105 mm., dans un encadrement doré.Papier oriental.479 fol.Écriture orientale (Iran). — Titres rubriqués.Sarlohs (f. 1 v, 256 v) et marges ornées de motifs floraux à l&apos;encre dorée (f. 1 v-2).250 × 180 mm.Demi-reliure orientale à rabat, toile verte, dos basane brune.</note>
+                                                            <material>Paper</material>
+                                                            <note xml:lang="en">Western paper
+
+BnF EAD physical description (srcphys_7f4f7ddddf36c764710257): 13 lignes à la page. Surface écrite 150 × 85 mm., encadrée de filets rubriqués. Alphabets sémitiques (f. 1 v) ; invocations (f. 4) ; liste de 74 écritures (f. 477 v).Papier occidental.477 fol. (f. 477 laissé on blanc).Écriture orientale (Syrie). Premiers mots des chapitres en hébreu écrit en caractères samaritains.200 × 150 mm.Reliure du XVIIe s., peau chamoisée. Fleurons et filets estampés à chaud. Tranches bruinées.</note>
                                                         </support>
+                                                        <extent>
+                                                            <measure unit="folio">477 folios (f. 477 blank)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">200</height>
+                                                                <width unit="mm">150</width>
+                                                            </dimensions>
+                                                        </extent>
                                                     </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note xml:lang="en">13 lines per page; written space framed by rubricated rules. The notice also records Semitic alphabets at f. 1v, invocations at f. 4, and a list of 74 scripts at f. 477v.</note>
+                                                        </summary>
+                                                        <layout writtenLines="13" columns="1" xml:id="layout-1">
+                                                            <dimensions type="written">
+                                                                <height unit="mm">150</height>
+                                                                <width unit="mm">85</width>
+                                                            </dimensions>
+                                                        </layout>
+                                                    </layoutDesc>
                                                 </objectDesc>
+                                                <handDesc>
+                                                    <summary xml:lang="en">Eastern Arabic hand, described as Syrian. First words of chapters are in Hebrew written in Samaritan characters.</summary>
+                                                </handDesc>
+                                                <scriptDesc>
+                                                    <scriptNote script="arabic">
+                                                        <note xml:lang="en">Legacy hand scope: major.</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                                <decoDesc>
+                                                    <decoNote>
+                                                        <note xml:lang="en">Rubricated framing rules.</note>
+                                                    </decoNote>
+                                                </decoDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <note xml:lang="en">17th-century chamois leather binding; fleurons and fillets stamped in gold; burnished edges.</note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>BnF EAD catalogue (srcphys_940d27b591f0889d1fc958): Ancien Testament. Date described in the BnF catalogue: XVIIIe siècle.</summary>
+                                                <summary>BnF EAD catalogue (srcphys_7f4f7ddddf36c764710257): Pentateuque, à l&apos;usage des Samaritains. Date described in the BnF catalogue: 1685.</summary>
+                                                <provenance>
+                                                    <note xml:lang="en">Anonymous notice. Mentions of births and deaths at ff. 2v-3; reading marks at f. 2; act of sale of the copied manuscript at f. 3.</note>
+                                                </provenance>
+                                                <acquisition>
+                                                    <note xml:lang="en">Entered in 1860 from the Bibliothèque Sainte-Geneviève.</note>
+                                                </acquisition>
+                                                <origin>
+                                                    <origDate calendar="#gregorian" when="1685">1685</origDate>
+                                                    <p>Copy made by Yūḥannā ibn Ǧirǧis ibn Qaṭā of Damascus and completed in Paris in 1685 (f. 475v).</p>
+                                                    <p>A note states that the manuscript was copied from an old exemplar that had belonged to Yūsuf, a Samaritan physician of Damascus (f. 476). Another note says that this exemplar was brought to Marseille by the Capuchins and delivered to the scribe in Paris by Père Honoré d’Auxerre on 13 Tammūz 1684 (f. 476v).</p>
+                                                </origin>
                                             </history>
                                             <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital surrogate: https://gallica.bnf.fr/ark:/12148/btv1b11004916s.</title>
+                                                            <ptr target="https://gallica.bnf.fr/ark:/12148/btv1b11004916s"/>
+                                                        </bibl>
+                                                        <bibl>
+                                                            <title>Digital surrogate: http://gallica.bnf.fr/ark:/12148/btv1b10884363p.</title>
+                                                            <ptr target="http://gallica.bnf.fr/ark:/12148/btv1b10884363p"/>
+                                                        </bibl>
+                                                        <bibl>
+                                                            <title>Black-and-white microfilm: reading-room shelfmark MFILM Arabe 3; matrix shelfmark R 59885.</title>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
                                                 <listBibl>
-                                                    <bibl xml:id="bib1">
-                                                        <title>BnF EAD manuscript catalogue, Arabe 2 (srcphys_940d27b591f0889d1fc958)</title>
-                                                        <ptr target="https://catalogue.bnf.fr/ark:/12148/cc89272g"/>
+                                                    <bibl xml:id="bibl-1">
+                                                        <title>G. Graf, Geschichte der christlichen arabischen Literatur, 5 vols., Città del Vaticano, 1944-1953, vol. I, p. 102.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-2">
+                                                        <title>Typed notices by Georges Vajda and Solange Ory for MSS Arabe 2-40, 42, 50-67, 202, 288-299, 323-383 and 385-470.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bib3">
+                                                        <title>BnF EAD manuscript catalogue, Arabe 3 (srcphys_7f4f7ddddf36c764710257)</title>
                                                     </bibl>
                                                 </listBibl>
+                                                <adminInfo>
+                                                    <recordHist>
+                                                        <source>BnF Archives et manuscrits PDF export, ARK <idno type="ark">ark:/12148/cc89273q</idno>, exported/consulted 2026-06-01.</source>
+                                                        <p>The BnF notice states that the transliteration system used is Arabica, close to ISO 233-2:1993 simplified Arabic transliteration.</p>
+                                                        <p>Legacy msDesc xml:id: ms_Paris_BnF_Arabe_3.</p>
+                                                        <p>Legacy publication statement: Unpublished working TEI description generated for research use.</p>
+                                                        <p>Legacy project description: TEI msDesc encoded from a BnF catalogue PDF export; folio ranges, dates and bibliographical data follow the source notice.</p>
+                                                        <p>Legacy responsibility statement: Structured TEI description extracted and normalized from the supplied BnF PDF export — Dr. Habib Ibrahim</p>
+                                                        <p>Legacy language usage: ar = Arabic; fr = French; en = English; ar-Latn = Arabic transliterated in Latin script; syr = Syriac; he = Hebrew.</p>
+                                                    </recordHist>
+                                                </adminInfo>
+                                                <listPerson>
+                                                    <name type="index">Abū Saʿīd</name>
+                                                    <name type="index">Ṣadaqa ibn Mīḫā</name>
+                                                    <name type="index">Yūsuf ibn Abī Saʿīd</name>
+                                                    <name type="index">Honoré d’Auxerre</name>
+                                                    <name type="index">Yūḥannā ibn Ǧirǧis ibn Qaṭā</name>
+                                                    <name type="index">Yūsuf</name>
+                                                    <name type="index">Damas</name>
+                                                    <name type="index">Marseille</name>
+                                                    <name type="index">Paris</name>
+                                                </listPerson>
                                             </additional>
                                         </msDesc>
                                     </listBibl>
