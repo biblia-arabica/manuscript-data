@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:59:33.144Z",
+  "generated": "2026-11-10T16:59:54.085Z",
   "type": "manuscript",
   "records": [
     {
@@ -1468,6 +1468,16 @@
         "ʻAbdisho bar Berīkā, -1318. Rhymed Gospel lectionary"
       ],
       "file": "data/manuscripts/120.xml"
+    },
+    {
+      "id": "121",
+      "uri": "https://biblia-arabica.com/manuscript/121",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 151",
+      "altNames": [
+        "Apostolos",
+        "Apostolos (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/121.xml"
     }
   ]
 }
