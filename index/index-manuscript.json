@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:33:26.505Z",
+  "generated": "2026-11-10T17:33:44.445Z",
   "type": "manuscript",
   "records": [
     {
@@ -2122,6 +2122,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/178.xml"
+    },
+    {
+      "id": "179",
+      "uri": "https://biblia-arabica.com/manuscript/179",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 52",
+      "altNames": [
+        "Gospel of John",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/179.xml"
     }
   ]
 }
