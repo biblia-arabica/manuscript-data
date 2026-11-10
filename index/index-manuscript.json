@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:11:12.745Z",
+  "generated": "2026-11-10T17:11:32.613Z",
   "type": "manuscript",
   "records": [
     {
@@ -1698,6 +1698,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/139.xml"
+    },
+    {
+      "id": "140",
+      "uri": "https://biblia-arabica.com/manuscript/140",
+      "headword": "Österreichische Nationalbibliothek Cod. Mixt. 513",
+      "altNames": [
+        "Gospel of Luke with commentary",
+        "Bible. Luke"
+      ],
+      "file": "data/manuscripts/140.xml"
     }
   ]
 }
