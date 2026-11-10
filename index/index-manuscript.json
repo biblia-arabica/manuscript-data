@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:38:32.669Z",
+  "generated": "2026-11-10T17:38:59.217Z",
   "type": "manuscript",
   "records": [
     {
@@ -2252,6 +2252,17 @@
         "Fragments"
       ],
       "file": "data/manuscripts/188.xml"
+    },
+    {
+      "id": "189",
+      "uri": "https://biblia-arabica.com/manuscript/189",
+      "headword": "Universitätsbibliothek Freiburg im Breisgau MS 402",
+      "altNames": [
+        "Gospels",
+        "انجيل الشريف الطاهر والمصباح المنير الزاهر المنسوب الي الاربعة الانجيليين متي ومرقص ولوقا ويوحنا",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/189.xml"
     }
   ]
 }
