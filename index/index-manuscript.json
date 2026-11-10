@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:30:53.606Z",
+  "generated": "2026-11-10T18:31:13.687Z",
   "type": "manuscript",
   "records": [
     {
@@ -3265,6 +3265,17 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/273.xml"
+    },
+    {
+      "id": "274",
+      "uri": "https://biblia-arabica.com/manuscript/274",
+      "headword": "Near East School of Theology MS AC 36-54",
+      "altNames": [
+        "Daniel",
+        "سفر دانيال",
+        "Bible. Daniel"
+      ],
+      "file": "data/manuscripts/274.xml"
     }
   ]
 }
