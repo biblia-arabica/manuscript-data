@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:37:12.408Z",
+  "generated": "2026-11-10T17:38:12.530Z",
   "type": "manuscript",
   "records": [
     {
@@ -2230,6 +2230,19 @@
         "رسالة في فضايل ليلة النصف من شعبان"
       ],
       "file": "data/manuscripts/186.xml"
+    },
+    {
+      "id": "187",
+      "uri": "https://biblia-arabica.com/manuscript/187",
+      "headword": "Private Library (Harargē Province) N/A",
+      "altNames": [
+        "Arbaʻūn sūrah min al-Tawrāh",
+        "أربعون سورة من التوراة",
+        "Tawrāh",
+        "Selected chapters from the Torah",
+        "Ḥadīth qudsī"
+      ],
+      "file": "data/manuscripts/187.xml"
     }
   ]
 }
