@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:26:55.984Z",
+  "generated": "2026-11-10T18:27:12.942Z",
   "type": "manuscript",
   "records": [
     {
@@ -3193,6 +3193,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/267.xml"
+    },
+    {
+      "id": "268",
+      "uri": "https://biblia-arabica.com/manuscript/268",
+      "headword": "Near East School of Theology MS AC 36-48",
+      "altNames": [
+        "Book of Isaiah",
+        "نبوة اشعيا",
+        "Bible. Isaiah",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/268.xml"
     }
   ]
 }
