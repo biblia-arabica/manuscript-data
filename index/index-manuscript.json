@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:46:01.018Z",
+  "generated": "2026-11-10T16:53:28.989Z",
   "type": "manuscript",
   "records": [
     {
@@ -1383,6 +1383,17 @@
         "Paralipomènes, Livre II"
       ],
       "file": "data/manuscripts/112.xml"
+    },
+    {
+      "id": "113",
+      "uri": "https://biblia-arabica.com/manuscript/113",
+      "headword": "Kungliga Biblioteket A 777",
+      "altNames": [
+        "Pentateuch",
+        "التوراه وهو خمسة اسفار",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/113.xml"
     }
   ]
 }
