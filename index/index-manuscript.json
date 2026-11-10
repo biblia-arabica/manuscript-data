@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:40:46.386Z",
+  "generated": "2026-11-10T17:41:04.125Z",
   "type": "manuscript",
   "records": [
     {
@@ -2298,6 +2298,20 @@
         "Ḥadīth qudsī"
       ],
       "file": "data/manuscripts/192.xml"
+    },
+    {
+      "id": "193",
+      "uri": "https://biblia-arabica.com/manuscript/193",
+      "headword": "Raja of Mahmudabad Palace Library MS 557",
+      "altNames": [
+        "Rafīq al-wāʻiẓīn",
+        "رفيق الواعظين",
+        "Tawrāh",
+        "Ḥadīth qudsī",
+        "Aḥādīth qudsī",
+        "Selected chapters from the Torah"
+      ],
+      "file": "data/manuscripts/193.xml"
     }
   ]
 }
