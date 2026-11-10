@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:45:00.371Z",
+  "generated": "2026-11-10T17:45:19.310Z",
   "type": "manuscript",
   "records": [
     {
@@ -2438,6 +2438,17 @@
         "ܬܪܓܡܗ̈ ܢܒܘܗ̈ ܐܫܥܝܐ ܐܠܢܒܝ ܐܒܢ ܥܐܡܘܨ"
       ],
       "file": "data/manuscripts/202.xml"
+    },
+    {
+      "id": "203",
+      "uri": "https://biblia-arabica.com/manuscript/203",
+      "headword": "Saint Mark's Monastery MS 6",
+      "altNames": [
+        "Chronicles",
+        "ܣܦܪ ܝܫܘܥ ܐܒܢ ܢܘܢ",
+        "Bible. Chronicles"
+      ],
+      "file": "data/manuscripts/203.xml"
     }
   ]
 }
