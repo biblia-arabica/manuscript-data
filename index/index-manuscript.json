@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:43:07.330Z",
+  "generated": "2026-11-10T14:43:50.858Z",
   "type": "manuscript",
   "records": [
     {
@@ -950,6 +950,17 @@
         "Book of instruction in Christian doctrine"
       ],
       "file": "data/manuscripts/78.xml"
+    },
+    {
+      "id": "79",
+      "uri": "https://biblia-arabica.com/manuscript/79",
+      "headword": "Dominican Friars of Mosul MS 352",
+      "altNames": [
+        "Sentences de l'Ecr. Ste: A",
+        "Bible",
+        "Sentences de l'Ecr. Ste: B"
+      ],
+      "file": "data/manuscripts/79.xml"
     }
   ]
 }
