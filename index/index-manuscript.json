@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:14:46.624Z",
+  "generated": "2026-11-10T18:15:19.565Z",
   "type": "manuscript",
   "records": [
     {
@@ -2917,6 +2917,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/244.xml"
+    },
+    {
+      "id": "245",
+      "uri": "https://biblia-arabica.com/manuscript/245",
+      "headword": "Near East School of Theology MS AC 36-27",
+      "altNames": [
+        "Book of Chronicles",
+        "سفر اخيار الايام",
+        "Bible. Chronicles",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/245.xml"
     }
   ]
 }
