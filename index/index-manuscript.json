@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:45:19.310Z",
+  "generated": "2026-11-10T17:45:37.923Z",
   "type": "manuscript",
   "records": [
     {
@@ -2449,6 +2449,16 @@
         "Bible. Chronicles"
       ],
       "file": "data/manuscripts/203.xml"
+    },
+    {
+      "id": "204",
+      "uri": "https://biblia-arabica.com/manuscript/204",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 1",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/204.xml"
     }
   ]
 }
