@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:32:52.578Z",
+  "generated": "2026-11-10T12:33:44.967Z",
   "type": "manuscript",
   "records": [
     {
@@ -558,6 +558,22 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/44.xml"
+    },
+    {
+      "id": "45",
+      "uri": "https://biblia-arabica.com/manuscript/45",
+      "headword": "Mār Behnām Monastery MS 473",
+      "altNames": [
+        "Waqf documents and church accounts",
+        "حساب ووقف كنيسة البصرة",
+        "Massacre des chrétiens non arméniens dans lʼEmpire Turque, 1915",
+        "Old Testament. Selections",
+        "ايات مستخرجة من الكتاب المقدس ومتعلقه بالكهنوت",
+        "Bible. Old Testament",
+        "Homilies",
+        "مواعظ"
+      ],
+      "file": "data/manuscripts/45.xml"
     }
   ]
 }
