@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:46:21.985Z",
+  "generated": "2026-11-10T17:46:47.329Z",
   "type": "manuscript",
   "records": [
     {
@@ -2481,6 +2481,18 @@
         "Praxapostolos (Byzantine Rite)"
       ],
       "file": "data/manuscripts/206.xml"
+    },
+    {
+      "id": "207",
+      "uri": "https://biblia-arabica.com/manuscript/207",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 177",
+      "altNames": [
+        "History of the Old Testament",
+        "خبر العهد القديم",
+        "Fontaine, Nicolas, 1625-1709. Histoire du Vieux et du Nouveau Testament",
+        "khabar al-ʻahd al-qadīm"
+      ],
+      "file": "data/manuscripts/207.xml"
     }
   ]
 }
