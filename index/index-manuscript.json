@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:59:10.968Z",
+  "generated": "2026-11-10T19:59:28.106Z",
   "type": "manuscript",
   "records": [
     {
@@ -4706,6 +4706,18 @@
         "Commentary on the Gospels of Matthew and Mark"
       ],
       "file": "data/manuscripts/397.xml"
+    },
+    {
+      "id": "398",
+      "uri": "https://biblia-arabica.com/manuscript/398",
+      "headword": "Notre Dame University, Louaize BL 18",
+      "altNames": [
+        "Tafsīr al-injīl al-muqaddas",
+        "تفسير الانجيل المقدس",
+        "Menochio, Giovanni Stefano, 1575-1655. Brevis explicatio sensus literalis totius S. Scripturae",
+        "Commentary on the Gospels"
+      ],
+      "file": "data/manuscripts/398.xml"
     }
   ]
 }
