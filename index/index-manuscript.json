@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:06:41.017Z",
+  "generated": "2026-11-10T19:06:56.764Z",
   "type": "manuscript",
   "records": [
     {
@@ -3889,6 +3889,20 @@
         "Gospel Book (Armenian Rite)"
       ],
       "file": "data/manuscripts/328.xml"
+    },
+    {
+      "id": "329",
+      "uri": "https://biblia-arabica.com/manuscript/329",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 215",
+      "altNames": [
+        "Readings from Paul's epistles for Sundays and festivals",
+        "كتاب السليح المفضل من رسايل فولوص الرسول على ترتيب الموصلي للاحاد والاعياد والدكارين الكانية في دايرة السنة",
+        "Apostolos (Byzantine Rite)",
+        "Revelation",
+        "كتاب رويا يوحنا الانجيلي حبيب الرب",
+        "Bible. Revelation"
+      ],
+      "file": "data/manuscripts/329.xml"
     }
   ]
 }
