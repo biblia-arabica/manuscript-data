@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:56:50.757Z",
+  "generated": "2026-11-10T14:58:02.008Z",
   "type": "manuscript",
   "records": [
     {
@@ -906,16 +906,6 @@
         "Bible. Song of Solomon"
       ],
       "file": "data/manuscripts/75.xml"
-    },
-    {
-      "id": "76",
-      "uri": "https://biblia-arabica.com/manuscript/76",
-      "headword": "Syriac Catholic Church. Archdiocese of Baghdad N. 81",
-      "altNames": [
-        "Book of Daniel",
-        "كتاب السيّد الحكيم دانيال"
-      ],
-      "file": "data/manuscripts/76.xml"
     },
     {
       "id": "77",
