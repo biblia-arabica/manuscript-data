@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:21:28.045Z",
+  "generated": "2026-11-10T20:21:55.897Z",
   "type": "manuscript",
   "records": [
     {
@@ -5169,6 +5169,28 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/435.xml"
+    },
+    {
+      "id": "436",
+      "uri": "https://biblia-arabica.com/manuscript/436",
+      "headword": "Ordre Basilien Alepin MS 113",
+      "altNames": [
+        "Acts, Epistles of Paul, Catholic Epistles",
+        "الرسائل",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/436.xml"
+    },
+    {
+      "id": "437",
+      "uri": "https://biblia-arabica.com/manuscript/437",
+      "headword": "Ordre Basilien Alepin MS 12",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/437.xml"
     }
   ]
 }
