@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:14:07.119Z",
+  "generated": "2026-11-10T14:14:27.143Z",
   "type": "manuscript",
   "records": [
     {
@@ -799,6 +799,18 @@
         "Jesus: the image of man (Gospel of Luke)"
       ],
       "file": "data/manuscripts/65.xml"
+    },
+    {
+      "id": "66",
+      "uri": "https://biblia-arabica.com/manuscript/66",
+      "headword": "Private Library of Albīr Abūnā MS 23",
+      "altNames": [
+        "Rumūz al-anājīl (al-qurūn 1 ḥattá 6): al-Masīḥ al-ṭabīb wa-ṣāniʻ al-muʻjizāt",
+        "رموز الاناجيل (القرون 1 حتى 6): المسيح الطبيب وصانع المعجزات",
+        "Dulaey, Martine. Symboles des Évangiles",
+        "Symbols of the Gospels (1st-6th centuries)"
+      ],
+      "file": "data/manuscripts/66.xml"
     }
   ]
 }
