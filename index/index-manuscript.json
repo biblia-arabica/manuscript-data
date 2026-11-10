@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:31:29.998Z",
+  "generated": "2026-11-10T18:31:46.684Z",
   "type": "manuscript",
   "records": [
     {
@@ -3287,6 +3287,17 @@
         "Bible. Daniel"
       ],
       "file": "data/manuscripts/275.xml"
+    },
+    {
+      "id": "276",
+      "uri": "https://biblia-arabica.com/manuscript/276",
+      "headword": "Near East School of Theology MS AC 36-56",
+      "altNames": [
+        "Hosea",
+        "نبوة هوشع",
+        "Bible. Hosea"
+      ],
+      "file": "data/manuscripts/276.xml"
     }
   ]
 }
