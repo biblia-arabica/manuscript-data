@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:07:47.355Z",
+  "generated": "2026-11-10T12:08:20.568Z",
   "type": "manuscript",
   "records": [
     {
@@ -286,6 +286,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/23.xml"
+    },
+    {
+      "id": "24",
+      "uri": "https://biblia-arabica.com/manuscript/24",
+      "headword": "Mār Behnām Monastery MS 160",
+      "altNames": [
+        "Psalms",
+        "المزامير",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/24.xml"
     }
   ]
 }
