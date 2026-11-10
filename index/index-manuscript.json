@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:53:28.989Z",
+  "generated": "2026-11-10T16:53:54.633Z",
   "type": "manuscript",
   "records": [
     {
@@ -1394,6 +1394,17 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/113.xml"
+    },
+    {
+      "id": "114",
+      "uri": "https://biblia-arabica.com/manuscript/114",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 100",
+      "altNames": [
+        "New Testament",
+        "العهد الجديد",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/114.xml"
     }
   ]
 }
