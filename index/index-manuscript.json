@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:03:29.508Z",
+  "generated": "2026-11-10T20:03:48.242Z",
   "type": "manuscript",
   "records": [
     {
@@ -4810,6 +4810,18 @@
         "Commentary on the Epistles to Galatians and Ephesian"
       ],
       "file": "data/manuscripts/406.xml"
+    },
+    {
+      "id": "407",
+      "uri": "https://biblia-arabica.com/manuscript/407",
+      "headword": "Notre Dame University, Louaize BL 29",
+      "altNames": [
+        "Homilies on the Gospel of John",
+        "تفسير انجيل يوحنا البشير الثاولوغوس",
+        "John Chrysostom, Saint, -407. Homilies on John",
+        "Commentary on the Gospel of John"
+      ],
+      "file": "data/manuscripts/407.xml"
     }
   ]
 }
