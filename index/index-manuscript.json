@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:08:39.229Z",
+  "generated": "2026-11-10T19:09:27.521Z",
   "type": "manuscript",
   "records": [
     {
@@ -3969,6 +3969,22 @@
         "Gospel Book (Armenian Rite)"
       ],
       "file": "data/manuscripts/335.xml"
+    },
+    {
+      "id": "336",
+      "uri": "https://biblia-arabica.com/manuscript/336",
+      "headword": "Our Lady of Bzummār Monastery N/A",
+      "altNames": [
+        "Khrhrdatetr",
+        "Խորհրդատետր թիւ պատարագի եւ արարողութիւն ազգին հայոց ուղղափառաց",
+        "Khorhrdatetr (Armenian Rite)",
+        "Missal for use of Catholic Armenians",
+        "Gospel of John. Selections",
+        "انجيل من يوحنا لكل يوم",
+        "Bible. John",
+        "Injīl min Yūḥannā li-kull yawm"
+      ],
+      "file": "data/manuscripts/336.xml"
     }
   ]
 }
