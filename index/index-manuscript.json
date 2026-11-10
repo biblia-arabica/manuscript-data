@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:42:24.438Z",
+  "generated": "2026-11-10T17:42:43.579Z",
   "type": "manuscript",
   "records": [
     {
@@ -2336,6 +2336,40 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/195.xml"
+    },
+    {
+      "id": "196",
+      "uri": "https://biblia-arabica.com/manuscript/196",
+      "headword": "Saint Mark's Monastery MS 247",
+      "altNames": [
+        "Homily on the Eucharist",
+        "ܩܘܠ ܡܟܬܨ ܥܠܝ ܐܟܕ ܐܠܩܪܒܐܢ ܐܠܡܩܕܣ",
+        "Introduction to the Books of Solomon",
+        "ܡܩܕܡܗ̈ ܟܬܒ ܣܠܝܡܐܢ ܐܠܚܟܝܡ. ܡܠܟ ܐܣܪܐܝܝܠ",
+        "Proverbs",
+        "ܐܠܟܬܐܒ ܐܠܐܘܠ ܐܠܡܥܪܘܦ ܒ ܐܡܬܐܠ ܣܠܝܡܐܢ ܐܒܢ ܕܐܘܘܕ",
+        "Bible. Proverbs",
+        "Wisdom of Solomon",
+        "ܚܟܡܗ̈ ܣܠܝܡܐܢ ܐܒܢ ܕܐܘܘܕ ܡܠܟ ܐܣܪܐܝܠ",
+        "Bible. Wisdom of Solomon",
+        "Ecclesiastes",
+        "ܔܐܡܥ ܐܠܚܟܡ ܠܣܠܝܡܐܢ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ ܡܠܟ ܐܣܪܐܝܠ ܐܠܕܝ ܣܡܝ ܢܦܣܗ ܦܝܗ ܩܘܗܠܬ",
+        "Bible. Ecclesiastes",
+        "Octateuch of Clement",
+        "ܕܝܐܬܝܩܝ ܐܘܟܝܬ ܡ̈ܠܐ ܕܐܡܪ ܡܪܢ ܠܫܠ̈ܝܚܐ",
+        "Testament of our Lord",
+        "Book of the master and the disciple",
+        "ܟܬܐܒ ܐܠܡܥܠܡ ܘܐܠܬܠܡܝܕ",
+        "Cyril III, Coptic Patriarch of Alexandria, -1243. Kitāb al-muʻallim wa-al-tilmīdh",
+        "Book of confession",
+        "Homily on the rich man",
+        "Homily on mercy and admonition",
+        "Homily on virginity, repentance, and admonition",
+        "Malpānútā d-ʼAday šlíḥā",
+        "ܡܟܬܒܢܘܬܐ ܕܡܠܦܢܘܬܐ ܕܐܕܝ ܫܠܝܚܐ ܕܬܠܡܕ ܘܐܠܦ ܠܐܘܪ̈ܗܝܐ ܘܠܟܠܗܘܢ ܗܢܘܢ ܕܒܐܬܪܐ ܕܒܝܬ ܢܗܪ̈ܝܢ",
+        "Teaching of Addai"
+      ],
+      "file": "data/manuscripts/196.xml"
     }
   ]
 }
