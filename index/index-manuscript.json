@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:29:41.415Z",
+  "generated": "2026-11-10T17:30:00.122Z",
   "type": "manuscript",
   "records": [
     {
@@ -2009,6 +2009,16 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/167.xml"
+    },
+    {
+      "id": "168",
+      "uri": "https://biblia-arabica.com/manuscript/168",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 4",
+      "altNames": [
+        "Pentateuch",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/168.xml"
     }
   ]
 }
