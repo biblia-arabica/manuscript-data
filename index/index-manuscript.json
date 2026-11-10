@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:54:16.699Z",
+  "generated": "2026-11-10T16:54:38.619Z",
   "type": "manuscript",
   "records": [
     {
@@ -1415,6 +1415,17 @@
         "Apostolos (Byzantine Rite)"
       ],
       "file": "data/manuscripts/115.xml"
+    },
+    {
+      "id": "116",
+      "uri": "https://biblia-arabica.com/manuscript/116",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 111",
+      "altNames": [
+        "Commentary on the Gospels",
+        "مختصر تفسير كتاب الانجيل",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram"
+      ],
+      "file": "data/manuscripts/116.xml"
     }
   ]
 }
