@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:40:29.672Z",
+  "generated": "2026-11-10T17:40:46.386Z",
   "type": "manuscript",
   "records": [
     {
@@ -2286,6 +2286,18 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/191.xml"
+    },
+    {
+      "id": "192",
+      "uri": "https://biblia-arabica.com/manuscript/192",
+      "headword": "Raja of Mahmudabad Palace Library MS 556",
+      "altNames": [
+        "Arbaʻūn sūrah min al-Tawrāh",
+        "سورتهای منتخبه از توراة",
+        "Tawrāh",
+        "Ḥadīth qudsī"
+      ],
+      "file": "data/manuscripts/192.xml"
     }
   ]
 }
