@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:37:16.780Z",
+  "generated": "2026-11-10T14:38:10.643Z",
   "type": "manuscript",
   "records": [
     {
@@ -881,6 +881,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/73.xml"
+    },
+    {
+      "id": "74",
+      "uri": "https://biblia-arabica.com/manuscript/74",
+      "headword": "Dominican Friars of Mosul MS 906",
+      "altNames": [
+        "Biblical verses on different themes",
+        "Questions & answers on the Gospel of Luke",
+        "Catechism"
+      ],
+      "file": "data/manuscripts/74.xml"
     }
   ]
 }
