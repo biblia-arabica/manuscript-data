@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:51:35.525Z",
+  "generated": "2026-11-10T17:52:20.025Z",
   "type": "manuscript",
   "records": [
     {
@@ -2620,6 +2620,28 @@
         "Commentary on the Gospel of Matthew"
       ],
       "file": "data/manuscripts/218.xml"
+    },
+    {
+      "id": "219",
+      "uri": "https://biblia-arabica.com/manuscript/219",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS I.8",
+      "altNames": [
+        "Gospels",
+        "الاناجيل الاربعة المقدسة",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/219.xml"
+    },
+    {
+      "id": "220",
+      "uri": "https://biblia-arabica.com/manuscript/220",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS I.8",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/220.xml"
     }
   ]
 }
