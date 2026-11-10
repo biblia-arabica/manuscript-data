@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Syria, Damascus, Greek Orthodox Patriarchate of Antioch. Library 253</title>
+                <title level="a" xml:lang="en">Syria, Damascus, Greek Orthodox Patriarchate of Antioch. Library 259</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -70,22 +70,26 @@
                                                 <settlement>Damascus</settlement>
                                                 <repository>Greek Orthodox Patriarchate of Antioch. Library</repository>
                                                 <collection>MARI</collection>
-                                                <idno>MS 253</idno>
+                                                <idno>MS 259</idno>
                                                 <altIdentifier type="vhmml-readingroom">
-                                                    <idno>607544</idno>
+                                                    <idno>607550</idno>
                                                 </altIdentifier>
                                                 <altIdentifier type="hmml-project">
-                                                    <idno>MARI 00253</idno>
+                                                    <idno>MARI 00259</idno>
                                                 </altIdentifier>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 830800): 1657 [1657–1657]; 1 Aylūl 1969 AG [?–?]; Naskh</summary>
-                                                <msItem xml:id="vhmm-607544-item-1" class="part-1">
-                                                    <title xml:lang="en">Gospels</title>
-                                                    <title xml:lang="ar">الكتاب الشريف انجيل سيدنا ومخلصنا الرب يسوع المسيح</title>
-                                                    <title xml:lang="en">Bible. Gospels</title>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 832385): 1868 [1868–1868]; 31 Ayyār 1868 CE [?–?]; Ruq‘ah</summary>
+                                                <msItem xml:id="vhmm-607550-item-1" class="part-1">
+                                                    <title xml:lang="en">Tathqīf al-insān wa-tanwīr al-adhhān</title>
+                                                    <title xml:lang="ar">تثقيف الإنسان وتنوير الأذهان</title>
+                                                    <title xml:lang="en">Kazmā, Ibrāhīm, active 1867-1868. Tathqīf al-insān wa-tanwīr al-adhhān</title>
+                                                    <title xml:lang="en">Commentary on the Gospel of Luke</title>
                                                     <textLang mainLang="ar"/>
-                                                    <note xml:lang="en">vHMML part 1 (ID 830800); catalogue-content-id: 1450040; Title classification: provisional: Gospels; Title classification: original: الكتاب الشريف انجيل سيدنا ومخلصنا الرب يسوع المسيح; Title classification: uniform: Bible. Gospels</note>
+                                                    <incipit>
+                                                        <quote>الحمد لله الذي منح الانسان نور المعرفه لكي يميز</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 832385); catalogue-content-id: 1453862; content-contributor: {&quot;id&quot;: 432929, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;ابراهيم الكزما الدمشقي&quot;, &quot;contributor&quot;: {&quot;id&quot;: 21037, &quot;name&quot;: &quot;Kazmā, Ibrāhīm, active 1867-1868&quot;, &quot;displayName&quot;: &quot;Kazmā, Ibrāhīm, active 1867-1868&quot;}}; Title classification: provisional: Tathqīf al-insān wa-tanwīr al-adhhān; Title classification: original: تثقيف الإنسان وتنوير الأذهان; Title classification: uniform: Kazmā, Ibrāhīm, active 1867-1868. Tathqīf al-insān wa-tanwīr al-adhhān; Title classification: alternative: Commentary on the Gospel of Luke</note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
@@ -93,13 +97,13 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Paper</material>
-                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: True; Part 1: partNotes: Copied by خوري شحاده. Scribe and date information from colophon, fol. 220r; Part 1: centuries: [17]</note>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Autograph. Scribe and date information from colophon, fol. 185v, and title page; Part 1: centuries: [19]</note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">221 leaf(ves)</measure>
+                                                            <measure unit="folio">186 leaf(ves)</measure>
                                                             <dimensions>
                                                                 <height unit="mm">220</height>
-                                                                <width unit="mm">150</width>
+                                                                <width unit="mm">170</width>
                                                             </dimensions>
                                                         </extent>
                                                     </supportDesc>
@@ -111,7 +115,7 @@
                                                 </objectDesc>
                                                 <scriptDesc>
                                                     <scriptNote xml:lang="en">
-                                                        <note>Part 1: Naskh</note>
+                                                        <note>Part 1: Ruq‘ah</note>
                                                     </scriptNote>
                                                     <scriptNote xml:lang="en">
                                                         <note>Part 1: Arabic</note>
@@ -119,50 +123,54 @@
                                                 </scriptDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 830800): 1657 [1657–1657]; 1 Aylūl 1969 AG [?–?]; Naskh</summary>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 832385): 1868 [1868–1868]; 31 Ayyār 1868 CE [?–?]; Ruq‘ah</summary>
                                             </history>
                                             <additional>
                                                 <listBibl>
                                                     <bibl xml:id="bib1">
-                                                        <title>vHMML Reading Room source record 607544</title>
-                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/607544"/>
+                                                        <title>vHMML Reading Room source record 607550</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/607550"/>
                                                     </bibl>
                                                     <bibl xml:id="bib2">
-                                                        <title>Ilyās Jubārah, al-makhṭūṭāt al-ʻarabīyah fī maktabat Baṭriyarkīyat anṭākiyah wa-sāʼīr al-mashriq lil-Rūm al-Urthūdhuks, Beirut (1988), 44.</title>
-                                                        <citedRange>Ilyās Jubārah, al-makhṭūṭāt al-ʻarabīyah fī maktabat Baṭriyarkīyat anṭākiyah wa-sāʼīr al-mashriq lil-Rūm al-Urthūdhuks, Beirut (1988), 44.</citedRange>
+                                                        <title>Ilyās Jubārah, al-makhṭūṭāt al-ʻarabīyah fī maktabat Baṭriyarkīyat anṭākiyah wa-sāʼīr al-mashriq lil-Rūm al-Urthūdhuks, Beirut (1988), 45.</title>
+                                                        <citedRange>Ilyās Jubārah, al-makhṭūṭāt al-ʻarabīyah fī maktabat Baṭriyarkīyat anṭākiyah wa-sāʼīr al-mashriq lil-Rūm al-Urthūdhuks, Beirut (1988), 45.</citedRange>
                                                     </bibl>
                                                 </listBibl>
                                                 <adminInfo>
                                                     <note type="catalogue-source">
-                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/607544">https://w3id.org/vhmml/readingRoom/view/607544</ref>
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/607550">https://w3id.org/vhmml/readingRoom/view/607550</ref>
                                                     </note>
                                                 </adminInfo>
+                                                <note type="notes">Cataloged according to modern foliation</note>
                                                 <note type="acknowledgments">Cataloged by Vevian Zaki</note>
                                                 <note type="accessRestriction">Registered</note>
-                                                <note type="lastUpdateDisplay">2023/04/24</note>
+                                                <note type="lastUpdateDisplay">2023/05/02</note>
                                                 <note type="currentStatus">In situ</note>
                                                 <note type="objectType">MANUSCRIPT</note>
-                                                <note type="captureDateDisplay">2016/03/07</note>
+                                                <note type="captureDateDisplay">2016/04/20</note>
                                                 <note type="rightToLeft">True</note>
                                             </additional>
                                             <msPart n="1">
                                                 <msIdentifier>
-                                                    <idno type="vhmml-part">830800</idno>
+                                                    <idno type="vhmml-part">832385</idno>
                                                 </msIdentifier>
                                                 <msContents>
                                                     <msItem n="1">
-                                                        <title type="provisional">Gospels</title>
-                                                        <title type="original">الكتاب الشريف انجيل سيدنا ومخلصنا الرب يسوع المسيح</title>
-                                                        <title type="uniform">Bible. Gospels</title>
+                                                        <title type="provisional">Tathqīf al-insān wa-tanwīr al-adhhān</title>
+                                                        <title type="original">تثقيف الإنسان وتنوير الأذهان</title>
+                                                        <title type="uniform">Kazmā, Ibrāhīm, active 1867-1868. Tathqīf al-insān wa-tanwīr al-adhhān</title>
+                                                        <title type="alternative">Commentary on the Gospel of Luke</title>
                                                         <textLang>Arabic</textLang>
-                                                        <note type="catalogue-content-id">1450040</note>
+                                                        <note type="catalogue-content-id">1453862</note>
+                                                        <note type="content-contributor">{"id": 432929, "type": "Author", "nameNs": "ابراهيم الكزما الدمشقي", "contributor": {"id": 21037, "name": "Kazmā, Ibrāhīm, active 1867-1868", "displayName": "Kazmā, Ibrāhīm, active 1867-1868"}}</note>
+                                                        <note type="incipit">الحمد لله الذي منح الانسان نور المعرفه لكي يميز</note>
                                                     </msItem>
                                                 </msContents>
                                                 <history>
                                                     <origin>
-                                                        <origDate notBefore="1657" notAfter="1657">1657</origDate>
-                                                        <origDate type="original-calendar">1 Aylūl 1969 AG</origDate>
-                                                        <note type="script">Naskh</note>
+                                                        <origDate notBefore="1868" notAfter="1868">1868</origDate>
+                                                        <origDate type="original-calendar">31 Ayyār 1868 CE</origDate>
+                                                        <note type="script">Ruq‘ah</note>
                                                     </origin>
                                                 </history>
                                                 <physDesc>
@@ -171,12 +179,12 @@
                                                             <support>PAPER</support>
                                                         </supportDesc>
                                                     </objectDesc>
-                                                    <note type="layout">1 column, 13 lines per page</note>
+                                                    <note type="layout">1 column, 19 lines per page</note>
                                                     <note type="writingSystem">Arabic</note>
                                                     <note type="catchwords">True</note>
-                                                    <note type="signatures">True</note>
-                                                    <note type="partNotes">Copied by خوري شحاده. Scribe and date information from colophon, fol. 220r</note>
-                                                    <note type="centuries">[17]</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Autograph. Scribe and date information from colophon, fol. 185v, and title page</note>
+                                                    <note type="centuries">[19]</note>
                                                 </physDesc>
                                             </msPart>
                                         </msDesc>
