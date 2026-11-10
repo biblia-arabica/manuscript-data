@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:38:12.530Z",
+  "generated": "2026-11-10T17:38:32.669Z",
   "type": "manuscript",
   "records": [
     {
@@ -2243,6 +2243,15 @@
         "Ḥadīth qudsī"
       ],
       "file": "data/manuscripts/187.xml"
+    },
+    {
+      "id": "188",
+      "uri": "https://biblia-arabica.com/manuscript/188",
+      "headword": "Historisches Archiv der Stadt Köln HAStK 7020 332/19",
+      "altNames": [
+        "Fragments"
+      ],
+      "file": "data/manuscripts/188.xml"
     }
   ]
 }
