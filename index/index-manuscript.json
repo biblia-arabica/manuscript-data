@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:46:47.329Z",
+  "generated": "2026-11-10T17:47:07.868Z",
   "type": "manuscript",
   "records": [
     {
@@ -2493,6 +2493,17 @@
         "khabar al-ʻahd al-qadīm"
       ],
       "file": "data/manuscripts/207.xml"
+    },
+    {
+      "id": "208",
+      "uri": "https://biblia-arabica.com/manuscript/208",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 2",
+      "altNames": [
+        "Yashūʻ ibn Shīrākh",
+        "يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/208.xml"
     }
   ]
 }
