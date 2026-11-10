@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:07:28.771Z",
+  "generated": "2026-11-10T19:07:44.897Z",
   "type": "manuscript",
   "records": [
     {
@@ -3925,6 +3925,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/331.xml"
+    },
+    {
+      "id": "332",
+      "uri": "https://biblia-arabica.com/manuscript/332",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 219",
+      "altNames": [
+        "Gospels",
+        "انجيل سيّدنا يسوع المسيح",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/332.xml"
     }
   ]
 }
