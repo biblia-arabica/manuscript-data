@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:15:53.946Z",
+  "generated": "2026-11-10T19:16:29.597Z",
   "type": "manuscript",
   "records": [
     {
@@ -4147,6 +4147,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/350.xml"
+    },
+    {
+      "id": "351",
+      "uri": "https://biblia-arabica.com/manuscript/351",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Bible. Gospels",
+        "كتاب الانجيل الشريف الطاهر والمصباح المنير الزاهر"
+      ],
+      "file": "data/manuscripts/351.xml"
     }
   ]
 }
