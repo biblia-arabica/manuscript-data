@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:52:10.205Z",
+  "generated": "2026-11-10T19:52:43.312Z",
   "type": "manuscript",
   "records": [
     {
@@ -4445,6 +4445,26 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/376.xml"
+    },
+    {
+      "id": "377",
+      "uri": "https://biblia-arabica.com/manuscript/377",
+      "headword": "Dayr Sayyidat al-Balamand MS 1",
+      "altNames": [
+        "Bible. Selections",
+        "الاستقطاف من الكتاب المقدس",
+        "Bible",
+        "al-Burhān fī taḥqīq al-īmān",
+        "البرهان في حقيقة الايمان",
+        "Buṭrus ibn Nasṭās, al-Bayt Raʼsī, active approximately 9th century. Burhān fī taḥqīq al-īmān",
+        "Proof of Christianity",
+        "Epistola de statura Christi ad Senatum Romanum",
+        "ترجمة الاعراض المرسل من حاكم او مدير بلاد فلسطين الوثني المذهب الى محفل الانبراطور اوغسطس قيصر",
+        "al-Istiʻdād lil-mawt",
+        "الاستعداد للموت والتامل في الحقايق الابدية والرياضة الروحية",
+        "Liguori, Alfonso Maria de', Saint, 1696-1787. Apparecchio alla morte"
+      ],
+      "file": "data/manuscripts/377.xml"
     }
   ]
 }
