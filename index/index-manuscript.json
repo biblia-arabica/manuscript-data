@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:58:50.153Z",
+  "generated": "2026-11-10T18:59:07.322Z",
   "type": "manuscript",
   "records": [
     {
@@ -3638,6 +3638,15 @@
         "حكمة يشوع بن سيراج"
       ],
       "file": "data/manuscripts/307.xml"
+    },
+    {
+      "id": "308",
+      "uri": "https://biblia-arabica.com/manuscript/308",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 422",
+      "altNames": [
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/308.xml"
     }
   ]
 }
