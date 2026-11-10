@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:00:15.635Z",
+  "generated": "2026-11-10T19:00:39.325Z",
   "type": "manuscript",
   "records": [
     {
@@ -3693,6 +3693,18 @@
         "Bible. Tobit"
       ],
       "file": "data/manuscripts/312.xml"
+    },
+    {
+      "id": "313",
+      "uri": "https://biblia-arabica.com/manuscript/313",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 429",
+      "altNames": [
+        "Diatessaron",
+        "دياطاسارون",
+        "Bible. Gospels. Syriac Diatessaron",
+        "Bible. Gospels. Diatessaron"
+      ],
+      "file": "data/manuscripts/313.xml"
     }
   ]
 }
