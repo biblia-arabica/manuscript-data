@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:08:36.112Z",
+  "generated": "2026-11-10T13:09:05.030Z",
   "type": "manuscript",
   "records": [
     {
@@ -607,6 +607,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/48.xml"
+    },
+    {
+      "id": "49",
+      "uri": "https://biblia-arabica.com/manuscript/49",
+      "headword": "Dominican Friars of Mosul MS 6",
+      "altNames": [
+        "Psalms",
+        "المزامير",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/49.xml"
     }
   ]
 }
