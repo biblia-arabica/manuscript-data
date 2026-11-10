@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:34:03.658Z",
+  "generated": "2026-11-10T18:34:23.158Z",
   "type": "manuscript",
   "records": [
     {
@@ -3375,6 +3375,17 @@
         "Bible. Nahum"
       ],
       "file": "data/manuscripts/283.xml"
+    },
+    {
+      "id": "284",
+      "uri": "https://biblia-arabica.com/manuscript/284",
+      "headword": "Near East School of Theology MS AC 36-63",
+      "altNames": [
+        "Habakkuk",
+        "حبقوق",
+        "Bible. Habakkuk"
+      ],
+      "file": "data/manuscripts/284.xml"
     }
   ]
 }
