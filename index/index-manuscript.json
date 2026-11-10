@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:45:39.046Z",
+  "generated": "2026-11-10T19:46:19.284Z",
   "type": "manuscript",
   "records": [
     {
@@ -4332,6 +4332,21 @@
         "Bible. Revelation"
       ],
       "file": "data/manuscripts/366.xml"
+    },
+    {
+      "id": "367",
+      "uri": "https://biblia-arabica.com/manuscript/367",
+      "headword": "Ordre Basilien Choueirite N/A",
+      "altNames": [
+        "Mujādalat Jirjī al-rāhib",
+        "مجادلة ابينا الراهب جرجى مع الامير وعلما المسلمين فى مدينة حلب",
+        "Disputation between Jirjis the monk and three Muslim scholars",
+        "Response to ʻAbd al-Raḥīm al-Shāmī's poem against the Christians",
+        "Proverbs",
+        "امثال سليمان الحكيم",
+        "Bible. Proverbs"
+      ],
+      "file": "data/manuscripts/367.xml"
     }
   ]
 }
