@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:31:57.442Z",
+  "generated": "2026-11-10T12:32:24.152Z",
   "type": "manuscript",
   "records": [
     {
@@ -519,6 +519,31 @@
         "مختصر التعليم المسيحى"
       ],
       "file": "data/manuscripts/42.xml"
+    },
+    {
+      "id": "43",
+      "uri": "https://biblia-arabica.com/manuscript/43",
+      "headword": "Mār Behnām Monastery MS 466",
+      "altNames": [
+        "Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah",
+        "منارة القوى العقلية فى القواعد المنطقية",
+        "Ṣabbāgh, Simʻān, active 1780-1834. Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah",
+        "Logical treatise",
+        "Philosophical and grammatical notes",
+        "Genesis. Selections",
+        "Bible. Genesis",
+        "Guide for correspondence with Church officials",
+        "فيما يكتب الى الاكليروس",
+        "Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah",
+        "رسالة أرسطوطاليس الفيلسوف إلى إسكندر في الصناعة",
+        "Theological notes",
+        "Decrees of the Maronite Catholic patriarchs",
+        "Account of Hannibal's crossing of the Alps",
+        "سفر انيبال في الجبال الالبية",
+        "Cartulaio dei canti diversi modi",
+        "كراسة الالحان وتغيير الالفاظ المقدسة"
+      ],
+      "file": "data/manuscripts/43.xml"
     }
   ]
 }
