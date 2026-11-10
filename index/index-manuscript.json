@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:42:43.579Z",
+  "generated": "2026-11-10T17:43:03.270Z",
   "type": "manuscript",
   "records": [
     {
@@ -2370,6 +2370,16 @@
         "Teaching of Addai"
       ],
       "file": "data/manuscripts/196.xml"
+    },
+    {
+      "id": "197",
+      "uri": "https://biblia-arabica.com/manuscript/197",
+      "headword": "Saint Mark's Monastery MS 261",
+      "altNames": [
+        "Gospel lectionary",
+        "Lectionary (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/197.xml"
     }
   ]
 }
