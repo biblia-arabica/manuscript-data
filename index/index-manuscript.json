@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:57:08.304Z",
+  "generated": "2026-11-10T18:57:24.704Z",
   "type": "manuscript",
   "records": [
     {
@@ -3577,6 +3577,16 @@
         "Gospel synopsis"
       ],
       "file": "data/manuscripts/302.xml"
+    },
+    {
+      "id": "303",
+      "uri": "https://biblia-arabica.com/manuscript/303",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 1837",
+      "altNames": [
+        "Ecclesiasticus",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/303.xml"
     }
   ]
 }
