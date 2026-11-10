@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:11:45.615Z",
+  "generated": "2026-11-10T14:12:17.471Z",
   "type": "manuscript",
   "records": [
     {
@@ -756,6 +756,16 @@
         "Psalter (Syriac Rite, Eastern)"
       ],
       "file": "data/manuscripts/61.xml"
+    },
+    {
+      "id": "62",
+      "uri": "https://biblia-arabica.com/manuscript/62",
+      "headword": "Chaldean Catholic Church. Patriarchate of Baghdad MS 277",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/62.xml"
     }
   ]
 }
