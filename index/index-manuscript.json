@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:09:29.530Z",
+  "generated": "2026-11-10T20:09:44.637Z",
   "type": "manuscript",
   "records": [
     {
@@ -4937,6 +4937,17 @@
         "Summary of some Old Testament books"
       ],
       "file": "data/manuscripts/416.xml"
+    },
+    {
+      "id": "417",
+      "uri": "https://biblia-arabica.com/manuscript/417",
+      "headword": "Dayr Sayyidat al-Bishārah MS 2",
+      "altNames": [
+        "Gospels",
+        "الاربعة اناجيل المقدسه",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/417.xml"
     }
   ]
 }
