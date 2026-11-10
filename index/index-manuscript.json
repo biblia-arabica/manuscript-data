@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:44:49.839Z",
+  "generated": "2026-11-10T19:45:39.046Z",
   "type": "manuscript",
   "records": [
     {
@@ -4316,6 +4316,22 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/365.xml"
+    },
+    {
+      "id": "366",
+      "uri": "https://biblia-arabica.com/manuscript/366",
+      "headword": "Ordre Basilien Choueirite N/A",
+      "altNames": [
+        "al-Burhān ʻalá al-inbithāq",
+        "البرهان على الانبثاق",
+        "Maṭrān, Yuwākīm, -1772 or 1773. Burhān ʻalá al-inbithāq",
+        "Treatise against the Orthodox on the procession of the Holy Spirit",
+        "Correspondence on the true faith",
+        "Revelation",
+        "رويت يوحنا الحبيب",
+        "Bible. Revelation"
+      ],
+      "file": "data/manuscripts/366.xml"
     }
   ]
 }
