@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:10:19.624Z",
+  "generated": "2026-11-10T20:10:37.322Z",
   "type": "manuscript",
   "records": [
     {
@@ -4970,6 +4970,18 @@
         "Wisdom of Sirach"
       ],
       "file": "data/manuscripts/419.xml"
+    },
+    {
+      "id": "420",
+      "uri": "https://biblia-arabica.com/manuscript/420",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 220a",
+      "altNames": [
+        "Sirach",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus",
+        "Wisdom of Sirach"
+      ],
+      "file": "data/manuscripts/420.xml"
     }
   ]
 }
