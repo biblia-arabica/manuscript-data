@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Jerusalem, Jerusalem, Séminaire Sainte-Anne de Jérusalem I.1</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/218</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Jerusalem</country>
+                                                <settlement>Jerusalem</settlement>
+                                                <repository>Séminaire Sainte-Anne de Jérusalem</repository>
+                                                <collection>SAJL</collection>
+                                                <idno>MS I.1</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>511490</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>SAJL 00179</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 732324): 1722 [1722–1722]</summary>
+                                                <msItem xml:id="vhmm-511490-item-1" class="part-1">
+                                                    <title xml:lang="en">Tafsīr. Gospels</title>
+                                                    <title xml:lang="ar">كتاب تفسير الاناجيل الاربعة</title>
+                                                    <title xml:lang="en">Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram</title>
+                                                    <title xml:lang="en">Commentary on the Gospel of Matthew</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 732324); catalogue-content-id: 1239079; content-contributor: {&quot;id&quot;: 295245, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;كرنيليوس الحجري&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4616, &quot;name&quot;: &quot;Lapide, Cornelius Cornelii a, 1567-1637&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n91030332&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/10186501&quot;, &quot;displayName&quot;: &quot;Lapide, Cornelius Cornelii a, 1567-1637&quot;}}; content-contributor: {&quot;id&quot;: 295246, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 5159, &quot;name&quot;: &quot;Bānī, Yūsuf ibn Jirjis, -1724 or 1725&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/no2013027536&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/297098777&quot;, &quot;displayName&quot;: &quot;Bānī, Yūsuf ibn Jirjis, -1724 or 1725&quot;}}; Title classification: provisional: Tafsīr. Gospels; Title classification: original: كتاب تفسير الاناجيل الاربعة; Title classification: uniform: Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram; Title classification: alternative: Commentary on the Gospel of Matthew</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Date information from colophon, fol. 266r; Part 1: centuries: [18]; Binding depth: 4.8 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">270 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">300</height>
+                                                                <width unit="mm">200</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 732324): 1722 [1722–1722]</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 511490</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/511490"/>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/511490">https://w3id.org/vhmml/readingRoom/view/511490</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">References to folio numbers are approximate</note>
+                                                <note type="acknowledgments">Cataloged by Vevian Zaki</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2021/08/16</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">732324</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Tafsīr. Gospels</title>
+                                                        <title type="original">كتاب تفسير الاناجيل الاربعة</title>
+                                                        <title type="uniform">Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram</title>
+                                                        <title type="alternative">Commentary on the Gospel of Matthew</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1239079</note>
+                                                        <note type="content-contributor">{"id": 295245, "type": "Author", "nameNs": "كرنيليوس الحجري", "contributor": {"id": 4616, "name": "Lapide, Cornelius Cornelii a, 1567-1637", "authorityUriLC": "https://id.loc.gov/authorities/names/n91030332", "authorityUriVIAF": "https://viaf.org/viaf/10186501", "displayName": "Lapide, Cornelius Cornelii a, 1567-1637"}}</note>
+                                                        <note type="content-contributor">{"id": 295246, "type": "Translator", "contributor": {"id": 5159, "name": "Bānī, Yūsuf ibn Jirjis, -1724 or 1725", "authorityUriLC": "https://id.loc.gov/authorities/names/no2013027536", "authorityUriVIAF": "https://viaf.org/viaf/297098777", "displayName": "Bānī, Yūsuf ibn Jirjis, -1724 or 1725"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1722" notAfter="1722">1722</origDate>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 31 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Date information from colophon, fol. 266r</note>
+                                                    <note type="centuries">[18]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
