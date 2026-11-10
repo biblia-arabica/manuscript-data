@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:04:10.239Z",
+  "generated": "2026-11-10T19:05:27.535Z",
   "type": "manuscript",
   "records": [
     {
@@ -3841,6 +3841,19 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/324.xml"
+    },
+    {
+      "id": "325",
+      "uri": "https://biblia-arabica.com/manuscript/325",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 104",
+      "altNames": [
+        "Gospels",
+        "الانجيل المقدس",
+        "Bible. Gospels",
+        "Pataragamatoytsʻ",
+        "Pataragamatoytsʻ (Armenian Rite)"
+      ],
+      "file": "data/manuscripts/325.xml"
     }
   ]
 }
