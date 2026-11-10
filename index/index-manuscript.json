@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:30:29.772Z",
+  "generated": "2026-11-10T18:30:53.606Z",
   "type": "manuscript",
   "records": [
     {
@@ -3253,6 +3253,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/272.xml"
+    },
+    {
+      "id": "273",
+      "uri": "https://biblia-arabica.com/manuscript/273",
+      "headword": "Near East School of Theology MS AC 36-53",
+      "altNames": [
+        "Book of Ezekiel",
+        "سفر حزقيال",
+        "Bible. Ezekiel",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/273.xml"
     }
   ]
 }
