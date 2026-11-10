@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:22:21.735Z",
+  "generated": "2026-11-10T17:22:48.156Z",
   "type": "manuscript",
   "records": [
     {
@@ -1832,6 +1832,16 @@
         "Liturgical prayers"
       ],
       "file": "data/manuscripts/150.xml"
+    },
+    {
+      "id": "151",
+      "uri": "https://biblia-arabica.com/manuscript/151",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 17",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/151.xml"
     }
   ]
 }
