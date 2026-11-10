@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:26:29.080Z",
+  "generated": "2026-11-10T17:26:48.112Z",
   "type": "manuscript",
   "records": [
     {
@@ -1912,6 +1912,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/158.xml"
+    },
+    {
+      "id": "159",
+      "uri": "https://biblia-arabica.com/manuscript/159",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 29",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/159.xml"
     }
   ]
 }
