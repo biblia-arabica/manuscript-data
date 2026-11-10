@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:02:33.250Z",
+  "generated": "2026-11-10T20:02:50.955Z",
   "type": "manuscript",
   "records": [
     {
@@ -4776,6 +4776,16 @@
         "Commentary on 2 Thessalonians"
       ],
       "file": "data/manuscripts/403.xml"
+    },
+    {
+      "id": "404",
+      "uri": "https://biblia-arabica.com/manuscript/404",
+      "headword": "Notre Dame University, Louaize BL 26",
+      "altNames": [
+        "Commentary on the Gospels",
+        "تفسير الانجيل المقدس"
+      ],
+      "file": "data/manuscripts/404.xml"
     }
   ]
 }
