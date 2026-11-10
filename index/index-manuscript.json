@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:29:04.301Z",
+  "generated": "2026-11-10T17:29:23.840Z",
   "type": "manuscript",
   "records": [
     {
@@ -1983,6 +1983,22 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/165.xml"
+    },
+    {
+      "id": "166",
+      "uri": "https://biblia-arabica.com/manuscript/166",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 38",
+      "altNames": [
+        "Introduction to the Pauline epistles",
+        "Translatorʼs introduction to the Pauline epistles",
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament",
+        "Revelation",
+        "Bible. Revelation",
+        "Epistle to Timothy",
+        "Epistle of Dionysius the Areopagite to Timothy concerning the deaths of the Apostles Peter and Paul"
+      ],
+      "file": "data/manuscripts/166.xml"
     }
   ]
 }
