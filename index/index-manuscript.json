@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:35:52.961Z",
+  "generated": "2026-11-10T17:37:12.408Z",
   "type": "manuscript",
   "records": [
     {
@@ -2210,6 +2210,26 @@
         "Glossary of Turkish and Arabic words"
       ],
       "file": "data/manuscripts/185.xml"
+    },
+    {
+      "id": "186",
+      "uri": "https://biblia-arabica.com/manuscript/186",
+      "headword": "Sherif Harar City Museum N/A",
+      "altNames": [
+        "Arbaʻūn sūrah min al-Tawrāh",
+        "اربعين من التورية",
+        "Tawrāh",
+        "Selected chapters from the Torah",
+        "Ḥadīth qudsī",
+        "Bustān al-ʻārifīn fī maʻrifat al-dunyā wa-al-dīn",
+        "القصيدة الوترية في مدح خير البرية",
+        "Warrāq, Muḥammad ibn ʻAbd al-ʻAzīz, -1281. Bustān al-ʻārifīn fī maʻrifat al-dunyā wa-al-dīn",
+        "Expansion of al-Baghdādī's poem al-Witrīyah",
+        "Treatise on the night of mid-Shaʻbān",
+        "عبارات تتعلق بالكلام علي ليلة النصف من شعبان",
+        "رسالة في فضايل ليلة النصف من شعبان"
+      ],
+      "file": "data/manuscripts/186.xml"
     }
   ]
 }
