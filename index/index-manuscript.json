@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:33:42.952Z",
+  "generated": "2026-11-10T19:34:03.078Z",
   "type": "manuscript",
   "records": [
     {
@@ -4223,6 +4223,19 @@
         "Evangelion (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/357.xml"
+    },
+    {
+      "id": "358",
+      "uri": "https://biblia-arabica.com/manuscript/358",
+      "headword": "Ordre Basilien Choueirite MS 107",
+      "altNames": [
+        "Gospels",
+        "الإنجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels",
+        "al-Injīl al-sharīf al-ṭāhir wa-al-miṣbāḥ al-munīr al-zāhir",
+        "İncil"
+      ],
+      "file": "data/manuscripts/358.xml"
     }
   ]
 }
