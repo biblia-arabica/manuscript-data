@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Ethiopia, Addis Ababa, Qeddest Śellāsē Cathedral 25</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/185</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Ethiopia</country>
+                                                <settlement>Addis Ababa</settlement>
+                                                <repository>Qeddest Śellāsē Cathedral</repository>
+                                                <collection>EMML</collection>
+                                                <idno>MS 25</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>202887</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>EMML 1056</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 873111): 1767–1768 [1767–1768]; Fidäl</summary>
+                                                <msItem xml:id="vhmm-202887-item-1" class="part-1">
+                                                    <title xml:lang="en">Commentary on Revelation, the Last Supper, and the saying &quot;The heart of a hermit is like a paradise of delight&quot;</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516062; Title classification: provisional: Commentary on Revelation, the Last Supper, and the saying &quot;The heart of a hermit is like a paradise of delight&quot;</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-2" class="part-1">
+                                                    <title xml:lang="en">Bāḥra ḥassāb</title>
+                                                    <title xml:lang="en">ባሕረ፡ ሐሳብ</title>
+                                                    <title xml:lang="en">Computus</title>
+                                                    <title xml:lang="en">Sea of Computation</title>
+                                                    <incipit>
+                                                        <quote>ናሁ፡ ንጽሕፍ፡ በረድኤተ፡ እግዚአብሔር፡ ዜና፡ አርእስተ፡ ሐሳብ፡ ዘእምፍጥረተ፡ ዓለም፡ እስከ፡ ተፍጻሜተ፡ ዓመተ፡ ዓለም።</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516063; content-contributor: {&quot;id&quot;: 473869, &quot;type&quot;: &quot;Attributed name&quot;, &quot;contributor&quot;: {&quot;id&quot;: 7403, &quot;name&quot;: &quot;Demetrius, of Alexandria, -232&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n2016028529&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/8146634497841932514&quot;, &quot;displayName&quot;: &quot;Demetrius, of Alexandria, -232&quot;}}; Title classification: provisional: Bāḥra ḥassāb; Title classification: original: ባሕረ፡ ሐሳብ; Title classification: alternative: Computus; Title classification: alternative: Sea of Computation</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-3" class="part-1">
+                                                    <title xml:lang="en">Introduction to the Gospels</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516064; Title classification: provisional: Introduction to the Gospels</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-4" class="part-1">
+                                                    <title xml:lang="en">Revelation</title>
+                                                    <title xml:lang="en">Bible. Revelation</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516065; Title classification: provisional: Revelation; Title classification: uniform: Bible. Revelation</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-5" class="part-1">
+                                                    <title xml:lang="en">1 Ezra</title>
+                                                    <title xml:lang="en">Bible. Apocalypse of Ezra</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516066; Title classification: provisional: 1 Ezra; Title classification: uniform: Bible. Apocalypse of Ezra</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-6" class="part-1">
+                                                    <title xml:lang="en">Faith of the fathers. Selections</title>
+                                                    <title xml:lang="en">ሃይማኖተ ፡ አበው</title>
+                                                    <title xml:lang="en">Iʻtirāf al-Ābāʼ</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516067; Title classification: provisional: Faith of the fathers. Selections; Title classification: original: ሃይማኖተ ፡ አበው; Title classification: uniform: Iʻtirāf al-Ābāʼ</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-7" class="part-1">
+                                                    <title xml:lang="en">Account of the believers and heretics</title>
+                                                    <incipit>
+                                                        <quote>ንወጥን፡ በረድኤተ፡ እግዚአብሔር፡ ዜና፡ ምእመናን፡ ወዓላውያን። ሰባልዮስ፡ ይቤ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ፩ገጽ።</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516068; Title classification: provisional: Account of the believers and heretics</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-8" class="part-1">
+                                                    <title xml:lang="en">History of the first five ecumenical councils</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516069; Title classification: provisional: History of the first five ecumenical councils</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-9" class="part-1">
+                                                    <title xml:lang="en">List of the patriarchs of Alexandria from Saint Mark to Gabriel V</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516070; Title classification: provisional: List of the patriarchs of Alexandria from Saint Mark to Gabriel V</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-10" class="part-1">
+                                                    <title xml:lang="en">Commentary on the ordinary of the mass and the anaphoras</title>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516071; Title classification: provisional: Commentary on the ordinary of the mass and the anaphoras</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-202887-item-11" class="part-1">
+                                                    <title xml:lang="en">Glossary of Turkish and Arabic words</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 873111); catalogue-content-id: 1516072; Title classification: provisional: Glossary of Turkish and Arabic words</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Parchment</material>
+                                                            <note>Part 1: material PARCHMENT; Part 1: catchwords: False; Part 1: signatures: True; Part 1: partNotes: Dated the 13th year of Emperor Iyoʼas, fol. 29v; Calendar calculations, fol. 1r, 2r; Part 1: centuries: [18]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">174 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">220</height>
+                                                                <width unit="mm">160</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Fidäl</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Ethiopic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 873111): 1767–1768 [1767–1768]; Fidäl</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 202887</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/202887"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Catalogue of Manuscripts Microfilmed by the UNESCO Mobile Microfilm Unit in Addis Ababa and Gojjam Province (1970)</title>
+                                                        <citedRange>Catalogue of Manuscripts Microfilmed by the UNESCO Mobile Microfilm Unit in Addis Ababa and Gojjam Province (1970)</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/202887">https://w3id.org/vhmml/readingRoom/view/202887</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="acknowledgments">Cataloged by William F. Macomber; metadata added by Jeremy R. Brown</note>
+                                                <note type="accessRestriction">Unregistered or order a digital copy</note>
+                                                <note type="lastUpdateDisplay">2024/08/16</note>
+                                                <note type="currentStatus">Unknown</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="rightToLeft">False</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">873111</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Commentary on Revelation, the Last Supper, and the saying "The heart of a hermit is like a paradise of delight"</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516062</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Bāḥra ḥassāb</title>
+                                                        <title type="original">ባሕረ፡ ሐሳብ</title>
+                                                        <title type="alternative">Computus</title>
+                                                        <title type="alternative">Sea of Computation</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516063</note>
+                                                        <note type="content-contributor">{"id": 473869, "type": "Attributed name", "contributor": {"id": 7403, "name": "Demetrius, of Alexandria, -232", "authorityUriLC": "https://id.loc.gov/authorities/names/n2016028529", "authorityUriVIAF": "https://viaf.org/viaf/8146634497841932514", "displayName": "Demetrius, of Alexandria, -232"}}</note>
+                                                        <note type="incipit">ናሁ፡ ንጽሕፍ፡ በረድኤተ፡ እግዚአብሔር፡ ዜና፡ አርእስተ፡ ሐሳብ፡ ዘእምፍጥረተ፡ ዓለም፡ እስከ፡ ተፍጻሜተ፡ ዓመተ፡ ዓለም።</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Introduction to the Gospels</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516064</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Revelation</title>
+                                                        <title type="uniform">Bible. Revelation</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516065</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">1 Ezra</title>
+                                                        <title type="uniform">Bible. Apocalypse of Ezra</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516066</note>
+                                                    </msItem>
+                                                    <msItem n="6">
+                                                        <title type="provisional">Faith of the fathers. Selections</title>
+                                                        <title type="original">ሃይማኖተ ፡ አበው</title>
+                                                        <title type="uniform">Iʻtirāf al-Ābāʼ</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516067</note>
+                                                    </msItem>
+                                                    <msItem n="7">
+                                                        <title type="provisional">Account of the believers and heretics</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516068</note>
+                                                        <note type="incipit">ንወጥን፡ በረድኤተ፡ እግዚአብሔር፡ ዜና፡ ምእመናን፡ ወዓላውያን። ሰባልዮስ፡ ይቤ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ፩ገጽ።</note>
+                                                    </msItem>
+                                                    <msItem n="8">
+                                                        <title type="provisional">History of the first five ecumenical councils</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516069</note>
+                                                    </msItem>
+                                                    <msItem n="9">
+                                                        <title type="provisional">List of the patriarchs of Alexandria from Saint Mark to Gabriel V</title>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <note type="catalogue-content-id">1516070</note>
+                                                    </msItem>
+                                                    <msItem n="10">
+                                                        <title type="provisional">Commentary on the ordinary of the mass and the anaphoras</title>
+                                                        <textLang>Amharic</textLang>
+                                                        <note type="catalogue-content-id">1516071</note>
+                                                    </msItem>
+                                                    <msItem n="11">
+                                                        <title type="provisional">Glossary of Turkish and Arabic words</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>Ge'ez</textLang>
+                                                        <textLang>Turkish</textLang>
+                                                        <note type="catalogue-content-id">1516072</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1767" notAfter="1768">1767–1768</origDate>
+                                                        <note type="script">Fidäl</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PARCHMENT</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">2 columns, 25 lines per page</note>
+                                                    <note type="writingSystem">Ethiopic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">True</note>
+                                                    <note type="partNotes">Dated the 13th year of Emperor Iyoʼas, fol. 29v; Calendar calculations, fol. 1r, 2r</note>
+                                                    <note type="centuries">[18]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
