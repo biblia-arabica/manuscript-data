@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. 601</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/13</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#nfaqsh" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Egypt</country>
+                                                <settlement>دير القديسة كاترينة</settlement>
+                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <collection>عهد قديم</collection>
+                                                <idno>601</idno>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary xml:lang="ar"/>
+                                                <msItem xml:id="msitem-1">
+                                                    <locus from="١ أ"/>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <locus from="٢ ب"/>
+                                                        <quote xml:lang="ar">
+                                                            <p>اغتمت نفسي دكرت الرب ودخلت صلاتي  هيكلك المقدس وصارت أمامك جميع الدين يحفظون عبادة الاهة ـ الآلهة ـ الباطلة زنما يجتنبون رحمتك أنا آنا فإني اقرب لك الدبايح صوت الشكر وما ندرت اتم للرب .</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>فقال الله الرب ليونان ما اشد ما حزنت عل/ي نبات القرع قال يونان نعم لقد اغتممت الي الموت قال له الرب انت اغتممت لنبات اليقطين الذي لم تتعب فيه ولم تنمه بل انما نبت مريومه ويبس من ليلته فكيف لا أرحم ايام نينوى المدينه العظيمه التي فيها اكثر من اتني عشر الف ربوه من الناس لا يعلمون ما بين يمينهم الى شمالهم وبهايم كثيره لا تحصى. انقضت نبوة يونان والسبح لله دايما.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-2">
+                                                    <locus from="٣ أ" to="١٢ أ"/>
+                                                    <title xml:lang="ar">نبوة ميخا</title>
+                                                    <textLang mainLang="ar" otherLangs="ar"/>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>نبدا بعون الله بترجمة نبوة ميخا النبي سادس، هذا قول الرب ووحيه الدي اوحى الى ميخا المارشاني على عهد يوثام واجان وحازقيا ملوك يهودا اوحى اليه في سبب سامره واورشليم</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>بل انما تسر بالنعمة والمعروف تقب الينا ربنا وترحمنا وهو يجمع كل اثمنا ويقدف بجميع خطايانا في غور البحر زنت خولت آل يعقوب القسط وآل ابراهيم النعمه كما اقسمت لاباينا في الايام الاولى من اوايل الدهر. انقضت نبوه ميخا والسبح لله دايما.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3" class="bible">
+                                                    <locus from="١٢ أ" to="١٦ أ"/>
+                                                    <title xml:lang="ar">نبوة ناجوم</title>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>نبدا بعون الله بترجمة نبوة ناجوم النبي ضربج نينوى التي دكرها ناجوم الالفشاني في سفر وحيه الله غيور والرب منتقم ينتقم الرب بغضبه.</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>رقد اصحابك ملوك الموصل وترك اقرباك وتفرق شعبك علي الجبال ولم يكن لهم جامع وليس من يتوجع لانكسارك ما اشد ضربتك كل من سمع خبرك (…..) إلا أن شرك كان دايما على جميع الناس، انتهت نبوج ناجوم النبي والسبح لله دايما.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4" class="bible">
+                                                    <locus from="١٦ أ" to="٢٠ أ"/>
+                                                    <title xml:lang="ar">نبوة حبقوق النبي</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>نبدا بعون الله بترجمة نبوة حبقوق النبي هده الرويا الدي راى حبقوق النبي قال الى متى اجاز اليك يارب ولا تسمع واهتف اليك في (..) الطالمين  فلا تجيبني.</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>واسر بالله مخلصي لان قوتي برب الاربا الدي تبت قدمي وصلبها كالايل واقامني على علوا للارض لارتل بتسابيحه. انقضت نبوة نبوة حبقوق والسبح دايما.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5" class="bible">
+                                                    <locus from="٢٠ ب" to="٢٥ ب"/>
+                                                    <title>نبوة صفنبا</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>هذا وحي الله الدي اوحى صفنيا بن كوشي بن جدليا بن امريا بن حالقيا الدي تنبا على عهد يوشا بن امون ملك يهودا.</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>واصير لهم اسما ممدوحا في جميع ارض (خزيهم) في ذلك الزمان اتى بكم واصيركم مدكورين ممدوحين عند جميع شعوب الأرض </p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <locus from="٢٥ ب" to="٢٨ ب"/>
+                                                    <title xml:lang="ar">نبوة حجي النبي</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>البداية (٢٥ ب):</p>
+                                                            <p>في السنة الثانية من ملك ذاريوش الملك في الشهر السادس في اول يوم في الشهر اوحي الرب الي حجي النبي في زور بابل بن شالتان عظيم آل يهوذا</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>النهاية (٢٨ ب):</p>
+                                                            <p>ويسقط الخيل وركابها وكل امري بسيف اخيه في ذلك اليوم يقول الرب القوي اصيرل يارب بابل بن شالتان عبدي يقول الرب القوي كالخاتم علىراليد راني انتحبتك بقول الرب القوي. انقضت نبوة حجي النبي والسبح لله دايما</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-7" class="bible">
+                                                    <locus from="٢٨ ب" to="٤٦ ب"/>
+                                                    <title>نبوة زكريا النبي</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>
+                                                            </p>
+                                                            <p>البداية (٢٨ ب) :</p>
+                                                            <p>نبدا بعون الله بترجمة نبوة زكريا النبي في السهر التامن في اول يوم من الشهر في السنة التانية من ملك داريوش اوحى الرب الى زكريا بن خيا بن عدو  وقال له قل لبني اسراييل ان الرب غضب على ابآيكم غضبا شديدا فقل لهم هكذا يقول</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">
+                                                            <p>
+                                                            </p>
+                                                            <p>النهاية (٤٦ ب):</p>
+                                                            <p>ويجي كل الذين يذبحون الرياح ياخذون منها ويطبخون فيها ولا يدخل في ذلك اليوم انسان في الكنعانيين الي بيت الرب الرب القوي انقضت نبوة زكريا النبي والسبح لله دايما</p>
+                                                        </quote>
+                                                    </explicit>
+                                                </msItem>
+                                                <msItem xml:id="msitem-8" class="bible">
+                                                    <locus from="٤٦ ب" to="٥١ ب"/>
+                                                    <title xml:lang="ar">نبوة مالاخي</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>
+                                                            <p>البداية (٤٦ ب):</p>
+                                                            <p>نبدا بعون الله بترجمة نبوة مالاخي وحي الرب وقوله بني اسراييل على لسان مالاخي النبي قال الرب اني احببتكم وقلتم بماذا احببتنا كيف ليس عاسو اخا يعقوب بقول الرب اني احببت يعقوب وبغضت عاسو وصيرت جباله الي الفساد</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <quote>
+                                                            <p>المخطوط ناقص في نهايته أي أن نهاية نبوة مالاخي مفقودة في المخطوط.</p>
+                                                        </quote>
+                                                    </explicit>
+                                                    <note>
+                                                        <p>الملاحظات:</p>
+                                                        <p>المخطوط بدأ في الدفتر ١٥ أي أن هناك ١٤ دفترا ناقصا من بداية المخطوط كل دفتر ١١ ورقة فالمفقود بالمحصلة ١٥٤ ورقة من بداية المخطوط ، ونهاية المخطوط الدفتر ٢٠ وفي المخطوط ورقة واحدة منه أي فُقد من الدفتر ال٢٠ ما يقارب ال١٠ ورقات.</p>
+                                                        <p>
+                                                        </p>
+                                                        <p>المخطوط كُتب على ورق ( جلد) على ما يبدو كان مستخدما لكتابة مخطوط آخر تمت إزالته وذلك واضح من آثار الكتابة السابقة على المخطوط.</p>
+                                                        <p>
+                                                        </p>
+                                                        <p>يوجد بعض التصويبات والاضافت على هامش المخطوط.</p>
+                                                        <p>
+                                                        </p>
+                                                        <p>حالة المخطوط تدل على أنه قديم.</p>
+                                                        <p>
+                                                        </p>
+                                                        <p>المخطوط لا غلاف له</p>
+                                                    </note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType rend="horizontal-rectangle" style="codex">Multiple text manuscript</objectType>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note xml:lang="ar">
+                                                                <p>خط نسخ </p>
+                                                            </note>
+                                                        </support>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <objectType>Unbound</objectType>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                            </physDesc>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
