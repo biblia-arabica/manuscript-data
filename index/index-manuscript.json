@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:43:43.057Z",
+  "generated": "2026-11-10T17:44:24.819Z",
   "type": "manuscript",
   "records": [
     {
@@ -2407,6 +2407,16 @@
         "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
       ],
       "file": "data/manuscripts/199.xml"
+    },
+    {
+      "id": "200",
+      "uri": "https://biblia-arabica.com/manuscript/200",
+      "headword": "Saint Mark's Monastery MS 3",
+      "altNames": [
+        "Old Testament. Historical books",
+        "ܣܦܪ ܝܫܘܥ ܐܒܢ ܢܘܢ"
+      ],
+      "file": "data/manuscripts/200.xml"
     }
   ]
 }
