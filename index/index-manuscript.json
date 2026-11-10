@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:53:20.869Z",
+  "generated": "2026-11-10T19:53:39.297Z",
   "type": "manuscript",
   "records": [
     {
@@ -4498,6 +4498,21 @@
         "Chapters on vices and virtues"
       ],
       "file": "data/manuscripts/379.xml"
+    },
+    {
+      "id": "380",
+      "uri": "https://biblia-arabica.com/manuscript/380",
+      "headword": "Dayr Sayyidat al-Balamand MS 167",
+      "altNames": [
+        "al-Rāhib al-mushtāq",
+        "الراهب المشتاق",
+        "Rāhib al-mushtāq",
+        "The eager monk",
+        "Ecclesiasticus",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/380.xml"
     }
   ]
 }
