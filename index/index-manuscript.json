@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:31:46.684Z",
+  "generated": "2026-11-10T18:32:16.056Z",
   "type": "manuscript",
   "records": [
     {
@@ -3298,6 +3298,17 @@
         "Bible. Hosea"
       ],
       "file": "data/manuscripts/276.xml"
+    },
+    {
+      "id": "277",
+      "uri": "https://biblia-arabica.com/manuscript/277",
+      "headword": "Near East School of Theology MS AC 36-57",
+      "altNames": [
+        "Joel",
+        "نبوة يوئيل",
+        "Bible. Joel"
+      ],
+      "file": "data/manuscripts/277.xml"
     }
   ]
 }
