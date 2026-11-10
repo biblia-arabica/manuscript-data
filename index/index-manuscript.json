@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:08:12.324Z",
+  "generated": "2026-11-10T17:08:41.028Z",
   "type": "manuscript",
   "records": [
     {
@@ -1648,6 +1648,22 @@
         "John Chrysostom, Saint, -407. Homilies on John"
       ],
       "file": "data/manuscripts/135.xml"
+    },
+    {
+      "id": "136",
+      "uri": "https://biblia-arabica.com/manuscript/136",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 96",
+      "altNames": [
+        "Revelation",
+        "الوحي الذي أوحي إلى يوحنا الانجيلي",
+        "Bible. Revelation",
+        "Apocalypse",
+        "Tafsir ruʼyā al-Qiddīs Yūḥannā al-Lāhūtī",
+        "تفسير الابوكاليبسيس",
+        "Ibn Kātib Qayṣar, Ibrāhīm ibn Ṣafī al-Dawlah, active 13th century. Tafsir ruʼyā al-Qiddīs Yūḥannā al-Lāhūtī",
+        "Commentary on Revelation"
+      ],
+      "file": "data/manuscripts/136.xml"
     }
   ]
 }
