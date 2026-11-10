@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:48:58.957Z",
+  "generated": "2026-11-10T13:49:49.042Z",
   "type": "manuscript",
   "records": [
     {
@@ -686,6 +686,16 @@
         "ܐܝܡܐܢ ܐܠܒܝܥܗ̈ ܐܠܩܐܬܘܠܝܩܝܗ"
       ],
       "file": "data/manuscripts/54.xml"
+    },
+    {
+      "id": "55",
+      "uri": "https://biblia-arabica.com/manuscript/55",
+      "headword": "Kanīsat al-Ṭāhirah al-Dākhilīyah (al-Qalʻah) 33",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/55.xml"
     }
   ]
 }
