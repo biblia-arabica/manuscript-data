@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:35:17.989Z",
+  "generated": "2026-11-10T19:35:36.708Z",
   "type": "manuscript",
   "records": [
     {
@@ -4272,6 +4272,18 @@
         "كتاب المكابيين المنسوب الى انوسيوس ويسما يوسف ابن كربون"
       ],
       "file": "data/manuscripts/361.xml"
+    },
+    {
+      "id": "362",
+      "uri": "https://biblia-arabica.com/manuscript/362",
+      "headword": "Ordre Basilien Choueirite MS 43",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر المنسوب الي الاربعة الانجيليين متي ومرقص ولوقا ويوحنا القديسين",
+        "Bible. Gospels",
+        "al-Injīl al-sharīf al-ṭāhir wa-al-miṣbāḥ al-munīr al-zāhir"
+      ],
+      "file": "data/manuscripts/362.xml"
     }
   ]
 }
