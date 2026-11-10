@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:28:31.309Z",
+  "generated": "2026-11-10T17:29:04.301Z",
   "type": "manuscript",
   "records": [
     {
@@ -1973,6 +1973,16 @@
         "Calendar tables"
       ],
       "file": "data/manuscripts/164.xml"
+    },
+    {
+      "id": "165",
+      "uri": "https://biblia-arabica.com/manuscript/165",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 37",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/165.xml"
     }
   ]
 }
