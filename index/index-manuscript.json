@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:08:21.901Z",
+  "generated": "2026-11-10T19:08:39.229Z",
   "type": "manuscript",
   "records": [
     {
@@ -3958,6 +3958,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/334.xml"
+    },
+    {
+      "id": "335",
+      "uri": "https://biblia-arabica.com/manuscript/335",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 247",
+      "altNames": [
+        "Gospel Book",
+        "انجيل سيدنا يسوع المسيح حسب الاربع بشارات يقرأ يوميا في القداس الالهي حسب طقس الكنيسة الارمنية الكاثوليكية",
+        "Gospel Book (Armenian Rite)"
+      ],
+      "file": "data/manuscripts/335.xml"
     }
   ]
 }
