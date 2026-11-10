@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:32:16.056Z",
+  "generated": "2026-11-10T18:32:34.697Z",
   "type": "manuscript",
   "records": [
     {
@@ -3309,6 +3309,17 @@
         "Bible. Joel"
       ],
       "file": "data/manuscripts/277.xml"
+    },
+    {
+      "id": "278",
+      "uri": "https://biblia-arabica.com/manuscript/278",
+      "headword": "Near East School of Theology MS AC 36-58",
+      "altNames": [
+        "Amos",
+        "نبوة عاموص",
+        "Bible. Amos"
+      ],
+      "file": "data/manuscripts/278.xml"
     }
   ]
 }
