@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:09:28.279Z",
+  "generated": "2026-11-10T18:09:47.259Z",
   "type": "manuscript",
   "records": [
     {
@@ -2821,6 +2821,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/236.xml"
+    },
+    {
+      "id": "237",
+      "uri": "https://biblia-arabica.com/manuscript/237",
+      "headword": "Near East School of Theology MS AC 36-2",
+      "altNames": [
+        "Book of Genesis",
+        "سفر التكوين",
+        "Bible. Genesis",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/237.xml"
     }
   ]
 }
