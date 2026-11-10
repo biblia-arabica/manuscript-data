@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:01:58.389Z",
+  "generated": "2026-11-10T17:04:04.199Z",
   "type": "manuscript",
   "records": [
     {
@@ -1521,6 +1521,28 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/125.xml"
+    },
+    {
+      "id": "126",
+      "uri": "https://biblia-arabica.com/manuscript/126",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 24",
+      "altNames": [
+        "Tafsīr. Gospels. Gospel of Matthew. Part 2",
+        "كتاب تفسيرالانجيل",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospel of Matthew"
+      ],
+      "file": "data/manuscripts/126.xml"
+    },
+    {
+      "id": "127",
+      "uri": "https://biblia-arabica.com/manuscript/127",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 240",
+      "altNames": [
+        "Commentary on the second epistle to Thessalonians",
+        "تفسير الرساله الثانيه إلى أهل تسالونيكي"
+      ],
+      "file": "data/manuscripts/127.xml"
     }
   ]
 }
