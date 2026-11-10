@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:09:44.637Z",
+  "generated": "2026-11-10T20:10:02.650Z",
   "type": "manuscript",
   "records": [
     {
@@ -4948,6 +4948,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/417.xml"
+    },
+    {
+      "id": "418",
+      "uri": "https://biblia-arabica.com/manuscript/418",
+      "headword": "Dayr Sayyidat al-Bishārah MS 22",
+      "altNames": [
+        "Theological miscellany",
+        "مجموع"
+      ],
+      "file": "data/manuscripts/418.xml"
     }
   ]
 }
