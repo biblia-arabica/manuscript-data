@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:32:24.152Z",
+  "generated": "2026-11-10T12:32:52.578Z",
   "type": "manuscript",
   "records": [
     {
@@ -544,6 +544,20 @@
         "كراسة الالحان وتغيير الالفاظ المقدسة"
       ],
       "file": "data/manuscripts/43.xml"
+    },
+    {
+      "id": "44",
+      "uri": "https://biblia-arabica.com/manuscript/44",
+      "headword": "Mār Behnām Monastery MS 469",
+      "altNames": [
+        "ܣܘܐܠ ܡܘܠܐܢܐ ܫܝܟ ܐܠܐܣܠܐܡ ܐܠܝ ܒܛܪܟ ܡܨܪ ܐܠܡܚܪܘܣܗ ܝܪܝܕ ܒܕܠܟ ܓܘܐܒܗ",
+        "Hymn to Joseph",
+        "ܡܕܝܚܗ ܠܡܐܪ ܝܘܣܦ",
+        "Ecclesiasticus",
+        "ܚܟܡܗ̈ ܐܝܫܘܥ ܐܒܢ ܫܝܪܐܟ ܘܙܝܪ ܣܠܝܡܐܢ ܐܠܡܠܟ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ ܐܠܢܒܝ ܡܠܟ ܐܝܣܪܐܝܠ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/44.xml"
     }
   ]
 }
