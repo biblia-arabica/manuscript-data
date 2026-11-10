@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:46:19.284Z",
+  "generated": "2026-11-10T19:46:50.678Z",
   "type": "manuscript",
   "records": [
     {
@@ -4347,6 +4347,17 @@
         "Bible. Proverbs"
       ],
       "file": "data/manuscripts/367.xml"
+    },
+    {
+      "id": "368",
+      "uri": "https://biblia-arabica.com/manuscript/368",
+      "headword": "Ordre Basilien Choueirite N/A",
+      "altNames": [
+        "Apology for Catholicism",
+        "Lamentations, Song of Solomon, Revelation",
+        "Bible"
+      ],
+      "file": "data/manuscripts/368.xml"
     }
   ]
 }
