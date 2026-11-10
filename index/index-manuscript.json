@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:07:44.897Z",
+  "generated": "2026-11-10T19:08:00.318Z",
   "type": "manuscript",
   "records": [
     {
@@ -3936,6 +3936,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/332.xml"
+    },
+    {
+      "id": "333",
+      "uri": "https://biblia-arabica.com/manuscript/333",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 222",
+      "altNames": [
+        "Pentateuch",
+        "كتاب التوراة المنزولة على صفي الله موسى النبي",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/333.xml"
     }
   ]
 }
