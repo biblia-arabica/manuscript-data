@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:34:23.158Z",
+  "generated": "2026-11-10T18:35:01.601Z",
   "type": "manuscript",
   "records": [
     {
@@ -3386,6 +3386,17 @@
         "Bible. Habakkuk"
       ],
       "file": "data/manuscripts/284.xml"
+    },
+    {
+      "id": "285",
+      "uri": "https://biblia-arabica.com/manuscript/285",
+      "headword": "Near East School of Theology MS AC 36-64",
+      "altNames": [
+        "Habakkuk",
+        "حبقوق",
+        "Bible. Habakkuk"
+      ],
+      "file": "data/manuscripts/285.xml"
     }
   ]
 }
