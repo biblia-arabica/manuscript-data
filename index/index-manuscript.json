@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:20:01.121Z",
+  "generated": "2026-11-10T18:20:44.047Z",
   "type": "manuscript",
   "records": [
     {
@@ -3049,6 +3049,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/255.xml"
+    },
+    {
+      "id": "256",
+      "uri": "https://biblia-arabica.com/manuscript/256",
+      "headword": "Near East School of Theology MS AC 36-37",
+      "altNames": [
+        "Romans",
+        "رسالة بولس الرسول الى اهل رومية",
+        "Bible. Romans",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/256.xml"
     }
   ]
 }
