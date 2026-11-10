@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:05:02.427Z",
+  "generated": "2026-11-10T20:05:17.670Z",
   "type": "manuscript",
   "records": [
     {
@@ -4872,6 +4872,17 @@
         "Commentary on the Psalms"
       ],
       "file": "data/manuscripts/411.xml"
+    },
+    {
+      "id": "412",
+      "uri": "https://biblia-arabica.com/manuscript/412",
+      "headword": "Notre Dame University, Louaize CH 18",
+      "altNames": [
+        "Tartīb ḥayāt sayyidnā wa-mukhalliṣnā Yasūʻ al-Masīḥ min al-arbaʻ bishārāt al-injīlīyah",
+        "ترتيب حياة سيدنا ومخلصنا يسوع المسيح من الاربع بشارات الانجيلية",
+        "Life of Jesus Christ according to the four Gospels"
+      ],
+      "file": "data/manuscripts/412.xml"
     }
   ]
 }
