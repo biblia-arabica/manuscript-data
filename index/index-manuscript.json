@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:13:40.575Z",
+  "generated": "2026-11-10T12:14:02.880Z",
   "type": "manuscript",
   "records": [
     {
@@ -385,6 +385,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/32.xml"
+    },
+    {
+      "id": "33",
+      "uri": "https://biblia-arabica.com/manuscript/33",
+      "headword": "Mār Behnām Monastery MS 263",
+      "altNames": [
+        "Ecclesiasticus",
+        "حكمة يشوع بن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/33.xml"
     }
   ]
 }
