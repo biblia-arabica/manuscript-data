@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:14:58.389Z",
+  "generated": "2026-11-10T14:32:28.691Z",
   "type": "manuscript",
   "records": [
     {
@@ -821,6 +821,15 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/67.xml"
+    },
+    {
+      "id": "68",
+      "uri": "https://biblia-arabica.com/manuscript/68",
+      "headword": "Syriac Orthodox Church. Archdiocese of Mosul N/A",
+      "altNames": [
+        "Miscellaneous fragments"
+      ],
+      "file": "data/manuscripts/68.xml"
     }
   ]
 }
