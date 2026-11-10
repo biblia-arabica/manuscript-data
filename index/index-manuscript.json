@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:59:45.864Z",
+  "generated": "2026-11-10T20:00:03.443Z",
   "type": "manuscript",
   "records": [
     {
@@ -4729,6 +4729,18 @@
         "Readings from the epistles acccording to the Maronite rite"
       ],
       "file": "data/manuscripts/399.xml"
+    },
+    {
+      "id": "400",
+      "uri": "https://biblia-arabica.com/manuscript/400",
+      "headword": "Notre Dame University, Louaize BL 21",
+      "altNames": [
+        "Tafsīr. Gospels",
+        "كتاب تفسير الاناجيل الاربعة",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospel of Matthew, 1-14"
+      ],
+      "file": "data/manuscripts/400.xml"
     }
   ]
 }
