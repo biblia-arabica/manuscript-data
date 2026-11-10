@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:24:53.888Z",
+  "generated": "2026-11-10T18:25:18.021Z",
   "type": "manuscript",
   "records": [
     {
@@ -3109,6 +3109,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/260.xml"
+    },
+    {
+      "id": "261",
+      "uri": "https://biblia-arabica.com/manuscript/261",
+      "headword": "Near East School of Theology MS AC 36-41",
+      "altNames": [
+        "First Epistle of John",
+        "رسالة يوحنا الاولى",
+        "Bible. Epistles",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/261.xml"
     }
   ]
 }
