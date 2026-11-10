@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:05:17.670Z",
+  "generated": "2026-11-10T20:05:34.649Z",
   "type": "manuscript",
   "records": [
     {
@@ -4883,6 +4883,21 @@
         "Life of Jesus Christ according to the four Gospels"
       ],
       "file": "data/manuscripts/412.xml"
+    },
+    {
+      "id": "413",
+      "uri": "https://biblia-arabica.com/manuscript/413",
+      "headword": "Notre Dame University, Louaize DV 03",
+      "altNames": [
+        "Baʻḍ ashyāʼ min asrār al-bayʻah",
+        "ܒܥܨ ܐܫܝܐ ܡܢ ܐܣܪܐܪ ܐܠܒܝܥܗ",
+        "Nawāmīs al-Bayʻah",
+        "ܢܘܐܡܝܣ ܐܠܒܝܥܗ",
+        "Ḥikmat Sulaymān ibn Dāwūd",
+        "ܚܟܡܗ ܣܠܝܡܐܢ ܐܒܢ ܕܐܘܘܕ",
+        "Bible. Wisdom of Solomon"
+      ],
+      "file": "data/manuscripts/413.xml"
     }
   ]
 }
