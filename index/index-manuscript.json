@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T08:27:52.767Z",
+  "generated": "2026-11-10T11:54:49.346Z",
   "type": "manuscript",
   "records": [
     {
@@ -178,6 +178,23 @@
         "نبوة دانيال"
       ],
       "file": "data/manuscripts/14.xml"
+    },
+    {
+      "id": "15",
+      "uri": "https://biblia-arabica.com/manuscript/15",
+      "headword": "Mār Behnām Monastery MS 365",
+      "altNames": [
+        "Psalms",
+        "المزامير",
+        "Bible. Psalms",
+        "Homilies",
+        "مقالات واقوال ومسايل",
+        "Simeon Stylites, Saint, 521-597. Homilies",
+        "Gospel of John",
+        "يوحنا",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/15.xml"
     }
   ]
 }
