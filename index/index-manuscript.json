@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:18:16.870Z",
+  "generated": "2026-11-10T17:18:40.487Z",
   "type": "manuscript",
   "records": [
     {
@@ -1719,6 +1719,17 @@
         "Bible. Matthew"
       ],
       "file": "data/manuscripts/141.xml"
+    },
+    {
+      "id": "142",
+      "uri": "https://biblia-arabica.com/manuscript/142",
+      "headword": "Österreichische Nationalbibliothek Cod. Mixt. 664",
+      "altNames": [
+        "Pentateuch",
+        "التوراة",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/142.xml"
     }
   ]
 }
