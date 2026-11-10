@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:05:32.132Z",
+  "generated": "2026-11-10T17:06:01.254Z",
   "type": "manuscript",
   "records": [
     {
@@ -1566,6 +1566,16 @@
         "Commentary on the Gospel of Luke"
       ],
       "file": "data/manuscripts/129.xml"
+    },
+    {
+      "id": "130",
+      "uri": "https://biblia-arabica.com/manuscript/130",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 27",
+      "altNames": [
+        "Commentary on the Pauline Epistles",
+        "تفاسير رسالات بولس الرسول الأربعة عشر"
+      ],
+      "file": "data/manuscripts/130.xml"
     }
   ]
 }
