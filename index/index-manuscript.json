@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:07:11.180Z",
+  "generated": "2026-11-10T19:07:28.771Z",
   "type": "manuscript",
   "records": [
     {
@@ -3914,6 +3914,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/330.xml"
+    },
+    {
+      "id": "331",
+      "uri": "https://biblia-arabica.com/manuscript/331",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 217",
+      "altNames": [
+        "Gospels",
+        "كتاب الانجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/331.xml"
     }
   ]
 }
