@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:55:46.098Z",
+  "generated": "2026-11-10T18:56:01.793Z",
   "type": "manuscript",
   "records": [
     {
@@ -3537,6 +3537,15 @@
         "Poems and hymns"
       ],
       "file": "data/manuscripts/298.xml"
+    },
+    {
+      "id": "299",
+      "uri": "https://biblia-arabica.com/manuscript/299",
+      "headword": "Near East School of Theology MS H 3",
+      "altNames": [
+        "Miscellany"
+      ],
+      "file": "data/manuscripts/299.xml"
     }
   ]
 }
