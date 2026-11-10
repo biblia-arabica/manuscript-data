@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:50:12.587Z",
+  "generated": "2026-11-10T17:50:35.634Z",
   "type": "manuscript",
   "records": [
     {
@@ -2571,6 +2571,19 @@
         "Commentary on the Gospel of John"
       ],
       "file": "data/manuscripts/214.xml"
+    },
+    {
+      "id": "215",
+      "uri": "https://biblia-arabica.com/manuscript/215",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 87",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament",
+        "Naẓm al-jawhar",
+        "Eutychius, Patriarch of Alexandria, 877-940. Naẓm al-jawhar",
+        "Annals"
+      ],
+      "file": "data/manuscripts/215.xml"
     }
   ]
 }
