@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:10:22.163Z",
+  "generated": "2026-11-10T13:47:40.633Z",
   "type": "manuscript",
   "records": [
     {
@@ -653,6 +653,17 @@
         "Poems"
       ],
       "file": "data/manuscripts/51.xml"
+    },
+    {
+      "id": "52",
+      "uri": "https://biblia-arabica.com/manuscript/52",
+      "headword": "Dominican Friars of Mosul MS 568",
+      "altNames": [
+        "Gospels",
+        "ܟܬܒܐ ܩܕܡܝܐ ܕܕܝܐܬܝܩܝ ܚܕܬܐ",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/52.xml"
     }
   ]
 }
