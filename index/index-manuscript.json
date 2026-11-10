@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:10:26.586Z",
+  "generated": "2026-11-10T18:13:23.953Z",
   "type": "manuscript",
   "records": [
     {
@@ -2857,6 +2857,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/239.xml"
+    },
+    {
+      "id": "240",
+      "uri": "https://biblia-arabica.com/manuscript/240",
+      "headword": "Near East School of Theology MS AC 36-22",
+      "altNames": [
+        "Book of Kings",
+        "سفر الملوك",
+        "Bible. Kings",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/240.xml"
     }
   ]
 }
