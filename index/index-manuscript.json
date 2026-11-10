@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:31:17.147Z",
+  "generated": "2026-11-10T17:31:36.872Z",
   "type": "manuscript",
   "records": [
     {
@@ -2059,6 +2059,18 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/172.xml"
+    },
+    {
+      "id": "173",
+      "uri": "https://biblia-arabica.com/manuscript/173",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 45",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels",
+        "Calendar tables",
+        "Synopsis of chapters of the Gospels"
+      ],
+      "file": "data/manuscripts/173.xml"
     }
   ]
 }
