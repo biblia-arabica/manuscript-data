@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:25:22.377Z",
+  "generated": "2026-11-10T17:25:51.331Z",
   "type": "manuscript",
   "records": [
     {
@@ -1882,6 +1882,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/155.xml"
+    },
+    {
+      "id": "156",
+      "uri": "https://biblia-arabica.com/manuscript/156",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 26",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/156.xml"
     }
   ]
 }
