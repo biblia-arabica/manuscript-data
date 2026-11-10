@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:04:04.199Z",
+  "generated": "2026-11-10T17:04:28.837Z",
   "type": "manuscript",
   "records": [
     {
@@ -1543,6 +1543,17 @@
         "تفسير الرساله الثانيه إلى أهل تسالونيكي"
       ],
       "file": "data/manuscripts/127.xml"
+    },
+    {
+      "id": "128",
+      "uri": "https://biblia-arabica.com/manuscript/128",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 25",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/128.xml"
     }
   ]
 }
