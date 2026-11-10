@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:30:54.183Z",
+  "generated": "2026-11-10T17:31:17.147Z",
   "type": "manuscript",
   "records": [
     {
@@ -2049,6 +2049,16 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/171.xml"
+    },
+    {
+      "id": "172",
+      "uri": "https://biblia-arabica.com/manuscript/172",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 44",
+      "altNames": [
+        "Epistles of Paul",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/172.xml"
     }
   ]
 }
