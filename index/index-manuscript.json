@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:07:53.682Z",
+  "generated": "2026-11-10T17:08:12.324Z",
   "type": "manuscript",
   "records": [
     {
@@ -1637,6 +1637,17 @@
         "Wisdom of Sirach"
       ],
       "file": "data/manuscripts/134.xml"
+    },
+    {
+      "id": "135",
+      "uri": "https://biblia-arabica.com/manuscript/135",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 8",
+      "altNames": [
+        "Homilies on the Gospel of John",
+        "كتاب تفسير انجيل يوحنا البشير الثاولوغوس",
+        "John Chrysostom, Saint, -407. Homilies on John"
+      ],
+      "file": "data/manuscripts/135.xml"
     }
   ]
 }
