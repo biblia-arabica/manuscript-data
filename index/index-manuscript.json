@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:07:28.149Z",
+  "generated": "2026-11-10T17:07:53.682Z",
   "type": "manuscript",
   "records": [
     {
@@ -1625,6 +1625,18 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/133.xml"
+    },
+    {
+      "id": "134",
+      "uri": "https://biblia-arabica.com/manuscript/134",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 79",
+      "altNames": [
+        "Sirach",
+        "كتاب حكمة يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus",
+        "Wisdom of Sirach"
+      ],
+      "file": "data/manuscripts/134.xml"
     }
   ]
 }
