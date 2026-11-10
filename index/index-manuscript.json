@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:12:17.471Z",
+  "generated": "2026-11-10T14:12:59.237Z",
   "type": "manuscript",
   "records": [
     {
@@ -766,6 +766,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/62.xml"
+    },
+    {
+      "id": "63",
+      "uri": "https://biblia-arabica.com/manuscript/63",
+      "headword": "Chaldean Catholic Church. Archdiocese of Mosul N/A",
+      "altNames": [
+        "Gospels",
+        "كتاب الانجيل الطاهر والمصباح",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/63.xml"
     }
   ]
 }
