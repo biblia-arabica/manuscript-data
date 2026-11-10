@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:24:57.744Z",
+  "generated": "2026-11-10T12:25:48.403Z",
   "type": "manuscript",
   "records": [
     {
@@ -438,6 +438,17 @@
         "ܡܝܡܪ ܝܚܬ̣ ܥܠܝ ܐܠܬܘܒܗ ܟ̣ܫܘܥܝ"
       ],
       "file": "data/manuscripts/36.xml"
+    },
+    {
+      "id": "37",
+      "uri": "https://biblia-arabica.com/manuscript/37",
+      "headword": "Mār Behnām Monastery MS 395",
+      "altNames": [
+        "Gospels",
+        "الاناجيل الاربعة",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/37.xml"
     }
   ]
 }
