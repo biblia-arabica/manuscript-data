@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:47:24.755Z",
+  "generated": "2026-11-10T17:49:02.002Z",
   "type": "manuscript",
   "records": [
     {
@@ -2515,6 +2515,17 @@
         "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
       ],
       "file": "data/manuscripts/209.xml"
+    },
+    {
+      "id": "210",
+      "uri": "https://biblia-arabica.com/manuscript/210",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 4",
+      "altNames": [
+        "Tafsīr maqālat Yūḥannā al-injīlī",
+        "تفسير مقالة يوحنا الانجيلي",
+        "Commentary on the Gospel of John"
+      ],
+      "file": "data/manuscripts/210.xml"
     }
   ]
 }
