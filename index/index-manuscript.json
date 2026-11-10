@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:33:09.861Z",
+  "generated": "2026-11-10T17:33:26.505Z",
   "type": "manuscript",
   "records": [
     {
@@ -2112,6 +2112,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/177.xml"
+    },
+    {
+      "id": "178",
+      "uri": "https://biblia-arabica.com/manuscript/178",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 51",
+      "altNames": [
+        "Luke, John",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/178.xml"
     }
   ]
 }
