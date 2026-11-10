@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:00:39.325Z",
+  "generated": "2026-11-10T19:00:56.230Z",
   "type": "manuscript",
   "records": [
     {
@@ -3705,6 +3705,22 @@
         "Bible. Gospels. Diatessaron"
       ],
       "file": "data/manuscripts/313.xml"
+    },
+    {
+      "id": "314",
+      "uri": "https://biblia-arabica.com/manuscript/314",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 430",
+      "altNames": [
+        "Gospel of Matthew",
+        "Bible. Matthew",
+        "Gospel of Mark",
+        "Bible. Mark",
+        "Gospel of Luke",
+        "Bible. Luke",
+        "Gospel of John",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/314.xml"
     }
   ]
 }
