@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:25:49.920Z",
+  "generated": "2026-11-10T18:26:55.984Z",
   "type": "manuscript",
   "records": [
     {
@@ -3145,6 +3145,54 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/263.xml"
+    },
+    {
+      "id": "264",
+      "uri": "https://biblia-arabica.com/manuscript/264",
+      "headword": "Near East School of Theology MS AC 36-44",
+      "altNames": [
+        "Psalms",
+        "سفر المزامير",
+        "Bible. Psalms",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/264.xml"
+    },
+    {
+      "id": "265",
+      "uri": "https://biblia-arabica.com/manuscript/265",
+      "headword": "Near East School of Theology MS AC 36-45",
+      "altNames": [
+        "Book of Proverbs",
+        "الامثال",
+        "Bible. Proverbs",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/265.xml"
+    },
+    {
+      "id": "266",
+      "uri": "https://biblia-arabica.com/manuscript/266",
+      "headword": "Near East School of Theology MS AC 36-46",
+      "altNames": [
+        "Ecclesiastes",
+        "الجامعة",
+        "Bible. Ecclesiastes",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/266.xml"
+    },
+    {
+      "id": "267",
+      "uri": "https://biblia-arabica.com/manuscript/267",
+      "headword": "Near East School of Theology MS AC 36-47",
+      "altNames": [
+        "Song of Songs",
+        "نشيد الانشاد",
+        "Bible. Song of Solomon",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/267.xml"
     }
   ]
 }
