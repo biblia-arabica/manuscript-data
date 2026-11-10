@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:09:39.445Z",
+  "generated": "2026-11-10T13:10:22.163Z",
   "type": "manuscript",
   "records": [
     {
@@ -629,6 +629,30 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/50.xml"
+    },
+    {
+      "id": "51",
+      "uri": "https://biblia-arabica.com/manuscript/51",
+      "headword": "Dominican Friars of Mosul MS 388",
+      "altNames": [
+        "Proverbs, Ecclesiastes. Selections",
+        "Bible. Old Testament",
+        "Mujādalat Jirjī al-rāhib",
+        "مجادلة في الدين جرت بين الراهب جرجس السمعاني وثلاثه من فقهاء الاسلام",
+        "Disputation between Jirjis the monk and three Muslim scholars",
+        "Refutation of al-Nabhānī's treatise Irshād al-ḥayārá fī taḥdhīr al-Muslimīn min madāris al-Naṣārá",
+        "ارشاد الحيارى في تحذير المسلمين من مدارس النصارى",
+        "Comments on Leo Tolstoy's work in light of the beginning of World War I",
+        "نبوة تولستوي او بالحري رسالته الى كل من قيصري روسيا والمانيا وملك الانكليز",
+        "Nubūwat Tūlstūy",
+        "Homily on Purgatory",
+        "عظة على المطهر",
+        "Homily on eternity",
+        "في الابدية",
+        "Theological and philosophical miscellany",
+        "Poems"
+      ],
+      "file": "data/manuscripts/51.xml"
     }
   ]
 }
