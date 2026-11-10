@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:30:20.256Z",
+  "generated": "2026-11-10T17:30:37.663Z",
   "type": "manuscript",
   "records": [
     {
@@ -2029,6 +2029,16 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/169.xml"
+    },
+    {
+      "id": "170",
+      "uri": "https://biblia-arabica.com/manuscript/170",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 42",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/170.xml"
     }
   ]
 }
