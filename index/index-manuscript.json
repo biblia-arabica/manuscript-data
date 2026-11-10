@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:48:22.759Z",
+  "generated": "2026-11-10T13:48:58.957Z",
   "type": "manuscript",
   "records": [
     {
@@ -673,6 +673,19 @@
         "Biblical excerpts, hymns, and prayers"
       ],
       "file": "data/manuscripts/53.xml"
+    },
+    {
+      "id": "54",
+      "uri": "https://biblia-arabica.com/manuscript/54",
+      "headword": "Dominican Friars of Mosul MS 741",
+      "altNames": [
+        "Revelation",
+        "ܡܕܝܚܗ̈ ܪܘܝܗ̈ ܝܘܚܢܐ ܐܠܠܗܘܬܝ",
+        "Bible. Revelation",
+        "Creed",
+        "ܐܝܡܐܢ ܐܠܒܝܥܗ̈ ܐܠܩܐܬܘܠܝܩܝܗ"
+      ],
+      "file": "data/manuscripts/54.xml"
     }
   ]
 }
