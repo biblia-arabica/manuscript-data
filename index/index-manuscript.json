@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:27:06.331Z",
+  "generated": "2026-11-10T17:27:35.870Z",
   "type": "manuscript",
   "records": [
     {
@@ -1932,6 +1932,16 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/160.xml"
+    },
+    {
+      "id": "161",
+      "uri": "https://biblia-arabica.com/manuscript/161",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 30",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/161.xml"
     }
   ]
 }
