@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:20:52.186Z",
+  "generated": "2026-11-10T20:21:11.281Z",
   "type": "manuscript",
   "records": [
     {
@@ -5147,6 +5147,17 @@
         "Feast Calendars"
       ],
       "file": "data/manuscripts/433.xml"
+    },
+    {
+      "id": "434",
+      "uri": "https://biblia-arabica.com/manuscript/434",
+      "headword": "Ordre Basilien Alepin MS 10",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/434.xml"
     }
   ]
 }
