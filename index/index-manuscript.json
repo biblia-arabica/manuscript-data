@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:00:24.383Z",
+  "generated": "2026-11-10T20:02:02.268Z",
   "type": "manuscript",
   "records": [
     {
@@ -4753,6 +4753,18 @@
         "Commentary on Revelation"
       ],
       "file": "data/manuscripts/401.xml"
+    },
+    {
+      "id": "402",
+      "uri": "https://biblia-arabica.com/manuscript/402",
+      "headword": "Notre Dame University, Louaize BL 23",
+      "altNames": [
+        "Tasʹhīl ṣuʻūbāt al-Kitāb al-Muqaddas",
+        "ܟܬܐܒ ܬܣܗܝܠ ܨܥܘܒܐܬ ܐܠܟܬܐܒ ܐܠܡܩܕܣ",
+        "ʻAwwād, Simʻān, 1683-1756. Tasʹhīl ṣuʻūbāt al-Kitāb al-Muqaddas",
+        "Explaining the difficulties in the Holy Bible"
+      ],
+      "file": "data/manuscripts/402.xml"
     }
   ]
 }
