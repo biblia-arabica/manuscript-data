@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:34:35.914Z",
+  "generated": "2026-11-10T17:34:57.324Z",
   "type": "manuscript",
   "records": [
     {
@@ -2154,6 +2154,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/181.xml"
+    },
+    {
+      "id": "182",
+      "uri": "https://biblia-arabica.com/manuscript/182",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 7",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/182.xml"
     }
   ]
 }
