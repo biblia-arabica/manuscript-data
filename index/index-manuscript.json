@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:58:03.326Z",
+  "generated": "2026-11-10T18:58:20.642Z",
   "type": "manuscript",
   "records": [
     {
@@ -3618,6 +3618,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/305.xml"
+    },
+    {
+      "id": "306",
+      "uri": "https://biblia-arabica.com/manuscript/306",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 420",
+      "altNames": [
+        "Bible. Ecclesiasticus",
+        "كتاب الجامع المدعو ايضا حكمة يشوع ابن سيراج"
+      ],
+      "file": "data/manuscripts/306.xml"
     }
   ]
 }
