@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:35:56.898Z",
+  "generated": "2026-11-10T19:37:16.914Z",
   "type": "manuscript",
   "records": [
     {
@@ -4295,6 +4295,16 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/363.xml"
+    },
+    {
+      "id": "364",
+      "uri": "https://biblia-arabica.com/manuscript/364",
+      "headword": "Ordre Basilien Choueirite MS 582",
+      "altNames": [
+        "Homilies",
+        "دفتر مواعظ"
+      ],
+      "file": "data/manuscripts/364.xml"
     }
   ]
 }
