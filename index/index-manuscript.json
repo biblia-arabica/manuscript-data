@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:59:54.085Z",
+  "generated": "2026-11-10T17:00:33.805Z",
   "type": "manuscript",
   "records": [
     {
@@ -1478,6 +1478,17 @@
         "Apostolos (Byzantine Rite)"
       ],
       "file": "data/manuscripts/121.xml"
+    },
+    {
+      "id": "122",
+      "uri": "https://biblia-arabica.com/manuscript/122",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 152",
+      "altNames": [
+        "Evangelion",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Evangelion (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/122.xml"
     }
   ]
 }
