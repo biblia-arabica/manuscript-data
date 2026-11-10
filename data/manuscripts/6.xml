@@ -56,8 +56,9 @@
                                         <p>Born digital.</p>
                                     </sourceDesc>
                                 </fileDesc>
-                                <revisionDesc status="unpublished">
+                                <revisionDesc status="draft">
                                     <change who="#nfaqsh" when="2026-10-30"/>
+                                    <change who="#nfaqsh" when="2026-11-10"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
