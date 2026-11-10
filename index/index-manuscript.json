@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:47:02.566Z",
+  "generated": "2026-11-10T14:47:39.020Z",
   "type": "manuscript",
   "records": [
     {
@@ -1025,6 +1025,26 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/84.xml"
+    },
+    {
+      "id": "85",
+      "uri": "https://biblia-arabica.com/manuscript/85",
+      "headword": "Qalb al-Aqdas Chaldean Church MS 151",
+      "altNames": [
+        "Taʼammulāt rūḥīyah li-ayyām al-usbūʻ",
+        "Meditations for the seven days of the week",
+        "al-Miʼah maqālah fī al-īmān al-urthūdhuksī. Selections",
+        "John, of Damascus, Saint. Exposition of the Orthodox faith",
+        "Revelation",
+        "ܟܬܒܐ ܕܐܦܘܓܠܦܣܝܣ ܕܡܪܝ ܝܘܚܢܢ ܫܠܝܚܐ",
+        "Bible. Revelation",
+        "Mawāʻiẓ sharīfah wa-alfāẓ mukhtaṣarah laṭīfah",
+        "ܟܬܐܒ ܡܘܐܥܛ",
+        "John Chrysostom, Saint, -407. Homilies",
+        "المواعظ",
+        "Eighty-seven homilies"
+      ],
+      "file": "data/manuscripts/85.xml"
     }
   ]
 }
