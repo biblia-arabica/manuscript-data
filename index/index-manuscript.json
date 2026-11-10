@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:09:49.689Z",
+  "generated": "2026-11-10T12:11:15.667Z",
   "type": "manuscript",
   "records": [
     {
@@ -330,6 +330,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/27.xml"
+    },
+    {
+      "id": "28",
+      "uri": "https://biblia-arabica.com/manuscript/28",
+      "headword": "Mār Behnām Monastery MS 164",
+      "altNames": [
+        "Ecclesiasticus",
+        "ܚܟܡܗ̈ ܐܝܫܘܥ ܐܒܢ ܫܝܪܐܟ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/28.xml"
     }
   ]
 }
