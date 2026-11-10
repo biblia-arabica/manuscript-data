@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:09:07.303Z",
+  "generated": "2026-11-10T18:09:28.279Z",
   "type": "manuscript",
   "records": [
     {
@@ -2809,6 +2809,18 @@
         "سفر صموئيل"
       ],
       "file": "data/manuscripts/235.xml"
+    },
+    {
+      "id": "236",
+      "uri": "https://biblia-arabica.com/manuscript/236",
+      "headword": "Near East School of Theology MS AC 36-18",
+      "altNames": [
+        "Book of Samuel",
+        "سفر صموئيل",
+        "Bible. Samuel",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/236.xml"
     }
   ]
 }
