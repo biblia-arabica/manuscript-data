@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:32:28.691Z",
+  "generated": "2026-11-10T14:33:24.265Z",
   "type": "manuscript",
   "records": [
     {
@@ -830,6 +830,15 @@
         "Miscellaneous fragments"
       ],
       "file": "data/manuscripts/68.xml"
+    },
+    {
+      "id": "69",
+      "uri": "https://biblia-arabica.com/manuscript/69",
+      "headword": "Kanīsat al-Ṭāhirah al-Kubrá 137",
+      "altNames": [
+        "Bible"
+      ],
+      "file": "data/manuscripts/69.xml"
     }
   ]
 }
