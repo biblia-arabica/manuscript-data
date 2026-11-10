@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:27:48.102Z",
+  "generated": "2026-11-10T18:29:02.581Z",
   "type": "manuscript",
   "records": [
     {
@@ -3217,6 +3217,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/269.xml"
+    },
+    {
+      "id": "270",
+      "uri": "https://biblia-arabica.com/manuscript/270",
+      "headword": "Near East School of Theology MS AC 36-5",
+      "altNames": [
+        "Book of Leviticus",
+        "سفر اللاويين",
+        "Bible. Leviticus",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/270.xml"
     }
   ]
 }
