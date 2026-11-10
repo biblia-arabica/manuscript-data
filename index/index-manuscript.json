@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:21:55.897Z",
+  "generated": "2026-11-10T20:22:11.271Z",
   "type": "manuscript",
   "records": [
     {
@@ -5191,6 +5191,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/437.xml"
+    },
+    {
+      "id": "438",
+      "uri": "https://biblia-arabica.com/manuscript/438",
+      "headword": "Ordre Basilien Alepin MS 13",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/438.xml"
     }
   ]
 }
