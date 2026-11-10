@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:04:28.123Z",
+  "generated": "2026-11-10T20:04:47.966Z",
   "type": "manuscript",
   "records": [
     {
@@ -4846,6 +4846,20 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/409.xml"
+    },
+    {
+      "id": "410",
+      "uri": "https://biblia-arabica.com/manuscript/410",
+      "headword": "Notre Dame University, Louaize BL 33",
+      "altNames": [
+        "Book of Acts",
+        "كتاب اعمال الرسل القديسين",
+        "Praxapostolos (Byzantine Rite)",
+        "Epistles of Paul",
+        "كتاب رسايل بولس المنتخب",
+        "Apostolos (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/410.xml"
     }
   ]
 }
