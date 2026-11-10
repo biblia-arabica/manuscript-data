@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:27:11.900Z",
+  "generated": "2026-11-10T12:31:29.045Z",
   "type": "manuscript",
   "records": [
     {
@@ -492,6 +492,19 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/40.xml"
+    },
+    {
+      "id": "41",
+      "uri": "https://biblia-arabica.com/manuscript/41",
+      "headword": "Mār Behnām Monastery MS 416",
+      "altNames": [
+        "ܩܠܝܠ ܡܢ ܬܪܬܝܒ ܩܘܐܢܝܢ ܐܠܐܒܐ",
+        "Old Testament. Selections",
+        "Bible. Old Testament",
+        "Medical dictionary",
+        "معجم طبي"
+      ],
+      "file": "data/manuscripts/41.xml"
     }
   ]
 }
