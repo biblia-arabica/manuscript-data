@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:18:56.128Z",
+  "generated": "2026-11-10T20:19:12.205Z",
   "type": "manuscript",
   "records": [
     {
@@ -5046,6 +5046,18 @@
         "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
       ],
       "file": "data/manuscripts/426.xml"
+    },
+    {
+      "id": "427",
+      "uri": "https://biblia-arabica.com/manuscript/427",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 53",
+      "altNames": [
+        "Sirach",
+        "كتاب يشوع بن شيراخ",
+        "Bible. Ecclesiasticus",
+        "Wisdom of Sirach"
+      ],
+      "file": "data/manuscripts/427.xml"
     }
   ]
 }
