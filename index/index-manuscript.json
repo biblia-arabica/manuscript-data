@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:56:41.612Z",
+  "generated": "2026-11-10T18:57:08.304Z",
   "type": "manuscript",
   "records": [
     {
@@ -3568,6 +3568,15 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/301.xml"
+    },
+    {
+      "id": "302",
+      "uri": "https://biblia-arabica.com/manuscript/302",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 1829",
+      "altNames": [
+        "Gospel synopsis"
+      ],
+      "file": "data/manuscripts/302.xml"
     }
   ]
 }
