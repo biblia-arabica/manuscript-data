@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:09:16.456Z",
+  "generated": "2026-11-10T17:09:39.582Z",
   "type": "manuscript",
   "records": [
     {
@@ -1668,9 +1668,14 @@
     {
       "id": "137",
       "uri": "https://biblia-arabica.com/manuscript/137",
-      "headword": "Österreichische Nationalbibliothek Cod. A.F. 403",
+      "headword": "Österreichische Nationalbibliothek Cod. A.F. 479",
       "altNames": [
-        "Miscellany"
+        "Additions to Daniel",
+        "عجايب سوسنه وتسبحة الثلاثة فتية وخبر بيل الصنم",
+        "Bible. Daniel",
+        "5 Maccabees",
+        "كتاب التاني المقابييين",
+        "Fifth book of Maccabees"
       ],
       "file": "data/manuscripts/137.xml"
     }
