@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Lebanon, Beirut, Université Saint-Joseph. Bibliothèque orientale 678</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/316</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Lebanon</country>
+                                                <settlement>Beirut</settlement>
+                                                <repository>Université Saint-Joseph. Bibliothèque orientale</repository>
+                                                <collection>USJ</collection>
+                                                <idno>MS 678</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>505065</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>USJ 00678</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 998479): 1566 [1566–1566]; 1 Nīsān 7074 Anno Mundi; 11 Ramaḍān 973 AH [?–?]; Naskh</summary>
+                                                <msItem xml:id="vhmm-505065-item-1" class="part-1">
+                                                    <title xml:lang="en">Mujādalat Jirjī al-rāhib</title>
+                                                    <title xml:lang="ar">محاورة جدلية بين الراهب السمعاني وثلث مسلم</title>
+                                                    <title xml:lang="en">Mujādalat Jirjī al-rāhib</title>
+                                                    <title xml:lang="en">Disputation between Jirjis the monk and three Muslim scholars</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>المكنا بالمشمور وما جرى</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 998479); catalogue-content-id: 1846033; Title classification: provisional: Mujādalat Jirjī al-rāhib; Title classification: original: محاورة جدلية بين الراهب السمعاني وثلث مسلم; Title classification: uniform: Mujādalat Jirjī al-rāhib; Title classification: alternative: Disputation between Jirjis the monk and three Muslim scholars</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-505065-item-2" class="part-1">
+                                                    <title xml:lang="en">Revelation</title>
+                                                    <title xml:lang="ar">سفر الابوغالمسيس المقدس رويا القديس يوحنا الانجيلى</title>
+                                                    <title xml:lang="en">Bible. Revelation</title>
+                                                    <title xml:lang="en">Apocalypse of John</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 998479); catalogue-content-id: 1846034; Title classification: provisional: Revelation; Title classification: original: سفر الابوغالمسيس المقدس رويا القديس يوحنا الانجيلى; Title classification: uniform: Bible. Revelation; Title classification: alternative: Apocalypse of John</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-505065-item-3" class="part-1">
+                                                    <title xml:lang="en">ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi</title>
+                                                    <title xml:lang="ar">عشر مسايل سالها بعض التلاميذ لمعلميهم</title>
+                                                    <title xml:lang="en">ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi</title>
+                                                    <title xml:lang="en">Ten questions that one of the disciples asked of his master</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 998479); catalogue-content-id: 1846035; Title classification: provisional: ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi; Title classification: original: عشر مسايل سالها بعض التلاميذ لمعلميهم; Title classification: uniform: ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi; Title classification: alternative: Ten questions that one of the disciples asked of his master</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-505065-item-4" class="part-1">
+                                                    <title xml:lang="en">Commentary on Exodus</title>
+                                                    <title xml:lang="ar">تفسير السفر الثانى من التوراه</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 998479); catalogue-content-id: 1846036; content-contributor: {&quot;id&quot;: 711580, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;ابن القنبر، مرقس الضرير بن موهوب&quot;, &quot;contributor&quot;: {&quot;id&quot;: 6769, &quot;name&quot;: &quot;Marqus ibn Qunbar, -1208&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n2024040114&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/9699172278398712660004&quot;, &quot;displayName&quot;: &quot;Ibn al-Qanbar, Marqus al-Ḍarīr ibn Mawhūb, -1208&quot;}}; Title classification: provisional: Commentary on Exodus; Title classification: original: تفسير السفر الثانى من التوراه</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-505065-item-5" class="part-1">
+                                                    <title xml:lang="en">Poems</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 998479); catalogue-content-id: 1846037; content-contributor: {&quot;id&quot;: 711581, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;يوحنا بن حسن&quot;, &quot;contributor&quot;: {&quot;id&quot;: 26411, &quot;name&quot;: &quot;Yūḥannā ibn Ḥasan, active approximately 16th century&quot;, &quot;displayName&quot;: &quot;Yūḥannā ibn Ḥasan, active approximately 16th century&quot;}}; Title classification: provisional: Poems</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Copied by شمعون ابن كرابيد. Portions completed at different dates; colophons, fol. 46v, 70v, 88v-89r. Copied at دير مار نيقولا; Part 1: centuries: [16]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">122 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">220</height>
+                                                                <width unit="mm">160</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 998479): 1566 [1566–1566]; 1 Nīsān 7074 Anno Mundi; 11 Ramaḍān 973 AH [?–?]; Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 505065</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/505065"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Louis Cheikho, Catalogue raisonné des manuscrits historiques de la Bibliothèque Orientale de l&apos;Université Saint-Joseph. Arabic mss. 1-792 (1913-1929).</title>
+                                                        <citedRange>Louis Cheikho, Catalogue raisonné des manuscrits historiques de la Bibliothèque Orientale de l&apos;Université Saint-Joseph. Arabic mss. 1-792 (1913-1929).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/505065">https://w3id.org/vhmml/readingRoom/view/505065</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="acknowledgments">Cataloged by Celeste Gianni</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2026/03/31</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">998479</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Mujādalat Jirjī al-rāhib</title>
+                                                        <title type="original">محاورة جدلية بين الراهب السمعاني وثلث مسلم</title>
+                                                        <title type="uniform">Mujādalat Jirjī al-rāhib</title>
+                                                        <title type="alternative">Disputation between Jirjis the monk and three Muslim scholars</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1846033</note>
+                                                        <note type="incipit">المكنا بالمشمور وما جرى</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Revelation</title>
+                                                        <title type="original">سفر الابوغالمسيس المقدس رويا القديس يوحنا الانجيلى</title>
+                                                        <title type="uniform">Bible. Revelation</title>
+                                                        <title type="alternative">Apocalypse of John</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1846034</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi</title>
+                                                        <title type="original">عشر مسايل سالها بعض التلاميذ لمعلميهم</title>
+                                                        <title type="uniform">ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi</title>
+                                                        <title type="alternative">Ten questions that one of the disciples asked of his master</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1846035</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Commentary on Exodus</title>
+                                                        <title type="original">تفسير السفر الثانى من التوراه</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1846036</note>
+                                                        <note type="content-contributor">{"id": 711580, "type": "Author", "nameNs": "ابن القنبر، مرقس الضرير بن موهوب", "contributor": {"id": 6769, "name": "Marqus ibn Qunbar, -1208", "authorityUriLC": "https://id.loc.gov/authorities/names/n2024040114", "authorityUriVIAF": "https://viaf.org/viaf/9699172278398712660004", "displayName": "Ibn al-Qanbar, Marqus al-Ḍarīr ibn Mawhūb, -1208"}}</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Poems</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1846037</note>
+                                                        <note type="content-contributor">{"id": 711581, "type": "Author", "nameNs": "يوحنا بن حسن", "contributor": {"id": 26411, "name": "Yūḥannā ibn Ḥasan, active approximately 16th century", "displayName": "Yūḥannā ibn Ḥasan, active approximately 16th century"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1566" notAfter="1566">1566</origDate>
+                                                        <origDate type="original-calendar">1 Nīsān 7074 Anno Mundi; 11 Ramaḍān 973 AH</origDate>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 19 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Copied by شمعون ابن كرابيد. Portions completed at different dates; colophons, fol. 46v, 70v, 88v-89r. Copied at دير مار نيقولا</note>
+                                                    <note type="centuries">[16]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
