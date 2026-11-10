@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:12:18.257Z",
+  "generated": "2026-11-10T12:12:51.262Z",
   "type": "manuscript",
   "records": [
     {
@@ -352,6 +352,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/29.xml"
+    },
+    {
+      "id": "30",
+      "uri": "https://biblia-arabica.com/manuscript/30",
+      "headword": "Mār Behnām Monastery MS 259",
+      "altNames": [
+        "Psalms",
+        "زبور داود الملك والنبي",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/30.xml"
     }
   ]
 }
