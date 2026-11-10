@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:54:34.112Z",
+  "generated": "2026-11-10T18:54:51.250Z",
   "type": "manuscript",
   "records": [
     {
@@ -3497,6 +3497,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/294.xml"
+    },
+    {
+      "id": "295",
+      "uri": "https://biblia-arabica.com/manuscript/295",
+      "headword": "Near East School of Theology MS AC 6",
+      "altNames": [
+        "Metrical translation of the Psalms",
+        "مزامير منظومة",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/295.xml"
     }
   ]
 }
