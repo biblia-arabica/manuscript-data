@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:43:45.179Z",
+  "generated": "2026-11-10T16:44:01.229Z",
   "type": "manuscript",
   "records": [
     {
@@ -1333,6 +1333,13 @@
       "headword": "Genesis, for Coptic use, with commentary of Mark ibn Qanbar",
       "altNames": [],
       "file": "data/manuscripts/107.xml"
+    },
+    {
+      "id": "108",
+      "uri": "https://biblia-arabica.com/manuscript/108",
+      "headword": "Genesis, for Coptic use, with commentary of Mark ibn Qanbar",
+      "altNames": [],
+      "file": "data/manuscripts/108.xml"
     }
   ]
 }
