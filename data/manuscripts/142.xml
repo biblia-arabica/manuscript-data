@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Austria, Vienna, Österreichische Nationalbibliothek Cod. Mixt. 664</title>
+                <title level="a" xml:lang="en">Austria, Vienna, Österreichische Nationalbibliothek Cod. Mixt. 732</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -69,26 +69,35 @@
                                                 <country>Austria</country>
                                                 <settlement>Vienna</settlement>
                                                 <repository>Österreichische Nationalbibliothek</repository>
-                                                <collection>23210</collection>
-                                                <idno>Cod. Mixt. 664</idno>
+                                                <collection>23243 002</collection>
+                                                <idno>Cod. Mixt. 732</idno>
                                                 <altIdentifier type="vhmml-readingroom">
-                                                    <idno>529403</idno>
+                                                    <idno>529480</idno>
                                                 </altIdentifier>
                                                 <altIdentifier type="hmml-project">
-                                                    <idno>23210</idno>
+                                                    <idno>23243 002</idno>
                                                 </altIdentifier>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 978225): 1400–1500 [1400–1500]; Naskh, Thuluth</summary>
-                                                <msItem xml:id="vhmm-529403-item-1" class="part-1">
-                                                    <title xml:lang="en">Pentateuch</title>
-                                                    <title xml:lang="ar">التوراة</title>
-                                                    <title xml:lang="en">Bible. Pentateuch</title>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 978340): 1831 [1831–1831]; Naskh</summary>
+                                                <msItem xml:id="vhmm-529480-item-1" class="part-1">
+                                                    <title xml:lang="en">Khalāṣ al-khuṭāh. Part 3</title>
+                                                    <title xml:lang="ar">بعض عجايب العذرى سيدتنا والدة الاله الدايمة الطوبى</title>
+                                                    <title xml:lang="en">Agapios, Monachos, active 17th century. Hamartōlōn sōtēria</title>
+                                                    <title xml:lang="en">Miracles of Mary</title>
+                                                    <title xml:lang="en">Salvation of sinners</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 978340); catalogue-content-id: 1787993; content-contributor: {&quot;id&quot;: 661828, &quot;type&quot;: &quot;Author&quot;, &quot;contributor&quot;: {&quot;id&quot;: 3587, &quot;name&quot;: &quot;Agapios, Monachos, active 17th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n81126900&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/6264074&quot;, &quot;displayName&quot;: &quot;Agapios, Monachos, active 17th century&quot;}}; Title classification: provisional: Khalāṣ al-khuṭāh. Part 3; Title classification: original: بعض عجايب العذرى سيدتنا والدة الاله الدايمة الطوبى; Title classification: uniform: Agapios, Monachos, active 17th century. Hamartōlōn sōtēria; Title classification: alternative: Miracles of Mary; Title classification: alternative: Salvation of sinners</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-529480-item-2" class="part-1">
+                                                    <title xml:lang="en">Revelation</title>
+                                                    <title xml:lang="ar">رويا القديس يوحنا الرسول الانجيلى</title>
+                                                    <title xml:lang="en">Bible. Revelation</title>
                                                     <textLang mainLang="ar"/>
                                                     <incipit>
-                                                        <quote>في البدء خلق الله السموات والأرض وكانت الأرض غامرة مستجرة</quote>
+                                                        <quote>جليان يسوع المسيح الذى اعطاه له ليعلم عبيده</quote>
                                                     </incipit>
-                                                    <note xml:lang="en">vHMML part 1 (ID 978225); catalogue-content-id: 1787871; Title classification: provisional: Pentateuch; Title classification: original: التوراة; Title classification: uniform: Bible. Pentateuch</note>
+                                                    <note xml:lang="en">vHMML part 1 (ID 978340); catalogue-content-id: 1787994; Title classification: provisional: Revelation; Title classification: original: رويا القديس يوحنا الرسول الانجيلى; Title classification: uniform: Bible. Revelation</note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
@@ -96,10 +105,10 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Paper</material>
-                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: centuries: [15]</note>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Copied by ملاتيوس. Portions completed at different dates; colophons, fol. 69r, 80r; Part 1: centuries: [19]</note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">232 leaf(ves)</measure>
+                                                            <measure unit="folio">80 leaf(ves)</measure>
                                                         </extent>
                                                     </supportDesc>
                                                     <layoutDesc>
@@ -110,7 +119,7 @@
                                                 </objectDesc>
                                                 <scriptDesc>
                                                     <scriptNote xml:lang="en">
-                                                        <note>Part 1: Naskh, Thuluth</note>
+                                                        <note>Part 1: Naskh</note>
                                                     </scriptNote>
                                                     <scriptNote xml:lang="en">
                                                         <note>Part 1: Arabic</note>
@@ -118,24 +127,25 @@
                                                 </scriptDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 978225): 1400–1500 [1400–1500]; Naskh, Thuluth</summary>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 978340): 1831 [1831–1831]; Naskh</summary>
                                             </history>
                                             <additional>
                                                 <listBibl>
                                                     <bibl xml:id="bib1">
-                                                        <title>vHMML Reading Room source record 529403</title>
-                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/529403"/>
+                                                        <title>vHMML Reading Room source record 529480</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/529480"/>
                                                     </bibl>
                                                     <bibl xml:id="bib2">
-                                                        <title>Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1541; Muḥammad ʻĀyish, Fihris al-makhṭūṭāt al-ʻArabīyah fī al-Maktabah al-Waṭanīyah al-Namsāwīyah (2008), 978.</title>
-                                                        <citedRange>Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1541; Muḥammad ʻĀyish, Fihris al-makhṭūṭāt al-ʻArabīyah fī al-Maktabah al-Waṭanīyah al-Namsāwīyah (2008), 978.</citedRange>
+                                                        <title>Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1571.</title>
+                                                        <citedRange>Gustav Flügel, Die arabischen, persischen und türkischen Handschriften der kaiserlich-königlichen Hofbibliothek zu Wien (1867), vol. 3, 1571.</citedRange>
                                                     </bibl>
                                                 </listBibl>
                                                 <adminInfo>
                                                     <note type="catalogue-source">
-                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/529403">https://w3id.org/vhmml/readingRoom/view/529403</ref>
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/529480">https://w3id.org/vhmml/readingRoom/view/529480</ref>
                                                     </note>
                                                 </adminInfo>
+                                                <note type="notes">Note on the contents in French, front flyleaf</note>
                                                 <note type="acknowledgments">Cataloged by Josh Mugler; reproduced by permission of Österreichische Nationalbibliothek</note>
                                                 <note type="accessRestriction">Unregistered or order a digital copy</note>
                                                 <note type="lastUpdateDisplay">2025/12/08</note>
@@ -145,22 +155,32 @@
                                             </additional>
                                             <msPart n="1">
                                                 <msIdentifier>
-                                                    <idno type="vhmml-part">978225</idno>
+                                                    <idno type="vhmml-part">978340</idno>
                                                 </msIdentifier>
                                                 <msContents>
                                                     <msItem n="1">
-                                                        <title type="provisional">Pentateuch</title>
-                                                        <title type="original">التوراة</title>
-                                                        <title type="uniform">Bible. Pentateuch</title>
+                                                        <title type="provisional">Khalāṣ al-khuṭāh. Part 3</title>
+                                                        <title type="original">بعض عجايب العذرى سيدتنا والدة الاله الدايمة الطوبى</title>
+                                                        <title type="uniform">Agapios, Monachos, active 17th century. Hamartōlōn sōtēria</title>
+                                                        <title type="alternative">Miracles of Mary</title>
+                                                        <title type="alternative">Salvation of sinners</title>
                                                         <textLang>Arabic</textLang>
-                                                        <note type="catalogue-content-id">1787871</note>
-                                                        <note type="incipit">في البدء خلق الله السموات والأرض وكانت الأرض غامرة مستجرة</note>
+                                                        <note type="catalogue-content-id">1787993</note>
+                                                        <note type="content-contributor">{"id": 661828, "type": "Author", "contributor": {"id": 3587, "name": "Agapios, Monachos, active 17th century", "authorityUriLC": "https://id.loc.gov/authorities/names/n81126900", "authorityUriVIAF": "https://viaf.org/viaf/6264074", "displayName": "Agapios, Monachos, active 17th century"}}</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Revelation</title>
+                                                        <title type="original">رويا القديس يوحنا الرسول الانجيلى</title>
+                                                        <title type="uniform">Bible. Revelation</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1787994</note>
+                                                        <note type="incipit">جليان يسوع المسيح الذى اعطاه له ليعلم عبيده</note>
                                                     </msItem>
                                                 </msContents>
                                                 <history>
                                                     <origin>
-                                                        <origDate notBefore="1400" notAfter="1500">1400–1500</origDate>
-                                                        <note type="script">Naskh, Thuluth</note>
+                                                        <origDate notBefore="1831" notAfter="1831">1831</origDate>
+                                                        <note type="script">Naskh</note>
                                                     </origin>
                                                 </history>
                                                 <physDesc>
@@ -169,11 +189,12 @@
                                                             <support>PAPER</support>
                                                         </supportDesc>
                                                     </objectDesc>
-                                                    <note type="layout">1 column, 15 lines per page</note>
+                                                    <note type="layout">1 column, 25 lines per page</note>
                                                     <note type="writingSystem">Arabic</note>
                                                     <note type="catchwords">True</note>
                                                     <note type="signatures">False</note>
-                                                    <note type="centuries">[15]</note>
+                                                    <note type="partNotes">Copied by ملاتيوس. Portions completed at different dates; colophons, fol. 69r, 80r</note>
+                                                    <note type="centuries">[19]</note>
                                                 </physDesc>
                                             </msPart>
                                         </msDesc>
