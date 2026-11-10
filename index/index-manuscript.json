@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:45:41.383Z",
+  "generated": "2026-11-10T16:46:01.018Z",
   "type": "manuscript",
   "records": [
     {
@@ -1366,6 +1366,23 @@
         "Rois, Livre II"
       ],
       "file": "data/manuscripts/111.xml"
+    },
+    {
+      "id": "112",
+      "uri": "https://biblia-arabica.com/manuscript/112",
+      "headword": "Livres historiques",
+      "altNames": [
+        "Josué",
+        "Juges",
+        "Rois, Livre I",
+        "Rois, Livre II",
+        "Ruth",
+        "Esther",
+        "Judith",
+        "Paralipomènes, Livre I",
+        "Paralipomènes, Livre II"
+      ],
+      "file": "data/manuscripts/112.xml"
     }
   ]
 }
