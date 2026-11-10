@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:32:34.697Z",
+  "generated": "2026-11-10T18:33:12.167Z",
   "type": "manuscript",
   "records": [
     {
@@ -3320,6 +3320,28 @@
         "Bible. Amos"
       ],
       "file": "data/manuscripts/278.xml"
+    },
+    {
+      "id": "279",
+      "uri": "https://biblia-arabica.com/manuscript/279",
+      "headword": "Near East School of Theology MS AC 36-59",
+      "altNames": [
+        "Obadiah",
+        "نبوة عوبديا",
+        "Bible. Obadiah"
+      ],
+      "file": "data/manuscripts/279.xml"
+    },
+    {
+      "id": "280",
+      "uri": "https://biblia-arabica.com/manuscript/280",
+      "headword": "Near East School of Theology MS AC 36-6",
+      "altNames": [
+        "Book of Leviticus",
+        "Van Dyck Arabic Bible",
+        "Bible. Leviticus"
+      ],
+      "file": "data/manuscripts/280.xml"
     }
   ]
 }
