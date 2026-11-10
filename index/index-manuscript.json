@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:41:45.405Z",
+  "generated": "2026-11-10T14:42:18.448Z",
   "type": "manuscript",
   "records": [
     {
@@ -916,6 +916,23 @@
         "كتاب السيّد الحكيم دانيال"
       ],
       "file": "data/manuscripts/76.xml"
+    },
+    {
+      "id": "77",
+      "uri": "https://biblia-arabica.com/manuscript/77",
+      "headword": "Mār Behnām Monastery MS 365",
+      "altNames": [
+        "Psalms",
+        "المزامير",
+        "Bible. Psalms",
+        "Homilies",
+        "مقالات واقوال ومسايل",
+        "Simeon Stylites, Saint, 521-597. Homilies",
+        "Gospel of John",
+        "يوحنا",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/77.xml"
     }
   ]
 }
