@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:18:12.087Z",
+  "generated": "2026-11-10T18:18:29.708Z",
   "type": "manuscript",
   "records": [
     {
@@ -3013,6 +3013,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/252.xml"
+    },
+    {
+      "id": "253",
+      "uri": "https://biblia-arabica.com/manuscript/253",
+      "headword": "Near East School of Theology MS AC 36-34",
+      "altNames": [
+        "Gospel of Luke",
+        "انجيل لوقا",
+        "Bible. Luke",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/253.xml"
     }
   ]
 }
