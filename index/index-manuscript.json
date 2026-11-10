@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:21:42.905Z",
+  "generated": "2026-11-10T18:24:53.888Z",
   "type": "manuscript",
   "records": [
     {
@@ -3097,6 +3097,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/259.xml"
+    },
+    {
+      "id": "260",
+      "uri": "https://biblia-arabica.com/manuscript/260",
+      "headword": "Near East School of Theology MS AC 36-40",
+      "altNames": [
+        "First Epistle to Timothy",
+        "رسالة بولس الرسول الاولى الى تيموثاوس",
+        "Bible. Epistles of Paul",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/260.xml"
     }
   ]
 }
