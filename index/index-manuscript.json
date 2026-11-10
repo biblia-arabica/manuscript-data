@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:16:31.404Z",
+  "generated": "2026-11-10T18:16:46.351Z",
   "type": "manuscript",
   "records": [
     {
@@ -2965,6 +2965,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/248.xml"
+    },
+    {
+      "id": "249",
+      "uri": "https://biblia-arabica.com/manuscript/249",
+      "headword": "Near East School of Theology MS AC 36-30",
+      "altNames": [
+        "Book of Nehemiah",
+        "سفر نحميا",
+        "Bible. Nehemiah",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/249.xml"
     }
   ]
 }
