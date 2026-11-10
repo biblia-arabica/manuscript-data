@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:52:43.312Z",
+  "generated": "2026-11-10T19:53:01.808Z",
   "type": "manuscript",
   "records": [
     {
@@ -4465,6 +4465,15 @@
         "Liguori, Alfonso Maria de', Saint, 1696-1787. Apparecchio alla morte"
       ],
       "file": "data/manuscripts/377.xml"
+    },
+    {
+      "id": "378",
+      "uri": "https://biblia-arabica.com/manuscript/378",
+      "headword": "Dayr Sayyidat al-Balamand MS 155",
+      "altNames": [
+        "Theological miscellany"
+      ],
+      "file": "data/manuscripts/378.xml"
     }
   ]
 }
