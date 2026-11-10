@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:25:48.403Z",
+  "generated": "2026-11-10T12:26:18.940Z",
   "type": "manuscript",
   "records": [
     {
@@ -449,6 +449,19 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/37.xml"
+    },
+    {
+      "id": "38",
+      "uri": "https://biblia-arabica.com/manuscript/38",
+      "headword": "Mār Behnām Monastery MS 396",
+      "altNames": [
+        "Psalms",
+        "ܡܙܐܡܝܪ ܕܐܘܕ ܐܠܢܒܝ ܘܐܠܡܠܟ",
+        "Bible. Psalms",
+        "Prayers",
+        "ܒܥܛ ܨܠܘܐܬ"
+      ],
+      "file": "data/manuscripts/38.xml"
     }
   ]
 }
