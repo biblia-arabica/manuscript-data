@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">France, Paris, Bibliothèque nationale de France, Arabe 23</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/112</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#hibrahim" when="2026-09-12">Converted from supplied catalogue PDF to the current Biblia Arabica MANO structure.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>France</country>
+                                                <settlement>Paris</settlement>
+                                                <repository>Bibliothèque nationale de France. Département des Manuscrits</repository>
+                                                <collection>Arabe</collection>
+                                                <idno>Arabe 23</idno>
+                                                <altIdentifier type="old">
+                                                    <idno>A. 49 (Séguier)</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="old">
+                                                    <idno>N. 9 (Saint-Germain-des-Prés)</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="old">
+                                                    <idno>Supplément arabe 7</idno>
+                                                </altIdentifier>
+                                                <msName>Livres historiques</msName>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary xml:lang="en">Livres historiques</summary>
+                                                <msItem xml:id="bnf-900023-item-1">
+                                                    <locus from="1" to="19"/>
+                                                    <title>Josué</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-2">
+                                                    <locus from="19v" to="35v"/>
+                                                    <title>Juges</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-3">
+                                                    <locus from="36" to="83"/>
+                                                    <title>Rois, Livre I</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-4">
+                                                    <locus from="83v" to="131v"/>
+                                                    <title>Rois, Livre II</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-5">
+                                                    <locus from="132" to="134"/>
+                                                    <title>Ruth</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-6">
+                                                    <locus from="134v" to="137"/>
+                                                    <title>Esther</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-7">
+                                                    <locus from="137v" to="147v"/>
+                                                    <title>Judith</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-8">
+                                                    <locus from="148" to="168"/>
+                                                    <title>Paralipomènes, Livre I</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-900023-item-9">
+                                                    <locus from="168v" to="187v"/>
+                                                    <title>Paralipomènes, Livre II</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType style="codex">Single manuscript</objectType>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note xml:lang="en">Papier oriental
+
+BnF EAD physical description (srcphys_832e54d7d1b3bb30f1702a): 24-28 lignes à la page. Surface écrite 280 × 180 mm. Cahiers numérotés en lettres arabes à 10 fol.Papier oriental.188 fol. Folioté en chiffres coptes.Écriture orientale (Égypte). Texte peu vocalisé. — Titres rubriqués.335 × 250 mm.Demi-reliure, veau brun. Chiffre de Louis-Philippe estampé à chaud.</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">188 fol.</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">335</height>
+                                                                <width unit="mm">250</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <layout writtenLines="24-28" xml:id="layout-1">
+                                                            <dimensions type="written">
+                                                                <height unit="mm">280</height>
+                                                                <width unit="mm">180</width>
+                                                            </dimensions>
+                                                        </layout>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <handDesc>
+                                                    <summary xml:lang="en">Écriture orientale (Égypte).</summary>
+                                                </handDesc>
+                                                <scriptDesc>
+                                                    <scriptNote script="arabic">
+                                                        <note xml:lang="en">Écriture orientale (Égypte).</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                                <decoDesc>
+                                                    <summary xml:lang="en">Titres rubriqués.</summary>
+                                                </decoDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <note xml:lang="en">reliure, veau brun.</note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary xml:lang="en">Date/century in source: 1165 Copie anonyme et non datée.
+
+BnF EAD catalogue (srcphys_832e54d7d1b3bb30f1702a): Livres historiques. Date described in the BnF catalogue: XIVe siècle.</summary>
+                                                <provenance>
+                                                    <note xml:lang="en">Provient de la Bibliothèque Séguier-Coislin. Cachets de cire au chiffre F. D. — Marque de lecture anonyme datée d&apos;Am?īr 1165 des Martyrs [1449 J.-C.] (f. 19) ; marques de lectures anonymes datées de Barmahāt 1234 des Martyrs [1518 J.-C.] (f. 19, 131 v, 137, 147 v, 188) ; marque de possession non datée d&apos;Ibrāhīm ibn Ra?īd al-Mallāḥ et marque de lecture anonyme datée de 1208 des Martyrs [1492 J.-C.] (f. 131 v) ; fin du livre de Job (f. 188) ; mention d&apos;un décès datée de 1027 de l&apos;Hégire [1617 J.-C.] (f. 188 v).</note>
+                                                </provenance>
+                                            </history>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>BnF catalogue/digital surrogate</title>
+                                                            <publisher>Bibliothèque nationale de France</publisher>
+                                                            <ptr target="https://archivesetmanuscrits.bnf.fr/ark:/12148/cc89292w"/>
+                                                        </bibl>
+                                                        <bibl>
+                                                            <title>BnF catalogue/digital surrogate</title>
+                                                            <publisher>Bibliothèque nationale de France</publisher>
+                                                            <ptr target="https://gallica.bnf.fr/ark:/12148/btv1b11004335w"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>BnF EAD manuscript catalogue, Arabe 23 (srcphys_832e54d7d1b3bb30f1702a)</title>
+                                                        <ptr target="https://catalogue.bnf.fr/ark:/12148/cc89292w"/>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <recordHist>
+                                                        <source>Supplied source PDF: BNF_AR_023.pdf. Extracted directly from embedded PDF text; no OCR was used.
+
+Livres historiques.
+Cote : Arabe 23 Réserver
+Ancienne cote : A. 49 (Séguier)
+Ancienne cote : N. 9 (Saint-Germain-des-Prés)
+Ancienne cote : Supplément arabe 7
+
+Livres historiques.
+XIVe siècle
+24-28 lignes à la page. Surface écrite 280 × 180 mm. Cahiers numérotés en lettres arabes à 10 fol.Papier oriental.188 fol.
+Folioté en chiffres coptes.Écriture orientale (Égypte). Texte peu vocalisé. — Titres rubriqués.335 × 250 mm.Demi-reliure, veau
+brun. Chiffre de Louis-Philippe estampé à chaud.
+Manuscrit en arabe
+Bibliothèque nationale de France. Département des Manuscrits
+
+Présentation du contenu
+Copie anonyme et non datée.
+Josué (1-19) ; Juges (19 v-35 v) ; Rois, Livre I (36-83) ; Rois, Livre II (83 v-131 v) ; Ruth (132-134) ; Esther (134 v-137) ; Judith
+(137 v-147 v) ; Paralipomènes, Livre I (148-168) ; Paralipomènes, Livre II (168 v-187 v), texte incomplet de la fin (lacune de
+XXXV, 12-XXXVI, 23).
+Traduits sur la version des Septante.
+
+Historique de la conservation
+Provient de la Bibliothèque Séguier-Coislin. Cachets de cire au chiffre F. D. — Marque de lecture anonyme datée d'Am?īr 1165
+des Martyrs [1449 J.-C.] (f. 19) ; marques de lectures anonymes datées de Barmahāt 1234 des Martyrs [1518 J.-C.] (f. 19, 131
+v, 137, 147 v, 188) ; marque de possession non datée d'Ibrāhīm ibn Ra?īd al-Mallāḥ et marque de lecture anonyme datée de
+1208 des Martyrs [1492 J.-C.] (f. 131 v) ; fin du livre de Job (f. 188) ; mention d'un décès datée de 1027 de l'Hégire [1617 J.-C.]
+(f. 188 v).
+
+Bibliographie
+G. Graf, Geschichte der christlichen arabischen Literatur, 5 vol., Città del Vaticano, 1944-1953, I, 109-111.
+Hjälm, Miriam L. Christian arabic versions of Daniel. A comparative study or early MSS and translation techniques in MSS Sinaï
+Ar. 1 and 2, (Biblia Arabica, 4), Brill, 2016.
+
+Bibliographie
+Voir les notices dactylographiées de Georges Vajda et Solange Ory pour les manuscrits Arabe 2 à 40, 42, 50 à 67, 202, 288 à
+299, 323 à 383, 385 à 470.
+
+Documents de substitution
+Il existe une version numérisée de ce document.
+Numérisation effectuée à partir d'un document de substitution.
+https://gallica.bnf.fr/ark:/12148/btv1b11004335w
+
+Informations sur le traitement
+Système de translittération utilisé : Arabica, proche de la norme ISO 233-2 : 1993 : Information et documentation —
+Translittération des caractères arabes en caractères latins — Partie 2: Langue arabe — Translittération simplifiée.
+
+Documents de substitution
+Microfilm en noir et blanc. Cote de consultation en salle de lecture : MFILM Arabe 23. Cote de la matrice (pour commander une
+reproduction) : R 60522.
+Bible. A.T.
+Notes historiques • Naissances et décès
+Ibrāhīm ibn Ra?īd al-Mallāḥ</source>
+                                                    </recordHist>
+                                                </adminInfo>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
