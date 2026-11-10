@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:19:13.602Z",
+  "generated": "2026-11-10T19:32:49.790Z",
   "type": "manuscript",
   "records": [
     {
@@ -4201,6 +4201,17 @@
         "Explanation of the difficulties in the Holy Bible"
       ],
       "file": "data/manuscripts/355.xml"
+    },
+    {
+      "id": "356",
+      "uri": "https://biblia-arabica.com/manuscript/356",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Lahaj al-albāb bi-lubāb al-Kitāb",
+        "لهج الالباب بلباب الكتاب",
+        "Selections of the Psalms"
+      ],
+      "file": "data/manuscripts/356.xml"
     }
   ]
 }
