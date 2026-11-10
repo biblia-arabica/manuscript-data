@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:19:12.205Z",
+  "generated": "2026-11-10T20:19:30.263Z",
   "type": "manuscript",
   "records": [
     {
@@ -5058,6 +5058,18 @@
         "Wisdom of Sirach"
       ],
       "file": "data/manuscripts/427.xml"
+    },
+    {
+      "id": "428",
+      "uri": "https://biblia-arabica.com/manuscript/428",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 54",
+      "altNames": [
+        "Tafsīr. Gospels. Matthew 15-28",
+        "كتاب تفسير الاناجيل الاربعة",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospel of Matthew"
+      ],
+      "file": "data/manuscripts/428.xml"
     }
   ]
 }
