@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:34:37.247Z",
+  "generated": "2026-11-10T14:36:32.730Z",
   "type": "manuscript",
   "records": [
     {
@@ -861,6 +861,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/71.xml"
+    },
+    {
+      "id": "72",
+      "uri": "https://biblia-arabica.com/manuscript/72",
+      "headword": "Mar Sarkis and Bakhos Syrian Orthodox Church of Qarah Qūsh N/A",
+      "altNames": [
+        "New Testament (Peshitta version)",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/72.xml"
     }
   ]
 }
