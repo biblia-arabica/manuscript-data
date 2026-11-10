@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:00:00.878Z",
+  "generated": "2026-11-10T19:00:15.635Z",
   "type": "manuscript",
   "records": [
     {
@@ -3683,6 +3683,16 @@
         "Ahikar (Folktale)"
       ],
       "file": "data/manuscripts/311.xml"
+    },
+    {
+      "id": "312",
+      "uri": "https://biblia-arabica.com/manuscript/312",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 428",
+      "altNames": [
+        "Tobit",
+        "Bible. Tobit"
+      ],
+      "file": "data/manuscripts/312.xml"
     }
   ]
 }
