@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:19:53.499Z",
+  "generated": "2026-11-10T17:20:25.026Z",
   "type": "manuscript",
   "records": [
     {
@@ -1756,6 +1756,16 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/144.xml"
+    },
+    {
+      "id": "145",
+      "uri": "https://biblia-arabica.com/manuscript/145",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 10",
+      "altNames": [
+        "Jeremiah, Ezekiel",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/145.xml"
     }
   ]
 }
