@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:32:13.131Z",
+  "generated": "2026-11-10T17:32:37.139Z",
   "type": "manuscript",
   "records": [
     {
@@ -2092,6 +2092,16 @@
         "Bible helps"
       ],
       "file": "data/manuscripts/175.xml"
+    },
+    {
+      "id": "176",
+      "uri": "https://biblia-arabica.com/manuscript/176",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 48",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/176.xml"
     }
   ]
 }
