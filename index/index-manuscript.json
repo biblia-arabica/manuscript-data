@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:54:38.619Z",
+  "generated": "2026-11-10T16:55:02.093Z",
   "type": "manuscript",
   "records": [
     {
@@ -1426,6 +1426,16 @@
         "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram"
       ],
       "file": "data/manuscripts/116.xml"
+    },
+    {
+      "id": "117",
+      "uri": "https://biblia-arabica.com/manuscript/117",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 124",
+      "altNames": [
+        "Psalter",
+        "Psalter (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/117.xml"
     }
   ]
 }
