@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T15:08:59.748Z",
+  "generated": "2026-11-10T16:40:31.331Z",
   "type": "manuscript",
   "records": [
     {
@@ -1232,6 +1232,19 @@
         "Deuteronomy"
       ],
       "file": "data/manuscripts/99.xml"
+    },
+    {
+      "id": "100",
+      "uri": "https://biblia-arabica.com/manuscript/100",
+      "headword": "Pentateuch, for Coptic use, with commentary of Mark ibn Qanbar",
+      "altNames": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "file": "data/manuscripts/100.xml"
     }
   ]
 }
