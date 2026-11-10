@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:53:57.322Z",
+  "generated": "2026-11-10T19:54:20.326Z",
   "type": "manuscript",
   "records": [
     {
@@ -4524,6 +4524,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/381.xml"
+    },
+    {
+      "id": "382",
+      "uri": "https://biblia-arabica.com/manuscript/382",
+      "headword": "Dayr Sayyidat al-Balamand MS 4",
+      "altNames": [
+        "Gospels",
+        "اربع اناجيل المقدسه",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/382.xml"
     }
   ]
 }
