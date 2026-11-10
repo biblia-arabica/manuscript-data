@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:27:35.870Z",
+  "generated": "2026-11-10T17:27:53.375Z",
   "type": "manuscript",
   "records": [
     {
@@ -1942,6 +1942,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/161.xml"
+    },
+    {
+      "id": "162",
+      "uri": "https://biblia-arabica.com/manuscript/162",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 31",
+      "altNames": [
+        "Matthew, Mark",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/162.xml"
     }
   ]
 }
