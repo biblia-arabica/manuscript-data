@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:07:15.439Z",
+  "generated": "2026-11-10T18:07:34.738Z",
   "type": "manuscript",
   "records": [
     {
@@ -2775,6 +2775,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/232.xml"
+    },
+    {
+      "id": "233",
+      "uri": "https://biblia-arabica.com/manuscript/233",
+      "headword": "Near East School of Theology MS AC 36-13",
+      "altNames": [
+        "Book of Judges",
+        "سفر القضاة",
+        "Bible. Judges",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/233.xml"
     }
   ]
 }
