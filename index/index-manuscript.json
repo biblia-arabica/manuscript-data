@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:20:44.047Z",
+  "generated": "2026-11-10T18:20:59.543Z",
   "type": "manuscript",
   "records": [
     {
@@ -3061,6 +3061,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/256.xml"
+    },
+    {
+      "id": "257",
+      "uri": "https://biblia-arabica.com/manuscript/257",
+      "headword": "Near East School of Theology MS AC 36-38",
+      "altNames": [
+        "Corinthians 1",
+        "رسالة بولس الرسول الاول الى اهل قرنثية",
+        "Bible. Epistles of Paul",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/257.xml"
     }
   ]
 }
