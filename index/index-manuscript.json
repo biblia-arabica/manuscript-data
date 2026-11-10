@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:11:32.613Z",
+  "generated": "2026-11-10T17:18:16.870Z",
   "type": "manuscript",
   "records": [
     {
@@ -1708,6 +1708,17 @@
         "Bible. Luke"
       ],
       "file": "data/manuscripts/140.xml"
+    },
+    {
+      "id": "141",
+      "uri": "https://biblia-arabica.com/manuscript/141",
+      "headword": "Österreichische Nationalbibliothek Cod. Mixt. 514",
+      "altNames": [
+        "Gospel of Matthew",
+        "متى",
+        "Bible. Matthew"
+      ],
+      "file": "data/manuscripts/141.xml"
     }
   ]
 }
