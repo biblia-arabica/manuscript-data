@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:18:40.354Z",
+  "generated": "2026-11-10T20:18:56.128Z",
   "type": "manuscript",
   "records": [
     {
@@ -5035,6 +5035,17 @@
         "John Chrysostom, Saint, -407. Homilies on John"
       ],
       "file": "data/manuscripts/425.xml"
+    },
+    {
+      "id": "426",
+      "uri": "https://biblia-arabica.com/manuscript/426",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 36",
+      "altNames": [
+        "Commentary on the Song of Solomon",
+        "كتاب نشيد الانشاد المقول من سليمان ابن داود النبي مع شرح معانيه",
+        "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
+      ],
+      "file": "data/manuscripts/426.xml"
     }
   ]
 }
