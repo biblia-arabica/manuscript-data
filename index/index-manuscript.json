@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:22:01.197Z",
+  "generated": "2026-11-10T17:22:21.735Z",
   "type": "manuscript",
   "records": [
     {
@@ -1820,6 +1820,18 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/149.xml"
+    },
+    {
+      "id": "150",
+      "uri": "https://biblia-arabica.com/manuscript/150",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 15",
+      "altNames": [
+        "Ecclesiasticus",
+        "Bible. Ecclesiasticus",
+        "Story of Afīqiyā",
+        "Liturgical prayers"
+      ],
+      "file": "data/manuscripts/150.xml"
     }
   ]
 }
