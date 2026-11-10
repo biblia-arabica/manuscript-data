@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:26:45.789Z",
+  "generated": "2026-11-10T12:27:11.900Z",
   "type": "manuscript",
   "records": [
     {
@@ -479,6 +479,19 @@
         "Bible. Acts"
       ],
       "file": "data/manuscripts/39.xml"
+    },
+    {
+      "id": "40",
+      "uri": "https://biblia-arabica.com/manuscript/40",
+      "headword": "Mār Behnām Monastery MS 411",
+      "altNames": [
+        "Poems",
+        "مقتطفات الديوان",
+        "Epistles of Paul. Selections",
+        "مقتطفات رسائل بولس الرسول",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/40.xml"
     }
   ]
 }
