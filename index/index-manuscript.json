@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:10:49.835Z",
+  "generated": "2026-11-10T19:11:05.359Z",
   "type": "manuscript",
   "records": [
     {
@@ -4042,6 +4042,20 @@
         "ܟܬܐܒ ܐܠܩܕܐܣ"
       ],
       "file": "data/manuscripts/341.xml"
+    },
+    {
+      "id": "342",
+      "uri": "https://biblia-arabica.com/manuscript/342",
+      "headword": "Lebanese Maronite Missionary Order MS 397",
+      "altNames": [
+        "Fuṣūl min Bishārat Yūḥannā",
+        "فصول من بشارة يوحنا",
+        "Syriac Dictionary",
+        "مقاطع من قاموس سرياني",
+        "Qaṣīdah Ḥakmīyah",
+        "قصيدة حكمية"
+      ],
+      "file": "data/manuscripts/342.xml"
     }
   ]
 }
