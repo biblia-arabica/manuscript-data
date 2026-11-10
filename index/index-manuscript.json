@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:48:47.944Z",
+  "generated": "2026-11-10T19:49:40.218Z",
   "type": "manuscript",
   "records": [
     {
@@ -4403,6 +4403,16 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/372.xml"
+    },
+    {
+      "id": "373",
+      "uri": "https://biblia-arabica.com/manuscript/373",
+      "headword": "Dayr Yūḥannā Ḥarāsh N/A",
+      "altNames": [
+        "Pentateuch",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/373.xml"
     }
   ]
 }
