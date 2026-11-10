@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:34:57.324Z",
+  "generated": "2026-11-10T17:35:15.735Z",
   "type": "manuscript",
   "records": [
     {
@@ -2164,6 +2164,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/182.xml"
+    },
+    {
+      "id": "183",
+      "uri": "https://biblia-arabica.com/manuscript/183",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 8",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/183.xml"
     }
   ]
 }
