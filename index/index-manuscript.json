@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:51:09.014Z",
+  "generated": "2026-11-10T14:51:47.293Z",
   "type": "manuscript",
   "records": [
     {
@@ -1066,6 +1066,17 @@
         "Bible. Acts"
       ],
       "file": "data/manuscripts/87.xml"
+    },
+    {
+      "id": "88",
+      "uri": "https://biblia-arabica.com/manuscript/88",
+      "headword": "Dominican Friars of Mosul MS 817",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/88.xml"
     }
   ]
 }
