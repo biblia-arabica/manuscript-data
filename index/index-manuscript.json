@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:42:00.861Z",
+  "generated": "2026-11-10T17:42:24.438Z",
   "type": "manuscript",
   "records": [
     {
@@ -2326,6 +2326,16 @@
         "Bible. Jude"
       ],
       "file": "data/manuscripts/194.xml"
+    },
+    {
+      "id": "195",
+      "uri": "https://biblia-arabica.com/manuscript/195",
+      "headword": "Saint Mark's Monastery MS 239",
+      "altNames": [
+        "New Testament (Peshitta and Harklean versions)",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/195.xml"
     }
   ]
 }
