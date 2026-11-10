@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:05:01.693Z",
+  "generated": "2026-11-10T17:05:32.132Z",
   "type": "manuscript",
   "records": [
     {
@@ -1558,11 +1558,12 @@
     {
       "id": "129",
       "uri": "https://biblia-arabica.com/manuscript/129",
-      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 253",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 259",
       "altNames": [
-        "Gospels",
-        "الكتاب الشريف انجيل سيدنا ومخلصنا الرب يسوع المسيح",
-        "Bible. Gospels"
+        "Tathqīf al-insān wa-tanwīr al-adhhān",
+        "تثقيف الإنسان وتنوير الأذهان",
+        "Kazmā, Ibrāhīm, active 1867-1868. Tathqīf al-insān wa-tanwīr al-adhhān",
+        "Commentary on the Gospel of Luke"
       ],
       "file": "data/manuscripts/129.xml"
     }
