@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:53:12.544Z",
+  "generated": "2026-11-10T18:53:30.208Z",
   "type": "manuscript",
   "records": [
     {
@@ -3452,6 +3452,18 @@
         "Bible. Malachi"
       ],
       "file": "data/manuscripts/290.xml"
+    },
+    {
+      "id": "291",
+      "uri": "https://biblia-arabica.com/manuscript/291",
+      "headword": "Near East School of Theology MS AC 36-7",
+      "altNames": [
+        "Numbers",
+        "سفر العدد",
+        "Bible. Numbers",
+        "al-ʻAdad"
+      ],
+      "file": "data/manuscripts/291.xml"
     }
   ]
 }
