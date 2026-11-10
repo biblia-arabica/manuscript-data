@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:11:15.667Z",
+  "generated": "2026-11-10T12:12:18.257Z",
   "type": "manuscript",
   "records": [
     {
@@ -341,6 +341,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/28.xml"
+    },
+    {
+      "id": "29",
+      "uri": "https://biblia-arabica.com/manuscript/29",
+      "headword": "Mār Behnām Monastery MS 165",
+      "altNames": [
+        "Ecclesiasticus",
+        "ܚܟܡܗ̈ ܝܫܘܥ ܐܒܢ ܫܝܪܐܟ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/29.xml"
     }
   ]
 }
