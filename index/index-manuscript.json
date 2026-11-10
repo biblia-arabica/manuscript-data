@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:26:18.940Z",
+  "generated": "2026-11-10T12:26:45.789Z",
   "type": "manuscript",
   "records": [
     {
@@ -462,6 +462,23 @@
         "ܒܥܛ ܨܠܘܐܬ"
       ],
       "file": "data/manuscripts/38.xml"
+    },
+    {
+      "id": "39",
+      "uri": "https://biblia-arabica.com/manuscript/39",
+      "headword": "Mar Hirmiz Keldani Kilisesi 56",
+      "altNames": [
+        "On Paul and Timothy",
+        "Epistles of Paul",
+        "Bible. Epistles of Paul",
+        "Epistles",
+        "السبع رسايل القثاليقون للتلاميد الاطهار",
+        "Bible. Epistles",
+        "Acts of the Apostles",
+        "كتاب الابركسيس الذي هو اخبار الرسل مند صعود ربنا يسوع المسيح",
+        "Bible. Acts"
+      ],
+      "file": "data/manuscripts/39.xml"
     }
   ]
 }
