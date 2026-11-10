@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:03:37.541Z",
+  "generated": "2026-11-10T19:04:10.239Z",
   "type": "manuscript",
   "records": [
     {
@@ -3829,6 +3829,18 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/323.xml"
+    },
+    {
+      "id": "324",
+      "uri": "https://biblia-arabica.com/manuscript/324",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Archdiocese of Mount Lebanon 9",
+      "altNames": [
+        "List of the Yearly Readings Taken from the Four Holy ܶEvangelists",
+        "ܡܫܘܕܥ ܩܪ̈ܝܢܐ ܫܢܬܢܝ̈ܐ ܕܢܣܝ݂ܒܝܢ ܡܢ ܐܪ̈ܒܥܐ ܐܘܢܓܠܝ̈ܣܛܐ ܩܕܝ̈ܫܐ",
+        "Novum Testamentum Syriacum et Arabicum",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/324.xml"
     }
   ]
 }
