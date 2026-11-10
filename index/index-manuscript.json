@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:55:45.782Z",
+  "generated": "2026-11-10T17:58:27.492Z",
   "type": "manuscript",
   "records": [
     {
@@ -2709,6 +2709,16 @@
         "Bible. Matthew"
       ],
       "file": "data/manuscripts/226.xml"
+    },
+    {
+      "id": "227",
+      "uri": "https://biblia-arabica.com/manuscript/227",
+      "headword": "Near East School of Theology MS AC 16",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/227.xml"
     }
   ]
 }
