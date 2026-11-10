@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:19:16.852Z",
+  "generated": "2026-11-10T18:20:01.121Z",
   "type": "manuscript",
   "records": [
     {
@@ -3037,6 +3037,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/254.xml"
+    },
+    {
+      "id": "255",
+      "uri": "https://biblia-arabica.com/manuscript/255",
+      "headword": "Near East School of Theology MS AC 36-36",
+      "altNames": [
+        "Acts of the Apostles",
+        "اعمال الرسل",
+        "Bible. Acts",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/255.xml"
     }
   ]
 }
