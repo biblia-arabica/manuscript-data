@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:57:33.179Z",
+  "generated": "2026-11-10T19:57:49.730Z",
   "type": "manuscript",
   "records": [
     {
@@ -4659,6 +4659,18 @@
         "Commentary on Romans"
       ],
       "file": "data/manuscripts/393.xml"
+    },
+    {
+      "id": "394",
+      "uri": "https://biblia-arabica.com/manuscript/394",
+      "headword": "Notre Dame University, Louaize BL 14",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. 1 Corinthians, 2 Corinthians",
+        "ܬܦܣܝܪ ܪܣܐܠܬܝ ܐܠܩܕܝܣ ܒܘܠܣ ܐܠܪܣܘܠ ܐܠܝ ܐܠܩܘܪܢܬܝܝܢ",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on 1 & 2 Corinthians"
+      ],
+      "file": "data/manuscripts/394.xml"
     }
   ]
 }
