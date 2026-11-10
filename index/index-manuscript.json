@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:33:45.979Z",
+  "generated": "2026-11-10T18:34:03.658Z",
   "type": "manuscript",
   "records": [
     {
@@ -3364,6 +3364,17 @@
         "Bible. Micah"
       ],
       "file": "data/manuscripts/282.xml"
+    },
+    {
+      "id": "283",
+      "uri": "https://biblia-arabica.com/manuscript/283",
+      "headword": "Near East School of Theology MS AC 36-62",
+      "altNames": [
+        "Nahum",
+        "نبوة ناحوم",
+        "Bible. Nahum"
+      ],
+      "file": "data/manuscripts/283.xml"
     }
   ]
 }
