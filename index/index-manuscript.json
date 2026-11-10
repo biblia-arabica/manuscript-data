@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:02:50.955Z",
+  "generated": "2026-11-10T20:03:11.293Z",
   "type": "manuscript",
   "records": [
     {
@@ -4786,6 +4786,18 @@
         "تفسير الانجيل المقدس"
       ],
       "file": "data/manuscripts/404.xml"
+    },
+    {
+      "id": "405",
+      "uri": "https://biblia-arabica.com/manuscript/405",
+      "headword": "Notre Dame University, Louaize BL 27",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. 1 Corinthians, 2 Corinthians",
+        "تفسير رسالتي القديس بولس الرسول إلى الكورنتيين",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on 1 & 2 Corinthians"
+      ],
+      "file": "data/manuscripts/405.xml"
     }
   ]
 }
