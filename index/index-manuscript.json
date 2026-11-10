@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:50:16.712Z",
+  "generated": "2026-11-10T19:50:51.220Z",
   "type": "manuscript",
   "records": [
     {
@@ -4424,6 +4424,17 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/374.xml"
+    },
+    {
+      "id": "375",
+      "uri": "https://biblia-arabica.com/manuscript/375",
+      "headword": "Dayr Yūḥannā Ḥarāsh N/A",
+      "altNames": [
+        "Gospels",
+        "ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܕܡܫܝܚܐ ܦܪܘܩܢ",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/375.xml"
     }
   ]
 }
