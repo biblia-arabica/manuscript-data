@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:12:59.237Z",
+  "generated": "2026-11-10T14:13:25.196Z",
   "type": "manuscript",
   "records": [
     {
@@ -777,6 +777,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/63.xml"
+    },
+    {
+      "id": "64",
+      "uri": "https://biblia-arabica.com/manuscript/64",
+      "headword": "Private Library of Albīr Abūnā MS 2",
+      "altNames": [
+        "Durūs fī al-kitāb al-muqaddas",
+        "دروس في الكتاب المقدس"
+      ],
+      "file": "data/manuscripts/64.xml"
     }
   ]
 }
