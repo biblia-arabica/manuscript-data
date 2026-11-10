@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:29:23.840Z",
+  "generated": "2026-11-10T17:29:41.415Z",
   "type": "manuscript",
   "records": [
     {
@@ -1999,6 +1999,16 @@
         "Epistle of Dionysius the Areopagite to Timothy concerning the deaths of the Apostles Peter and Paul"
       ],
       "file": "data/manuscripts/166.xml"
+    },
+    {
+      "id": "167",
+      "uri": "https://biblia-arabica.com/manuscript/167",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 39",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/167.xml"
     }
   ]
 }
