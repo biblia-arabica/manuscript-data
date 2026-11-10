@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:46:13.814Z",
+  "generated": "2026-11-10T14:47:02.566Z",
   "type": "manuscript",
   "records": [
     {
@@ -954,11 +954,9 @@
     {
       "id": "79",
       "uri": "https://biblia-arabica.com/manuscript/79",
-      "headword": "Dominican Friars of Mosul MS 352",
+      "headword": "Université Saint-Joseph de Beyrouth 429",
       "altNames": [
-        "Sentences de l'Ecr. Ste: A",
-        "Bible",
-        "Sentences de l'Ecr. Ste: B"
+        "Uncertain"
       ],
       "file": "data/manuscripts/79.xml"
     },
@@ -1016,6 +1014,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/83.xml"
+    },
+    {
+      "id": "84",
+      "uri": "https://biblia-arabica.com/manuscript/84",
+      "headword": "Syriac Orthodox Church. Archdiocese of Mosul MS 122",
+      "altNames": [
+        "Psalms",
+        "ܟܬܐܒ ܡܙܐܡܝܪ ܕܐܘܘܕ ܐܠܡܠܟ ܘܐܠܢܒܝ ܐܠܡܠܩܒ ܒܩܠܒ ܐܠܠܗ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/84.xml"
     }
   ]
 }
