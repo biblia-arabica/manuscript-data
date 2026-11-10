@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:16:46.351Z",
+  "generated": "2026-11-10T18:17:01.599Z",
   "type": "manuscript",
   "records": [
     {
@@ -2977,6 +2977,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/249.xml"
+    },
+    {
+      "id": "250",
+      "uri": "https://biblia-arabica.com/manuscript/250",
+      "headword": "Near East School of Theology MS AC 36-31",
+      "altNames": [
+        "Book of Esther",
+        "سفر استير",
+        "Bible. Esther",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/250.xml"
     }
   ]
 }
