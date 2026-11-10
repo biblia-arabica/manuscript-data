@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:09:27.521Z",
+  "generated": "2026-11-10T19:09:45.158Z",
   "type": "manuscript",
   "records": [
     {
@@ -3985,6 +3985,16 @@
         "Injīl min Yūḥannā li-kull yawm"
       ],
       "file": "data/manuscripts/336.xml"
+    },
+    {
+      "id": "337",
+      "uri": "https://biblia-arabica.com/manuscript/337",
+      "headword": "Dayr al-Qiddīs Yūḥannā al-Maʻmadān MS 10",
+      "altNames": [
+        "1-2 Esdras, Prophets",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/337.xml"
     }
   ]
 }
