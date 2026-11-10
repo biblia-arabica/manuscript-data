@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:33:12.167Z",
+  "generated": "2026-11-10T18:33:27.021Z",
   "type": "manuscript",
   "records": [
     {
@@ -3342,6 +3342,17 @@
         "Bible. Leviticus"
       ],
       "file": "data/manuscripts/280.xml"
+    },
+    {
+      "id": "281",
+      "uri": "https://biblia-arabica.com/manuscript/281",
+      "headword": "Near East School of Theology MS AC 36-60",
+      "altNames": [
+        "Jonah",
+        "نبوة يونان",
+        "Bible. Jonah"
+      ],
+      "file": "data/manuscripts/281.xml"
     }
   ]
 }
