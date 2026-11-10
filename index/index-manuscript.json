@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:58:10.772Z",
+  "generated": "2026-11-10T19:58:31.617Z",
   "type": "manuscript",
   "records": [
     {
@@ -4683,6 +4683,18 @@
         "Commentary on the Epistles to Galatians and Ephesian"
       ],
       "file": "data/manuscripts/395.xml"
+    },
+    {
+      "id": "396",
+      "uri": "https://biblia-arabica.com/manuscript/396",
+      "headword": "Notre Dame University, Louaize BL 16",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. Hebrews",
+        "تفسير رسالة القديس بولس الى العبرانيين",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Epistle to the Hebrews"
+      ],
+      "file": "data/manuscripts/396.xml"
     }
   ]
 }
