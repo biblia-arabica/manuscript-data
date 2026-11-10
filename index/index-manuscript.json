@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:31:29.045Z",
+  "generated": "2026-11-10T12:31:57.442Z",
   "type": "manuscript",
   "records": [
     {
@@ -505,6 +505,20 @@
         "معجم طبي"
       ],
       "file": "data/manuscripts/41.xml"
+    },
+    {
+      "id": "42",
+      "uri": "https://biblia-arabica.com/manuscript/42",
+      "headword": "Mār Behnām Monastery MS 434",
+      "altNames": [
+        "Prayers, creeds, and liturgical texts",
+        "صلوات متنوعة",
+        "Bible. Selections",
+        "Bible",
+        "Catechism",
+        "مختصر التعليم المسيحى"
+      ],
+      "file": "data/manuscripts/42.xml"
     }
   ]
 }
