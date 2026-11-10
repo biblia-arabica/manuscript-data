@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:29:02.581Z",
+  "generated": "2026-11-10T18:29:25.391Z",
   "type": "manuscript",
   "records": [
     {
@@ -3229,6 +3229,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/270.xml"
+    },
+    {
+      "id": "271",
+      "uri": "https://biblia-arabica.com/manuscript/271",
+      "headword": "Near East School of Theology MS AC 36-50",
+      "altNames": [
+        "Book of Jeremiah",
+        "سفر ارميا",
+        "Bible. Jeremiah",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/271.xml"
     }
   ]
 }
