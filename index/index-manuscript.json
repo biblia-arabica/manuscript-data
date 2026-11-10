@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:00:03.443Z",
+  "generated": "2026-11-10T20:00:24.383Z",
   "type": "manuscript",
   "records": [
     {
@@ -4741,6 +4741,18 @@
         "Commentary on the Gospel of Matthew, 1-14"
       ],
       "file": "data/manuscripts/400.xml"
+    },
+    {
+      "id": "401",
+      "uri": "https://biblia-arabica.com/manuscript/401",
+      "headword": "Notre Dame University, Louaize BL 22",
+      "altNames": [
+        "al-ʻUnwān al-ʻajīb fī ruʼyā al-Ḥabīb",
+        "العنوان العجيب في رؤيا الحبيب",
+        "Bānī, Yūsuf ibn Jirjis, -1724 or 1725. ʻUnwān al-ʻajīb fī ruʼyā al-Ḥabīb",
+        "Commentary on Revelation"
+      ],
+      "file": "data/manuscripts/401.xml"
     }
   ]
 }
