@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:01:48.574Z",
+  "generated": "2026-11-10T18:02:12.679Z",
   "type": "manuscript",
   "records": [
     {
@@ -2753,6 +2753,17 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/230.xml"
+    },
+    {
+      "id": "231",
+      "uri": "https://biblia-arabica.com/manuscript/231",
+      "headword": "Near East School of Theology MS AC 36-10",
+      "altNames": [
+        "Book of Deuteronomy",
+        "سفر التثنية",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/231.xml"
     }
   ]
 }
