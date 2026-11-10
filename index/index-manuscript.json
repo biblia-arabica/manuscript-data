@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:55:26.417Z",
+  "generated": "2026-11-10T17:55:45.782Z",
   "type": "manuscript",
   "records": [
     {
@@ -2698,6 +2698,17 @@
         "Bible. Revelation"
       ],
       "file": "data/manuscripts/225.xml"
+    },
+    {
+      "id": "226",
+      "uri": "https://biblia-arabica.com/manuscript/226",
+      "headword": "Near East School of Theology MS AC 15",
+      "altNames": [
+        "Gospel of Matthew",
+        "انجيل متى البشير",
+        "Bible. Matthew"
+      ],
+      "file": "data/manuscripts/226.xml"
     }
   ]
 }
