@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:50:14.348Z",
+  "generated": "2026-11-10T14:51:09.014Z",
   "type": "manuscript",
   "records": [
     {
@@ -1055,6 +1055,17 @@
         "مختارات من الكتاب المقدس"
       ],
       "file": "data/manuscripts/86.xml"
+    },
+    {
+      "id": "87",
+      "uri": "https://biblia-arabica.com/manuscript/87",
+      "headword": "Private Library of Bahnām Jajī Jaḥūlā MS 15",
+      "altNames": [
+        "Acts of the Apostles",
+        "ܟܬܒܐ ܕܦܪܟܣܝܣ ܕܫܠܝܚܐ ܛܘܒܢܐ",
+        "Bible. Acts"
+      ],
+      "file": "data/manuscripts/87.xml"
     }
   ]
 }
