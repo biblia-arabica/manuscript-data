@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Iraq, Mosul, Mār Behnām Monastery 466</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/43</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="draft">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Iraq</country>
+                                                <settlement>Mosul</settlement>
+                                                <repository>Mār Behnām Monastery</repository>
+                                                <collection>MBM</collection>
+                                                <idno>MS 466</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>132336</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>MBM 00466</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 1022491): 1856–1900 [1856–1900]; Dīwānī, Ruq‘ah, Serṭā</summary>
+                                                <msItem xml:id="vhmm-132336-item-1" class="part-1">
+                                                    <title xml:lang="en">Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah</title>
+                                                    <title xml:lang="ar">منارة القوى العقلية فى القواعد المنطقية</title>
+                                                    <title xml:lang="en">Ṣabbāgh, Simʻān, active 1780-1834. Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah</title>
+                                                    <title xml:lang="en">Logical treatise</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>نحمدك يا من خلقت ووضعت النطق بالطبيعة الانسانية وخلقتها على صورتك</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894011; content-contributor: {&quot;id&quot;: 744689, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;صباغ، سمعان&quot;, &quot;contributor&quot;: {&quot;id&quot;: 13334, &quot;name&quot;: &quot;Ṣabbāgh, Simʻān, active 1780-1834&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/no2024068529&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/9623171976987618240005&quot;, &quot;displayName&quot;: &quot;Ṣabbāgh, Simʻān, active 1780-1834&quot;}}; Title classification: provisional: Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah; Title classification: original: منارة القوى العقلية فى القواعد المنطقية; Title classification: uniform: Ṣabbāgh, Simʻān, active 1780-1834. Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah; Title classification: alternative: Logical treatise</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-2" class="part-1">
+                                                    <title xml:lang="en">Philosophical and grammatical notes</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894012; Title classification: provisional: Philosophical and grammatical notes</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-3" class="part-1">
+                                                    <title xml:lang="en">Genesis. Selections</title>
+                                                    <title xml:lang="en">Bible. Genesis</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894013; Title classification: provisional: Genesis. Selections; Title classification: uniform: Bible. Genesis</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-4" class="part-1">
+                                                    <title xml:lang="en">Guide for correspondence with Church officials</title>
+                                                    <title xml:lang="ar">فيما يكتب الى الاكليروس</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894014; Title classification: provisional: Guide for correspondence with Church officials; Title classification: original: فيما يكتب الى الاكليروس</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-5" class="part-1">
+                                                    <title xml:lang="en">Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah</title>
+                                                    <title xml:lang="ar">رسالة أرسطوطاليس الفيلسوف إلى إسكندر في الصناعة</title>
+                                                    <title xml:lang="en">Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>الحمد لله رب الازليه والقدم ومعدن الجود والكرم</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894015; content-contributor: {&quot;id&quot;: 744690, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4006, &quot;name&quot;: &quot;ʻAbdisho bar Berīkā, -1318&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n84228232&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/5985460&quot;, &quot;displayName&quot;: &quot;ʻAbdíšoʻ bar Bríkā, -1318&quot;}}; content-contributor: {&quot;id&quot;: 744691, &quot;type&quot;: &quot;Attributed name&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4157, &quot;name&quot;: &quot;Aristotle&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n79004182&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/7524651&quot;, &quot;displayName&quot;: &quot;Aristotle, 384 BCE-322 BCE&quot;}}; content-contributor: {&quot;id&quot;: 744692, &quot;type&quot;: &quot;Recipient&quot;, &quot;contributor&quot;: {&quot;id&quot;: 6925, &quot;name&quot;: &quot;Alexander, the Great, 356 B.C.-323 B.C.&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n79004067&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/101353608&quot;, &quot;displayName&quot;: &quot;Alexander, the Great, 356 BCE-323 BCE&quot;}}; Title classification: provisional: Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah; Title classification: original: رسالة أرسطوطاليس الفيلسوف إلى إسكندر في الصناعة; Title classification: uniform: Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-6" class="part-1">
+                                                    <title xml:lang="en">Theological notes</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894016; Title classification: provisional: Theological notes</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-7" class="part-1">
+                                                    <title xml:lang="en">Decrees of the Maronite Catholic patriarchs</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894017; content-contributor: {&quot;id&quot;: 744693, &quot;contributor&quot;: {&quot;id&quot;: 13130, &quot;name&quot;: &quot;Masʻad, Būlus Buṭrus, 1806-1890&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/no2021057037&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/311789694&quot;, &quot;displayName&quot;: &quot;Masʻad, Būlus Buṭrus, Maronite Patriarch of Antioch, 1806-1890&quot;}}; content-contributor: {&quot;id&quot;: 744694, &quot;contributor&quot;: {&quot;id&quot;: 13335, &quot;name&quot;: &quot;Ḥubaysh, Yūsuf VIII Buṭrus, Maronite Patriarch of Antioch, 1787-1845&quot;, &quot;displayName&quot;: &quot;Ḥubaysh, Yūsuf VIII Buṭrus, Maronite Patriarch of Antioch, 1787-1845&quot;}}; Title classification: provisional: Decrees of the Maronite Catholic patriarchs</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-8" class="part-1">
+                                                    <title xml:lang="en">Account of Hannibal&apos;s crossing of the Alps</title>
+                                                    <title xml:lang="ar">سفر انيبال في الجبال الالبية</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894018; Title classification: provisional: Account of Hannibal&apos;s crossing of the Alps; Title classification: original: سفر انيبال في الجبال الالبية</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132336-item-9" class="part-1">
+                                                    <title xml:lang="en">Cartulaio dei canti diversi modi</title>
+                                                    <title xml:lang="ar">كراسة الالحان وتغيير الالفاظ المقدسة</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 1022491); catalogue-content-id: 1894019; Title classification: provisional: Cartulaio dei canti diversi modi; Title classification: original: كراسة الالحان وتغيير الالفاظ المقدسة</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Portions read from left to right; Part 1: centuries: [19]; Binding depth: 3.5 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">338 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">155</height>
+                                                                <width unit="mm">110</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Dīwānī, Ruq‘ah, Serṭā</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic, Roman, Syriac</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 1022491): 1856–1900 [1856–1900]; Dīwānī, Ruq‘ah, Serṭā</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 132336</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/132336"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Bahnām Sūnī, Fihris makhṭūṭāt Dayr Mār Bahnām al-Shahīd (2005).</title>
+                                                        <citedRange>Bahnām Sūnī, Fihris makhṭūṭāt Dayr Mār Bahnām al-Shahīd (2005).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/132336">https://w3id.org/vhmml/readingRoom/view/132336</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Sony MS 488; formerly MS 217. Notes on dating systems and on a plague in 1778 CE, fol. 283v</note>
+                                                <note type="acknowledgments">Digitized in collaboration with Centre Numérique des Manuscrits Orientaux (CNMO), Ankawa, Erbil, Iraq; Initial metadata by Joshua Falconer; cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2026/10/15</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2011/12/17</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">1022491</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah</title>
+                                                        <title type="original">منارة القوى العقلية فى القواعد المنطقية</title>
+                                                        <title type="uniform">Ṣabbāgh, Simʻān, active 1780-1834. Manārat al-quwá al-ʻaqlīyah fī al-qawāʻid al-manṭiqīyah</title>
+                                                        <title type="alternative">Logical treatise</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1894011</note>
+                                                        <note type="content-contributor">{"id": 744689, "type": "Author", "nameNs": "صباغ، سمعان", "contributor": {"id": 13334, "name": "Ṣabbāgh, Simʻān, active 1780-1834", "authorityUriLC": "https://id.loc.gov/authorities/names/no2024068529", "authorityUriVIAF": "https://viaf.org/viaf/9623171976987618240005", "displayName": "Ṣabbāgh, Simʻān, active 1780-1834"}}</note>
+                                                        <note type="incipit">نحمدك يا من خلقت ووضعت النطق بالطبيعة الانسانية وخلقتها على صورتك</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Philosophical and grammatical notes</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>French</textLang>
+                                                        <textLang>Italian</textLang>
+                                                        <textLang>Latin</textLang>
+                                                        <note type="catalogue-content-id">1894012</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Genesis. Selections</title>
+                                                        <title type="uniform">Bible. Genesis</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>Italian</textLang>
+                                                        <note type="catalogue-content-id">1894013</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Guide for correspondence with Church officials</title>
+                                                        <title type="original">فيما يكتب الى الاكليروس</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1894014</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah</title>
+                                                        <title type="original">رسالة أرسطوطاليس الفيلسوف إلى إسكندر في الصناعة</title>
+                                                        <title type="uniform">Risālat Arisṭūṭālīs al-faylasūf ilá Iskandar fī al-ṣināʻah</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1894015</note>
+                                                        <note type="content-contributor">{"id": 744690, "type": "Translator", "contributor": {"id": 4006, "name": "ʻAbdisho bar Berīkā, -1318", "authorityUriLC": "https://id.loc.gov/authorities/names/n84228232", "authorityUriVIAF": "https://viaf.org/viaf/5985460", "displayName": "ʻAbdíšoʻ bar Bríkā, -1318"}}</note>
+                                                        <note type="content-contributor">{"id": 744691, "type": "Attributed name", "contributor": {"id": 4157, "name": "Aristotle", "authorityUriLC": "https://id.loc.gov/authorities/names/n79004182", "authorityUriVIAF": "https://viaf.org/viaf/7524651", "displayName": "Aristotle, 384 BCE-322 BCE"}}</note>
+                                                        <note type="content-contributor">{"id": 744692, "type": "Recipient", "contributor": {"id": 6925, "name": "Alexander, the Great, 356 B.C.-323 B.C.", "authorityUriLC": "https://id.loc.gov/authorities/names/n79004067", "authorityUriVIAF": "https://viaf.org/viaf/101353608", "displayName": "Alexander, the Great, 356 BCE-323 BCE"}}</note>
+                                                        <note type="incipit">الحمد لله رب الازليه والقدم ومعدن الجود والكرم</note>
+                                                    </msItem>
+                                                    <msItem n="6">
+                                                        <title type="provisional">Theological notes</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>Latin</textLang>
+                                                        <textLang>Syriac</textLang>
+                                                        <note type="catalogue-content-id">1894016</note>
+                                                    </msItem>
+                                                    <msItem n="7">
+                                                        <title type="provisional">Decrees of the Maronite Catholic patriarchs</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1894017</note>
+                                                        <note type="content-contributor">{"id": 744693, "contributor": {"id": 13130, "name": "Masʻad, Būlus Buṭrus, 1806-1890", "authorityUriLC": "https://id.loc.gov/authorities/names/no2021057037", "authorityUriVIAF": "https://viaf.org/viaf/311789694", "displayName": "Masʻad, Būlus Buṭrus, Maronite Patriarch of Antioch, 1806-1890"}}</note>
+                                                        <note type="content-contributor">{"id": 744694, "contributor": {"id": 13335, "name": "Ḥubaysh, Yūsuf VIII Buṭrus, Maronite Patriarch of Antioch, 1787-1845", "displayName": "Ḥubaysh, Yūsuf VIII Buṭrus, Maronite Patriarch of Antioch, 1787-1845"}}</note>
+                                                    </msItem>
+                                                    <msItem n="8">
+                                                        <title type="provisional">Account of Hannibal's crossing of the Alps</title>
+                                                        <title type="original">سفر انيبال في الجبال الالبية</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1894018</note>
+                                                    </msItem>
+                                                    <msItem n="9">
+                                                        <title type="provisional">Cartulaio dei canti diversi modi</title>
+                                                        <title type="original">كراسة الالحان وتغيير الالفاظ المقدسة</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>French</textLang>
+                                                        <textLang>Italian</textLang>
+                                                        <textLang>Latin</textLang>
+                                                        <note type="catalogue-content-id">1894019</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1856" notAfter="1900">1856–1900</origDate>
+                                                        <note type="script">Dīwānī, Ruq‘ah, Serṭā</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, lines variable</note>
+                                                    <note type="writingSystem">Arabic, Roman, Syriac</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Portions read from left to right</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
