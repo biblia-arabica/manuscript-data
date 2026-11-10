@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:13:00.860Z",
+  "generated": "2026-11-10T19:14:06.437Z",
   "type": "manuscript",
   "records": [
     {
@@ -4098,6 +4098,22 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/346.xml"
+    },
+    {
+      "id": "347",
+      "uri": "https://biblia-arabica.com/manuscript/347",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Summary of the Crampon Bible",
+        "خلاصة ما تضمنه الكتاب المقدس في العهدين مأخوذة عن النسخة التي وضعها كرمبون",
+        "Khulāṣat tarājim baʻḍ al-qiddīsīn",
+        "خلاصة تراجم بعض القديسين",
+        "Summary of some saints' lives",
+        "Khulāṣat mazāmīr Dāwud al-malik",
+        "خلاصة مزامير داوود الملك",
+        "Summary of the Psalms of David"
+      ],
+      "file": "data/manuscripts/347.xml"
     }
   ]
 }
