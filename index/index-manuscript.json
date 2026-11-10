@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:11:05.359Z",
+  "generated": "2026-11-10T19:11:41.861Z",
   "type": "manuscript",
   "records": [
     {
@@ -4056,6 +4056,17 @@
         "قصيدة حكمية"
       ],
       "file": "data/manuscripts/342.xml"
+    },
+    {
+      "id": "343",
+      "uri": "https://biblia-arabica.com/manuscript/343",
+      "headword": "Lebanese Maronite Missionary Order MS 479",
+      "altNames": [
+        "Kitāb al-anājīl",
+        "Lectionary (Maronite Rite)",
+        "Lectionary"
+      ],
+      "file": "data/manuscripts/343.xml"
     }
   ]
 }
