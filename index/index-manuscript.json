@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:14:40.530Z",
+  "generated": "2026-11-10T19:15:20.513Z",
   "type": "manuscript",
   "records": [
     {
@@ -4125,6 +4125,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/348.xml"
+    },
+    {
+      "id": "349",
+      "uri": "https://biblia-arabica.com/manuscript/349",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Gospels",
+        "ܐܠܐܢܐܓܝܠ ܐܠܡܩܕܣܗ̈",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/349.xml"
     }
   ]
 }
