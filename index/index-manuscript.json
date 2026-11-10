@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:59:07.322Z",
+  "generated": "2026-11-10T18:59:22.139Z",
   "type": "manuscript",
   "records": [
     {
@@ -3647,6 +3647,16 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/308.xml"
+    },
+    {
+      "id": "309",
+      "uri": "https://biblia-arabica.com/manuscript/309",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 423",
+      "altNames": [
+        "Bible. Ecclesiasticus",
+        "كتاب يشوع بن سيراج"
+      ],
+      "file": "data/manuscripts/309.xml"
     }
   ]
 }
