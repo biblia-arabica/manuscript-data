@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:54:15.247Z",
+  "generated": "2026-11-10T18:54:34.112Z",
   "type": "manuscript",
   "records": [
     {
@@ -3486,6 +3486,17 @@
         "سفر التثنية"
       ],
       "file": "data/manuscripts/293.xml"
+    },
+    {
+      "id": "294",
+      "uri": "https://biblia-arabica.com/manuscript/294",
+      "headword": "Near East School of Theology MS AC 5",
+      "altNames": [
+        "Selections from Psalms",
+        "كتاب المنير المترجم من كتاب الله المقدس المنزل على سيدنا داوود ابن يسى",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/294.xml"
     }
   ]
 }
