@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:43:50.858Z",
+  "generated": "2026-11-10T14:44:24.007Z",
   "type": "manuscript",
   "records": [
     {
@@ -961,6 +961,25 @@
         "Sentences de l'Ecr. Ste: B"
       ],
       "file": "data/manuscripts/79.xml"
+    },
+    {
+      "id": "80",
+      "uri": "https://biblia-arabica.com/manuscript/80",
+      "headword": "Dominican Friars of Mosul MS 353",
+      "altNames": [
+        "Prayers, catechisms, and creeds",
+        "Gospel of John. Selections",
+        "ܦܣܘܩܐ ܩܡܝܐ ܡܒܢܪܬܐ ܕܝܘܚܢܢ ܫܠܝܚܐ",
+        "Bible. John",
+        "Dialogo tra 'l confessore e'l penitente",
+        "ܡܚܟܝܬܐ ܒܝܢ ܟܗܢܐ ܠܡܘܕܝܢܐ",
+        "Dialogues between a Kurd, a Nestorian, and an Italian",
+        "Nahum, Jonah, Habakkuk, Haggai",
+        "ܢܒܝܘܬܐ ܕܢܚܘܡ ܢܒܝܐ ܐܠܩܘܫܢܝܐ",
+        "Bible. Minor Prophets",
+        "Poesie liriche nel caldeo volgare"
+      ],
+      "file": "data/manuscripts/80.xml"
     }
   ]
 }
