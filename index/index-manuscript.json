@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:32:49.790Z",
+  "generated": "2026-11-10T19:33:42.952Z",
   "type": "manuscript",
   "records": [
     {
@@ -4212,6 +4212,17 @@
         "Selections of the Psalms"
       ],
       "file": "data/manuscripts/356.xml"
+    },
+    {
+      "id": "357",
+      "uri": "https://biblia-arabica.com/manuscript/357",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Holy Gospels",
+        "ܐܠܐܢܐܓܝܠ ܐܠܡܩܕܣܗ̈",
+        "Evangelion (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/357.xml"
     }
   ]
 }
