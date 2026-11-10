@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:56:01.793Z",
+  "generated": "2026-11-10T18:56:20.582Z",
   "type": "manuscript",
   "records": [
     {
@@ -3546,6 +3546,17 @@
         "Miscellany"
       ],
       "file": "data/manuscripts/299.xml"
+    },
+    {
+      "id": "300",
+      "uri": "https://biblia-arabica.com/manuscript/300",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 1367",
+      "altNames": [
+        "Book of Psalms",
+        "ܡܙܡܘܪ̈ܐ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/300.xml"
     }
   ]
 }
