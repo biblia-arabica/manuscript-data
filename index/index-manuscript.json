@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T15:05:57.911Z",
+  "generated": "2026-11-10T15:06:28.068Z",
   "type": "manuscript",
   "records": [
     {
@@ -1158,6 +1158,35 @@
         "Deuteronomy"
       ],
       "file": "data/manuscripts/94.xml"
+    },
+    {
+      "id": "95",
+      "uri": "https://biblia-arabica.com/manuscript/95",
+      "headword": "Pentateuch, for Samaritan use",
+      "altNames": [
+        "Introduction of Abū Saʿīd",
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "file": "data/manuscripts/95.xml"
+    },
+    {
+      "id": "96",
+      "uri": "https://biblia-arabica.com/manuscript/96",
+      "headword": "Pentateuch, for Samaritan use",
+      "altNames": [
+        "Introduction of Abū Saʿīd",
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy",
+        "Glosses"
+      ],
+      "file": "data/manuscripts/96.xml"
     }
   ]
 }
