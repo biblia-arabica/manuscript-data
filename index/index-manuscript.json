@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:15:30.733Z",
+  "generated": "2026-11-10T12:16:47.309Z",
   "type": "manuscript",
   "records": [
     {
@@ -407,6 +407,23 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/34.xml"
+    },
+    {
+      "id": "35",
+      "uri": "https://biblia-arabica.com/manuscript/35",
+      "headword": "Mār Behnām Monastery MS 365",
+      "altNames": [
+        "Psalms",
+        "المزامير",
+        "Bible. Psalms",
+        "Homilies",
+        "مقالات واقوال ومسايل",
+        "Simeon Stylites, Saint, 521-597. Homilies",
+        "Gospel of John",
+        "يوحنا",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/35.xml"
     }
   ]
 }
