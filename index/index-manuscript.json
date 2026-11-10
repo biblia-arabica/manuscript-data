@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:03:48.242Z",
+  "generated": "2026-11-10T20:04:05.071Z",
   "type": "manuscript",
   "records": [
     {
@@ -4822,6 +4822,17 @@
         "Commentary on the Gospel of John"
       ],
       "file": "data/manuscripts/407.xml"
+    },
+    {
+      "id": "408",
+      "uri": "https://biblia-arabica.com/manuscript/408",
+      "headword": "Notre Dame University, Louaize BL 30",
+      "altNames": [
+        "Homilies on the Gospel of Matthew",
+        "تفسير بشارة الرسول متى",
+        "John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"
+      ],
+      "file": "data/manuscripts/408.xml"
     }
   ]
 }
