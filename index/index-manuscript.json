@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:00:33.805Z",
+  "generated": "2026-11-10T17:01:00.565Z",
   "type": "manuscript",
   "records": [
     {
@@ -1489,6 +1489,18 @@
         "Evangelion (Byzantine Rite)"
       ],
       "file": "data/manuscripts/122.xml"
+    },
+    {
+      "id": "123",
+      "uri": "https://biblia-arabica.com/manuscript/123",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 169",
+      "altNames": [
+        "Homilies on the Epistle to the Hebrews",
+        "تفسير أبينا المعظم في القديسين يوحنا الذهبي الفم لرسالة القديس بولس الرسول على العبرانيين",
+        "John Chrysostom, Saint, -407. Homilies on the Epistle to the Hebrews",
+        "Commentary on Hebrews"
+      ],
+      "file": "data/manuscripts/123.xml"
     }
   ]
 }
