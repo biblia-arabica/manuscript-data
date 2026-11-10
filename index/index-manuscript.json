@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:58:58.638Z",
+  "generated": "2026-11-10T16:59:33.144Z",
   "type": "manuscript",
   "records": [
     {
@@ -1457,6 +1457,17 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/119.xml"
+    },
+    {
+      "id": "120",
+      "uri": "https://biblia-arabica.com/manuscript/120",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 148",
+      "altNames": [
+        "Rhymed Gospel lectionary",
+        "الانجيل المقدس المفصل من الاناجيل المقدسه",
+        "ʻAbdisho bar Berīkā, -1318. Rhymed Gospel lectionary"
+      ],
+      "file": "data/manuscripts/120.xml"
     }
   ]
 }
