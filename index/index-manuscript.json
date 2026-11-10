@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:01:15.380Z",
+  "generated": "2026-11-10T19:01:29.664Z",
   "type": "manuscript",
   "records": [
     {
@@ -3732,6 +3732,27 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/315.xml"
+    },
+    {
+      "id": "316",
+      "uri": "https://biblia-arabica.com/manuscript/316",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 678",
+      "altNames": [
+        "Mujādalat Jirjī al-rāhib",
+        "محاورة جدلية بين الراهب السمعاني وثلث مسلم",
+        "Disputation between Jirjis the monk and three Muslim scholars",
+        "Revelation",
+        "سفر الابوغالمسيس المقدس رويا القديس يوحنا الانجيلى",
+        "Bible. Revelation",
+        "Apocalypse of John",
+        "ʻAshr masāʼil saʼala ʻan-hā baʻḍ al-talāmīdh min muʻallimihi",
+        "عشر مسايل سالها بعض التلاميذ لمعلميهم",
+        "Ten questions that one of the disciples asked of his master",
+        "Commentary on Exodus",
+        "تفسير السفر الثانى من التوراه",
+        "Poems"
+      ],
+      "file": "data/manuscripts/316.xml"
     }
   ]
 }
