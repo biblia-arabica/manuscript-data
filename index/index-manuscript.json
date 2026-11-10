@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:38:10.643Z",
+  "generated": "2026-11-10T14:39:21.130Z",
   "type": "manuscript",
   "records": [
     {
@@ -865,10 +865,13 @@
     {
       "id": "72",
       "uri": "https://biblia-arabica.com/manuscript/72",
-      "headword": "Mar Sarkis and Bakhos Syrian Orthodox Church of Qarah Qūsh N/A",
+      "headword": "Amsterdam University Library III. E. 20",
       "altNames": [
-        "New Testament (Peshitta version)",
-        "Bible. New Testament"
+        "New Testament",
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
       ],
       "file": "data/manuscripts/72.xml"
     },
@@ -892,6 +895,17 @@
         "Catechism"
       ],
       "file": "data/manuscripts/74.xml"
+    },
+    {
+      "id": "75",
+      "uri": "https://biblia-arabica.com/manuscript/75",
+      "headword": "Dominican Friars of Mosul MS 1017",
+      "altNames": [
+        "Song of Solomon",
+        "שיר השירים לשון ושרח ותרגום",
+        "Bible. Song of Solomon"
+      ],
+      "file": "data/manuscripts/75.xml"
     }
   ]
 }
