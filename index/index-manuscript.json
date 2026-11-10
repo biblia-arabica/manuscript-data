@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:20:59.543Z",
+  "generated": "2026-11-10T18:21:17.148Z",
   "type": "manuscript",
   "records": [
     {
@@ -3073,6 +3073,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/257.xml"
+    },
+    {
+      "id": "258",
+      "uri": "https://biblia-arabica.com/manuscript/258",
+      "headword": "Near East School of Theology MS AC 36-39",
+      "altNames": [
+        "Galatians",
+        "رسالة بولس الرسول الى اهل غلاطية",
+        "Bible. Epistles of Paul",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/258.xml"
     }
   ]
 }
