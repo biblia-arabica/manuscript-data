@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:02:42.780Z",
+  "generated": "2026-11-10T19:03:12.906Z",
   "type": "manuscript",
   "records": [
     {
@@ -3797,6 +3797,27 @@
         "Psalter (Byzantine Rite)"
       ],
       "file": "data/manuscripts/320.xml"
+    },
+    {
+      "id": "321",
+      "uri": "https://biblia-arabica.com/manuscript/321",
+      "headword": "Kanīsat Mār Jirjis (Bishmizzīn, Lebanon) MS 4",
+      "altNames": [
+        "Psalter",
+        "كاتسما المزامير",
+        "Psalter (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/321.xml"
+    },
+    {
+      "id": "322",
+      "uri": "https://biblia-arabica.com/manuscript/322",
+      "headword": "Kanīsat Mār Jirjis (Bishmizzīn, Lebanon) MS 5",
+      "altNames": [
+        "Psalter",
+        "كاتسما المزامير وكاطافاسيات"
+      ],
+      "file": "data/manuscripts/322.xml"
     }
   ]
 }
