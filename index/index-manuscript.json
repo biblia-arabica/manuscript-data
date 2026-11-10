@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:04:47.966Z",
+  "generated": "2026-11-10T20:05:02.427Z",
   "type": "manuscript",
   "records": [
     {
@@ -4860,6 +4860,18 @@
         "Apostolos (Byzantine Rite)"
       ],
       "file": "data/manuscripts/410.xml"
+    },
+    {
+      "id": "411",
+      "uri": "https://biblia-arabica.com/manuscript/411",
+      "headword": "Notre Dame University, Louaize BL 34",
+      "altNames": [
+        "al-Durr al-manthūr fī tafsīr al-Zabūr",
+        "الدر المنثور في تفسير الزبور",
+        "Arnoudie, Pierre, 1671-1719. Durr al-manthūr fī tafsīr al-Zabūr",
+        "Commentary on the Psalms"
+      ],
+      "file": "data/manuscripts/411.xml"
     }
   ]
 }
