@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:53:30.208Z",
+  "generated": "2026-11-10T18:53:50.918Z",
   "type": "manuscript",
   "records": [
     {
@@ -3464,6 +3464,18 @@
         "al-ʻAdad"
       ],
       "file": "data/manuscripts/291.xml"
+    },
+    {
+      "id": "292",
+      "uri": "https://biblia-arabica.com/manuscript/292",
+      "headword": "Near East School of Theology MS AC 36-8",
+      "altNames": [
+        "Book of Numbers",
+        "سفر العدد",
+        "Bible. Numbers",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/292.xml"
     }
   ]
 }
