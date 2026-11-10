@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:41:04.125Z",
+  "generated": "2026-11-10T17:42:00.861Z",
   "type": "manuscript",
   "records": [
     {
@@ -2312,6 +2312,20 @@
         "Selected chapters from the Torah"
       ],
       "file": "data/manuscripts/193.xml"
+    },
+    {
+      "id": "194",
+      "uri": "https://biblia-arabica.com/manuscript/194",
+      "headword": "Konat Collection N/A",
+      "altNames": [
+        "Commentary on the New Testament",
+        "Song of Songs",
+        "ܚܟܡܬ ܚܟܡܬܐ",
+        "Bible. Song of Solomon",
+        "Epistle of Jude followed by commentary",
+        "Bible. Jude"
+      ],
+      "file": "data/manuscripts/194.xml"
     }
   ]
 }
