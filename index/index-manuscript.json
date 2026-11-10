@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:23:07.092Z",
+  "generated": "2026-11-10T12:24:57.744Z",
   "type": "manuscript",
   "records": [
     {
@@ -407,6 +407,37 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/34.xml"
+    },
+    {
+      "id": "36",
+      "uri": "https://biblia-arabica.com/manuscript/36",
+      "headword": "Mār Behnām Monastery MS 389",
+      "altNames": [
+        "Syriac Orthodox apologetic",
+        "Sedrē",
+        "Ḥúsāyā (Syriac Rite, Western)",
+        "Lectionary",
+        "Lectionary (Syriac Rite, Western)",
+        "Evangelion",
+        "Evangelion (Syriac Rite, Western)",
+        "Anaphora",
+        "ܐܢܢܐܦܘܪܐ ܕܩܕܫܐ ܦܝܠܠܘܟܣܝܢܘܣ ܐܦܣܩܘܦܐ ܕܒܓܕܕ",
+        "Qúrbānā (Syriac Rite, Western)",
+        "Life of Hilaria, daughter of Zeno",
+        "ܩܨܗ̈ ܐܠܩܕܝܣܗ ܐܠܐܪܝܐ ܐܒܢܗ̈ ܙܝܢܘܢ ܐܠܡܠܟ",
+        "Liturgical texts and prayers",
+        "Life of Stephen",
+        "ܩܨܗ̈ ܐܠܩܕܝܣ ܐܠܓܠܝܠ ܐܘܠ ܐܠܫܗܕܐ ܡܐܪ ܐܣܛܦܐܢܘܣ ܬܠܡܝܕ ܪܒܢܐ ܘܐܠܐܗܢܐ ܘܡܟ̣ܠܨܢܐ ܝܫܘܥ ܐܠܡܣܝܚ",
+        "Homily on the thief",
+        "ܡܐܡܪ ܐܠܠܨ",
+        "Homily for Good Friday",
+        "ܬܪܓܐܡ ܠܝܘܡ ܓܡܥܗ̈ ܐܠܨܠܒܘܬ ܐܠܡܓܝܕ",
+        "Homily on repentance",
+        "ܡܝܡܐܪ ܥܠܝ ܐܠܬܘܒܗ",
+        "Homily on humble repentance",
+        "ܡܝܡܪ ܝܚܬ̣ ܥܠܝ ܐܠܬܘܒܗ ܟ̣ܫܘܥܝ"
+      ],
+      "file": "data/manuscripts/36.xml"
     }
   ]
 }
