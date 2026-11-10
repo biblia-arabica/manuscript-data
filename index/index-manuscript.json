@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:00:56.230Z",
+  "generated": "2026-11-10T19:01:15.380Z",
   "type": "manuscript",
   "records": [
     {
@@ -3721,6 +3721,17 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/314.xml"
+    },
+    {
+      "id": "315",
+      "uri": "https://biblia-arabica.com/manuscript/315",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 441",
+      "altNames": [
+        "New Testament",
+        "العهد الجديد",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/315.xml"
     }
   ]
 }
