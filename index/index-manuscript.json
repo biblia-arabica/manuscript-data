@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:09:39.582Z",
+  "generated": "2026-11-10T17:10:18.668Z",
   "type": "manuscript",
   "records": [
     {
@@ -1678,6 +1678,16 @@
         "Fifth book of Maccabees"
       ],
       "file": "data/manuscripts/137.xml"
+    },
+    {
+      "id": "138",
+      "uri": "https://biblia-arabica.com/manuscript/138",
+      "headword": "Österreichische Nationalbibliothek Cod. A.F. 97",
+      "altNames": [
+        "Gospels, 1 Corinthians, 2 Corinthians",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/138.xml"
     }
   ]
 }
