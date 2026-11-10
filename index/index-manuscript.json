@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:34:36.446Z",
+  "generated": "2026-11-10T19:35:17.989Z",
   "type": "manuscript",
   "records": [
     {
@@ -4247,6 +4247,31 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/359.xml"
+    },
+    {
+      "id": "360",
+      "uri": "https://biblia-arabica.com/manuscript/360",
+      "headword": "Ordre Basilien Choueirite MS 40",
+      "altNames": [
+        "Old Testament",
+        "كتاب يتضمن كتب العتيقه التي هي علي الحق والصواب وهو كتاب واحد ومجموع فيه عدة ستة واربعون كتاب",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/360.xml"
+    },
+    {
+      "id": "361",
+      "uri": "https://biblia-arabica.com/manuscript/361",
+      "headword": "Ordre Basilien Choueirite MS 41",
+      "altNames": [
+        "1 Maccabees",
+        "Bible. Maccabees, 1st",
+        "2 Maccabees",
+        "Bible. Maccabees, 2nd",
+        "Josippon",
+        "كتاب المكابيين المنسوب الى انوسيوس ويسما يوسف ابن كربون"
+      ],
+      "file": "data/manuscripts/361.xml"
     }
   ]
 }
