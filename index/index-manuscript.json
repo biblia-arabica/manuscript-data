@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:39:54.815Z",
+  "generated": "2026-11-10T17:40:29.672Z",
   "type": "manuscript",
   "records": [
     {
@@ -2275,6 +2275,17 @@
         "قول الحكما نفعنا الله بقولهم والعمل به"
       ],
       "file": "data/manuscripts/190.xml"
+    },
+    {
+      "id": "191",
+      "uri": "https://biblia-arabica.com/manuscript/191",
+      "headword": "Universität Tübingen. Universitätsbibliothek Ma VI 233",
+      "altNames": [
+        "Gospels",
+        "انجيل",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/191.xml"
     }
   ]
 }
