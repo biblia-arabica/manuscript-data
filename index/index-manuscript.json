@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:06:29.313Z",
+  "generated": "2026-11-10T17:06:50.053Z",
   "type": "manuscript",
   "records": [
     {
@@ -1602,6 +1602,19 @@
         "Apology for Christianity"
       ],
       "file": "data/manuscripts/131.xml"
+    },
+    {
+      "id": "132",
+      "uri": "https://biblia-arabica.com/manuscript/132",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 33",
+      "altNames": [
+        "Taqlīd al-Zabūr",
+        "تقليد الزبور",
+        "Zabūr",
+        "Imitation of Psalms",
+        "Islamic Psalms"
+      ],
+      "file": "data/manuscripts/132.xml"
     }
   ]
 }
