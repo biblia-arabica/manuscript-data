@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:07:54.700Z",
+  "generated": "2026-11-10T18:08:47.957Z",
   "type": "manuscript",
   "records": [
     {
@@ -2787,6 +2787,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/233.xml"
+    },
+    {
+      "id": "234",
+      "uri": "https://biblia-arabica.com/manuscript/234",
+      "headword": "Near East School of Theology MS AC 36-15",
+      "altNames": [
+        "Book of Ruth",
+        "سفر راعوت",
+        "Bible. Ruth",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/234.xml"
     }
   ]
 }
