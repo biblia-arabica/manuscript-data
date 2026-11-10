@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:50:57.739Z",
+  "generated": "2026-11-10T17:51:17.907Z",
   "type": "manuscript",
   "records": [
     {
@@ -2596,6 +2596,18 @@
         "Commentary on Revelation"
       ],
       "file": "data/manuscripts/216.xml"
+    },
+    {
+      "id": "217",
+      "uri": "https://biblia-arabica.com/manuscript/217",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 91",
+      "altNames": [
+        "Tafsīr. Gospels",
+        "كتاب تفسير الاناجيل الاربعة",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospel of Matthew"
+      ],
+      "file": "data/manuscripts/217.xml"
     }
   ]
 }
