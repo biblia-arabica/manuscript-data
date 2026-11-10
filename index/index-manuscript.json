@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:06:27.972Z",
+  "generated": "2026-11-10T18:07:15.439Z",
   "type": "manuscript",
   "records": [
     {
@@ -2768,10 +2768,10 @@
     {
       "id": "232",
       "uri": "https://biblia-arabica.com/manuscript/232",
-      "headword": "Near East School of Theology MS AC 36-11",
+      "headword": "Near East School of Theology MS AC 36-12",
       "altNames": [
         "Book of Joshua",
-        "سفر يشوع",
+        "سفر سشوع",
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/232.xml"
