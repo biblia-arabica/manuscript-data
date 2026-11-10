@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:44:49.267Z",
+  "generated": "2026-11-10T14:45:28.173Z",
   "type": "manuscript",
   "records": [
     {
@@ -995,6 +995,16 @@
         "Bible. Revelation"
       ],
       "file": "data/manuscripts/81.xml"
+    },
+    {
+      "id": "82",
+      "uri": "https://biblia-arabica.com/manuscript/82",
+      "headword": "Syriac Orthodox Church. Archdiocese of Mosul MS 271",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/82.xml"
     }
   ]
 }
