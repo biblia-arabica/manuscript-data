@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Lebanon, Beirut, Near East School of Theology AC 36-13</title>
+                <title level="a" xml:lang="en">Lebanon, Beirut, Near East School of Theology AC 36-14</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -70,23 +70,23 @@
                                                 <settlement>Beirut</settlement>
                                                 <repository>Near East School of Theology</repository>
                                                 <collection>NEST AC</collection>
-                                                <idno>MS AC 36-13</idno>
+                                                <idno>MS AC 36-14</idno>
                                                 <altIdentifier type="vhmml-readingroom">
-                                                    <idno>505717</idno>
+                                                    <idno>505718</idno>
                                                 </altIdentifier>
                                                 <altIdentifier type="hmml-project">
-                                                    <idno>NEST AC 00036 13</idno>
+                                                    <idno>NEST AC 00036 14</idno>
                                                 </altIdentifier>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 572192): date not supplied; Naskh</summary>
-                                                <msItem xml:id="vhmm-505717-item-1" class="part-1">
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 572195): date not supplied; Naskh</summary>
+                                                <msItem xml:id="vhmm-505718-item-1" class="part-1">
                                                     <title xml:lang="en">Book of Judges</title>
                                                     <title xml:lang="ar">سفر القضاة</title>
                                                     <title xml:lang="en">Bible. Judges</title>
                                                     <title xml:lang="en">Van Dyck Arabic Bible</title>
                                                     <textLang mainLang="ar"/>
-                                                    <note xml:lang="en">vHMML part 1 (ID 572192); catalogue-content-id: 932021; content-contributor: {&quot;id&quot;: 73094, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8953, &quot;name&quot;: &quot;Bustānī, Buṭrus ibn Būlus, 1818 or 1819-1882 or 1883&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr90017999&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/79119650&quot;, &quot;displayName&quot;: &quot;Bustānī, Buṭrus, 1818 or 1819-1882 or 1883&quot;}}; content-contributor: {&quot;id&quot;: 73095, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4498, &quot;name&quot;: &quot;Yāzijī, Nāṣīf, 1800-1871&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n84199426&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/90060796&quot;, &quot;displayName&quot;: &quot;Yāzijī, Nāṣīf, 1800-1871&quot;}}; content-contributor: {&quot;id&quot;: 73096, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8952, &quot;name&quot;: &quot;Van Dyck, Cornelius Van Alen, 1818-1895&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr90007863&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/26912968&quot;, &quot;displayName&quot;: &quot;Van Dyck, Cornelius Van Alen, 1818-1895&quot;}}; content-contributor: {&quot;id&quot;: 73097, &quot;contributor&quot;: {&quot;id&quot;: 8574, &quot;name&quot;: &quot;Smith, Eli, 1801-1857&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n94062558&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/12145602342601360946&quot;, &quot;displayName&quot;: &quot;Smith, Eli, 1801-1857&quot;}}; Title classification: provisional: Book of Judges; Title classification: original: سفر القضاة; Title classification: uniform: Bible. Judges; Title classification: alternative: Van Dyck Arabic Bible</note>
+                                                    <note xml:lang="en">vHMML part 1 (ID 572195); catalogue-content-id: 932023; content-contributor: {&quot;id&quot;: 73098, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8953, &quot;name&quot;: &quot;Bustānī, Buṭrus ibn Būlus, 1818 or 1819-1882 or 1883&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr90017999&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/79119650&quot;, &quot;displayName&quot;: &quot;Bustānī, Buṭrus, 1818 or 1819-1882 or 1883&quot;}}; content-contributor: {&quot;id&quot;: 73099, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4498, &quot;name&quot;: &quot;Yāzijī, Nāṣīf, 1800-1871&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n84199426&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/90060796&quot;, &quot;displayName&quot;: &quot;Yāzijī, Nāṣīf, 1800-1871&quot;}}; content-contributor: {&quot;id&quot;: 73100, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8952, &quot;name&quot;: &quot;Van Dyck, Cornelius Van Alen, 1818-1895&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr90007863&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/26912968&quot;, &quot;displayName&quot;: &quot;Van Dyck, Cornelius Van Alen, 1818-1895&quot;}}; content-contributor: {&quot;id&quot;: 73101, &quot;type&quot;: &quot;Translator&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8574, &quot;name&quot;: &quot;Smith, Eli, 1801-1857&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n94062558&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/12145602342601360946&quot;, &quot;displayName&quot;: &quot;Smith, Eli, 1801-1857&quot;}}; Title classification: provisional: Book of Judges; Title classification: original: سفر القضاة; Title classification: uniform: Bible. Judges; Title classification: alternative: Van Dyck Arabic Bible</note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
@@ -94,10 +94,10 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Paper</material>
-                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: centuries: [19]</note>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: False; Part 1: signatures: False; Part 1: centuries: [19]</note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">155 leaf(ves)</measure>
+                                                            <measure unit="folio">113 page(s)</measure>
                                                         </extent>
                                                     </supportDesc>
                                                     <layoutDesc>
@@ -116,13 +116,13 @@
                                                 </scriptDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 572192): date not supplied; Naskh</summary>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 572195): date not supplied; Naskh</summary>
                                             </history>
                                             <additional>
                                                 <listBibl>
                                                     <bibl xml:id="bib1">
-                                                        <title>vHMML Reading Room source record 505717</title>
-                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/505717"/>
+                                                        <title>vHMML Reading Room source record 505718</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/505718"/>
                                                     </bibl>
                                                     <bibl xml:id="bib2">
                                                         <title>James Pollock, Catalogue of Manuscripts of the Library of the Near Eastern School of Theology (1981).</title>
@@ -131,7 +131,7 @@
                                                 </listBibl>
                                                 <adminInfo>
                                                     <note type="catalogue-source">
-                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/505717">https://w3id.org/vhmml/readingRoom/view/505717</ref>
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/505718">https://w3id.org/vhmml/readingRoom/view/505718</ref>
                                                     </note>
                                                 </adminInfo>
                                                 <note type="acknowledgments">Cataloged by Salam Rassi</note>
@@ -144,7 +144,7 @@
                                             </additional>
                                             <msPart n="1">
                                                 <msIdentifier>
-                                                    <idno type="vhmml-part">572192</idno>
+                                                    <idno type="vhmml-part">572195</idno>
                                                 </msIdentifier>
                                                 <msContents>
                                                     <msItem n="1">
@@ -153,11 +153,11 @@
                                                         <title type="uniform">Bible. Judges</title>
                                                         <title type="alternative">Van Dyck Arabic Bible</title>
                                                         <textLang>Arabic</textLang>
-                                                        <note type="catalogue-content-id">932021</note>
-                                                        <note type="content-contributor">{"id": 73094, "type": "Translator", "contributor": {"id": 8953, "name": "Bustānī, Buṭrus ibn Būlus, 1818 or 1819-1882 or 1883", "authorityUriLC": "https://id.loc.gov/authorities/names/nr90017999", "authorityUriVIAF": "https://viaf.org/viaf/79119650", "displayName": "Bustānī, Buṭrus, 1818 or 1819-1882 or 1883"}}</note>
-                                                        <note type="content-contributor">{"id": 73095, "type": "Translator", "contributor": {"id": 4498, "name": "Yāzijī, Nāṣīf, 1800-1871", "authorityUriLC": "https://id.loc.gov/authorities/names/n84199426", "authorityUriVIAF": "https://viaf.org/viaf/90060796", "displayName": "Yāzijī, Nāṣīf, 1800-1871"}}</note>
-                                                        <note type="content-contributor">{"id": 73096, "type": "Translator", "contributor": {"id": 8952, "name": "Van Dyck, Cornelius Van Alen, 1818-1895", "authorityUriLC": "https://id.loc.gov/authorities/names/nr90007863", "authorityUriVIAF": "https://viaf.org/viaf/26912968", "displayName": "Van Dyck, Cornelius Van Alen, 1818-1895"}}</note>
-                                                        <note type="content-contributor">{"id": 73097, "contributor": {"id": 8574, "name": "Smith, Eli, 1801-1857", "authorityUriLC": "https://id.loc.gov/authorities/names/n94062558", "authorityUriVIAF": "https://viaf.org/viaf/12145602342601360946", "displayName": "Smith, Eli, 1801-1857"}}</note>
+                                                        <note type="catalogue-content-id">932023</note>
+                                                        <note type="content-contributor">{"id": 73098, "type": "Translator", "contributor": {"id": 8953, "name": "Bustānī, Buṭrus ibn Būlus, 1818 or 1819-1882 or 1883", "authorityUriLC": "https://id.loc.gov/authorities/names/nr90017999", "authorityUriVIAF": "https://viaf.org/viaf/79119650", "displayName": "Bustānī, Buṭrus, 1818 or 1819-1882 or 1883"}}</note>
+                                                        <note type="content-contributor">{"id": 73099, "type": "Translator", "contributor": {"id": 4498, "name": "Yāzijī, Nāṣīf, 1800-1871", "authorityUriLC": "https://id.loc.gov/authorities/names/n84199426", "authorityUriVIAF": "https://viaf.org/viaf/90060796", "displayName": "Yāzijī, Nāṣīf, 1800-1871"}}</note>
+                                                        <note type="content-contributor">{"id": 73100, "type": "Translator", "contributor": {"id": 8952, "name": "Van Dyck, Cornelius Van Alen, 1818-1895", "authorityUriLC": "https://id.loc.gov/authorities/names/nr90007863", "authorityUriVIAF": "https://viaf.org/viaf/26912968", "displayName": "Van Dyck, Cornelius Van Alen, 1818-1895"}}</note>
+                                                        <note type="content-contributor">{"id": 73101, "type": "Translator", "contributor": {"id": 8574, "name": "Smith, Eli, 1801-1857", "authorityUriLC": "https://id.loc.gov/authorities/names/n94062558", "authorityUriVIAF": "https://viaf.org/viaf/12145602342601360946", "displayName": "Smith, Eli, 1801-1857"}}</note>
                                                     </msItem>
                                                 </msContents>
                                                 <history>
@@ -171,9 +171,9 @@
                                                             <support>PAPER</support>
                                                         </supportDesc>
                                                     </objectDesc>
-                                                    <note type="layout">1 column, 9 lines per page</note>
+                                                    <note type="layout">1 column, 14 lines per page</note>
                                                     <note type="writingSystem">Arabic</note>
-                                                    <note type="catchwords">True</note>
+                                                    <note type="catchwords">False</note>
                                                     <note type="signatures">False</note>
                                                     <note type="centuries">[19]</note>
                                                 </physDesc>
