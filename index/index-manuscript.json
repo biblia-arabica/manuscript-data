@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:27:53.375Z",
+  "generated": "2026-11-10T17:28:13.177Z",
   "type": "manuscript",
   "records": [
     {
@@ -1952,6 +1952,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/162.xml"
+    },
+    {
+      "id": "163",
+      "uri": "https://biblia-arabica.com/manuscript/163",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 33",
+      "altNames": [
+        "Luke, John",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/163.xml"
     }
   ]
 }
