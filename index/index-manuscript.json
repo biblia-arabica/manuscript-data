@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:06:06.271Z",
+  "generated": "2026-11-10T20:09:29.530Z",
   "type": "manuscript",
   "records": [
     {
@@ -4920,6 +4920,23 @@
         "ܒܫܐܪܗ ܡܬܝ ܐܠܪܣܘܠ"
       ],
       "file": "data/manuscripts/415.xml"
+    },
+    {
+      "id": "416",
+      "uri": "https://biblia-arabica.com/manuscript/416",
+      "headword": "Notre Dame University, Louaize PH 10",
+      "altNames": [
+        "Letter to Cosmas",
+        "John, of Damascus, Saint. Letter to Cosmas",
+        "Kitāb fī al-falsafah wa-fī al-manṭiq wa-fī ʻilm al-kalām",
+        "ܟܬܐܒ ܦܝ ܐܠܦܠܣܦܗ ܘܦܝ ܐܠܡܢܛܩ ܘܦܝ ܥܠܡ ܐܠܟܠܐܡ",
+        "John, of Damascus, Saint. Dialectica",
+        "Capita philosophica",
+        "Mukhtaṣar al-tawrāh al-sharīfah",
+        "ܡܟܬܨܪ ܐܠܬܘܪܐܗ ܐܠܫܪܝܦܗ",
+        "Summary of some Old Testament books"
+      ],
+      "file": "data/manuscripts/416.xml"
     }
   ]
 }
