@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:43:29.000Z",
+  "generated": "2026-11-10T16:43:45.179Z",
   "type": "manuscript",
   "records": [
     {
@@ -1326,6 +1326,13 @@
         "Leviticus, for Coptic use, with commentary of Mark ibn Qanbar"
       ],
       "file": "data/manuscripts/106.xml"
+    },
+    {
+      "id": "107",
+      "uri": "https://biblia-arabica.com/manuscript/107",
+      "headword": "Genesis, for Coptic use, with commentary of Mark ibn Qanbar",
+      "altNames": [],
+      "file": "data/manuscripts/107.xml"
     }
   ]
 }
