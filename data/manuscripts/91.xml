@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">France, Paris, Bibliothèque nationale de France, Arabe 2</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/91</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#hibrahim" when="2026-09-12">Converted from legacy BnF TEI manuscript description to the current Biblia Arabica MANO structure.</change>
+                                    <change when="2026-06-01">Initial TEI manuscript description generated from supplied PDF.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>France</country>
+                                                <settlement>Paris</settlement>
+                                                <repository>Bibliothèque nationale de France. Département des Manuscrits</repository>
+                                                <collection>Arabe</collection>
+                                                <idno>Arabe 2</idno>
+                                                <msName>Ancien Testament.</msName>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Ancien Testament.</summary>
+                                                <msItem xml:id="bnf-arabe-2-item-1">
+                                                    <locus from="1" to="255"/>
+                                                    <title xml:lang="fr">Deuxième partie, reliée, par suite d&apos;une erreur, avant la première.</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="fr">BnF original locus: 1. F. 1-255
+Esdras (1 v-6) ; Néhémie (6 v-13) ; Tobie (13 v-18) ; Judith (18 v-25) ; Esther (25-31) ; Job (31-43) ; Psaumes (43-71 v) ; Proverbes (71 v-82 v) ; Ecclésiaste (82 v-86 v) ; Cantique des Cantiques (86 v-88) ; Sagesse (88 v-96) ; Ecclésiastique (96-116) ; Isaïe (116-139) ; Jérémie (139-172) ; Jérémie I-LII (139-166), Lamentations (166-168 v), Baruch (168 v-172) ; Ezéchiel (172 v-196 v) ; Daniel (196 v-207 v) ; Petits Prophètes (207 v-227) ; Maccabées, livres I-II (227-255 v.).</note>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-2-item-2">
+                                                    <title xml:lang="fr">Première partie, reliée, par suite d&apos;une erreur, après la deuxième.</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="fr">BnF original locus: 2. F. 256 v-479
+Genèse (256 v-282) Inc. : في البدي خلق الله السماء و الارض و كانت الارض خاوية خالية و كانت الظلمة على وجه الارض Exode (282-302 v) ; Lévitique (303-317) ; Nombres (317-337 v) ; Deutéronome (338-355 v) ; Josué (356-368 v) ; Juges (369-381 v) ; Ruth (381-383 v) ; Rois, livres I-IV (383 v-448) ; Paralipomènes, livres I-II (448-479 v).</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <note>BnF EAD physical description (srcphys_940d27b591f0889d1fc958): 23 lignes à la page. Surface écrite 175 × 105 mm., dans un encadrement doré.Papier oriental.479 fol.Écriture orientale (Iran). — Titres rubriqués.Sarlohs (f. 1 v, 256 v) et marges ornées de motifs floraux à l&apos;encre dorée (f. 1 v-2).250 × 180 mm.Demi-reliure orientale à rabat, toile verte, dos basane brune.</note>
+                                                        </support>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>BnF EAD catalogue (srcphys_940d27b591f0889d1fc958): Ancien Testament. Date described in the BnF catalogue: XVIIIe siècle.</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>BnF EAD manuscript catalogue, Arabe 2 (srcphys_940d27b591f0889d1fc958)</title>
+                                                        <ptr target="https://catalogue.bnf.fr/ark:/12148/cc89272g"/>
+                                                    </bibl>
+                                                </listBibl>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
