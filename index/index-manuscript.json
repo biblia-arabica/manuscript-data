@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:19:58.466Z",
+  "generated": "2026-11-10T20:20:18.496Z",
   "type": "manuscript",
   "records": [
     {
@@ -5091,6 +5091,18 @@
         "Psalms"
       ],
       "file": "data/manuscripts/430.xml"
+    },
+    {
+      "id": "431",
+      "uri": "https://biblia-arabica.com/manuscript/431",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 78",
+      "altNames": [
+        "Psalter",
+        "كتاب الزبور الالهي",
+        "Psalter (Byzantine Rite)",
+        "Psalms"
+      ],
+      "file": "data/manuscripts/431.xml"
     }
   ]
 }
