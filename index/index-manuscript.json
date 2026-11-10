@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:19:30.263Z",
+  "generated": "2026-11-10T20:19:58.466Z",
   "type": "manuscript",
   "records": [
     {
@@ -5070,6 +5070,27 @@
         "Commentary on the Gospel of Matthew"
       ],
       "file": "data/manuscripts/428.xml"
+    },
+    {
+      "id": "429",
+      "uri": "https://biblia-arabica.com/manuscript/429",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 55",
+      "altNames": [
+        "Tafsīr. Gospels"
+      ],
+      "file": "data/manuscripts/429.xml"
+    },
+    {
+      "id": "430",
+      "uri": "https://biblia-arabica.com/manuscript/430",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 77",
+      "altNames": [
+        "Psalter",
+        "كتاب زبور داود النبي",
+        "Psalter (Byzantine Rite)",
+        "Psalms"
+      ],
+      "file": "data/manuscripts/430.xml"
     }
   ]
 }
