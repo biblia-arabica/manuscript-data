@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:21:11.281Z",
+  "generated": "2026-11-10T20:21:28.045Z",
   "type": "manuscript",
   "records": [
     {
@@ -5158,6 +5158,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/434.xml"
+    },
+    {
+      "id": "435",
+      "uri": "https://biblia-arabica.com/manuscript/435",
+      "headword": "Ordre Basilien Alepin MS 11",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف الطاهر والمصباح المنيزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/435.xml"
     }
   ]
 }
