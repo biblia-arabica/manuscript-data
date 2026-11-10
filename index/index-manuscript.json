@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:59:12.365Z",
+  "generated": "2026-11-10T18:01:48.574Z",
   "type": "manuscript",
   "records": [
     {
@@ -2741,6 +2741,18 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/229.xml"
+    },
+    {
+      "id": "230",
+      "uri": "https://biblia-arabica.com/manuscript/230",
+      "headword": "Near East School of Theology MS AC 36-1",
+      "altNames": [
+        "Book of Genesis",
+        "سفر التكوين",
+        "Bible. Genesis",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/230.xml"
     }
   ]
 }
