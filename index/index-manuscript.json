@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:11:15.422Z",
+  "generated": "2026-11-10T20:18:03.105Z",
   "type": "manuscript",
   "records": [
     {
@@ -5004,6 +5004,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/422.xml"
+    },
+    {
+      "id": "423",
+      "uri": "https://biblia-arabica.com/manuscript/423",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 223",
+      "altNames": [
+        "Gospel of John",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/423.xml"
     }
   ]
 }
