@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:31:54.804Z",
+  "generated": "2026-11-10T17:32:13.131Z",
   "type": "manuscript",
   "records": [
     {
@@ -2081,6 +2081,17 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/174.xml"
+    },
+    {
+      "id": "175",
+      "uri": "https://biblia-arabica.com/manuscript/175",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 47",
+      "altNames": [
+        "New Testament. Selections",
+        "Bible. New Testament",
+        "Bible helps"
+      ],
+      "file": "data/manuscripts/175.xml"
     }
   ]
 }
