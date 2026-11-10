@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:49:02.002Z",
+  "generated": "2026-11-10T17:49:20.146Z",
   "type": "manuscript",
   "records": [
     {
@@ -2526,6 +2526,17 @@
         "Commentary on the Gospel of John"
       ],
       "file": "data/manuscripts/210.xml"
+    },
+    {
+      "id": "211",
+      "uri": "https://biblia-arabica.com/manuscript/211",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 5",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. 1 Corinthians, 2 Corinthians",
+        "تفسير من رسايل مار بولص الى قرنتيه أولى وثانية",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram"
+      ],
+      "file": "data/manuscripts/211.xml"
     }
   ]
 }
