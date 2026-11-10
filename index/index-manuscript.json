@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:18:17.959Z",
+  "generated": "2026-11-10T20:18:40.354Z",
   "type": "manuscript",
   "records": [
     {
@@ -5025,6 +5025,16 @@
         "ما يجب على الكاهن والمعترف في حال الاعتراف"
       ],
       "file": "data/manuscripts/424.xml"
+    },
+    {
+      "id": "425",
+      "uri": "https://biblia-arabica.com/manuscript/425",
+      "headword": "Société des Missionnaires de Saint Paul (Melkite Greek Catholic) MS 31",
+      "altNames": [
+        "Extracts from the commentary on the Gospel of John",
+        "John Chrysostom, Saint, -407. Homilies on John"
+      ],
+      "file": "data/manuscripts/425.xml"
     }
   ]
 }
