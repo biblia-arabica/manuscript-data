@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:47:40.633Z",
+  "generated": "2026-11-10T13:48:22.759Z",
   "type": "manuscript",
   "records": [
     {
@@ -664,6 +664,15 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/52.xml"
+    },
+    {
+      "id": "53",
+      "uri": "https://biblia-arabica.com/manuscript/53",
+      "headword": "Dominican Friars of Mosul MS 601",
+      "altNames": [
+        "Biblical excerpts, hymns, and prayers"
+      ],
+      "file": "data/manuscripts/53.xml"
     }
   ]
 }
