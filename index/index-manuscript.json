@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:55:19.512Z",
+  "generated": "2026-11-10T19:55:35.062Z",
   "type": "manuscript",
   "records": [
     {
@@ -4567,6 +4567,17 @@
         "Evangelion (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/385.xml"
+    },
+    {
+      "id": "386",
+      "uri": "https://biblia-arabica.com/manuscript/386",
+      "headword": "Notre Dame University, Louaize BL 03",
+      "altNames": [
+        "Psalms",
+        "ܐܠܡܙܐܡܝܪ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/386.xml"
     }
   ]
 }
