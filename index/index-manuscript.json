@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:01:27.752Z",
+  "generated": "2026-11-10T17:01:58.389Z",
   "type": "manuscript",
   "records": [
     {
@@ -1510,6 +1510,17 @@
         "Commentary on the Pauline Epistles. Selections"
       ],
       "file": "data/manuscripts/124.xml"
+    },
+    {
+      "id": "125",
+      "uri": "https://biblia-arabica.com/manuscript/125",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 235",
+      "altNames": [
+        "Gospels. Matthew and Mark",
+        "انجيل متى ومرقس",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/125.xml"
     }
   ]
 }
