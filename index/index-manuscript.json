@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:06:01.254Z",
+  "generated": "2026-11-10T17:06:29.313Z",
   "type": "manuscript",
   "records": [
     {
@@ -1576,6 +1576,32 @@
         "تفاسير رسالات بولس الرسول الأربعة عشر"
       ],
       "file": "data/manuscripts/130.xml"
+    },
+    {
+      "id": "131",
+      "uri": "https://biblia-arabica.com/manuscript/131",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 271",
+      "altNames": [
+        "Commentary on the Song of songs",
+        "كتاب نشيد الأنشاد إلى غريغوريوس نيصص",
+        "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum",
+        "Accurate exposition of the Canticle of canticles",
+        "Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd",
+        "فوائد العقود وخلاصة النقود بالرد على اليهود",
+        "Zākhir, ʻAbd Allāh, 1684-1748. Fawāʼid al-ʻuqūd wa-khulāṣat al-nuqūd bi-al-radd ʻalá al-Yahūd",
+        "Questions and answers of Basil and Gregory",
+        "مسايل",
+        "Dialogue between Basil Bishop of Caesarea and Gregory of Nyssa",
+        "al-Firaq al-mutaʻārafah min al-naṣārá",
+        "الفرق المتعارفة من النصارى",
+        "Paul, of Antioch, Bishop of Sidon, active 12th century. Firaq al-mutaʻārafah min al-Naṣārá",
+        "Treatise on Christian sects",
+        "Nūr al-albāb al-muhdī ilá al-ṣawāb",
+        "نور الألباب المهدي إلى الصواب",
+        "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity",
+        "Apology for Christianity"
+      ],
+      "file": "data/manuscripts/131.xml"
     }
   ]
 }
