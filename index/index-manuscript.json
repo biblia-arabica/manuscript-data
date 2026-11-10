@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:08:23.515Z",
+  "generated": "2026-11-10T14:09:17.069Z",
   "type": "manuscript",
   "records": [
     {
@@ -705,6 +705,16 @@
         "New Testament"
       ],
       "file": "data/manuscripts/56.xml"
+    },
+    {
+      "id": "57",
+      "uri": "https://biblia-arabica.com/manuscript/57",
+      "headword": "Kanīsat al-Ṭāhirah al-Khārijīyah N/A",
+      "altNames": [
+        "Lectionary",
+        "Lectionary (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/57.xml"
     }
   ]
 }
