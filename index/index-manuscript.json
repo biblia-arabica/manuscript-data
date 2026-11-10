@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:45:37.923Z",
+  "generated": "2026-11-10T17:45:59.520Z",
   "type": "manuscript",
   "records": [
     {
@@ -2459,6 +2459,17 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/204.xml"
+    },
+    {
+      "id": "205",
+      "uri": "https://biblia-arabica.com/manuscript/205",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 105",
+      "altNames": [
+        "Prophetologion",
+        "ما يقرى من الانبيا والتوراة وحكمة سليمن",
+        "Prophetologion (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/205.xml"
     }
   ]
 }
