@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Lebanon, Khinshārah, Ordre Basilien Choueirite 00261</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/366</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Lebanon</country>
+                                                <settlement>Khinshārah</settlement>
+                                                <repository>Ordre Basilien Choueirite</repository>
+                                                <collection>OBC</collection>
+                                                <idno>N/A</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>120823</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>OBC 00261</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 898191): 1835–1900 [1835–1900]; Naskh</summary>
+                                                <msItem xml:id="vhmm-120823-item-1" class="part-1">
+                                                    <title xml:lang="en">al-Burhān ʻalá al-inbithāq</title>
+                                                    <title xml:lang="ar">البرهان على الانبثاق</title>
+                                                    <title xml:lang="en">Maṭrān, Yuwākīm, -1772 or 1773. Burhān ʻalá al-inbithāq</title>
+                                                    <title xml:lang="en">Treatise against the Orthodox on the procession of the Holy Spirit</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>المجد لله الذى جدل بجدل بنى ايمان بيعته الجامعة الاقوال البدايد</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 898191); catalogue-content-id: 1572249; content-contributor: {&quot;id&quot;: 513988, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;مطران، يواكيم&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4485, &quot;name&quot;: &quot;Maṭrān, Yuwākīm, -1772 or 1773&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr95036300&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/73747514&quot;, &quot;displayName&quot;: &quot;Muṭrān, Yuwākīm, 1696-1772&quot;}}; Title classification: provisional: al-Burhān ʻalá al-inbithāq; Title classification: original: البرهان على الانبثاق; Title classification: uniform: Maṭrān, Yuwākīm, -1772 or 1773. Burhān ʻalá al-inbithāq; Title classification: alternative: Treatise against the Orthodox on the procession of the Holy Spirit</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-120823-item-2" class="part-1">
+                                                    <title xml:lang="en">Correspondence on the true faith</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>صورة الرسالة التى وردة من بطريرك الروم مقالة فى حق الامانة ولقبها محك جلى نور ضوى</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 898191); catalogue-content-id: 1572250; content-contributor: {&quot;id&quot;: 513989, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;شاتيلا&quot;, &quot;contributor&quot;: {&quot;id&quot;: 17178, &quot;name&quot;: &quot;Shātīlā, Yūsuf, active 19th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/no2021026739&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/19161573519304521552&quot;, &quot;displayName&quot;: &quot;Shātīlā, Yūsuf, active 19th century&quot;}}; content-contributor: {&quot;id&quot;: 513990, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;كيرو كير مكسيموس البطريرك الانطاكى وساير المشرق&quot;, &quot;contributor&quot;: {&quot;id&quot;: 5128, &quot;name&quot;: &quot;Maẓlūm, Maksīmūs ibn Jurjis, 1779 or 1780-1854 or 1855&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr93038034&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/26940445&quot;, &quot;displayName&quot;: &quot;Maksīmūs III Maẓlūm, Melkite Greek Catholic Patriarch of Antioch, 1779-1855&quot;}}; Title classification: provisional: Correspondence on the true faith</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-120823-item-3" class="part-1">
+                                                    <title xml:lang="en">Revelation</title>
+                                                    <title xml:lang="ar">رويت يوحنا الحبيب</title>
+                                                    <title xml:lang="en">Bible. Revelation</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>الاصحاح الاول جليان يسوع المسيح الذى اعطاه الله له ليعلم عبيده بالذى يجب ان يكون سريعا</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 898191); catalogue-content-id: 1572251; Title classification: provisional: Revelation; Title classification: original: رويت يوحنا الحبيب; Title classification: uniform: Bible. Revelation</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: centuries: [19]; Binding depth: 3.5 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">202 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">160</height>
+                                                                <width unit="mm">120</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 898191): 1835–1900 [1835–1900]; Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 120823</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/120823"/>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/120823">https://w3id.org/vhmml/readingRoom/view/120823</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Folio numbers are approximate</note>
+                                                <note type="acknowledgments">Initial metadata by Georges Habchi; cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2024/04/15</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2007/05/30</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">898191</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">al-Burhān ʻalá al-inbithāq</title>
+                                                        <title type="original">البرهان على الانبثاق</title>
+                                                        <title type="uniform">Maṭrān, Yuwākīm, -1772 or 1773. Burhān ʻalá al-inbithāq</title>
+                                                        <title type="alternative">Treatise against the Orthodox on the procession of the Holy Spirit</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1572249</note>
+                                                        <note type="content-contributor">{"id": 513988, "type": "Author", "nameNs": "مطران، يواكيم", "contributor": {"id": 4485, "name": "Maṭrān, Yuwākīm, -1772 or 1773", "authorityUriLC": "https://id.loc.gov/authorities/names/nr95036300", "authorityUriVIAF": "https://viaf.org/viaf/73747514", "displayName": "Muṭrān, Yuwākīm, 1696-1772"}}</note>
+                                                        <note type="incipit">المجد لله الذى جدل بجدل بنى ايمان بيعته الجامعة الاقوال البدايد</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Correspondence on the true faith</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1572250</note>
+                                                        <note type="content-contributor">{"id": 513989, "type": "Author", "nameNs": "شاتيلا", "contributor": {"id": 17178, "name": "Shātīlā, Yūsuf, active 19th century", "authorityUriLC": "https://id.loc.gov/authorities/names/no2021026739", "authorityUriVIAF": "https://viaf.org/viaf/19161573519304521552", "displayName": "Shātīlā, Yūsuf, active 19th century"}}</note>
+                                                        <note type="content-contributor">{"id": 513990, "type": "Author", "nameNs": "كيرو كير مكسيموس البطريرك الانطاكى وساير المشرق", "contributor": {"id": 5128, "name": "Maẓlūm, Maksīmūs ibn Jurjis, 1779 or 1780-1854 or 1855", "authorityUriLC": "https://id.loc.gov/authorities/names/nr93038034", "authorityUriVIAF": "https://viaf.org/viaf/26940445", "displayName": "Maksīmūs III Maẓlūm, Melkite Greek Catholic Patriarch of Antioch, 1779-1855"}}</note>
+                                                        <note type="incipit">صورة الرسالة التى وردة من بطريرك الروم مقالة فى حق الامانة ولقبها محك جلى نور ضوى</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Revelation</title>
+                                                        <title type="original">رويت يوحنا الحبيب</title>
+                                                        <title type="uniform">Bible. Revelation</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1572251</note>
+                                                        <note type="incipit">الاصحاح الاول جليان يسوع المسيح الذى اعطاه الله له ليعلم عبيده بالذى يجب ان يكون سريعا</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1835" notAfter="1900">1835–1900</origDate>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 15 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
