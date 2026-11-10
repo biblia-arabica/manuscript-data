@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:25:18.021Z",
+  "generated": "2026-11-10T18:25:34.003Z",
   "type": "manuscript",
   "records": [
     {
@@ -3121,6 +3121,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/261.xml"
+    },
+    {
+      "id": "262",
+      "uri": "https://biblia-arabica.com/manuscript/262",
+      "headword": "Near East School of Theology MS AC 36-42",
+      "altNames": [
+        "Pslams",
+        "سفر المزامير",
+        "Bible. Psalms",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/262.xml"
     }
   ]
 }
