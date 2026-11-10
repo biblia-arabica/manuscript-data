@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:11:25.501Z",
+  "generated": "2026-11-10T14:11:45.615Z",
   "type": "manuscript",
   "records": [
     {
@@ -746,6 +746,16 @@
         "Bible. Matthew"
       ],
       "file": "data/manuscripts/60.xml"
+    },
+    {
+      "id": "61",
+      "uri": "https://biblia-arabica.com/manuscript/61",
+      "headword": "Chaldean Catholic Church. Patriarchate of Baghdad MS 274",
+      "altNames": [
+        "Psalter",
+        "Psalter (Syriac Rite, Eastern)"
+      ],
+      "file": "data/manuscripts/61.xml"
     }
   ]
 }
