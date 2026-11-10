@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:10:42.353Z",
+  "generated": "2026-11-10T14:11:25.501Z",
   "type": "manuscript",
   "records": [
     {
@@ -736,6 +736,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/59.xml"
+    },
+    {
+      "id": "60",
+      "uri": "https://biblia-arabica.com/manuscript/60",
+      "headword": "Mar Hirmiz Keldani Kilisesi N/A",
+      "altNames": [
+        "Gospel of Matthew",
+        "Bible. Matthew"
+      ],
+      "file": "data/manuscripts/60.xml"
     }
   ]
 }
