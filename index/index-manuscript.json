@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:25:34.003Z",
+  "generated": "2026-11-10T18:25:49.920Z",
   "type": "manuscript",
   "records": [
     {
@@ -3133,6 +3133,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/262.xml"
+    },
+    {
+      "id": "263",
+      "uri": "https://biblia-arabica.com/manuscript/263",
+      "headword": "Near East School of Theology MS AC 36-43",
+      "altNames": [
+        "Book of Job",
+        "سفر ايوب",
+        "Bible. Job",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/263.xml"
     }
   ]
 }
