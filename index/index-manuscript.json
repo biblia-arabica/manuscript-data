@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T15:06:28.068Z",
+  "generated": "2026-11-10T15:06:54.953Z",
   "type": "manuscript",
   "records": [
     {
@@ -1187,6 +1187,38 @@
         "Glosses"
       ],
       "file": "data/manuscripts/96.xml"
+    },
+    {
+      "id": "97",
+      "uri": "https://biblia-arabica.com/manuscript/97",
+      "headword": "Pentateuch",
+      "altNames": [
+        "Introduction",
+        "Table of chapters of Genesis",
+        "Genesis",
+        "Table of chapters of Exodus",
+        "Exodus",
+        "Table of chapters of Leviticus",
+        "Leviticus",
+        "Tables of chapters of Numbers",
+        "Numbers",
+        "Table of chapters of Deuteronomy",
+        "Deuteronomy"
+      ],
+      "file": "data/manuscripts/97.xml"
+    },
+    {
+      "id": "98",
+      "uri": "https://biblia-arabica.com/manuscript/98",
+      "headword": "Pentateuch",
+      "altNames": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "file": "data/manuscripts/98.xml"
     }
   ]
 }
