@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:54:40.363Z",
+  "generated": "2026-11-10T19:54:59.164Z",
   "type": "manuscript",
   "records": [
     {
@@ -4546,6 +4546,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/383.xml"
+    },
+    {
+      "id": "384",
+      "uri": "https://biblia-arabica.com/manuscript/384",
+      "headword": "Dayr Sayyidat al-Balamand MS 7",
+      "altNames": [
+        "Gospels",
+        "الانجيل الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/384.xml"
     }
   ]
 }
