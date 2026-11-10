@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:54:46.254Z",
+  "generated": "2026-11-10T17:55:06.921Z",
   "type": "manuscript",
   "records": [
     {
@@ -2678,6 +2678,15 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/223.xml"
+    },
+    {
+      "id": "224",
+      "uri": "https://biblia-arabica.com/manuscript/224",
+      "headword": "Near East School of Theology MS AC 10",
+      "altNames": [
+        "Selections from the Gospels and Epistles"
+      ],
+      "file": "data/manuscripts/224.xml"
     }
   ]
 }
