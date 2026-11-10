@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:50:35.634Z",
+  "generated": "2026-11-10T17:50:57.739Z",
   "type": "manuscript",
   "records": [
     {
@@ -2584,6 +2584,18 @@
         "Annals"
       ],
       "file": "data/manuscripts/215.xml"
+    },
+    {
+      "id": "216",
+      "uri": "https://biblia-arabica.com/manuscript/216",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 9",
+      "altNames": [
+        "al-ʻUnwān al-ʻajīb fī ruʼyā al-Ḥabīb",
+        "العنوان العجيب في رؤيا الحبيب",
+        "Bānī, Yūsuf ibn Jirjis, -1724 or 1725. ʻUnwān al-ʻajīb fī ruʼyā al-Ḥabīb",
+        "Commentary on Revelation"
+      ],
+      "file": "data/manuscripts/216.xml"
     }
   ]
 }
