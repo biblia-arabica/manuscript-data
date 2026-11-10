@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:19:25.117Z",
+  "generated": "2026-11-10T17:19:53.499Z",
   "type": "manuscript",
   "records": [
     {
@@ -1746,6 +1746,16 @@
         "Bible. Matthew"
       ],
       "file": "data/manuscripts/143.xml"
+    },
+    {
+      "id": "144",
+      "uri": "https://biblia-arabica.com/manuscript/144",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 1",
+      "altNames": [
+        "Pentateuch",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/144.xml"
     }
   ]
 }
