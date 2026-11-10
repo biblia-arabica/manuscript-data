@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:16:29.597Z",
+  "generated": "2026-11-10T19:17:10.324Z",
   "type": "manuscript",
   "records": [
     {
@@ -4157,6 +4157,17 @@
         "كتاب الانجيل الشريف الطاهر والمصباح المنير الزاهر"
       ],
       "file": "data/manuscripts/351.xml"
+    },
+    {
+      "id": "352",
+      "uri": "https://biblia-arabica.com/manuscript/352",
+      "headword": "Lebanese Maronite Order N/A",
+      "altNames": [
+        "Book of Psalms of the king and prophet David",
+        "ܟܬܒܐ ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ ܡܠܟܐ ܘܢܒܝܐ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/352.xml"
     }
   ]
 }
