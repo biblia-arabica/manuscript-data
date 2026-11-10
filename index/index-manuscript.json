@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:21:17.700Z",
+  "generated": "2026-11-10T17:21:32.928Z",
   "type": "manuscript",
   "records": [
     {
@@ -1786,6 +1786,30 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/147.xml"
+    },
+    {
+      "id": "148",
+      "uri": "https://biblia-arabica.com/manuscript/148",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 13",
+      "altNames": [
+        "Proverbs",
+        "Bible. Proverbs",
+        "Ecclesiastes",
+        "Bible. Ecclesiastes",
+        "Gospel of John",
+        "Bible. John",
+        "Gospel of Luke. Selections",
+        "Bible. Luke",
+        "1 John",
+        "2 John",
+        "3 John",
+        "Ascetical homilies",
+        "Isaac, Bishop of Nineveh, active 7th century. Ascetical homilies",
+        "Revelation",
+        "Bible. Revelation",
+        "Ascetic instructions and commandments"
+      ],
+      "file": "data/manuscripts/148.xml"
     }
   ]
 }
