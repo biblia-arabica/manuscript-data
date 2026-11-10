@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:35:33.479Z",
+  "generated": "2026-11-10T17:35:52.961Z",
   "type": "manuscript",
   "records": [
     {
@@ -2184,6 +2184,32 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/184.xml"
+    },
+    {
+      "id": "185",
+      "uri": "https://biblia-arabica.com/manuscript/185",
+      "headword": "Qeddest Śellāsē Cathedral MS 25",
+      "altNames": [
+        "Commentary on Revelation, the Last Supper, and the saying \"The heart of a hermit is like a paradise of delight\"",
+        "Bāḥra ḥassāb",
+        "ባሕረ፡ ሐሳብ",
+        "Computus",
+        "Sea of Computation",
+        "Introduction to the Gospels",
+        "Revelation",
+        "Bible. Revelation",
+        "1 Ezra",
+        "Bible. Apocalypse of Ezra",
+        "Faith of the fathers. Selections",
+        "ሃይማኖተ ፡ አበው",
+        "Iʻtirāf al-Ābāʼ",
+        "Account of the believers and heretics",
+        "History of the first five ecumenical councils",
+        "List of the patriarchs of Alexandria from Saint Mark to Gabriel V",
+        "Commentary on the ordinary of the mass and the anaphoras",
+        "Glossary of Turkish and Arabic words"
+      ],
+      "file": "data/manuscripts/185.xml"
     }
   ]
 }
