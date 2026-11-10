@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:33:27.021Z",
+  "generated": "2026-11-10T18:33:45.979Z",
   "type": "manuscript",
   "records": [
     {
@@ -3353,6 +3353,17 @@
         "Bible. Jonah"
       ],
       "file": "data/manuscripts/281.xml"
+    },
+    {
+      "id": "282",
+      "uri": "https://biblia-arabica.com/manuscript/282",
+      "headword": "Near East School of Theology MS AC 36-61",
+      "altNames": [
+        "Micah",
+        "نبوة ميخا",
+        "Bible. Micah"
+      ],
+      "file": "data/manuscripts/282.xml"
     }
   ]
 }
