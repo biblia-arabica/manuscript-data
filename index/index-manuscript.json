@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:10:00.401Z",
+  "generated": "2026-11-10T19:10:18.995Z",
   "type": "manuscript",
   "records": [
     {
@@ -4005,6 +4005,18 @@
         "تفسير معاني الانجيل المجيد"
       ],
       "file": "data/manuscripts/338.xml"
+    },
+    {
+      "id": "339",
+      "uri": "https://biblia-arabica.com/manuscript/339",
+      "headword": "Lebanese Maronite Missionary Order MS 1",
+      "altNames": [
+        "Sirach",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus",
+        "Wisdom of Sirach"
+      ],
+      "file": "data/manuscripts/339.xml"
     }
   ]
 }
