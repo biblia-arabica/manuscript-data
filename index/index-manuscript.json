@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:52:56.822Z",
+  "generated": "2026-11-10T18:53:12.544Z",
   "type": "manuscript",
   "records": [
     {
@@ -3441,6 +3441,17 @@
         "Bible. Malachi"
       ],
       "file": "data/manuscripts/289.xml"
+    },
+    {
+      "id": "290",
+      "uri": "https://biblia-arabica.com/manuscript/290",
+      "headword": "Near East School of Theology MS AC 36-69",
+      "altNames": [
+        "Malachi",
+        "ملاخي",
+        "Bible. Malachi"
+      ],
+      "file": "data/manuscripts/290.xml"
     }
   ]
 }
