@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:59:28.106Z",
+  "generated": "2026-11-10T19:59:45.864Z",
   "type": "manuscript",
   "records": [
     {
@@ -4718,6 +4718,17 @@
         "Commentary on the Gospels"
       ],
       "file": "data/manuscripts/398.xml"
+    },
+    {
+      "id": "399",
+      "uri": "https://biblia-arabica.com/manuscript/399",
+      "headword": "Notre Dame University, Louaize BL 20",
+      "altNames": [
+        "Apostolos",
+        "Lectionary (Maronite Rite)",
+        "Readings from the epistles acccording to the Maronite rite"
+      ],
+      "file": "data/manuscripts/399.xml"
     }
   ]
 }
