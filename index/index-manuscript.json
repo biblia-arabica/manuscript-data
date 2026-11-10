@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:30:37.663Z",
+  "generated": "2026-11-10T17:30:54.183Z",
   "type": "manuscript",
   "records": [
     {
@@ -2039,6 +2039,16 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/170.xml"
+    },
+    {
+      "id": "171",
+      "uri": "https://biblia-arabica.com/manuscript/171",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 43",
+      "altNames": [
+        "Epistles of Paul",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/171.xml"
     }
   ]
 }
