@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:47:32.715Z",
+  "generated": "2026-11-10T19:48:13.317Z",
   "type": "manuscript",
   "records": [
     {
@@ -4380,6 +4380,18 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/370.xml"
+    },
+    {
+      "id": "371",
+      "uri": "https://biblia-arabica.com/manuscript/371",
+      "headword": "Dayr Yūḥannā Ḥarāsh N/A",
+      "altNames": [
+        "Calendar of readings from the Gospels",
+        "Gospels",
+        "ܐܠܐܢܓܝܠ ܐܠܡܩܕܣܗ̈ ܡܬܪܓܡܗ̈ ܡܢ ܐܠܠܓܗ̈ ܐܠܣܪܝܐܢܝܗ̈",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/371.xml"
     }
   ]
 }
