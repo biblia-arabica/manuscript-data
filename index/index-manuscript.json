@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:54:20.326Z",
+  "generated": "2026-11-10T19:54:40.363Z",
   "type": "manuscript",
   "records": [
     {
@@ -4535,6 +4535,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/382.xml"
+    },
+    {
+      "id": "383",
+      "uri": "https://biblia-arabica.com/manuscript/383",
+      "headword": "Dayr Sayyidat al-Balamand MS 5",
+      "altNames": [
+        "Gospels",
+        "الانجيل الطاهر المصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/383.xml"
     }
   ]
 }
