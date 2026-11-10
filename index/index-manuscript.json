@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:02:26.041Z",
+  "generated": "2026-11-10T19:02:42.780Z",
   "type": "manuscript",
   "records": [
     {
@@ -3786,6 +3786,17 @@
         "Psalter (Byzantine Rite)"
       ],
       "file": "data/manuscripts/319.xml"
+    },
+    {
+      "id": "320",
+      "uri": "https://biblia-arabica.com/manuscript/320",
+      "headword": "Kanīsat Mār Jirjis (Bishmizzīn, Lebanon) MS 3",
+      "altNames": [
+        "Psalter",
+        "كتاب الزبور الالهي",
+        "Psalter (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/320.xml"
     }
   ]
 }
