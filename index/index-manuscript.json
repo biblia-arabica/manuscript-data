@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:33:44.445Z",
+  "generated": "2026-11-10T17:34:17.693Z",
   "type": "manuscript",
   "records": [
     {
@@ -2132,6 +2132,18 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/179.xml"
+    },
+    {
+      "id": "180",
+      "uri": "https://biblia-arabica.com/manuscript/180",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 53",
+      "altNames": [
+        "Introduction to the Pauline epistles",
+        "Translatorʼs introduction to the Pauline epistles",
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/180.xml"
     }
   ]
 }
