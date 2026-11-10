@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:17:01.599Z",
+  "generated": "2026-11-10T18:17:52.741Z",
   "type": "manuscript",
   "records": [
     {
@@ -2989,6 +2989,18 @@
         "Van Dyck Arabic Bible"
       ],
       "file": "data/manuscripts/250.xml"
+    },
+    {
+      "id": "251",
+      "uri": "https://biblia-arabica.com/manuscript/251",
+      "headword": "Near East School of Theology MS AC 36-32",
+      "altNames": [
+        "Gospel of Mathew",
+        "انجيل متى",
+        "Bible. Matthew",
+        "Van Dyck Arabic Bible"
+      ],
+      "file": "data/manuscripts/251.xml"
     }
   ]
 }
