@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T15:00:09.150Z",
+  "generated": "2026-11-10T15:00:40.778Z",
   "type": "manuscript",
   "records": [
     {
@@ -1105,6 +1105,21 @@
         "Book of the Histories of the Hebrews"
       ],
       "file": "data/manuscripts/90.xml"
+    },
+    {
+      "id": "91",
+      "uri": "https://biblia-arabica.com/manuscript/91",
+      "headword": "Pentateuch, for Samaritan use",
+      "altNames": [
+        "Introduction of Abū Saʿīd",
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy",
+        "Glosses"
+      ],
+      "file": "data/manuscripts/91.xml"
     }
   ]
 }
