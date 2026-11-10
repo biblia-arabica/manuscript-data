@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:05:43.111Z",
+  "generated": "2026-11-10T19:06:18.963Z",
   "type": "manuscript",
   "records": [
     {
@@ -3866,6 +3866,18 @@
         "Wisdom of Sirach"
       ],
       "file": "data/manuscripts/326.xml"
+    },
+    {
+      "id": "327",
+      "uri": "https://biblia-arabica.com/manuscript/327",
+      "headword": "Our Lady of Bzummār Monastery MS Ar. 109",
+      "altNames": [
+        "Ecclesiasticus",
+        "يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus",
+        "Wisdom of Sirach"
+      ],
+      "file": "data/manuscripts/327.xml"
     }
   ]
 }
