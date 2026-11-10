@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:48:13.317Z",
+  "generated": "2026-11-10T19:48:47.944Z",
   "type": "manuscript",
   "records": [
     {
@@ -4392,6 +4392,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/371.xml"
+    },
+    {
+      "id": "372",
+      "uri": "https://biblia-arabica.com/manuscript/372",
+      "headword": "Dayr Yūḥannā Ḥarāsh N/A",
+      "altNames": [
+        "Pentateuch with commentary",
+        "ܟܡܣ ܐܣܦܐܪ ܐܠܬܘܪܐܗ̈ ܐܠܡܩܕܣܗ",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/372.xml"
     }
   ]
 }
