@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:34:03.078Z",
+  "generated": "2026-11-10T19:34:36.446Z",
   "type": "manuscript",
   "records": [
     {
@@ -4236,6 +4236,17 @@
         "İncil"
       ],
       "file": "data/manuscripts/358.xml"
+    },
+    {
+      "id": "359",
+      "uri": "https://biblia-arabica.com/manuscript/359",
+      "headword": "Ordre Basilien Choueirite MS 279",
+      "altNames": [
+        "Epistles of Paul",
+        "بعض رسائل للقدّيس بولس",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/359.xml"
     }
   ]
 }
