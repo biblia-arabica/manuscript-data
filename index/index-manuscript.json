@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:12:03.686Z",
+  "generated": "2026-11-10T19:12:17.624Z",
   "type": "manuscript",
   "records": [
     {
@@ -4077,6 +4077,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/344.xml"
+    },
+    {
+      "id": "345",
+      "uri": "https://biblia-arabica.com/manuscript/345",
+      "headword": "Lebanese Maronite Order Pat 148/1 c2",
+      "altNames": [
+        "Novum Testamentum Syriacum et Arabicum. Tomus 1",
+        "ܟܬܒܐ ܩܕܡܝܐ ܕܕܝܬܝܩܝ ܚܕܬܐ ܒܠܫܢܐ ܣܘܪܝܝܐ ܘܐܪܒܝܐ",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/345.xml"
     }
   ]
 }
