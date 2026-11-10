@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:49:20.146Z",
+  "generated": "2026-11-10T17:49:37.808Z",
   "type": "manuscript",
   "records": [
     {
@@ -2537,6 +2537,16 @@
         "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram"
       ],
       "file": "data/manuscripts/211.xml"
+    },
+    {
+      "id": "212",
+      "uri": "https://biblia-arabica.com/manuscript/212",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 6",
+      "altNames": [
+        "Tafsīr. Gospels",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram"
+      ],
+      "file": "data/manuscripts/212.xml"
     }
   ]
 }
