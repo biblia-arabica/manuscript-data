@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">France, Paris, Bibliothèque nationale de France, Arabe 12</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/101</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change who="#hibrahim" when="2026-09-12">Converted from legacy BnF TEI manuscript description to the current Biblia Arabica MANO structure.</change>
+                                    <change when="2026-06-01">Initial TEI manuscript description generated from supplied PDF.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>France</country>
+                                                <settlement>Paris</settlement>
+                                                <repository>Bibliothèque nationale de France. Département des Manuscrits</repository>
+                                                <collection>Arabe</collection>
+                                                <idno>Arabe 12</idno>
+                                                <altIdentifier type="old">
+                                                    <idno>Supplément arabe 3 bis</idno>
+                                                </altIdentifier>
+                                                <msName>Pentateuch</msName>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary xml:lang="en">Pentateuch</summary>
+                                                <msItem xml:id="bnf-arabe-12-item-1">
+                                                    <locus from="2v" to="71v"/>
+                                                    <title>Genesis</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote xml:lang="ar">في البدء خلق الله السماء و الارض و كانت الارض غير منظورةو غير مستعدة و الظلمة على الغمر</quote>
+                                                    </incipit>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-12-item-2">
+                                                    <locus from="72v" to="131v"/>
+                                                    <title>Exodus</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-12-item-3">
+                                                    <locus from="132v" to="175v"/>
+                                                    <title>Leviticus</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-12-item-4">
+                                                    <locus from="176v" to="236"/>
+                                                    <title>Numbers</title>
+                                                    <textLang mainLang="ar"/>
+                                                </msItem>
+                                                <msItem xml:id="bnf-arabe-12-item-5">
+                                                    <locus from="237v" to="289v"/>
+                                                    <title>Deuteronomy</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">Translated from the Septuagint.</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType style="codex">Single manuscript</objectType>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note xml:lang="en">Oriental paper
+
+BnF EAD physical description (srcphys_80ccbabe6058e69a35b897): 13 lignes à la page. Surface écrite 260 × 180 mm. Cahiers numérotés en lettres arabes à 10 fol. Gloses marginales. Papier oriental. 290 fol. (f. 1, 72, 132, 176, 236 v-237, 290 v laissés en blanc). Folioté en chiffres coptes. Écriture orientale (Égypte). Texte vocalisé. — Titres en lettres dorées. Enluminures faites de dessins géométriques dorés sur fond bleu (f. 1 v-2) ; titres écrits en coufique dans des sarlohs dorés sur fond bleu (f. 2 v-3, 72v-73, 132 v-133, 176 v-177, 237 v-238, 289 v-290). 385 × 265 mm. Reliure orientale à rabat, basane rouge. Médaillons, fleurons et coins estampés à chaud.</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">290 folios (ff. 1, 72, 132, 176, 236v-237, 290v blank); foliated in Coptic numerals</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">385</height>
+                                                                <width unit="mm">265</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                        <condition>
+                                                            <note xml:lang="en">Exceptional communication, subject to authorization by the director of the department on motivated request.</note>
+                                                        </condition>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note xml:lang="en">13 lines per page. Gatherings numbered in Arabic letters, 10 folios per gathering. Marginal glosses.</note>
+                                                        </summary>
+                                                        <layout writtenLines="13" columns="1" xml:id="layout-1">
+                                                            <dimensions type="written">
+                                                                <height unit="mm">260</height>
+                                                                <width unit="mm">180</width>
+                                                            </dimensions>
+                                                        </layout>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <handDesc>
+                                                    <summary xml:lang="en">Eastern Arabic hand, described as Egyptian. Text vocalized.</summary>
+                                                </handDesc>
+                                                <scriptDesc>
+                                                    <scriptNote script="arabic">
+                                                        <note xml:lang="en">Legacy hand scope: major.</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                                <decoDesc>
+                                                    <decoNote>
+                                                        <note xml:lang="en">Titles in gold letters.</note>
+                                                    </decoNote>
+                                                    <decoNote>
+                                                        <note xml:lang="en">Illuminations of gold geometric drawings on blue ground at ff. 1v-2.</note>
+                                                    </decoNote>
+                                                    <decoNote>
+                                                        <note xml:lang="en">Titles written in Kufic in golden sarlohs on blue ground at ff. 2v-3, 72v-73, 132v-133, 176v-177, 237v-238, 289v-290.</note>
+                                                    </decoNote>
+                                                </decoDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <note xml:lang="en">Oriental binding with flap, red sheepskin; medallions, fleurons and corners stamped in gold.</note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>BnF EAD catalogue (srcphys_80ccbabe6058e69a35b897): Pentateuque. Date described in the BnF catalogue: 1353.</summary>
+                                                <provenance>
+                                                    <note xml:lang="en">Anonymous notice.</note>
+                                                </provenance>
+                                                <acquisition>
+                                                    <note xml:lang="en">Sent by the abbé d’Orvalle in 1749.</note>
+                                                </acquisition>
+                                                <origin>
+                                                    <origDate calendar="#gregorian" when="1353">1353</origDate>
+                                                    <p>Copy made by Ǧirǧis, son of the priest Abū al-Mufaḍḍal, and completed on 28 Abīb 1069 of the Martyrs (f. 290).</p>
+                                                    <p>A note at f. 290 states that the text was collated against Greek, Hebrew and Coptic in AH 754 / 1353 according to a manuscript written by the priest Ibn Kabar.</p>
+                                                </origin>
+                                            </history>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital surrogate: https://gallica.bnf.fr/ark:/12148/btv1b84192173.</title>
+                                                            <ptr target="https://gallica.bnf.fr/ark:/12148/btv1b84192173"/>
+                                                        </bibl>
+                                                        <bibl>
+                                                            <title>Black-and-white microfilm: reading-room shelfmark MFILM Arabe 12; matrix shelfmark R 59889.</title>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                                <listBibl>
+                                                    <bibl xml:id="bibl-1">
+                                                        <title>G. Graf, Geschichte der christlichen arabischen Literatur, 5 vols., Città del Vaticano, 1944-1953, vol. I, p. 104.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-2">
+                                                        <title>M. G. Guesdon and A. Vernay-Nouri, eds., L’Art du livre arabe: du manuscrit au livre d’artiste, Paris, 2001, pp. 104-105, no. 73.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-3">
+                                                        <title>A. Boud’hors, Pages chrétiennes d’Egypte: les manuscrits des Coptes, Paris, BnF, 2004, no. 2, p. 32.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-4">
+                                                        <title>M. Cruvelier, “Le Pentateuque de la Bibliothèque nationale de France: un manuscrit copte-arabe du 8e / XIVe siècle,” Annales islamologiques 44 (2010), pp. 207-235.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-5">
+                                                        <title>R. Vollandt, Arabic versions of the Pentateuch: a comparative study of Jewish, Christian and Muslim sources, Leiden/Boston, 2015 (Biblia arabica, 2), pp. 265-266.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-6">
+                                                        <title>Exposition: L’art copte en Egypte: 2000 ans de christianisme, Paris, Institut du Monde arabe/Gallimard, 2000, no. 63, p. 85.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bibl-7">
+                                                        <title>Typed notices by Georges Vajda and Solange Ory for MSS Arabe 2-40, 42, 50-67, 202, 288-299, 323-383 and 385-470.</title>
+                                                    </bibl>
+                                                    <bibl xml:id="bib8">
+                                                        <title>BnF EAD manuscript catalogue, Arabe 12 (srcphys_80ccbabe6058e69a35b897)</title>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <availability status="restricted">
+                                                        <p>Exceptional communication, subject to authorization by the director of the department on motivated request.</p>
+                                                    </availability>
+                                                </adminInfo>
+                                                <adminInfo>
+                                                    <recordHist>
+                                                        <source>BnF Archives et manuscrits PDF export, ARK <idno type="ark">ark:/12148/cc346452</idno>, exported/consulted 2026-06-01.</source>
+                                                        <p>The BnF notice states that the transliteration system used is Arabica, close to ISO 233-2:1993 simplified Arabic transliteration.</p>
+                                                        <p>Legacy msDesc xml:id: ms_Paris_BnF_Arabe_12.</p>
+                                                        <p>Legacy publication statement: Unpublished working TEI description generated for research use.</p>
+                                                        <p>Legacy project description: TEI msDesc encoded from a BnF catalogue PDF export; folio ranges, dates and bibliographical data follow the source notice.</p>
+                                                        <p>Legacy responsibility statement: Structured TEI description extracted and normalized from the supplied BnF PDF export — Dr. Habib Ibrahim</p>
+                                                        <p>Legacy language usage: ar = Arabic; fr = French; en = English; ar-Latn = Arabic transliterated in Latin script; syr = Syriac; he = Hebrew.</p>
+                                                    </recordHist>
+                                                </adminInfo>
+                                                <listPerson>
+                                                    <name type="index">Ǧirǧis ibn Abī al-Mufaḍḍal</name>
+                                                    <name type="index">Ibn Kabar</name>
+                                                </listPerson>
+                                            </additional>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
