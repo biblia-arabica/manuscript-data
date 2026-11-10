@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:55:27.132Z",
+  "generated": "2026-11-10T18:55:46.098Z",
   "type": "manuscript",
   "records": [
     {
@@ -3528,6 +3528,15 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/297.xml"
+    },
+    {
+      "id": "298",
+      "uri": "https://biblia-arabica.com/manuscript/298",
+      "headword": "Near East School of Theology MS H 2",
+      "altNames": [
+        "Poems and hymns"
+      ],
+      "file": "data/manuscripts/298.xml"
     }
   ]
 }
