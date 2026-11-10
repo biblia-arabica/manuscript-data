@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:03:12.906Z",
+  "generated": "2026-11-10T19:03:37.541Z",
   "type": "manuscript",
   "records": [
     {
@@ -3818,6 +3818,17 @@
         "كاتسما المزامير وكاطافاسيات"
       ],
       "file": "data/manuscripts/322.xml"
+    },
+    {
+      "id": "323",
+      "uri": "https://biblia-arabica.com/manuscript/323",
+      "headword": "Dayr Mār Mīkhāʼīl MS 18",
+      "altNames": [
+        "Psalms",
+        "مزامير داوود الملك والنبي",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/323.xml"
     }
   ]
 }
