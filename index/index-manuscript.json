@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:09:45.158Z",
+  "generated": "2026-11-10T19:10:00.401Z",
   "type": "manuscript",
   "records": [
     {
@@ -3995,6 +3995,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/337.xml"
+    },
+    {
+      "id": "338",
+      "uri": "https://biblia-arabica.com/manuscript/338",
+      "headword": "Dayr al-Qiddīs Yūḥannā al-Maʻmadān MS 12",
+      "altNames": [
+        "Commentary on the Gospels",
+        "تفسير معاني الانجيل المجيد"
+      ],
+      "file": "data/manuscripts/338.xml"
     }
   ]
 }
