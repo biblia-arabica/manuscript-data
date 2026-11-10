@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:45:59.520Z",
+  "generated": "2026-11-10T17:46:21.985Z",
   "type": "manuscript",
   "records": [
     {
@@ -2470,6 +2470,17 @@
         "Prophetologion (Byzantine Rite)"
       ],
       "file": "data/manuscripts/205.xml"
+    },
+    {
+      "id": "206",
+      "uri": "https://biblia-arabica.com/manuscript/206",
+      "headword": "Séminaire Sainte-Anne de Jérusalem MS 13",
+      "altNames": [
+        "Praxapostolos",
+        "الأبركسيس والرسايل",
+        "Praxapostolos (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/206.xml"
     }
   ]
 }
