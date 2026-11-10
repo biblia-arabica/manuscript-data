@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:44:43.217Z",
+  "generated": "2026-11-10T16:45:41.383Z",
   "type": "manuscript",
   "records": [
     {
@@ -1354,6 +1354,18 @@
       "headword": "Genesis, for Coptic use, with commentary of Mark ibn Qanbar",
       "altNames": [],
       "file": "data/manuscripts/110.xml"
+    },
+    {
+      "id": "111",
+      "uri": "https://biblia-arabica.com/manuscript/111",
+      "headword": "Livres historiques",
+      "altNames": [
+        "Josué",
+        "Juges",
+        "Rois, Livre I",
+        "Rois, Livre II"
+      ],
+      "file": "data/manuscripts/111.xml"
     }
   ]
 }
