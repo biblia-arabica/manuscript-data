@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:28:13.177Z",
+  "generated": "2026-11-10T17:28:31.309Z",
   "type": "manuscript",
   "records": [
     {
@@ -1962,6 +1962,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/163.xml"
+    },
+    {
+      "id": "164",
+      "uri": "https://biblia-arabica.com/manuscript/164",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 36",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament",
+        "Calendar tables"
+      ],
+      "file": "data/manuscripts/164.xml"
     }
   ]
 }
