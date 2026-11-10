@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:57:15.378Z",
+  "generated": "2026-11-10T19:57:33.179Z",
   "type": "manuscript",
   "records": [
     {
@@ -4647,6 +4647,18 @@
         "Commentary on the Epistles to the Philippians, Colossians, 1 & 2 Thessalonians"
       ],
       "file": "data/manuscripts/392.xml"
+    },
+    {
+      "id": "393",
+      "uri": "https://biblia-arabica.com/manuscript/393",
+      "headword": "Notre Dame University, Louaize BL 13",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. Romans",
+        "تفسير رسالة بولس الرسول الى الرومانيين",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on Romans"
+      ],
+      "file": "data/manuscripts/393.xml"
     }
   ]
 }
