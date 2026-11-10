@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:02:02.268Z",
+  "generated": "2026-11-10T20:02:33.250Z",
   "type": "manuscript",
   "records": [
     {
@@ -4765,6 +4765,17 @@
         "Explaining the difficulties in the Holy Bible"
       ],
       "file": "data/manuscripts/402.xml"
+    },
+    {
+      "id": "403",
+      "uri": "https://biblia-arabica.com/manuscript/403",
+      "headword": "Notre Dame University, Louaize BL 24",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. 2 Thessalonians",
+        "تفسير رسالة مار بولس الرسول الثانية إلى أهل تسالونيكي",
+        "Commentary on 2 Thessalonians"
+      ],
+      "file": "data/manuscripts/403.xml"
     }
   ]
 }
