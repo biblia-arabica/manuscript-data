@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:49:49.042Z",
+  "generated": "2026-11-10T14:08:23.515Z",
   "type": "manuscript",
   "records": [
     {
@@ -696,6 +696,15 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/55.xml"
+    },
+    {
+      "id": "56",
+      "uri": "https://biblia-arabica.com/manuscript/56",
+      "headword": "Chaldean Catholic Church. Diocese of Alqūsh N/A",
+      "altNames": [
+        "New Testament"
+      ],
+      "file": "data/manuscripts/56.xml"
     }
   ]
 }
