@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:50:51.220Z",
+  "generated": "2026-11-10T19:52:10.205Z",
   "type": "manuscript",
   "records": [
     {
@@ -4435,6 +4435,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/375.xml"
+    },
+    {
+      "id": "376",
+      "uri": "https://biblia-arabica.com/manuscript/376",
+      "headword": "Dayr Yūḥannā Ḥarāsh N/A",
+      "altNames": [
+        "Gospels. Mark, Luke",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/376.xml"
     }
   ]
 }
