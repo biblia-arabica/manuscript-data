@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:05:34.649Z",
+  "generated": "2026-11-10T20:05:49.919Z",
   "type": "manuscript",
   "records": [
     {
@@ -4898,6 +4898,15 @@
         "Bible. Wisdom of Solomon"
       ],
       "file": "data/manuscripts/413.xml"
+    },
+    {
+      "id": "414",
+      "uri": "https://biblia-arabica.com/manuscript/414",
+      "headword": "Notre Dame University, Louaize ML 034",
+      "altNames": [
+        "Miscellany"
+      ],
+      "file": "data/manuscripts/414.xml"
     }
   ]
 }
