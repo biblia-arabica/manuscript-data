@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:10:18.995Z",
+  "generated": "2026-11-10T19:10:49.835Z",
   "type": "manuscript",
   "records": [
     {
@@ -4017,6 +4017,31 @@
         "Wisdom of Sirach"
       ],
       "file": "data/manuscripts/339.xml"
+    },
+    {
+      "id": "340",
+      "uri": "https://biblia-arabica.com/manuscript/340",
+      "headword": "Lebanese Maronite Missionary Order MS 301",
+      "altNames": [
+        "Abūkālībs Mār Yūḥannā al-rasūlī",
+        "أبوكاليبس مار يوحنا الرسولي",
+        "Bible. Revelation",
+        "Ruʼyā Yūḥannā"
+      ],
+      "file": "data/manuscripts/340.xml"
+    },
+    {
+      "id": "341",
+      "uri": "https://biblia-arabica.com/manuscript/341",
+      "headword": "Lebanese Maronite Missionary Order MS 314",
+      "altNames": [
+        "Kitāb al-Injīl al-muqaddas",
+        "كتاب الانجيل المقدس",
+        "Bible. Gospels",
+        "Kitāb al-quddās",
+        "ܟܬܐܒ ܐܠܩܕܐܣ"
+      ],
+      "file": "data/manuscripts/341.xml"
     }
   ]
 }
