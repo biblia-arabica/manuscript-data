@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T11:54:49.346Z",
+  "generated": "2026-11-10T12:00:26.039Z",
   "type": "manuscript",
   "records": [
     {
@@ -195,6 +195,16 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/15.xml"
+    },
+    {
+      "id": "16",
+      "uri": "https://biblia-arabica.com/manuscript/16",
+      "headword": "Syriac Catholic Church. Archdiocese of Baghdad N. 81",
+      "altNames": [
+        "Book of Daniel",
+        "كتاب السيّد الحكيم دانيال"
+      ],
+      "file": "data/manuscripts/16.xml"
     }
   ]
 }
