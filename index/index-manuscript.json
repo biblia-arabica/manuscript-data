@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:14:27.143Z",
+  "generated": "2026-11-10T14:14:58.389Z",
   "type": "manuscript",
   "records": [
     {
@@ -811,6 +811,16 @@
         "Symbols of the Gospels (1st-6th centuries)"
       ],
       "file": "data/manuscripts/66.xml"
+    },
+    {
+      "id": "67",
+      "uri": "https://biblia-arabica.com/manuscript/67",
+      "headword": "Syriac Orthodox Church. Archdiocese of Mosul N/A",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/67.xml"
     }
   ]
 }
