@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:57:24.704Z",
+  "generated": "2026-11-10T18:57:42.345Z",
   "type": "manuscript",
   "records": [
     {
@@ -3587,6 +3587,26 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/303.xml"
+    },
+    {
+      "id": "304",
+      "uri": "https://biblia-arabica.com/manuscript/304",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 2/377",
+      "altNames": [
+        "Ṣuḥuf Ibrāhīm wa-Mūsá",
+        "صحف ابراهيم وموسى",
+        "Scrolls of Abraham and Moses",
+        "Zabūr Dāwud",
+        "الزبور",
+        "Zabūr",
+        "Psalms",
+        "Arbaʻūn sūrah min al-Tawrāh",
+        "اربعون سورة منتخبة من التورية التى كلم الله تعالى موسى ابن عمران بلا ترجمان",
+        "Tawrāh",
+        "Selected chapters from the Torah",
+        "Ḥadīth qudsī"
+      ],
+      "file": "data/manuscripts/304.xml"
     }
   ]
 }
