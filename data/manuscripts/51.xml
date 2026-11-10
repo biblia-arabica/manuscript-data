@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Iraq, Mosul, Dominican Friars of Mosul 388</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/51</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="draft">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-10"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Iraq</country>
+                                                <settlement>Mosul</settlement>
+                                                <repository>Dominican Friars of Mosul</repository>
+                                                <collection>DFM</collection>
+                                                <idno>MS 388</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>134562</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>DFM 00388</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 905291): 1900–1997 [1900–1997]; Ruq‘ah | Part 2 (vHMML part 905292): 1914–1997 [1914–1997]; Ruq‘ah | Part 3 (vHMML part 905293): 1900–1997 [1900–1997]; Ruq‘ah, Serṭā</summary>
+                                                <msItem xml:id="vhmm-134562-item-1" class="part-1">
+                                                    <title xml:lang="en">Proverbs, Ecclesiastes. Selections</title>
+                                                    <title xml:lang="en">Bible. Old Testament</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 905291); catalogue-content-id: 1584366; Title classification: provisional: Proverbs, Ecclesiastes. Selections; Title classification: uniform: Bible. Old Testament</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-2" class="part-2">
+                                                    <title xml:lang="en">Mujādalat Jirjī al-rāhib</title>
+                                                    <title xml:lang="ar">مجادلة في الدين جرت بين الراهب جرجس السمعاني وثلاثه من فقهاء الاسلام</title>
+                                                    <title xml:lang="en">Mujādalat Jirjī al-rāhib</title>
+                                                    <title xml:lang="en">Disputation between Jirjis the monk and three Muslim scholars</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 905292); catalogue-content-id: 1584367; Title classification: provisional: Mujādalat Jirjī al-rāhib; Title classification: original: مجادلة في الدين جرت بين الراهب جرجس السمعاني وثلاثه من فقهاء الاسلام; Title classification: uniform: Mujādalat Jirjī al-rāhib; Title classification: alternative: Disputation between Jirjis the monk and three Muslim scholars</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-3" class="part-2">
+                                                    <title xml:lang="en">Refutation of al-Nabhānī&apos;s treatise Irshād al-ḥayārá fī taḥdhīr al-Muslimīn min madāris al-Naṣārá</title>
+                                                    <title xml:lang="ar">ارشاد الحيارى في تحذير المسلمين من مدارس النصارى</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 905292); catalogue-content-id: 1584368; content-contributor: {&quot;id&quot;: 522297, &quot;contributor&quot;: {&quot;id&quot;: 11999, &quot;name&quot;: &quot;Nabhānī, Yūsuf ibn Ismāʻīl, 1849 or 1850-1932&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n80040115&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/306067240&quot;, &quot;displayName&quot;: &quot;Nabhānī, Yūsuf ibn Ismāʻīl, 1849 or 1850-1932&quot;}}; Title classification: provisional: Refutation of al-Nabhānī&apos;s treatise Irshād al-ḥayārá fī taḥdhīr al-Muslimīn min madāris al-Naṣārá; Title classification: original: ارشاد الحيارى في تحذير المسلمين من مدارس النصارى</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-4" class="part-2">
+                                                    <title xml:lang="en">Comments on Leo Tolstoy&apos;s work in light of the beginning of World War I</title>
+                                                    <title xml:lang="ar">نبوة تولستوي او بالحري رسالته الى كل من قيصري روسيا والمانيا وملك الانكليز</title>
+                                                    <title xml:lang="en">Nubūwat Tūlstūy</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 905292); catalogue-content-id: 1584369; content-contributor: {&quot;id&quot;: 522298, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;سيما، عبد الله نجم&quot;, &quot;contributor&quot;: {&quot;id&quot;: 13278, &quot;name&quot;: &quot;Sīmā, ʻAbd Allāh Najm, active 1914&quot;, &quot;displayName&quot;: &quot;Sīmā, ʻAbd Allāh Najm, active 1914&quot;}}; Title classification: provisional: Comments on Leo Tolstoy&apos;s work in light of the beginning of World War I; Title classification: original: نبوة تولستوي او بالحري رسالته الى كل من قيصري روسيا والمانيا وملك الانكليز; Title classification: alternative: Nubūwat Tūlstūy</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-5" class="part-3">
+                                                    <title xml:lang="en">Homily on Purgatory</title>
+                                                    <title xml:lang="ar">عظة على المطهر</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 3 (ID 905293); catalogue-content-id: 1584370; Title classification: provisional: Homily on Purgatory; Title classification: original: عظة على المطهر</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-6" class="part-3">
+                                                    <title xml:lang="en">Homily on eternity</title>
+                                                    <title xml:lang="ar">في الابدية</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 3 (ID 905293); catalogue-content-id: 1584371; Title classification: provisional: Homily on eternity; Title classification: original: في الابدية</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-7" class="part-3">
+                                                    <title xml:lang="en">Theological and philosophical miscellany</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 3 (ID 905293); catalogue-content-id: 1584372; content-contributor: {&quot;id&quot;: 522299, &quot;contributor&quot;: {&quot;id&quot;: 3847, &quot;name&quot;: &quot;Thomas, Aquinas, Saint, 1225?-1274&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n78095790&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/100910150&quot;, &quot;displayName&quot;: &quot;Thomas, Aquinas, 1225?-1274&quot;}}; Title classification: provisional: Theological and philosophical miscellany</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-134562-item-8" class="part-3">
+                                                    <title xml:lang="en">Poems</title>
+                                                    <textLang mainLang="syr"/>
+                                                    <note xml:lang="en">vHMML part 3 (ID 905293); catalogue-content-id: 1584373; content-contributor: {&quot;id&quot;: 522300, &quot;type&quot;: &quot;Author&quot;, &quot;contributor&quot;: {&quot;id&quot;: 5692, &quot;name&quot;: &quot;Ignatius Ephraem Rahmani II, Patriarch of the Syrian Catholic Church, 1848-1929&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr2006011955&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/73844098&quot;, &quot;displayName&quot;: &quot;Ighnāṭiyūs Afrām II Raḥmānī, Syriac Catholic Patriarch of Antioch, 1848-1929&quot;}}; Title classification: provisional: Poems</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: False; Part 1: signatures: False; Part 1: centuries: [20]; Part 2: material PAPER; Part 2: catchwords: False; Part 2: signatures: False; Part 2: centuries: [20]; Part 3: material PAPER; Part 3: catchwords: False; Part 3: signatures: False; Part 3: centuries: [20]; Binding depth: 1.5 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">94 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">160</height>
+                                                                <width unit="mm">100</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Ruq‘ah</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 2: Ruq‘ah</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 2: Arabic, Roman</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 3: Ruq‘ah, Serṭā</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 3: Arabic, Syriac</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 905291): 1900–1997 [1900–1997]; Ruq‘ah | Part 2 (vHMML part 905292): 1914–1997 [1914–1997]; Ruq‘ah | Part 3 (vHMML part 905293): 1900–1997 [1900–1997]; Ruq‘ah, Serṭā</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 134562</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/134562"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Bahnām Sūnī, Fihris makhṭūṭāt Dayr al-Ābāʼ al-Dūminīkān: al-Mawṣil (1997).</title>
+                                                        <citedRange>Bahnām Sūnī, Fihris makhṭūṭāt Dayr al-Ābāʼ al-Dūminīkān: al-Mawṣil (1997).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/134562">https://w3id.org/vhmml/readingRoom/view/134562</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="acknowledgments">Digitized in collaboration with Centre Numérique des Manuscrits Orientaux (CNMO), Ankawa, Erbil, Iraq; Initial metadata by Joshua Falconer; cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2025/12/04</note>
+                                                <note type="currentStatus">Relocated</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2011/03/09</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">905291</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Proverbs, Ecclesiastes. Selections</title>
+                                                        <title type="uniform">Bible. Old Testament</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584366</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1900" notAfter="1997">1900–1997</origDate>
+                                                        <note type="script">Ruq‘ah</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 18 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[20]</note>
+                                                </physDesc>
+                                            </msPart>
+                                            <msPart n="2">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">905292</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Mujādalat Jirjī al-rāhib</title>
+                                                        <title type="original">مجادلة في الدين جرت بين الراهب جرجس السمعاني وثلاثه من فقهاء الاسلام</title>
+                                                        <title type="uniform">Mujādalat Jirjī al-rāhib</title>
+                                                        <title type="alternative">Disputation between Jirjis the monk and three Muslim scholars</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584367</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Refutation of al-Nabhānī's treatise Irshād al-ḥayārá fī taḥdhīr al-Muslimīn min madāris al-Naṣārá</title>
+                                                        <title type="original">ارشاد الحيارى في تحذير المسلمين من مدارس النصارى</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584368</note>
+                                                        <note type="content-contributor">{"id": 522297, "contributor": {"id": 11999, "name": "Nabhānī, Yūsuf ibn Ismāʻīl, 1849 or 1850-1932", "authorityUriLC": "https://id.loc.gov/authorities/names/n80040115", "authorityUriVIAF": "https://viaf.org/viaf/306067240", "displayName": "Nabhānī, Yūsuf ibn Ismāʻīl, 1849 or 1850-1932"}}</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Comments on Leo Tolstoy's work in light of the beginning of World War I</title>
+                                                        <title type="original">نبوة تولستوي او بالحري رسالته الى كل من قيصري روسيا والمانيا وملك الانكليز</title>
+                                                        <title type="alternative">Nubūwat Tūlstūy</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584369</note>
+                                                        <note type="content-contributor">{"id": 522298, "type": "Author", "nameNs": "سيما، عبد الله نجم", "contributor": {"id": 13278, "name": "Sīmā, ʻAbd Allāh Najm, active 1914", "displayName": "Sīmā, ʻAbd Allāh Najm, active 1914"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1914" notAfter="1997">1914–1997</origDate>
+                                                        <note type="script">Ruq‘ah</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 18 lines per page</note>
+                                                    <note type="writingSystem">Arabic, Roman</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[20]</note>
+                                                </physDesc>
+                                            </msPart>
+                                            <msPart n="3">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">905293</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Homily on Purgatory</title>
+                                                        <title type="original">عظة على المطهر</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584370</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Homily on eternity</title>
+                                                        <title type="original">في الابدية</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584371</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Theological and philosophical miscellany</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1584372</note>
+                                                        <note type="content-contributor">{"id": 522299, "contributor": {"id": 3847, "name": "Thomas, Aquinas, Saint, 1225?-1274", "authorityUriLC": "https://id.loc.gov/authorities/names/n78095790", "authorityUriVIAF": "https://viaf.org/viaf/100910150", "displayName": "Thomas, Aquinas, 1225?-1274"}}</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Poems</title>
+                                                        <textLang>Syriac</textLang>
+                                                        <note type="catalogue-content-id">1584373</note>
+                                                        <note type="content-contributor">{"id": 522300, "type": "Author", "contributor": {"id": 5692, "name": "Ignatius Ephraem Rahmani II, Patriarch of the Syrian Catholic Church, 1848-1929", "authorityUriLC": "https://id.loc.gov/authorities/names/nr2006011955", "authorityUriVIAF": "https://viaf.org/viaf/73844098", "displayName": "Ighnāṭiyūs Afrām II Raḥmānī, Syriac Catholic Patriarch of Antioch, 1848-1929"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1900" notAfter="1997">1900–1997</origDate>
+                                                        <note type="script">Ruq‘ah, Serṭā</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1-3 columns, 18 lines per page</note>
+                                                    <note type="writingSystem">Arabic, Syriac</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[20]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
