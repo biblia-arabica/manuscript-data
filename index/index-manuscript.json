@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T17:31:36.872Z",
+  "generated": "2026-11-10T17:31:54.804Z",
   "type": "manuscript",
   "records": [
     {
@@ -2071,6 +2071,16 @@
         "Synopsis of chapters of the Gospels"
       ],
       "file": "data/manuscripts/173.xml"
+    },
+    {
+      "id": "174",
+      "uri": "https://biblia-arabica.com/manuscript/174",
+      "headword": "Dayr al-Qiddīs Anbā Maqār Bibl. 46",
+      "altNames": [
+        "Gospel of John",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/174.xml"
     }
   ]
 }
