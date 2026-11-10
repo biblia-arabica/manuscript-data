@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:44:24.007Z",
+  "generated": "2026-11-10T14:44:49.267Z",
   "type": "manuscript",
   "records": [
     {
@@ -980,6 +980,21 @@
         "Poesie liriche nel caldeo volgare"
       ],
       "file": "data/manuscripts/80.xml"
+    },
+    {
+      "id": "81",
+      "uri": "https://biblia-arabica.com/manuscript/81",
+      "headword": "Dominican Friars of Mosul MS 404",
+      "altNames": [
+        "Fables",
+        "ܐܡܬܐܠ",
+        "Aesop's fables",
+        "Theological discourses",
+        "Revelation with commentary",
+        "ܐܠܐܒܘܓܐܠܡܣܝܣ ܪܘܝܐ ܝܘܚܢܐ ܐܠܐܢܓܝܠܝ",
+        "Bible. Revelation"
+      ],
+      "file": "data/manuscripts/81.xml"
     }
   ]
 }
