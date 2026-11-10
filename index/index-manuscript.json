@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:49:40.218Z",
+  "generated": "2026-11-10T19:50:16.712Z",
   "type": "manuscript",
   "records": [
     {
@@ -4413,6 +4413,17 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/373.xml"
+    },
+    {
+      "id": "374",
+      "uri": "https://biblia-arabica.com/manuscript/374",
+      "headword": "Dayr Yūḥannā Ḥarāsh N/A",
+      "altNames": [
+        "Old Testament. Selections",
+        "ܟܬܐܒ ܝܫܘܥ ܐܒܢ ܢܘܢ ܘܟܬܐܒ ܐܠܩܛܐܗ ܘܟܬܐܒ ܐܣܦܐܪ ܐܠܡܠܘܟ ܘܟܬܐܒ ܨܐܡܘܝܠ ܘܟܬܐܒ ܐܣܬܝܪ ܘܟܬܐܒ ܝܘܕܝܬ ܘܟܬܐܒ ܛܘܒܝ ܘܟܬܐܒ ܪܥܘܬ",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/374.xml"
     }
   ]
 }
