@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:46:50.678Z",
+  "generated": "2026-11-10T19:47:16.099Z",
   "type": "manuscript",
   "records": [
     {
@@ -4358,6 +4358,17 @@
         "Bible"
       ],
       "file": "data/manuscripts/368.xml"
+    },
+    {
+      "id": "369",
+      "uri": "https://biblia-arabica.com/manuscript/369",
+      "headword": "Dormition of the Theotokos Church MS 9",
+      "altNames": [
+        "Praxapostolos",
+        "كتاب الرسائل",
+        "Praxapostolos (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/369.xml"
     }
   ]
 }
