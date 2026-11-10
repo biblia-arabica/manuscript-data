@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:05:49.919Z",
+  "generated": "2026-11-10T20:06:06.271Z",
   "type": "manuscript",
   "records": [
     {
@@ -4907,6 +4907,19 @@
         "Miscellany"
       ],
       "file": "data/manuscripts/414.xml"
+    },
+    {
+      "id": "415",
+      "uri": "https://biblia-arabica.com/manuscript/415",
+      "headword": "Notre Dame University, Louaize ML 33",
+      "altNames": [
+        "Rutbat al-quddās",
+        "ܪܬܒܗ ܐܠܦܕܐܣ",
+        "Maronite mass",
+        "Gospel of Matthew",
+        "ܒܫܐܪܗ ܡܬܝ ܐܠܪܣܘܠ"
+      ],
+      "file": "data/manuscripts/415.xml"
     }
   ]
 }
