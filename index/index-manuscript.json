@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:04:18.777Z",
+  "generated": "2026-11-10T12:04:54.280Z",
   "type": "manuscript",
   "records": [
     {
@@ -252,6 +252,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/20.xml"
+    },
+    {
+      "id": "21",
+      "uri": "https://biblia-arabica.com/manuscript/21",
+      "headword": "Mār Behnām Monastery MS 15",
+      "altNames": [
+        "Acts, Catholic Epistles, Epistles of Paul",
+        "ܐܠܐܒܪܟܣܝܣ ܘܪܣܐܝܠ ܐܠܩܕܝܣ ܒܘܠܨ ܘܣܐܝܪ ܪܣܐܝܠ ܐܠܪܣܠ ܐܠܩܕܝܣܝܢ",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/21.xml"
     }
   ]
 }
