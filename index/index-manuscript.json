@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:58:31.617Z",
+  "generated": "2026-11-10T19:59:10.968Z",
   "type": "manuscript",
   "records": [
     {
@@ -4695,6 +4695,17 @@
         "Commentary on the Epistle to the Hebrews"
       ],
       "file": "data/manuscripts/396.xml"
+    },
+    {
+      "id": "397",
+      "uri": "https://biblia-arabica.com/manuscript/397",
+      "headword": "Notre Dame University, Louaize BL 17",
+      "altNames": [
+        "Tafsīr. Gospels. Matthew and Mark",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on the Gospels of Matthew and Mark"
+      ],
+      "file": "data/manuscripts/397.xml"
     }
   ]
 }
