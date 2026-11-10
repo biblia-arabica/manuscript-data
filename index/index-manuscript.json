@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T18:56:20.582Z",
+  "generated": "2026-11-10T18:56:41.612Z",
   "type": "manuscript",
   "records": [
     {
@@ -3557,6 +3557,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/300.xml"
+    },
+    {
+      "id": "301",
+      "uri": "https://biblia-arabica.com/manuscript/301",
+      "headword": "Université Saint-Joseph. Bibliothèque orientale MS 1736",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع ابن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/301.xml"
     }
   ]
 }
