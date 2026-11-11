@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:06:22.934Z",
+  "generated": "2026-11-11T18:06:45.175Z",
   "type": "manuscript",
   "records": [
     {
@@ -5838,6 +5838,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/491.xml"
+    },
+    {
+      "id": "492",
+      "uri": "https://biblia-arabica.com/manuscript/492",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 16 H",
+      "altNames": [
+        "Acts and Epistles",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/492.xml"
     }
   ]
 }
