@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:18:05.350Z",
+  "generated": "2026-11-11T18:18:23.055Z",
   "type": "manuscript",
   "records": [
     {
@@ -6045,6 +6045,15 @@
         "John Chrysostom, Saint, -407. Homilies on John"
       ],
       "file": "data/manuscripts/510.xml"
+    },
+    {
+      "id": "511",
+      "uri": "https://biblia-arabica.com/manuscript/511",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 60",
+      "altNames": [
+        "Tafsīr. Gospels"
+      ],
+      "file": "data/manuscripts/511.xml"
     }
   ]
 }
