@@ -57,7 +57,7 @@
                                     </sourceDesc>
                                 </fileDesc>
                                 <revisionDesc status="unpublished">
-                                    <change who="#nfaqsh" when="2026-11-10"/>
+                                    <change who="#nfaqsh" when="2026-11-11"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -72,17 +72,103 @@
                                                 <idno>597</idno>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary xml:lang="ar"/>
+                                                <summary xml:lang="ar">
+                                                    <p>هذا المخطوط عبارة عن نبوة دانيال وكتاب الأمثال وهو من (١ أ -٨٣ ب).</p>
+                                                    <p>ثم بعد ذلك كتاب الأزمنه يبدأ من (٨٥ب)بمداد وخط مختلف عما قبله.</p>
+                                                    <p/>
+                                                </summary>
                                                 <msItem xml:id="msitem-1" class="bible">
-                                                    <title>نبوة دانيال</title>
+                                                    <locus from="١" to="٣٧"/>
+                                                    <title xml:lang="ar">نبوة دانيال</title>
                                                     <textLang mainLang="ar"/>
                                                     <incipit>
-                                                        <quote>
-                                                            <p>وامر بتعليمهم الكتب ولبيان اهل بابل اجرا عليهم من مايدته في كل يوم طعاما و سقاهم من شرابه (  ) ثلث سنين ثم يعرضوا عليه بعد ذلك.</p>
+                                                        <quote xml:lang="ar">
+                                                            <p>وامر بتعليمهم الكتب ولبيان اهل بابل اجرا عليهم من مايدته في كل يوم طعاما و سقاهم من شرابه و امر بنا عيبهم و تربيتهم ثلث سنين ثم يعرضوا عليه بعد ذلك.</p>
                                                         </quote>
                                                     </incipit>
+                                                    <explicit>
+                                                        <quote xml:lang="ar">
+                                                            <p>وارادوا قتله الاسد فاكلتهم باجمعهم قبل وقوعهم في ارض الجب والملك ودانيال ينظران. كملت نبوة دانيال المعين على الخير</p>
+                                                        </quote>
+                                                    </explicit>
+                                                    <note xml:lang="ar">
+                                                        <p>ملاحظات حول المخطوط:</p>
+                                                        <p>المخطوط كتب بخط نسخ واضح ، والورق المستخدم لكتابة المخطوط ربما كان قد استخدم سابقا لكتابة مخطوط آخر وأعيد تدويره.</p>
+                                                        <p>يبدأ المخطوط بالدفتر رقم (١) إلا أنه ناقص من بدايته وهذا واضح من خلال سياق الكتابة، كما أعيد ترقيم الورقة الثامنه مرتين.</p>
+                                                        <p>يبدأ الدفتر الثاني من المخطوط الورقة (٩ أ)، (١٩ أ) الثالث وهكذا الى الدفتر الثامن وتقريبا كل دفتر هو عبارة عن ١٠ ورقات، الدفتر الثامن قد كرر ترقيمه مرتين ربما كان خطأ من الناسخ !</p>
+                                                        <p>ورقة ٨٣ في كتبت بعض حروف الهجاء وتاريخ أسفل الصفحة ولكنه ناقص وغير واضح.</p>
+                                                        <p/>
+                                                        <p>(٨٤أ-٨٤ ب-٨٥أ) أوراق فارغة ربما لفصل القسم الثاني من المخطوط عن الأول.</p>
+                                                    </note>
+                                                </msItem>
+                                                <msItem xml:id="msitem-2" class="bible">
+                                                    <title xml:lang="ar">كتاب الازمنة</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <locus from="٨٥ ب"/>
+                                                        <quote>
+                                                            <p>بسم الله الاب والابن والروح القدس </p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <locus to="١٥٥ ب"/>
+                                                    </explicit>
+                                                    <note xml:lang="ar">
+                                                        <p>المخطوط تالف في أغلبه وفي بعض المواضع يغلب على النص عدم الوضوح إما بسبب قدم عمر المخطوط أو أن هناك محاولات لطمس بعد الكلمات منه.</p>
+                                                        <p>بعض المواضع من المخطوط تم فيها جمع عدة ورقات مع بعضها وذلك لسوء الحالة الفيزيائية لها وذلك حماية لها من التعرض لمزيد من التلف او تجنبا لفقدانها. مثل ورقة (١٠١ و ١٣٠)</p>
+                                                        <p>الورق المستخدم في الكتابة يبدو أنه أيضا تم إعادة استخدامه من مخطوط اخر.</p>
+                                                    </note>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <title xml:lang="ar">كتاب الأنساب</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <locus from="١٥٦ب"/>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <locus to="١٦٠ ب"/>
+                                                    </explicit>
+                                                    <note>
+                                                        <p>بمداد وخط مختلف كُتب هذا المخطوط  وفيه أخبار الأنساب كما فيه الكثير من التواريخ الموثقة لأحداث معينة .</p>
+                                                        <p>هناك ورقات من المخطوط فُقد جزء منها مما أثر على نص المخطوط مثال: (١٥٧ب و ١٨٥ ب).</p>
+                                                    </note>
                                                 </msItem>
                                             </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType rend="horizontal-rectangle" style="codex">Multiple text manuscript</objectType>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note xml:lang="ar">
+                                                                <p>Old Codex written in ancient Naskhi with Kufic features. First 83 original folios contain the Book of Daniel and Salomon’s Proverbs. The rest, in different hand of later Naskhi, contains a historical treatise entitled “Book of the History of Years and Times” from the Creation to the Truce between the Fatimids of Egypt and the Byzantines</p>
+                                                            </note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">١٤٣</measure>
+                                                        </extent>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <objectType>Unbound</objectType>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                            </physDesc>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1w10qj5"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
                                         </msDesc>
                                     </listBibl>
                                 </body>
