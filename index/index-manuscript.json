@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:05:35.924Z",
+  "generated": "2026-11-11T18:05:53.647Z",
   "type": "manuscript",
   "records": [
     {
@@ -5813,6 +5813,21 @@
         "Cyril, Saint, Patriarch of Alexandria, approximately 370-444. Glaphyra in Pentateuchum"
       ],
       "file": "data/manuscripts/489.xml"
+    },
+    {
+      "id": "490",
+      "uri": "https://biblia-arabica.com/manuscript/490",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 130 Q",
+      "altNames": [
+        "Ecclesiasticus",
+        "Bible. Ecclesiasticus",
+        "Taʻlīm masīḥī lil-aṭfāl al-masīḥīyīn",
+        "ܬܥܠܝܡ ܡܣܝܚܝ ܠܠܐܛܦܐܠ ܐܠܡܣܝܚܝܝܢ",
+        "Nīqūlā ʻAbd al-Nūr, -1755. Taʻlīm masīḥī lil-aṭfāl al-masīḥīyīn",
+        "Catechism",
+        "Catechism for Christian children"
+      ],
+      "file": "data/manuscripts/490.xml"
     }
   ]
 }
