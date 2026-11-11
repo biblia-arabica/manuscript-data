@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:50:59.906Z",
+  "generated": "2026-11-11T19:51:52.957Z",
   "type": "manuscript",
   "records": [
     {
@@ -6150,6 +6150,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/520.xml"
+    },
+    {
+      "id": "521",
+      "uri": "https://biblia-arabica.com/manuscript/521",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "Old Testament Lectionary",
+        "ܐܠܟܬܐܒ ܐܠܡܒܐܪܝܟ",
+        "Lectionary (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/521.xml"
     }
   ]
 }
