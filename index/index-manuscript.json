@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:20:45.638Z",
+  "generated": "2026-11-11T17:21:00.726Z",
   "type": "manuscript",
   "records": [
     {
@@ -5371,6 +5371,23 @@
         "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity"
       ],
       "file": "data/manuscripts/452.xml"
+    },
+    {
+      "id": "453",
+      "uri": "https://biblia-arabica.com/manuscript/453",
+      "headword": "Montserrat (Abbey). Biblioteca MS Or. 28",
+      "altNames": [
+        "Liturgical prayers",
+        "ܟܦܪ ܡܪܝܐ",
+        "Taʻlīm masīḥī lil-aṭfāl al-masīḥīyīn",
+        "ܬܥܠܝܡ ܡܣܝܚܝ ܠܠܐܛܦܐܠ ܐܠܡܣܝܚܝܝܢ",
+        "Nīqūlā ʻAbd al-Nūr, -1755. Taʻlīm masīḥī lil-aṭfāl al-masīḥīyīn",
+        "Catechism for children",
+        "Romans. Selections",
+        "ܦܘܠܘܣ ܐܠܪܣܘܠ ܡܢ ܪܣܐܠܬܗ ܐܠܝ ܐܠܪܘܡܐܢܝܝܢ",
+        "Bible. Romans"
+      ],
+      "file": "data/manuscripts/453.xml"
     }
   ]
 }
