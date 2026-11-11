@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:20:27.016Z",
+  "generated": "2026-11-11T17:20:45.638Z",
   "type": "manuscript",
   "records": [
     {
@@ -5349,6 +5349,28 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/451.xml"
+    },
+    {
+      "id": "452",
+      "uri": "https://biblia-arabica.com/manuscript/452",
+      "headword": "Ordre Basilien Alepin MS 859",
+      "altNames": [
+        "Explanation of contradictions in the Gospel accounts of the resurrection",
+        "al-Bayān anna al-Masīḥ al-mawqūd qad jāʼa khilāf li-muʻtaqad al-Yahūd",
+        "مقالة تشتمل على البيان ان المسيح الموعود به من الله قد جاء خلافا لمعتقد اليهود",
+        "Treatise against the Jews on the coming of the Messiah",
+        "al-Burhān al-jalīyah fī ṣiḥḥat qānūn al-amānah al-Nīqāwīyah",
+        "البرهانى الجلية فى صحة قانون الامانة النيقاوية",
+        "Treatise on the Nicene Creed",
+        "Genesis. Selections",
+        "قصة يوسف الحسن من سفر التكوين من الاصحاح السابع والثلثون الى اخر السفر المذكور",
+        "Bible. Genesis",
+        "Treatise against Yūḥanná al-ʻUjaymī in defense of the Maronites",
+        "Nūr al-albāb al-muhdī ilá al-ṣawāb",
+        "نور الالباب المهدى الى الصواب",
+        "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity"
+      ],
+      "file": "data/manuscripts/452.xml"
     }
   ]
 }
