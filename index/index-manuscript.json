@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:17:04.245Z",
+  "generated": "2026-11-11T18:17:21.222Z",
   "type": "manuscript",
   "records": [
     {
@@ -6010,6 +6010,18 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/507.xml"
+    },
+    {
+      "id": "508",
+      "uri": "https://biblia-arabica.com/manuscript/508",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 159",
+      "altNames": [
+        "Tafsīr. Epistles of Paul. Romans",
+        "تفسير رسالة بولس الرسول الى الرومانيين",
+        "Lapide, Cornelius Cornelii a, 1567-1637. Commentaria in Scripturam Sacram",
+        "Commentary on Romans"
+      ],
+      "file": "data/manuscripts/508.xml"
     }
   ]
 }
