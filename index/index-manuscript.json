@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:21:16.099Z",
+  "generated": "2026-11-11T17:21:37.764Z",
   "type": "manuscript",
   "records": [
     {
@@ -5398,6 +5398,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/454.xml"
+    },
+    {
+      "id": "455",
+      "uri": "https://biblia-arabica.com/manuscript/455",
+      "headword": "Kungliga Biblioteket A 777",
+      "altNames": [
+        "Pentateuch",
+        "التوراه وهو خمسة اسفار",
+        "Bible. Pentateuch"
+      ],
+      "file": "data/manuscripts/455.xml"
     }
   ]
 }
