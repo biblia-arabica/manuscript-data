@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:24:05.872Z",
+  "generated": "2026-11-11T17:24:34.837Z",
   "type": "manuscript",
   "records": [
     {
@@ -5510,6 +5510,16 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/463.xml"
+    },
+    {
+      "id": "464",
+      "uri": "https://biblia-arabica.com/manuscript/464",
+      "headword": "Fondation Georges et Mathilde Salem Ar 243",
+      "altNames": [
+        "Ecclesiasticus",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/464.xml"
     }
   ]
 }
