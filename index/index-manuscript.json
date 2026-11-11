@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T20:10:30.230Z",
+  "generated": "2026-11-11T20:11:19.093Z",
   "type": "manuscript",
   "records": [
     {
@@ -6212,6 +6212,17 @@
         "Lectionary (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/526.xml"
+    },
+    {
+      "id": "527",
+      "uri": "https://biblia-arabica.com/manuscript/527",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "New Testament",
+        "الانجيل المقدس",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/527.xml"
     }
   ]
 }
