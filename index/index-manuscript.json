@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:08:36.382Z",
+  "generated": "2026-11-11T18:09:01.968Z",
   "type": "manuscript",
   "records": [
     {
@@ -5909,6 +5909,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/498.xml"
+    },
+    {
+      "id": "499",
+      "uri": "https://biblia-arabica.com/manuscript/499",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 3 Q",
+      "altNames": [
+        "Old Testament",
+        "ܥܗܕ ܐܠܥܬܝܩ",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/499.xml"
     }
   ]
 }
