@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:22:39.721Z",
+  "generated": "2026-11-11T17:22:59.571Z",
   "type": "manuscript",
   "records": [
     {
@@ -5441,6 +5441,32 @@
         "Fontaine, Nicolas, 1625-1709. Histoire du Vieux et du Nouveau Testament"
       ],
       "file": "data/manuscripts/458.xml"
+    },
+    {
+      "id": "459",
+      "uri": "https://biblia-arabica.com/manuscript/459",
+      "headword": "Fondation Georges et Mathilde Salem Ar 205",
+      "altNames": [
+        "Kitāb al-ishrāq. Selections",
+        "بعض كلام من كتاب الاشراق",
+        "Buṭrus Sawīrus al-Jamīl, active 13th century. Kitāb al-ishrāq",
+        "Book of illumination",
+        "Kitāb al-shaykh al-rūḥānī. Selections",
+        "بعض ميامر ورسايل",
+        "John, of Dalyatha, active 8th century. Book of the spiritual elder",
+        "Homilies and letters",
+        "Monastic teachings",
+        "Risālah min ahl jazīrat Qubruṣ",
+        "مباحثه من النصاره الاقباط الى واحد عالم",
+        "Letter from the people of Cyprus",
+        "Apology for Christianity",
+        "Response to a question from al-Bakrī",
+        "مساله من الشيخ البكري",
+        "Epistles of Paul. Selections",
+        "شهادات من رسايل معلمنا بولس",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/459.xml"
     }
   ]
 }
