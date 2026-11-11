@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:52:51.389Z",
+  "generated": "2026-11-11T17:54:02.244Z",
   "type": "manuscript",
   "records": [
     {
@@ -5669,6 +5669,16 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/476.xml"
+    },
+    {
+      "id": "477",
+      "uri": "https://biblia-arabica.com/manuscript/477",
+      "headword": "Melkite Greek Catholic Church. Archdiocese of Aleppo N/A",
+      "altNames": [
+        "كتاب يشوع بن سيراج",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/477.xml"
     }
   ]
 }
