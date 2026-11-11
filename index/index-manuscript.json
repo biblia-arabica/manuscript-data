@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:07:22.230Z",
+  "generated": "2026-11-11T18:07:40.227Z",
   "type": "manuscript",
   "records": [
     {
@@ -5868,6 +5868,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/494.xml"
+    },
+    {
+      "id": "495",
+      "uri": "https://biblia-arabica.com/manuscript/495",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 175 Q",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/495.xml"
     }
   ]
 }
