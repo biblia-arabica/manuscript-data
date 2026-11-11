@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:56:33.916Z",
+  "generated": "2026-11-11T18:03:00.069Z",
   "type": "manuscript",
   "records": [
     {
@@ -5700,6 +5700,18 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/479.xml"
+    },
+    {
+      "id": "480",
+      "uri": "https://biblia-arabica.com/manuscript/480",
+      "headword": "Syriac Catholic Church. Archdiocese of Aleppo Ar 1/6",
+      "altNames": [
+        "Pentateuch with commentary",
+        "التوراه الشريفه",
+        "Bible. Pentateuch",
+        "Catena on the Pentateuch"
+      ],
+      "file": "data/manuscripts/480.xml"
     }
   ]
 }
