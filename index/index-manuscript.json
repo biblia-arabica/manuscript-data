@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:12:31.971Z",
+  "generated": "2026-11-11T18:16:48.162Z",
   "type": "manuscript",
   "records": [
     {
@@ -5977,6 +5977,28 @@
         "Commentary on readings from the Gospel of John"
       ],
       "file": "data/manuscripts/504.xml"
+    },
+    {
+      "id": "505",
+      "uri": "https://biblia-arabica.com/manuscript/505",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 148",
+      "altNames": [
+        "Evangelion",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر مفصلا على أيام السنة كلها",
+        "Evangelion (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/505.xml"
+    },
+    {
+      "id": "506",
+      "uri": "https://biblia-arabica.com/manuscript/506",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 149",
+      "altNames": [
+        "Tafsīr al-Mazāmīr",
+        "شرح كتاب المزامير الداووديه",
+        "Commentary on the Psalms"
+      ],
+      "file": "data/manuscripts/506.xml"
     }
   ]
 }
