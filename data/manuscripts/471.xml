@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Syria, Aleppo, Fondation Georges et Mathilde Salem Ar 326</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/471</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-11"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Syria</country>
+                                                <settlement>Aleppo</settlement>
+                                                <repository>Fondation Georges et Mathilde Salem</repository>
+                                                <collection>GAMS</collection>
+                                                <idno>Ar 326</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>501691</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>GAMS 01141</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 990011): 1500–1600 [1500–1600]; Naskh</summary>
+                                                <msItem xml:id="vhmm-501691-item-1" class="part-1">
+                                                    <title xml:lang="en">Psalms</title>
+                                                    <title xml:lang="ar">المزامير</title>
+                                                    <title xml:lang="en">Bible. Psalms</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 990011); catalogue-content-id: 1817168; content-contributor: {&quot;id&quot;: 685929, &quot;contributor&quot;: {&quot;id&quot;: 5260, &quot;name&quot;: &quot;Gregory, of Nazianzus, Saint&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n50082276&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/108675755&quot;, &quot;displayName&quot;: &quot;Gregory, of Nazianzus, approximately 329-390&quot;}}; content-contributor: {&quot;id&quot;: 685930, &quot;contributor&quot;: {&quot;id&quot;: 3489, &quot;name&quot;: &quot;John Chrysostom, Saint, -407&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n80001460&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/305214868&quot;, &quot;displayName&quot;: &quot;John Chrysostom, -407&quot;}}; content-contributor: {&quot;id&quot;: 685931, &quot;contributor&quot;: {&quot;id&quot;: 3557, &quot;name&quot;: &quot;Basil, Saint, Bishop of Caesarea, approximately 329-379&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n80004066&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/88967224&quot;, &quot;displayName&quot;: &quot;Basil, Bishop of Caesarea, approximately 329-379&quot;}}; Title classification: provisional: Psalms; Title classification: original: المزامير; Title classification: uniform: Bible. Psalms</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: centuries: [16]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">209 leaf(ves)</measure>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 990011): 1500–1600 [1500–1600]; Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 501691</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/501691"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Paul Sbath, Bibliothèque de manuscrits Paul Sbath, prêtre syrien d’Alep: Catalogue, 3 vols. (1928-1934); Francisco del Río Sánchez, Catalogue des manuscrits de la fondation Georges et Mathilde Salem (Alep, Syrie) (2008).</title>
+                                                        <citedRange>Paul Sbath, Bibliothèque de manuscrits Paul Sbath, prêtre syrien d’Alep: Catalogue, 3 vols. (1928-1934); Francisco del Río Sánchez, Catalogue des manuscrits de la fondation Georges et Mathilde Salem (Alep, Syrie) (2008).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/501691">https://w3id.org/vhmml/readingRoom/view/501691</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Formerly Sbath MS 1141. References to folio numbers are approximate</note>
+                                                <note type="acknowledgments">Cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2026/02/16</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2008/11/11</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">990011</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Psalms</title>
+                                                        <title type="original">المزامير</title>
+                                                        <title type="uniform">Bible. Psalms</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817168</note>
+                                                        <note type="content-contributor">{"id": 685929, "contributor": {"id": 5260, "name": "Gregory, of Nazianzus, Saint", "authorityUriLC": "https://id.loc.gov/authorities/names/n50082276", "authorityUriVIAF": "https://viaf.org/viaf/108675755", "displayName": "Gregory, of Nazianzus, approximately 329-390"}}</note>
+                                                        <note type="content-contributor">{"id": 685930, "contributor": {"id": 3489, "name": "John Chrysostom, Saint, -407", "authorityUriLC": "https://id.loc.gov/authorities/names/n80001460", "authorityUriVIAF": "https://viaf.org/viaf/305214868", "displayName": "John Chrysostom, -407"}}</note>
+                                                        <note type="content-contributor">{"id": 685931, "contributor": {"id": 3557, "name": "Basil, Saint, Bishop of Caesarea, approximately 329-379", "authorityUriLC": "https://id.loc.gov/authorities/names/n80004066", "authorityUriVIAF": "https://viaf.org/viaf/88967224", "displayName": "Basil, Bishop of Caesarea, approximately 329-379"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1500" notAfter="1600">1500–1600</origDate>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 13 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[16]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
