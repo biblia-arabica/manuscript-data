@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:09:55.187Z",
+  "generated": "2026-11-11T18:12:02.510Z",
   "type": "manuscript",
   "records": [
     {
@@ -5955,6 +5955,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/502.xml"
+    },
+    {
+      "id": "503",
+      "uri": "https://biblia-arabica.com/manuscript/503",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 253",
+      "altNames": [
+        "Gospels",
+        "الكتاب الشريف انجيل سيدنا ومخلصنا الرب يسوع المسيح",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/503.xml"
     }
   ]
 }
