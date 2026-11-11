@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:47:09.154Z",
+  "generated": "2026-11-11T19:47:32.455Z",
   "type": "manuscript",
   "records": [
     {
@@ -6076,6 +6076,15 @@
         "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
       ],
       "file": "data/manuscripts/513.xml"
+    },
+    {
+      "id": "514",
+      "uri": "https://biblia-arabica.com/manuscript/514",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 77",
+      "altNames": [
+        "Commentary on the New Testament"
+      ],
+      "file": "data/manuscripts/514.xml"
     }
   ]
 }
