@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T10:00:35.022Z",
+  "generated": "2026-11-11T12:05:28.286Z",
   "type": "manuscript",
   "records": [
     {
@@ -5208,11 +5208,8 @@
     {
       "id": "439",
       "uri": "https://biblia-arabica.com/manuscript/439",
-      "headword": "Bryn Mawr College Library BV 47",
-      "altNames": [
-        "Hebrew Bible/Old Testament",
-        "Psalms (Tehillim)"
-      ],
+      "headword": "مكتبة دير طور سيناء 489",
+      "altNames": [],
       "file": "data/manuscripts/439.xml"
     }
   ]
