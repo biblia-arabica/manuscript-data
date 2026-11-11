@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:28:25.471Z",
+  "generated": "2026-11-11T17:28:42.013Z",
   "type": "manuscript",
   "records": [
     {
@@ -5648,6 +5648,17 @@
         "Bible. Gospels. Syriac Diatessaron"
       ],
       "file": "data/manuscripts/474.xml"
+    },
+    {
+      "id": "475",
+      "uri": "https://biblia-arabica.com/manuscript/475",
+      "headword": "Fondation Georges et Mathilde Salem Ar 73",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع بن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/475.xml"
     }
   ]
 }
