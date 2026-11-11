@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T15:25:41.373Z",
+  "generated": "2026-11-11T15:26:00.327Z",
   "type": "manuscript",
   "records": [
     {
@@ -5268,6 +5268,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/444.xml"
+    },
+    {
+      "id": "445",
+      "uri": "https://biblia-arabica.com/manuscript/445",
+      "headword": "Ordre Basilien Alepin MS 15",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/445.xml"
     }
   ]
 }
