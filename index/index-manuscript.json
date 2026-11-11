@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:27:00.325Z",
+  "generated": "2026-11-11T17:27:15.918Z",
   "type": "manuscript",
   "records": [
     {
@@ -5610,6 +5610,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/471.xml"
+    },
+    {
+      "id": "472",
+      "uri": "https://biblia-arabica.com/manuscript/472",
+      "headword": "Fondation Georges et Mathilde Salem Ar 391",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع ابن شيراخ وهو الكتاب الذى وجد من بعد سليمان ابن داود",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/472.xml"
     }
   ]
 }
