@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:21:37.764Z",
+  "generated": "2026-11-11T17:21:56.600Z",
   "type": "manuscript",
   "records": [
     {
@@ -5409,6 +5409,16 @@
         "Bible. Pentateuch"
       ],
       "file": "data/manuscripts/455.xml"
+    },
+    {
+      "id": "456",
+      "uri": "https://biblia-arabica.com/manuscript/456",
+      "headword": "Fondation Georges et Mathilde Salem Ar 127",
+      "altNames": [
+        "Prophets",
+        "Bible. Prophets"
+      ],
+      "file": "data/manuscripts/456.xml"
     }
   ]
 }
