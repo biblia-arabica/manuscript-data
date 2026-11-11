@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:05:15.565Z",
+  "generated": "2026-11-11T18:05:35.924Z",
   "type": "manuscript",
   "records": [
     {
@@ -5802,6 +5802,17 @@
         "صلوات يلزموا للكهنه يقالوا على المرضا والتابين وغيرهم"
       ],
       "file": "data/manuscripts/488.xml"
+    },
+    {
+      "id": "489",
+      "uri": "https://biblia-arabica.com/manuscript/489",
+      "headword": "Syriac Catholic Church. Archdiocese of Aleppo Syr 1/11",
+      "altNames": [
+        "Commentary on the Pentateuch. Genesis, Exodus",
+        "ܫܪܚ",
+        "Cyril, Saint, Patriarch of Alexandria, approximately 370-444. Glaphyra in Pentateuchum"
+      ],
+      "file": "data/manuscripts/489.xml"
     }
   ]
 }
