@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:08:15.806Z",
+  "generated": "2026-11-11T18:08:36.382Z",
   "type": "manuscript",
   "records": [
     {
@@ -5899,6 +5899,16 @@
         "Bible. John"
       ],
       "file": "data/manuscripts/497.xml"
+    },
+    {
+      "id": "498",
+      "uri": "https://biblia-arabica.com/manuscript/498",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 26 JI",
+      "altNames": [
+        "Ecclesiasticus",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/498.xml"
     }
   ]
 }
