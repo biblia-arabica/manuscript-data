@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:04:57.599Z",
+  "generated": "2026-11-11T18:05:15.565Z",
   "type": "manuscript",
   "records": [
     {
@@ -5785,6 +5785,23 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/487.xml"
+    },
+    {
+      "id": "488",
+      "uri": "https://biblia-arabica.com/manuscript/488",
+      "headword": "Syriac Catholic Church. Archdiocese of Aleppo Ar 7/65",
+      "altNames": [
+        "Gospel of Matthew",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر المنسوب الى متى البشير",
+        "Bible. Matthew",
+        "Epistles of Paul. Selections",
+        "Bible. Epistles of Paul",
+        "Oracular prayers for the sick",
+        "افاشين الاستقسامات يقالوا على المنصابين من الشياطين ولكل مرض واسقام",
+        "Prayers for the sick",
+        "صلوات يلزموا للكهنه يقالوا على المرضا والتابين وغيرهم"
+      ],
+      "file": "data/manuscripts/488.xml"
     }
   ]
 }
