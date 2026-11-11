@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:24:48.243Z",
+  "generated": "2026-11-11T17:25:08.736Z",
   "type": "manuscript",
   "records": [
     {
@@ -5531,6 +5531,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/465.xml"
+    },
+    {
+      "id": "466",
+      "uri": "https://biblia-arabica.com/manuscript/466",
+      "headword": "Fondation Georges et Mathilde Salem Ar 252",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع بن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/466.xml"
     }
   ]
 }
