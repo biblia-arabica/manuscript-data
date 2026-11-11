@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T13:30:07.835Z",
+  "generated": "2026-11-11T13:39:28.410Z",
   "type": "manuscript",
   "records": [
     {
@@ -5221,6 +5221,20 @@
         "Psalms (Tehillim)"
       ],
       "file": "data/manuscripts/441.xml"
+    },
+    {
+      "id": "442",
+      "uri": "https://biblia-arabica.com/manuscript/442",
+      "headword": "Herzog August Library 33",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Genesis (Bereshit)",
+        "Exodus (Shemot)",
+        "Leviticus (Wayiqra)",
+        "Numbers (Bemidbar)",
+        "Deuteronomy (Devarim)"
+      ],
+      "file": "data/manuscripts/442.xml"
     }
   ]
 }
