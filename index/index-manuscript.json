@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:55:16.196Z",
+  "generated": "2026-11-11T17:56:33.916Z",
   "type": "manuscript",
   "records": [
     {
@@ -5689,6 +5689,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/478.xml"
+    },
+    {
+      "id": "479",
+      "uri": "https://biblia-arabica.com/manuscript/479",
+      "headword": "Syriac Catholic Church. Archdiocese of Aleppo Ar 1/5",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "قراءات بولس الرسول لآحاد السنة واعيادها",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/479.xml"
     }
   ]
 }
