@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:26:07.492Z",
+  "generated": "2026-11-11T17:26:24.697Z",
   "type": "manuscript",
   "records": [
     {
@@ -5573,6 +5573,32 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/469.xml"
+    },
+    {
+      "id": "470",
+      "uri": "https://biblia-arabica.com/manuscript/470",
+      "headword": "Fondation Georges et Mathilde Salem Ar 314",
+      "altNames": [
+        "Revelation",
+        "جليان القديس يوحنا بن زبدي احد الاثنى عشر",
+        "Bible. Revelation",
+        "Introduction to Easter",
+        "مقدمة البسخة المقدسه",
+        "Preparation of the myron",
+        "صفة طبيخ الميرون المقدس",
+        "Consecration of the myron",
+        "قانون الميرون المقدس",
+        "Notes on the consecration of the myron",
+        "Jāmiʻ al-adwiyah al-mufradah. Selections",
+        "من الجزء الثانى من كتاب جامع الادويه المفرده",
+        "Ibn Samjūn, Ḥāmid, -approximately 1010. Jāmiʻ al-adwiyah al-mufradah",
+        "Compendium of simple drugs",
+        "Consecration of the myron by John VIII",
+        "ذكر ما اتفق فى عمل الميرون المقدس لما اهتم به السيد البطريرك الاب انبا يونس",
+        "Liturgical readings for the consecration of the myron",
+        "Notes on the myron"
+      ],
+      "file": "data/manuscripts/470.xml"
     }
   ]
 }
