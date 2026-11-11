@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:47:51.407Z",
+  "generated": "2026-11-11T19:48:17.909Z",
   "type": "manuscript",
   "records": [
     {
@@ -6096,6 +6096,17 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/515.xml"
+    },
+    {
+      "id": "516",
+      "uri": "https://biblia-arabica.com/manuscript/516",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Diocese of Homs 1",
+      "altNames": [
+        "New Testament",
+        "العهد الجديد",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/516.xml"
     }
   ]
 }
