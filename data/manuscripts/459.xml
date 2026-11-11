@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Syria, Aleppo, Fondation Georges et Mathilde Salem Ar 205</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/459</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-11"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Syria</country>
+                                                <settlement>Aleppo</settlement>
+                                                <repository>Fondation Georges et Mathilde Salem</repository>
+                                                <collection>GAMS</collection>
+                                                <idno>Ar 205</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>501564</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>GAMS 01007</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 990168): 1800–1900 [1800–1900]; Naskh | Part 2 (vHMML part 990169): 1800–1900 [1800–1900]; Coptic, Naskh</summary>
+                                                <msItem xml:id="vhmm-501564-item-1" class="part-1">
+                                                    <title xml:lang="en">Kitāb al-ishrāq. Selections</title>
+                                                    <title xml:lang="ar">بعض كلام من كتاب الاشراق</title>
+                                                    <title xml:lang="en">Buṭrus Sawīrus al-Jamīl, active 13th century. Kitāb al-ishrāq</title>
+                                                    <title xml:lang="en">Book of illumination</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 990168); catalogue-content-id: 1817426; content-contributor: {&quot;id&quot;: 686145, &quot;type&quot;: &quot;Author&quot;, &quot;contributor&quot;: {&quot;id&quot;: 6319, &quot;name&quot;: &quot;Buṭrus Sawīrus al-Jamīl, active 13th century&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/7824159248529504870009&quot;, &quot;displayName&quot;: &quot;Buṭrus Sawīrus al-Jamīl, active 13th century&quot;}}; content-contributor: {&quot;id&quot;: 686146, &quot;type&quot;: &quot;Attributed name&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8634, &quot;name&quot;: &quot;Sadamantī, Buṭrus&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n2022039406&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/51664698&quot;, &quot;displayName&quot;: &quot;Sadamantī, Buṭrus, active 1260&quot;}}; content-contributor: {&quot;id&quot;: 686147, &quot;contributor&quot;: {&quot;id&quot;: 9696, &quot;name&quot;: &quot;Ḥātim, Mīkhāʼīl, active 1602-1661&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/no2022109586&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/7166289928300460001&quot;, &quot;displayName&quot;: &quot;Ḥātim, Mīkhāʼīl, active 1602-1661&quot;}}; Title classification: provisional: Kitāb al-ishrāq. Selections; Title classification: original: بعض كلام من كتاب الاشراق; Title classification: uniform: Buṭrus Sawīrus al-Jamīl, active 13th century. Kitāb al-ishrāq; Title classification: alternative: Book of illumination</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501564-item-2" class="part-2">
+                                                    <title xml:lang="en">Kitāb al-shaykh al-rūḥānī. Selections</title>
+                                                    <title xml:lang="ar">بعض ميامر ورسايل</title>
+                                                    <title xml:lang="en">John, of Dalyatha, active 8th century. Book of the spiritual elder</title>
+                                                    <title xml:lang="en">Homilies and letters</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 990169); catalogue-content-id: 1817427; content-contributor: {&quot;id&quot;: 686148, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;الشيخ الروحاني&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4127, &quot;name&quot;: &quot;John, of Dalyatha, active 8th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n88616605&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/53264717&quot;, &quot;displayName&quot;: &quot;John, of Dalyatha, active 8th century&quot;}}; content-contributor: {&quot;id&quot;: 686149, &quot;contributor&quot;: {&quot;id&quot;: 3494, &quot;name&quot;: &quot;Ephraem, Syrus, Saint, 303-373&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n50082928&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/100177778&quot;, &quot;displayName&quot;: &quot;Ephrem, of Nisibis, 303-373&quot;}}; Title classification: provisional: Kitāb al-shaykh al-rūḥānī. Selections; Title classification: original: بعض ميامر ورسايل; Title classification: uniform: John, of Dalyatha, active 8th century. Book of the spiritual elder; Title classification: alternative: Homilies and letters</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501564-item-3" class="part-2">
+                                                    <title xml:lang="en">Monastic teachings</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 990169); catalogue-content-id: 1817428; content-contributor: {&quot;id&quot;: 686150, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;ابونا انطونيوس&quot;, &quot;contributor&quot;: {&quot;id&quot;: 5168, &quot;name&quot;: &quot;Anthony, of Egypt, Saint, approximately 250-355 or 356&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n50030399&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/316399538&quot;, &quot;displayName&quot;: &quot;Antony, the Great, approximately 250-355 or 356&quot;}}; Title classification: provisional: Monastic teachings</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501564-item-4" class="part-2">
+                                                    <title xml:lang="en">Risālah min ahl jazīrat Qubruṣ</title>
+                                                    <title xml:lang="ar">مباحثه من النصاره الاقباط الى واحد عالم</title>
+                                                    <title xml:lang="en">Letter from the people of Cyprus</title>
+                                                    <title xml:lang="en">Apology for Christianity</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 990169); catalogue-content-id: 1817429; Title classification: provisional: Risālah min ahl jazīrat Qubruṣ; Title classification: original: مباحثه من النصاره الاقباط الى واحد عالم; Title classification: uniform: Letter from the people of Cyprus; Title classification: alternative: Apology for Christianity</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501564-item-5" class="part-2">
+                                                    <title xml:lang="en">Response to a question from al-Bakrī</title>
+                                                    <title xml:lang="ar">مساله من الشيخ البكري</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 990169); catalogue-content-id: 1817430; content-contributor: {&quot;id&quot;: 686151, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;يوانس&quot;, &quot;contributor&quot;: {&quot;id&quot;: 10166, &quot;name&quot;: &quot;Yuwānnis XVIII, Coptic Patriarch of Alexandria, -1796&quot;, &quot;displayName&quot;: &quot;Yuwānnis XVIII, Coptic Patriarch of Alexandria, -1796&quot;}}; Title classification: provisional: Response to a question from al-Bakrī; Title classification: original: مساله من الشيخ البكري</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501564-item-6" class="part-2">
+                                                    <title xml:lang="en">Epistles of Paul. Selections</title>
+                                                    <title xml:lang="ar">شهادات من رسايل معلمنا بولس</title>
+                                                    <title xml:lang="en">Bible. Epistles of Paul</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 990169); catalogue-content-id: 1817431; content-contributor: {&quot;id&quot;: 686152, &quot;contributor&quot;: {&quot;id&quot;: 4127, &quot;name&quot;: &quot;John, of Dalyatha, active 8th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n88616605&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/53264717&quot;, &quot;displayName&quot;: &quot;John, of Dalyatha, active 8th century&quot;}}; content-contributor: {&quot;id&quot;: 686153, &quot;contributor&quot;: {&quot;id&quot;: 10167, &quot;name&quot;: &quot;Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n97907893&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/79216520&quot;, &quot;displayName&quot;: &quot;Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century&quot;}}; Title classification: provisional: Epistles of Paul. Selections; Title classification: original: شهادات من رسايل معلمنا بولس; Title classification: uniform: Bible. Epistles of Paul</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: centuries: [19]; Part 2: material PAPER; Part 2: catchwords: True; Part 2: signatures: False; Part 2: centuries: [19]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">200 leaf(ves)</measure>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 2: Coptic, Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 2: Arabic, Coptic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 990168): 1800–1900 [1800–1900]; Naskh | Part 2 (vHMML part 990169): 1800–1900 [1800–1900]; Coptic, Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 501564</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/501564"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Paul Sbath, Bibliothèque de manuscrits Paul Sbath, prêtre syrien d’Alep: Catalogue, 3 vols. (1928-1934); Francisco del Río Sánchez, Catalogue des manuscrits de la fondation Georges et Mathilde Salem (Alep, Syrie) (2008).</title>
+                                                        <citedRange>Paul Sbath, Bibliothèque de manuscrits Paul Sbath, prêtre syrien d’Alep: Catalogue, 3 vols. (1928-1934); Francisco del Río Sánchez, Catalogue des manuscrits de la fondation Georges et Mathilde Salem (Alep, Syrie) (2008).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/501564">https://w3id.org/vhmml/readingRoom/view/501564</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Formerly Sbath MS 1007. Includes medical recipes, fol. 1r-3v, 4v-5r, 34v-35r, 104v, 112r-113r, 151v-153r, 164v-167v, 200rv</note>
+                                                <note type="acknowledgments">Cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2026/02/16</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2008/06/27</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">990168</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Kitāb al-ishrāq. Selections</title>
+                                                        <title type="original">بعض كلام من كتاب الاشراق</title>
+                                                        <title type="uniform">Buṭrus Sawīrus al-Jamīl, active 13th century. Kitāb al-ishrāq</title>
+                                                        <title type="alternative">Book of illumination</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817426</note>
+                                                        <note type="content-contributor">{"id": 686145, "type": "Author", "contributor": {"id": 6319, "name": "Buṭrus Sawīrus al-Jamīl, active 13th century", "authorityUriVIAF": "https://viaf.org/viaf/7824159248529504870009", "displayName": "Buṭrus Sawīrus al-Jamīl, active 13th century"}}</note>
+                                                        <note type="content-contributor">{"id": 686146, "type": "Attributed name", "contributor": {"id": 8634, "name": "Sadamantī, Buṭrus", "authorityUriLC": "https://id.loc.gov/authorities/names/n2022039406", "authorityUriVIAF": "https://viaf.org/viaf/51664698", "displayName": "Sadamantī, Buṭrus, active 1260"}}</note>
+                                                        <note type="content-contributor">{"id": 686147, "contributor": {"id": 9696, "name": "Ḥātim, Mīkhāʼīl, active 1602-1661", "authorityUriLC": "https://id.loc.gov/authorities/names/no2022109586", "authorityUriVIAF": "https://viaf.org/viaf/7166289928300460001", "displayName": "Ḥātim, Mīkhāʼīl, active 1602-1661"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1800" notAfter="1900">1800–1900</origDate>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 13 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                            <msPart n="2">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">990169</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Kitāb al-shaykh al-rūḥānī. Selections</title>
+                                                        <title type="original">بعض ميامر ورسايل</title>
+                                                        <title type="uniform">John, of Dalyatha, active 8th century. Book of the spiritual elder</title>
+                                                        <title type="alternative">Homilies and letters</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817427</note>
+                                                        <note type="content-contributor">{"id": 686148, "type": "Author", "nameNs": "الشيخ الروحاني", "contributor": {"id": 4127, "name": "John, of Dalyatha, active 8th century", "authorityUriLC": "https://id.loc.gov/authorities/names/n88616605", "authorityUriVIAF": "https://viaf.org/viaf/53264717", "displayName": "John, of Dalyatha, active 8th century"}}</note>
+                                                        <note type="content-contributor">{"id": 686149, "contributor": {"id": 3494, "name": "Ephraem, Syrus, Saint, 303-373", "authorityUriLC": "https://id.loc.gov/authorities/names/n50082928", "authorityUriVIAF": "https://viaf.org/viaf/100177778", "displayName": "Ephrem, of Nisibis, 303-373"}}</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Monastic teachings</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817428</note>
+                                                        <note type="content-contributor">{"id": 686150, "type": "Author", "nameNs": "ابونا انطونيوس", "contributor": {"id": 5168, "name": "Anthony, of Egypt, Saint, approximately 250-355 or 356", "authorityUriLC": "https://id.loc.gov/authorities/names/n50030399", "authorityUriVIAF": "https://viaf.org/viaf/316399538", "displayName": "Antony, the Great, approximately 250-355 or 356"}}</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Risālah min ahl jazīrat Qubruṣ</title>
+                                                        <title type="original">مباحثه من النصاره الاقباط الى واحد عالم</title>
+                                                        <title type="uniform">Letter from the people of Cyprus</title>
+                                                        <title type="alternative">Apology for Christianity</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817429</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Response to a question from al-Bakrī</title>
+                                                        <title type="original">مساله من الشيخ البكري</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817430</note>
+                                                        <note type="content-contributor">{"id": 686151, "type": "Author", "nameNs": "يوانس", "contributor": {"id": 10166, "name": "Yuwānnis XVIII, Coptic Patriarch of Alexandria, -1796", "displayName": "Yuwānnis XVIII, Coptic Patriarch of Alexandria, -1796"}}</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Epistles of Paul. Selections</title>
+                                                        <title type="original">شهادات من رسايل معلمنا بولس</title>
+                                                        <title type="uniform">Bible. Epistles of Paul</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817431</note>
+                                                        <note type="content-contributor">{"id": 686152, "contributor": {"id": 4127, "name": "John, of Dalyatha, active 8th century", "authorityUriLC": "https://id.loc.gov/authorities/names/n88616605", "authorityUriVIAF": "https://viaf.org/viaf/53264717", "displayName": "John, of Dalyatha, active 8th century"}}</note>
+                                                        <note type="content-contributor">{"id": 686153, "contributor": {"id": 10167, "name": "Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century", "authorityUriLC": "https://id.loc.gov/authorities/names/n97907893", "authorityUriVIAF": "https://viaf.org/viaf/79216520", "displayName": "Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1800" notAfter="1900">1800–1900</origDate>
+                                                        <note type="script">Coptic, Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 9-14 lines per page</note>
+                                                    <note type="writingSystem">Arabic, Coptic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
