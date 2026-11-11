@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:07:02.912Z",
+  "generated": "2026-11-11T18:07:22.230Z",
   "type": "manuscript",
   "records": [
     {
@@ -5858,6 +5858,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/493.xml"
+    },
+    {
+      "id": "494",
+      "uri": "https://biblia-arabica.com/manuscript/494",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 174 Q",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/494.xml"
     }
   ]
 }
