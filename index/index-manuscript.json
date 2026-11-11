@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:24:34.837Z",
+  "generated": "2026-11-11T17:24:48.243Z",
   "type": "manuscript",
   "records": [
     {
@@ -5520,6 +5520,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/464.xml"
+    },
+    {
+      "id": "465",
+      "uri": "https://biblia-arabica.com/manuscript/465",
+      "headword": "Fondation Georges et Mathilde Salem Ar 247",
+      "altNames": [
+        "Psalms",
+        "المزامير الداووديه",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/465.xml"
     }
   ]
 }
