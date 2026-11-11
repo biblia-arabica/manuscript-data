@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:51:52.957Z",
+  "generated": "2026-11-11T19:53:05.220Z",
   "type": "manuscript",
   "records": [
     {
@@ -6161,6 +6161,17 @@
         "Lectionary (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/521.xml"
+    },
+    {
+      "id": "522",
+      "uri": "https://biblia-arabica.com/manuscript/522",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "Evangelion",
+        "ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ",
+        "Evangelion (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/522.xml"
     }
   ]
 }
