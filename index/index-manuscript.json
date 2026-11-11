@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:27:15.918Z",
+  "generated": "2026-11-11T17:27:32.888Z",
   "type": "manuscript",
   "records": [
     {
@@ -5621,6 +5621,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/472.xml"
+    },
+    {
+      "id": "473",
+      "uri": "https://biblia-arabica.com/manuscript/473",
+      "headword": "Fondation Georges et Mathilde Salem Ar 392",
+      "altNames": [
+        "Ecclesiasticus",
+        "سفر يشوع بن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/473.xml"
     }
   ]
 }
