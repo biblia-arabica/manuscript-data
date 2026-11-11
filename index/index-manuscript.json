@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:03:00.069Z",
+  "generated": "2026-11-11T18:03:18.876Z",
   "type": "manuscript",
   "records": [
     {
@@ -5712,6 +5712,16 @@
         "Catena on the Pentateuch"
       ],
       "file": "data/manuscripts/480.xml"
+    },
+    {
+      "id": "481",
+      "uri": "https://biblia-arabica.com/manuscript/481",
+      "headword": "Syriac Catholic Church. Archdiocese of Aleppo Ar 7/117",
+      "altNames": [
+        "Psalm 119",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/481.xml"
     }
   ]
 }
