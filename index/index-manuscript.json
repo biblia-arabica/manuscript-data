@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:48:17.909Z",
+  "generated": "2026-11-11T19:48:32.345Z",
   "type": "manuscript",
   "records": [
     {
@@ -6107,6 +6107,17 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/516.xml"
+    },
+    {
+      "id": "517",
+      "uri": "https://biblia-arabica.com/manuscript/517",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Diocese of Homs 2",
+      "altNames": [
+        "Psalms",
+        "الزبور الشريف",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/517.xml"
     }
   ]
 }
