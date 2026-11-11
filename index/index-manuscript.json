@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:19:12.957Z",
+  "generated": "2026-11-11T17:19:49.435Z",
   "type": "manuscript",
   "records": [
     {
@@ -5310,6 +5310,23 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/448.xml"
+    },
+    {
+      "id": "449",
+      "uri": "https://biblia-arabica.com/manuscript/449",
+      "headword": "Ordre Basilien Alepin MS 18",
+      "altNames": [
+        "Athanasian Creed",
+        "اعتقاد ماري اتناسيوس",
+        "بيان افعال الفضايل الالهية اللازمة لكل مسيحى ان يفعلها لاجل خلاص نفسه",
+        "Catechism",
+        "اختصار التعليم المسيحى",
+        "بهجة النظر فيما يجول بالخاطر",
+        "Ecclesiasticus",
+        "كتاب يشوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/449.xml"
     }
   ]
 }
