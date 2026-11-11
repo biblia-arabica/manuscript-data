@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:18:23.055Z",
+  "generated": "2026-11-11T18:19:18.732Z",
   "type": "manuscript",
   "records": [
     {
@@ -6054,6 +6054,17 @@
         "Tafsīr. Gospels"
       ],
       "file": "data/manuscripts/511.xml"
+    },
+    {
+      "id": "512",
+      "uri": "https://biblia-arabica.com/manuscript/512",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 66",
+      "altNames": [
+        "Sharḥ Abūkālībsīs Yūḥannā al-rasūl",
+        "شرح أبوكاليبسيس يوحنا الرسول",
+        "Commnetary on Revelation"
+      ],
+      "file": "data/manuscripts/512.xml"
     }
   ]
 }
