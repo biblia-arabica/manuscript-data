@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:26:24.697Z",
+  "generated": "2026-11-11T17:27:00.325Z",
   "type": "manuscript",
   "records": [
     {
@@ -5599,6 +5599,17 @@
         "Notes on the myron"
       ],
       "file": "data/manuscripts/470.xml"
+    },
+    {
+      "id": "471",
+      "uri": "https://biblia-arabica.com/manuscript/471",
+      "headword": "Fondation Georges et Mathilde Salem Ar 326",
+      "altNames": [
+        "Psalms",
+        "المزامير",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/471.xml"
     }
   ]
 }
