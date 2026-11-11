@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="draft">
                                     <change who="#ptarras" when="2026-11-11">created entry</change>
+                                    <change who="#ptarras" when="2026-11-11">edited record</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -83,8 +84,39 @@
                                                 </msItem>
                                                 <msItem xml:id="msitem-2">
                                                     <title ref="https://biblia-arabica.com/work/28">Psalms (Tehillim)</title>
+                                                    <textLang mainLang="ar" otherLangs="ar"/>
                                                 </msItem>
                                             </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Parchment</material>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">79</measure>
+                                                        </extent>
+                                                        <foliation style="foliation" rendition="modern"/>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <additions>
+                                                    <list>
+                                                        <item xml:id="addition-1">
+                                                            <objectType>Colophon</objectType>
+                                                            <locus from="79v"/>
+                                                            <quote type="transcription" xml:lang="ar">
+                                                                <p>نسخ المزامر المقدسه الخاطى المسكين</p>
+                                                                <p>بطرس بن يوسف من اهل النار رحم اللـه من قرا</p>
+                                                                <p>ومن كتب كان في شهور سنه اربعه</p>
+                                                                <p>وثلثمايه الهلاليه وكان نسخه في الامانه</p>
+                                                            </quote>
+                                                            <note>
+                                                                <p>The colophon is probably a modern forgery.</p>
+                                                            </note>
+                                                        </item>
+                                                    </list>
+                                                </additions>
+                                            </physDesc>
                                         </msDesc>
                                     </listBibl>
                                 </body>
