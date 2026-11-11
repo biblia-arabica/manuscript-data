@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:16:48.162Z",
+  "generated": "2026-11-11T18:17:04.245Z",
   "type": "manuscript",
   "records": [
     {
@@ -5999,6 +5999,17 @@
         "Commentary on the Psalms"
       ],
       "file": "data/manuscripts/506.xml"
+    },
+    {
+      "id": "507",
+      "uri": "https://biblia-arabica.com/manuscript/507",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 154",
+      "altNames": [
+        "Gospels",
+        "بشارة يسوع المسيح",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/507.xml"
     }
   ]
 }
