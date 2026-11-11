@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:58:17.095Z",
+  "generated": "2026-11-11T20:10:30.230Z",
   "type": "manuscript",
   "records": [
     {
@@ -6201,6 +6201,17 @@
         "Lectionary of Paul's Epistles"
       ],
       "file": "data/manuscripts/525.xml"
+    },
+    {
+      "id": "526",
+      "uri": "https://biblia-arabica.com/manuscript/526",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "Lectionary of Paul's Epistles",
+        "ܟܬܐܒ ܪܣܐܝܠ ܒܘܠܨ ܐܠܡܓܒܘܜ",
+        "Lectionary (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/526.xml"
     }
   ]
 }
