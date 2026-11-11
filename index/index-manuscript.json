@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:09:17.325Z",
+  "generated": "2026-11-11T18:09:35.581Z",
   "type": "manuscript",
   "records": [
     {
@@ -5930,6 +5930,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/500.xml"
+    },
+    {
+      "id": "501",
+      "uri": "https://biblia-arabica.com/manuscript/501",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 39 K",
+      "altNames": [
+        "Epistles of Paul, Catholic Epistles, Acts",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/501.xml"
     }
   ]
 }
