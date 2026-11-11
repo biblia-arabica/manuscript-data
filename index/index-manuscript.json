@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:53:05.220Z",
+  "generated": "2026-11-11T19:53:45.277Z",
   "type": "manuscript",
   "records": [
     {
@@ -6172,6 +6172,17 @@
         "Evangelion (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/522.xml"
+    },
+    {
+      "id": "523",
+      "uri": "https://biblia-arabica.com/manuscript/523",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "Bilingual Evangelion with commentary",
+        "ܟܬܒܐ ܕܛܐܛܐܪܣ ܕܐܘܢܓܠܝܐ ܣܓܝܕܐ ܘܡܙܝܚܢܐ ܕܡܢ ܐܪܒܥܐ ܐܘܢܓܠܝܣܬܐ",
+        "Evangelion (Syriac Rite, Western)"
+      ],
+      "file": "data/manuscripts/523.xml"
     }
   ]
 }
