@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:53:45.277Z",
+  "generated": "2026-11-11T19:55:01.357Z",
   "type": "manuscript",
   "records": [
     {
@@ -6183,6 +6183,15 @@
         "Evangelion (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/523.xml"
+    },
+    {
+      "id": "524",
+      "uri": "https://biblia-arabica.com/manuscript/524",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "Lectionary of readings from the Old Testament, Acts, and Paul's Epistles"
+      ],
+      "file": "data/manuscripts/524.xml"
     }
   ]
 }
