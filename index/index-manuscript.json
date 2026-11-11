@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T12:05:28.286Z",
+  "generated": "2026-11-11T13:08:42.379Z",
   "type": "manuscript",
   "records": [
     {
@@ -5211,6 +5211,15 @@
       "headword": "مكتبة دير طور سيناء 489",
       "altNames": [],
       "file": "data/manuscripts/439.xml"
+    },
+    {
+      "id": "440",
+      "uri": "https://biblia-arabica.com/manuscript/440",
+      "headword": "Institute of Oriental Manuscripts rdt",
+      "altNames": [
+        "Other"
+      ],
+      "file": "data/manuscripts/440.xml"
     }
   ]
 }
