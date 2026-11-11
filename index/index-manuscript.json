@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T13:39:28.410Z",
+  "generated": "2026-11-11T13:41:54.702Z",
   "type": "manuscript",
   "records": [
     {
@@ -5235,6 +5235,28 @@
         "Deuteronomy (Devarim)"
       ],
       "file": "data/manuscripts/442.xml"
+    },
+    {
+      "id": "443",
+      "uri": "https://biblia-arabica.com/manuscript/443",
+      "headword": "Herzog August Library 31",
+      "altNames": [
+        "New Testament",
+        "1 Corinthians",
+        "2 Corinthians",
+        "Galatians",
+        "Ephesians",
+        "Philippians",
+        "Colossians",
+        "1 Thessalonians",
+        "2 Thessalonians",
+        "1 Timothy",
+        "2 Timothy",
+        "Titus",
+        "Philemon",
+        "Hebrews"
+      ],
+      "file": "data/manuscripts/443.xml"
     }
   ]
 }
