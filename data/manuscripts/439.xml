@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Bryn Mawr, Bryn Mawr College Library, Special Collections BV 47</title>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar.489</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -56,8 +56,8 @@
                                         <p>Born digital.</p>
                                     </sourceDesc>
                                 </fileDesc>
-                                <revisionDesc status="draft">
-                                    <change who="#ptarras" when="2026-11-11">created entry</change>
+                                <revisionDesc status="unpublished">
+                                    <change who="#nfaqsh" when="2026-11-11"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -65,26 +65,77 @@
                                     <listBibl>
                                         <msDesc>
                                             <msIdentifier>
-                                                <country>USA</country>
-                                                <settlement>Bryn Mawr</settlement>
-                                                <repository>Bryn Mawr College Library</repository>
-                                                <collection>Special Collections</collection>
-                                                <idno>BV 47</idno>
-                                                <altIdentifier type="old">
-                                                    <idno>Hiersemann 500/39</idno>
-                                                </altIdentifier>
-                                                <altIdentifier type="old">
-                                                    <idno>Zurich, Universitätsbibliothek, Or. 94</idno>
-                                                </altIdentifier>
+                                                <country>Egypt</country>
+                                                <settlement>دير القديسة كاترينة</settlement>
+                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <collection>عهد قديم</collection>
+                                                <idno>489</idno>
                                             </msIdentifier>
                                             <msContents>
-                                                <msItem xml:id="msitem-1">
-                                                    <title ref="https://biblia-arabica.com/work/84">Hebrew Bible/Old Testament</title>
-                                                </msItem>
-                                                <msItem xml:id="msitem-2">
-                                                    <title ref="https://biblia-arabica.com/work/28">Psalms (Tehillim)</title>
+                                                <summary xml:lang="ar"/>
+                                                <msItem xml:id="msitem-1" class="bible">
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <locus from="١ أ"/>
+                                                        <quote>
+                                                            <p>ساقى فالقاهما فرعون في الحبس الذي كان يوسف محبوسا فيه وكان يوسف يخدمهم</p>
+                                                        </quote>
+                                                    </incipit>
+                                                    <explicit>
+                                                        <locus to="٧٦ ب"/>
+                                                        <quote xml:lang="ar">
+                                                            <p>واستكمل يوسف عمره ماية وعشر سنين فحنطوه وجعلوه في تابوت في الارض وناحوا /</p>
+                                                        </quote>
+                                                    </explicit>
+                                                    <note>
+                                                        <p>المخطوط  هو جزء من سفر التكوين وهو ناقص من النهاية و البداية. ومن ترقيم الدفتر الذي بدأ من الورقة ٨ الدفتر ٤٠ نخلص إلى أن المخطوط بدأ في الدفتر ٣٩ إلا أنه لم يكن كاملا ومن تسلسل الترقيم فيما بعد أن الدفتر هو عبارة عن ٨ ورقات ،إذا الدفتر الذي يحمل رقم ٣٩ ناقص منه ورقة واخر المخطوط الدفتر رقم ٤٨ ناقص منه ورقتين.</p>
+                                                        <p>ورقة( ١٠ أ )كتبت عبارتين باللون الأحمر.</p>
+                                                        <p>كتب على الغلاف من الداخل عبارة اذكر يا رب عبدك الفقير سعيفان هيكل.</p>
+                                                    </note>
                                                 </msItem>
                                             </msContents>
+                                            <physDesc>
+                                                <ab type="codicological-definition">
+                                                    <objectType rend="horizontal-rectangle" style="codex"/>
+                                                </ab>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <note xml:lang="ar">
+                                                                <p>المخطوط كتب بخط النسخ حوالي القرن الثالث عشر</p>
+                                                            </note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">77</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">21.5 x 13 cm - 15.5 x 9 cm</height>
+                                                                <width unit="mm">21.5 x 13 cm - 15.5 x 9 cm</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                </objectDesc>
+                                                <bindingDesc>
+                                                    <binding>
+                                                        <decoNote>
+                                                            <material>Wood</material>
+                                                            <note>
+                                                                <p>Wooden boards with brown leather; right board lost with beginning folios. Quires loose - End incomplete</p>
+                                                            </note>
+                                                        </decoNote>
+                                                    </binding>
+                                                </bindingDesc>
+                                            </physDesc>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <publisher>مصر</publisher>
+                                                            <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1rb8p5q"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
                                         </msDesc>
                                     </listBibl>
                                 </body>
