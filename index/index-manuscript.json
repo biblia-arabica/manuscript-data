@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:54:02.244Z",
+  "generated": "2026-11-11T17:55:16.196Z",
   "type": "manuscript",
   "records": [
     {
@@ -5679,6 +5679,16 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/477.xml"
+    },
+    {
+      "id": "478",
+      "uri": "https://biblia-arabica.com/manuscript/478",
+      "headword": "Melkite Greek Catholic Church. Archdiocese of Aleppo N/A",
+      "altNames": [
+        "كتاب حكمة يشوع بن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/478.xml"
     }
   ]
 }
