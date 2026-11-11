@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:09:35.581Z",
+  "generated": "2026-11-11T18:09:55.187Z",
   "type": "manuscript",
   "records": [
     {
@@ -5940,6 +5940,21 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/501.xml"
+    },
+    {
+      "id": "502",
+      "uri": "https://biblia-arabica.com/manuscript/502",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 59 K",
+      "altNames": [
+        "Theological treatise",
+        "ܟܬܐܒ ܐܠܐܟܣܝܢ",
+        "Confession of faith",
+        "ܐܡܐܢܗ",
+        "Psalms",
+        "ܡܙܡܘܪ̈ܐ ܕܕܘܝܕ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/502.xml"
     }
   ]
 }
