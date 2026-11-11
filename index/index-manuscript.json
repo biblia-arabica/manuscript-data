@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:17:21.222Z",
+  "generated": "2026-11-11T18:17:51.956Z",
   "type": "manuscript",
   "records": [
     {
@@ -6022,6 +6022,18 @@
         "Commentary on Romans"
       ],
       "file": "data/manuscripts/508.xml"
+    },
+    {
+      "id": "509",
+      "uri": "https://biblia-arabica.com/manuscript/509",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 163",
+      "altNames": [
+        "Evangelion",
+        "مصحف الانجيل المقدس",
+        "Evangelion (Byzantine Rite)",
+        "Gospel lectionary"
+      ],
+      "file": "data/manuscripts/509.xml"
     }
   ]
 }
