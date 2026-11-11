@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:19:18.732Z",
+  "generated": "2026-11-11T19:47:09.154Z",
   "type": "manuscript",
   "records": [
     {
@@ -6065,6 +6065,17 @@
         "Commnetary on Revelation"
       ],
       "file": "data/manuscripts/512.xml"
+    },
+    {
+      "id": "513",
+      "uri": "https://biblia-arabica.com/manuscript/513",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 76",
+      "altNames": [
+        "Commentary on the Song of Solomon",
+        "تفسير سفر نشيد الانشاد العظيم",
+        "Gregory, of Nyssa, Saint, approximately 335-approximately 394. Commentarius in Canticum canticorum"
+      ],
+      "file": "data/manuscripts/513.xml"
     }
   ]
 }
