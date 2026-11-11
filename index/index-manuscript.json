@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:12:02.510Z",
+  "generated": "2026-11-11T18:12:31.971Z",
   "type": "manuscript",
   "records": [
     {
@@ -5966,6 +5966,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/503.xml"
+    },
+    {
+      "id": "504",
+      "uri": "https://biblia-arabica.com/manuscript/504",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Library MS 1",
+      "altNames": [
+        "Evangelion",
+        "Evangelion (Byzantine Rite)",
+        "Commentary on readings from the Gospel of John"
+      ],
+      "file": "data/manuscripts/504.xml"
     }
   ]
 }
