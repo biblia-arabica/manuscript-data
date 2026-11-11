@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:08:00.383Z",
+  "generated": "2026-11-11T18:08:15.806Z",
   "type": "manuscript",
   "records": [
     {
@@ -5888,6 +5888,17 @@
         "Lectionary (Syriac Rite, Western)"
       ],
       "file": "data/manuscripts/496.xml"
+    },
+    {
+      "id": "497",
+      "uri": "https://biblia-arabica.com/manuscript/497",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 22 H",
+      "altNames": [
+        "Gospel of John",
+        "كتاب بشارة القديس يوحنا الانجيلي",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/497.xml"
     }
   ]
 }
