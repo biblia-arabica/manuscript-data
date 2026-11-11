@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:23:50.556Z",
+  "generated": "2026-11-11T17:24:05.872Z",
   "type": "manuscript",
   "records": [
     {
@@ -5499,6 +5499,17 @@
         "Bible. Revelation"
       ],
       "file": "data/manuscripts/462.xml"
+    },
+    {
+      "id": "463",
+      "uri": "https://biblia-arabica.com/manuscript/463",
+      "headword": "Fondation Georges et Mathilde Salem Ar 233",
+      "altNames": [
+        "Gospel of John",
+        "بشارة للقديس يوحنا بن زبي حبيب ربنا ومخلصنا يسوع المسيح",
+        "Bible. John"
+      ],
+      "file": "data/manuscripts/463.xml"
     }
   ]
 }
