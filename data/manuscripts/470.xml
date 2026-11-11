@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Syria, Aleppo, Fondation Georges et Mathilde Salem Ar 314</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/470</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-11"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Syria</country>
+                                                <settlement>Aleppo</settlement>
+                                                <repository>Fondation Georges et Mathilde Salem</repository>
+                                                <collection>GAMS</collection>
+                                                <idno>Ar 314</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>501679</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>GAMS 01126</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 989984): 1303 [1303–1303]; Bābih 1020 AM [?–?]; Coptic, Naskh | Part 2 (vHMML part 989985): 1339–1400 [1339–1400]; Coptic, Naskh | Part 3 (vHMML part 989986): 1200–1300 [1200–1300]; Coptic, Naskh | Part 4 (vHMML part 989987): 1200–1300 [1200–1300]; Naskh</summary>
+                                                <msItem xml:id="vhmm-501679-item-1" class="part-1">
+                                                    <title xml:lang="en">Revelation</title>
+                                                    <title xml:lang="ar">جليان القديس يوحنا بن زبدي احد الاثنى عشر</title>
+                                                    <title xml:lang="en">Bible. Revelation</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 989984); catalogue-content-id: 1817119; Title classification: provisional: Revelation; Title classification: original: جليان القديس يوحنا بن زبدي احد الاثنى عشر; Title classification: uniform: Bible. Revelation</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-2" class="part-1">
+                                                    <title xml:lang="en">Introduction to Easter</title>
+                                                    <title xml:lang="ar">مقدمة البسخة المقدسه</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>المجد للمسيح الاله المعبود من قبل وجوب وجوده الذي خلصنا بظهوره من كيد الشيطان وجنوده</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 989984); catalogue-content-id: 1817120; content-contributor: {&quot;id&quot;: 685889, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;ابن العسال، المؤتمن أبو إسحاق إبراهيم&quot;, &quot;contributor&quot;: {&quot;id&quot;: 10167, &quot;name&quot;: &quot;Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n97907893&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/79216520&quot;, &quot;displayName&quot;: &quot;Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century&quot;}}; Title classification: provisional: Introduction to Easter; Title classification: original: مقدمة البسخة المقدسه</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-3" class="part-2">
+                                                    <title xml:lang="en">Preparation of the myron</title>
+                                                    <title xml:lang="ar">صفة طبيخ الميرون المقدس</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817121; content-contributor: {&quot;id&quot;: 685890, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;بطرس خادم كرسى القيس والاهناسيه واطفيح الشرفيه&quot;, &quot;contributor&quot;: {&quot;id&quot;: 13244, &quot;name&quot;: &quot;Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320&quot;, &quot;displayName&quot;: &quot;Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320&quot;}}; Title classification: provisional: Preparation of the myron; Title classification: original: صفة طبيخ الميرون المقدس</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-4" class="part-2">
+                                                    <title xml:lang="en">Consecration of the myron</title>
+                                                    <title xml:lang="ar">قانون الميرون المقدس</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817122; Title classification: provisional: Consecration of the myron; Title classification: original: قانون الميرون المقدس</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-5" class="part-2">
+                                                    <title xml:lang="en">Notes on the consecration of the myron</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817123; content-contributor: {&quot;id&quot;: 685891, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;بطرس خادم كرسى القيس والاهناسيه واطفيح الشرقيه&quot;, &quot;contributor&quot;: {&quot;id&quot;: 13244, &quot;name&quot;: &quot;Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320&quot;, &quot;displayName&quot;: &quot;Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320&quot;}}; Title classification: provisional: Notes on the consecration of the myron</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-6" class="part-2">
+                                                    <title xml:lang="en">Jāmiʻ al-adwiyah al-mufradah. Selections</title>
+                                                    <title xml:lang="ar">من الجزء الثانى من كتاب جامع الادويه المفرده</title>
+                                                    <title xml:lang="en">Ibn Samjūn, Ḥāmid, -approximately 1010. Jāmiʻ al-adwiyah al-mufradah</title>
+                                                    <title xml:lang="en">Compendium of simple drugs</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817124; content-contributor: {&quot;id&quot;: 685892, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;ابن سمجون، حامد&quot;, &quot;contributor&quot;: {&quot;id&quot;: 10416, &quot;name&quot;: &quot;Ibn Samjūn, Ḥāmid, -approximately 1010&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/nr92023233&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/89855424&quot;, &quot;displayName&quot;: &quot;Ibn Samjūn, Ḥāmid, -approximately 1010&quot;}}; Title classification: provisional: Jāmiʻ al-adwiyah al-mufradah. Selections; Title classification: original: من الجزء الثانى من كتاب جامع الادويه المفرده; Title classification: uniform: Ibn Samjūn, Ḥāmid, -approximately 1010. Jāmiʻ al-adwiyah al-mufradah; Title classification: alternative: Compendium of simple drugs</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-7" class="part-2">
+                                                    <title xml:lang="en">Consecration of the myron by John VIII</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817125; Title classification: provisional: Consecration of the myron by John VIII</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-8" class="part-2">
+                                                    <title xml:lang="en">Consecration of the myron by John VIII</title>
+                                                    <title xml:lang="ar">ذكر ما اتفق فى عمل الميرون المقدس لما اهتم به السيد البطريرك الاب انبا يونس</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817126; Title classification: provisional: Consecration of the myron by John VIII; Title classification: original: ذكر ما اتفق فى عمل الميرون المقدس لما اهتم به السيد البطريرك الاب انبا يونس</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-9" class="part-2">
+                                                    <title xml:lang="en">Liturgical readings for the consecration of the myron</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 2 (ID 989985); catalogue-content-id: 1817127; Title classification: provisional: Liturgical readings for the consecration of the myron</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-10" class="part-3">
+                                                    <title xml:lang="en">Notes on the myron</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 3 (ID 989986); catalogue-content-id: 1817128; content-contributor: {&quot;id&quot;: 685893, &quot;contributor&quot;: {&quot;id&quot;: 9883, &quot;name&quot;: &quot;Michael, Bishop of Tinnis, active 11th century&quot;, &quot;displayName&quot;: &quot;Michael, Bishop of Tinnis, active 11th century&quot;}}; content-contributor: {&quot;id&quot;: 685894, &quot;contributor&quot;: {&quot;id&quot;: 13245, &quot;name&quot;: &quot;Macarius, Bishop of Menouf, active 10th century&quot;, &quot;displayName&quot;: &quot;Macarius, Bishop of Menouf, active 10th century&quot;}}; Title classification: provisional: Notes on the myron</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-501679-item-11" class="part-4">
+                                                    <title xml:lang="en">Notes on the myron</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 4 (ID 989987); catalogue-content-id: 1817129; Title classification: provisional: Notes on the myron</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: False; Part 1: signatures: False; Part 1: partNotes: Portions completed at various dates; date information from colophons, fol. 40v, 54v; Part 1: centuries: [14]; Part 2: material PAPER; Part 2: catchwords: False; Part 2: signatures: False; Part 2: centuries: [14]; Part 3: material PAPER; Part 3: catchwords: False; Part 3: signatures: False; Part 3: centuries: [13]; Part 4: material PAPER; Part 4: catchwords: False; Part 4: signatures: False; Part 4: centuries: [13]</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">129 leaf(ves)</measure>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Coptic, Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic, Coptic</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 2: Coptic, Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 2: Arabic, Coptic</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 3: Coptic, Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 3: Arabic, Coptic</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 4: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 4: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 989984): 1303 [1303–1303]; Bābih 1020 AM [?–?]; Coptic, Naskh | Part 2 (vHMML part 989985): 1339–1400 [1339–1400]; Coptic, Naskh | Part 3 (vHMML part 989986): 1200–1300 [1200–1300]; Coptic, Naskh | Part 4 (vHMML part 989987): 1200–1300 [1200–1300]; Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 501679</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/501679"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Paul Sbath, Bibliothèque de manuscrits Paul Sbath, prêtre syrien d’Alep: Catalogue, 3 vols. (1928-1934); Francisco del Río Sánchez, Catalogue des manuscrits de la fondation Georges et Mathilde Salem (Alep, Syrie) (2008).</title>
+                                                        <citedRange>Paul Sbath, Bibliothèque de manuscrits Paul Sbath, prêtre syrien d’Alep: Catalogue, 3 vols. (1928-1934); Francisco del Río Sánchez, Catalogue des manuscrits de la fondation Georges et Mathilde Salem (Alep, Syrie) (2008).</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/501679">https://w3id.org/vhmml/readingRoom/view/501679</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Formerly Sbath MS 1126. Easter hymn in Greek, fol. 55r; notes in Arabic dated 29 Hātūr 1184 AM (1467 CE), fol. 55v-56r</note>
+                                                <note type="acknowledgments">Cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2026/02/16</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2008/08/25</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">989984</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Revelation</title>
+                                                        <title type="original">جليان القديس يوحنا بن زبدي احد الاثنى عشر</title>
+                                                        <title type="uniform">Bible. Revelation</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>Coptic</textLang>
+                                                        <note type="catalogue-content-id">1817119</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Introduction to Easter</title>
+                                                        <title type="original">مقدمة البسخة المقدسه</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817120</note>
+                                                        <note type="content-contributor">{"id": 685889, "type": "Author", "nameNs": "ابن العسال، المؤتمن أبو إسحاق إبراهيم", "contributor": {"id": 10167, "name": "Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century", "authorityUriLC": "https://id.loc.gov/authorities/names/n97907893", "authorityUriVIAF": "https://viaf.org/viaf/79216520", "displayName": "Ibn al-ʻAssāl, al-Muʼtaman Abū Isḥāq Ibrāhīm, active 13th century"}}</note>
+                                                        <note type="incipit">المجد للمسيح الاله المعبود من قبل وجوب وجوده الذي خلصنا بظهوره من كيد الشيطان وجنوده</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1303" notAfter="1303">1303</origDate>
+                                                        <origDate type="original-calendar">Bābih 1020 AM</origDate>
+                                                        <note type="script">Coptic, Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 11 lines per page</note>
+                                                    <note type="writingSystem">Arabic, Coptic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Portions completed at various dates; date information from colophons, fol. 40v, 54v</note>
+                                                    <note type="centuries">[14]</note>
+                                                </physDesc>
+                                            </msPart>
+                                            <msPart n="2">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">989985</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Preparation of the myron</title>
+                                                        <title type="original">صفة طبيخ الميرون المقدس</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817121</note>
+                                                        <note type="content-contributor">{"id": 685890, "type": "Author", "nameNs": "بطرس خادم كرسى القيس والاهناسيه واطفيح الشرفيه", "contributor": {"id": 13244, "name": "Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320", "displayName": "Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320"}}</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Consecration of the myron</title>
+                                                        <title type="original">قانون الميرون المقدس</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817122</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Notes on the consecration of the myron</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817123</note>
+                                                        <note type="content-contributor">{"id": 685891, "type": "Author", "nameNs": "بطرس خادم كرسى القيس والاهناسيه واطفيح الشرقيه", "contributor": {"id": 13244, "name": "Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320", "displayName": "Peter, Bishop of al-Qays, Ihnāsīyah, and eastern Aṭfīḥ, active 1288-1320"}}</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Jāmiʻ al-adwiyah al-mufradah. Selections</title>
+                                                        <title type="original">من الجزء الثانى من كتاب جامع الادويه المفرده</title>
+                                                        <title type="uniform">Ibn Samjūn, Ḥāmid, -approximately 1010. Jāmiʻ al-adwiyah al-mufradah</title>
+                                                        <title type="alternative">Compendium of simple drugs</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817124</note>
+                                                        <note type="content-contributor">{"id": 685892, "type": "Author", "nameNs": "ابن سمجون، حامد", "contributor": {"id": 10416, "name": "Ibn Samjūn, Ḥāmid, -approximately 1010", "authorityUriLC": "https://id.loc.gov/authorities/names/nr92023233", "authorityUriVIAF": "https://viaf.org/viaf/89855424", "displayName": "Ibn Samjūn, Ḥāmid, -approximately 1010"}}</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Consecration of the myron by John VIII</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817125</note>
+                                                    </msItem>
+                                                    <msItem n="6">
+                                                        <title type="provisional">Consecration of the myron by John VIII</title>
+                                                        <title type="original">ذكر ما اتفق فى عمل الميرون المقدس لما اهتم به السيد البطريرك الاب انبا يونس</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817126</note>
+                                                    </msItem>
+                                                    <msItem n="7">
+                                                        <title type="provisional">Liturgical readings for the consecration of the myron</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <textLang>Coptic</textLang>
+                                                        <note type="catalogue-content-id">1817127</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1339" notAfter="1400">1339–1400</origDate>
+                                                        <note type="script">Coptic, Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 13 lines per page</note>
+                                                    <note type="writingSystem">Arabic, Coptic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[14]</note>
+                                                </physDesc>
+                                            </msPart>
+                                            <msPart n="3">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">989986</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Notes on the myron</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817128</note>
+                                                        <note type="content-contributor">{"id": 685893, "contributor": {"id": 9883, "name": "Michael, Bishop of Tinnis, active 11th century", "displayName": "Michael, Bishop of Tinnis, active 11th century"}}</note>
+                                                        <note type="content-contributor">{"id": 685894, "contributor": {"id": 13245, "name": "Macarius, Bishop of Menouf, active 10th century", "displayName": "Macarius, Bishop of Menouf, active 10th century"}}</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1200" notAfter="1300">1200–1300</origDate>
+                                                        <note type="script">Coptic, Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 17 lines per page</note>
+                                                    <note type="writingSystem">Arabic, Coptic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[13]</note>
+                                                </physDesc>
+                                            </msPart>
+                                            <msPart n="4">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">989987</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Notes on the myron</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1817129</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1200" notAfter="1300">1200–1300</origDate>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 12-14 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="centuries">[13]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
