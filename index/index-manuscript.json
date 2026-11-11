@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T13:08:42.379Z",
+  "generated": "2026-11-11T13:26:48.465Z",
   "type": "manuscript",
   "records": [
     {
@@ -5220,6 +5220,16 @@
         "Other"
       ],
       "file": "data/manuscripts/440.xml"
+    },
+    {
+      "id": "441",
+      "uri": "https://biblia-arabica.com/manuscript/441",
+      "headword": "Bryn Mawr College Library BV 47",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Psalms (Tehillim)"
+      ],
+      "file": "data/manuscripts/441.xml"
     }
   ]
 }
