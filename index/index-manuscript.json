@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T15:26:23.767Z",
+  "generated": "2026-11-11T16:13:44.681Z",
   "type": "manuscript",
   "records": [
     {
@@ -5290,6 +5290,15 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/446.xml"
+    },
+    {
+      "id": "447",
+      "uri": "https://biblia-arabica.com/manuscript/447",
+      "headword": "John Rylands Library 419",
+      "altNames": [
+        "Other"
+      ],
+      "file": "data/manuscripts/447.xml"
     }
   ]
 }
