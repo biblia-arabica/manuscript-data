@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:04:18.936Z",
+  "generated": "2026-11-11T18:04:39.165Z",
   "type": "manuscript",
   "records": [
     {
@@ -5763,6 +5763,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/485.xml"
+    },
+    {
+      "id": "486",
+      "uri": "https://biblia-arabica.com/manuscript/486",
+      "headword": "Syriac Catholic Church. Archdiocese of Aleppo Ar 7/60",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يسوع ابن شيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/486.xml"
     }
   ]
 }
