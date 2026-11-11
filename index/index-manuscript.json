@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:23:35.401Z",
+  "generated": "2026-11-11T17:23:50.556Z",
   "type": "manuscript",
   "records": [
     {
@@ -5488,6 +5488,17 @@
         "Bible. Gospels. Syriac Diatessaron"
       ],
       "file": "data/manuscripts/461.xml"
+    },
+    {
+      "id": "462",
+      "uri": "https://biblia-arabica.com/manuscript/462",
+      "headword": "Fondation Georges et Mathilde Salem Ar 224",
+      "altNames": [
+        "Revelation",
+        "ابوغالمسيس يسوع المسيح",
+        "Bible. Revelation"
+      ],
+      "file": "data/manuscripts/462.xml"
     }
   ]
 }
