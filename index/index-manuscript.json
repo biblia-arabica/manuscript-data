@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:25:24.349Z",
+  "generated": "2026-11-11T17:25:50.647Z",
   "type": "manuscript",
   "records": [
     {
@@ -5552,6 +5552,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/467.xml"
+    },
+    {
+      "id": "468",
+      "uri": "https://biblia-arabica.com/manuscript/468",
+      "headword": "Fondation Georges et Mathilde Salem Ar 296",
+      "altNames": [
+        "Ecclesiasticus",
+        "كتاب يشوع بن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/468.xml"
     }
   ]
 }
