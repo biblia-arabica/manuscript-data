@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:17:51.956Z",
+  "generated": "2026-11-11T18:18:05.350Z",
   "type": "manuscript",
   "records": [
     {
@@ -6034,6 +6034,17 @@
         "Gospel lectionary"
       ],
       "file": "data/manuscripts/509.xml"
+    },
+    {
+      "id": "510",
+      "uri": "https://biblia-arabica.com/manuscript/510",
+      "headword": "Melkite Greek Catholic Church. Patriarchate of Antioch. Library MS 172",
+      "altNames": [
+        "Homilies on the Gospel of John",
+        "تفسير انجيل يوحنا البشير الثاولوغس",
+        "John Chrysostom, Saint, -407. Homilies on John"
+      ],
+      "file": "data/manuscripts/510.xml"
     }
   ]
 }
