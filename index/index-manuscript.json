@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T20:11:19.093Z",
+  "generated": "2026-11-11T20:11:59.869Z",
   "type": "manuscript",
   "records": [
     {
@@ -6223,6 +6223,21 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/527.xml"
+    },
+    {
+      "id": "528",
+      "uri": "https://biblia-arabica.com/manuscript/528",
+      "headword": "Syriac Orthodox Church. Archdiocese of Homs N/A",
+      "altNames": [
+        "Psalms",
+        "ܡܙܡܘܪ̈ܐ",
+        "Bible. Psalms",
+        "Canticles",
+        "ܬܫܒܘ̈ܚܬܐ",
+        "Memra on the love of godly instruction",
+        "ܡܐܡܪܐ ܕܥܠ ܪܚܡܬ ܝܘܠܦܢܐ ܡܪܬܝܢܘܬܐ"
+      ],
+      "file": "data/manuscripts/528.xml"
     }
   ]
 }
