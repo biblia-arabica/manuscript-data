@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:22:59.571Z",
+  "generated": "2026-11-11T17:23:17.728Z",
   "type": "manuscript",
   "records": [
     {
@@ -5467,6 +5467,16 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/459.xml"
+    },
+    {
+      "id": "460",
+      "uri": "https://biblia-arabica.com/manuscript/460",
+      "headword": "Fondation Georges et Mathilde Salem Ar 211",
+      "altNames": [
+        "Revelation, Gospel of John",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/460.xml"
     }
   ]
 }
