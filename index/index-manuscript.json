@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:09:01.968Z",
+  "generated": "2026-11-11T18:09:17.325Z",
   "type": "manuscript",
   "records": [
     {
@@ -5920,6 +5920,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/499.xml"
+    },
+    {
+      "id": "500",
+      "uri": "https://biblia-arabica.com/manuscript/500",
+      "headword": "Syriac Orthodox Church. Archdiocese of Aleppo MS 30 JI",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/500.xml"
     }
   ]
 }
