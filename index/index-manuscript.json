@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:22:11.271Z",
+  "generated": "2026-11-11T08:18:06.956Z",
   "type": "manuscript",
   "records": [
     {
@@ -175,7 +175,9 @@
       "uri": "https://biblia-arabica.com/manuscript/14",
       "headword": "مكتبة دير طور سيناء 597",
       "altNames": [
-        "نبوة دانيال"
+        "نبوة دانيال",
+        "كتاب الازمنة",
+        "كتاب الأنساب"
       ],
       "file": "data/manuscripts/14.xml"
     },
