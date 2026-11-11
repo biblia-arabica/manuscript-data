@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:25:50.647Z",
+  "generated": "2026-11-11T17:26:07.492Z",
   "type": "manuscript",
   "records": [
     {
@@ -5563,6 +5563,16 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/468.xml"
+    },
+    {
+      "id": "469",
+      "uri": "https://biblia-arabica.com/manuscript/469",
+      "headword": "Fondation Georges et Mathilde Salem Ar 301",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/469.xml"
     }
   ]
 }
