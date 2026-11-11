@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T19:47:32.455Z",
+  "generated": "2026-11-11T19:47:51.407Z",
   "type": "manuscript",
   "records": [
     {
@@ -6085,6 +6085,17 @@
         "Commentary on the New Testament"
       ],
       "file": "data/manuscripts/514.xml"
+    },
+    {
+      "id": "515",
+      "uri": "https://biblia-arabica.com/manuscript/515",
+      "headword": "Church of Saint Elian 8",
+      "altNames": [
+        "New Testament",
+        "العهد الجديد",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/515.xml"
     }
   ]
 }
