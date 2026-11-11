@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:21:00.726Z",
+  "generated": "2026-11-11T17:21:16.099Z",
   "type": "manuscript",
   "records": [
     {
@@ -5388,6 +5388,16 @@
         "Bible. Romans"
       ],
       "file": "data/manuscripts/453.xml"
+    },
+    {
+      "id": "454",
+      "uri": "https://biblia-arabica.com/manuscript/454",
+      "headword": "Montserrat (Abbey). Biblioteca MS Or. 91",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/454.xml"
     }
   ]
 }
