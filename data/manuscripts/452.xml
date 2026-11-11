@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Lebanon, Ṣarbā (Jūniyah), Ordre Basilien Alepin 859</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/452</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-11"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Lebanon</country>
+                                                <settlement>Ṣarbā (Jūniyah)</settlement>
+                                                <repository>Ordre Basilien Alepin</repository>
+                                                <collection>OBA</collection>
+                                                <idno>MS 859</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>506227</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>OBA 01211</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 844969): 1849 [1849–1849]; Ruq‘ah</summary>
+                                                <msItem xml:id="vhmm-506227-item-1" class="part-1">
+                                                    <title xml:lang="en">Explanation of contradictions in the Gospel accounts of the resurrection</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 844969); catalogue-content-id: 1472094; Title classification: provisional: Explanation of contradictions in the Gospel accounts of the resurrection</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-506227-item-2" class="part-1">
+                                                    <title xml:lang="en">al-Bayān anna al-Masīḥ al-mawqūd qad jāʼa khilāf li-muʻtaqad al-Yahūd</title>
+                                                    <title xml:lang="ar">مقالة تشتمل على البيان ان المسيح الموعود به من الله قد جاء خلافا لمعتقد اليهود</title>
+                                                    <title xml:lang="en">Treatise against the Jews on the coming of the Messiah</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 844969); catalogue-content-id: 1472095; Title classification: provisional: al-Bayān anna al-Masīḥ al-mawqūd qad jāʼa khilāf li-muʻtaqad al-Yahūd; Title classification: original: مقالة تشتمل على البيان ان المسيح الموعود به من الله قد جاء خلافا لمعتقد اليهود; Title classification: alternative: Treatise against the Jews on the coming of the Messiah</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-506227-item-3" class="part-1">
+                                                    <title xml:lang="en">al-Burhān al-jalīyah fī ṣiḥḥat qānūn al-amānah al-Nīqāwīyah</title>
+                                                    <title xml:lang="ar">البرهانى الجلية فى صحة قانون الامانة النيقاوية</title>
+                                                    <title xml:lang="en">Treatise on the Nicene Creed</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 844969); catalogue-content-id: 1472096; content-contributor: {&quot;id&quot;: 445886, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;الاب البادرى نيقولاوس كوديس العازارى المرسل الرسولى بحلب&quot;, &quot;contributor&quot;: {&quot;id&quot;: 13228, &quot;name&quot;: &quot;Gaudez, Nicolas, 1763-1844&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/374151246519744131328&quot;, &quot;displayName&quot;: &quot;Gaudez, Nicolas, 1763-1844&quot;}}; Title classification: provisional: al-Burhān al-jalīyah fī ṣiḥḥat qānūn al-amānah al-Nīqāwīyah; Title classification: original: البرهانى الجلية فى صحة قانون الامانة النيقاوية; Title classification: alternative: Treatise on the Nicene Creed</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-506227-item-4" class="part-1">
+                                                    <title xml:lang="en">Genesis. Selections</title>
+                                                    <title xml:lang="ar">قصة يوسف الحسن من سفر التكوين من الاصحاح السابع والثلثون الى اخر السفر المذكور</title>
+                                                    <title xml:lang="en">Bible. Genesis</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 844969); catalogue-content-id: 1472097; Title classification: provisional: Genesis. Selections; Title classification: original: قصة يوسف الحسن من سفر التكوين من الاصحاح السابع والثلثون الى اخر السفر المذكور; Title classification: uniform: Bible. Genesis</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-506227-item-5" class="part-1">
+                                                    <title xml:lang="en">Treatise against Yūḥanná al-ʻUjaymī in defense of the Maronites</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>الحمد لله المتوحد بالكمال فى عزة اقتداره</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 844969); catalogue-content-id: 1472098; content-contributor: {&quot;id&quot;: 445887, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;قيالة، أنطون&quot;, &quot;contributor&quot;: {&quot;id&quot;: 13943, &quot;name&quot;: &quot;Qayyālah, Anṭūn, active 1768&quot;, &quot;displayName&quot;: &quot;Qayyālah, Anṭūn, active 1768&quot;}}; Title classification: provisional: Treatise against Yūḥanná al-ʻUjaymī in defense of the Maronites</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-506227-item-6" class="part-1">
+                                                    <title xml:lang="en">Nūr al-albāb al-muhdī ilá al-ṣawāb</title>
+                                                    <title xml:lang="ar">نور الالباب المهدى الى الصواب</title>
+                                                    <title xml:lang="en">Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>الحمد لله المنير الالباب بنعمة الايمان المستقيم بسيدنا يسوع المسيح</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 844969); catalogue-content-id: 1472099; content-contributor: {&quot;id&quot;: 445888, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;بولس داود ابن فونسنسنيوس الازميرلى العبرانى المسيحى&quot;, &quot;contributor&quot;: {&quot;id&quot;: 8463, &quot;name&quot;: &quot;Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758&quot;, &quot;displayName&quot;: &quot;Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758&quot;}}; Title classification: provisional: Nūr al-albāb al-muhdī ilá al-ṣawāb; Title classification: original: نور الالباب المهدى الى الصواب; Title classification: uniform: Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: False; Part 1: partNotes: Copied by حنا شحاده شمسانى. Portions completed at various dates; scribe and date information from colophons, pages 17, 54, 107, 149, 258; Part 1: centuries: [19]; Binding depth: 2.0 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">317 page(s)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">185</height>
+                                                                <width unit="mm">115</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Ruq‘ah</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 844969): 1849 [1849–1849]; Ruq‘ah</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 506227</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/506227"/>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/506227">https://w3id.org/vhmml/readingRoom/view/506227</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="acknowledgments">Cataloged by Josh Mugler</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2025/12/04</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2009/03/24</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">844969</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Explanation of contradictions in the Gospel accounts of the resurrection</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1472094</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">al-Bayān anna al-Masīḥ al-mawqūd qad jāʼa khilāf li-muʻtaqad al-Yahūd</title>
+                                                        <title type="original">مقالة تشتمل على البيان ان المسيح الموعود به من الله قد جاء خلافا لمعتقد اليهود</title>
+                                                        <title type="alternative">Treatise against the Jews on the coming of the Messiah</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1472095</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">al-Burhān al-jalīyah fī ṣiḥḥat qānūn al-amānah al-Nīqāwīyah</title>
+                                                        <title type="original">البرهانى الجلية فى صحة قانون الامانة النيقاوية</title>
+                                                        <title type="alternative">Treatise on the Nicene Creed</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1472096</note>
+                                                        <note type="content-contributor">{"id": 445886, "type": "Author", "nameNs": "الاب البادرى نيقولاوس كوديس العازارى المرسل الرسولى بحلب", "contributor": {"id": 13228, "name": "Gaudez, Nicolas, 1763-1844", "authorityUriVIAF": "https://viaf.org/viaf/374151246519744131328", "displayName": "Gaudez, Nicolas, 1763-1844"}}</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Genesis. Selections</title>
+                                                        <title type="original">قصة يوسف الحسن من سفر التكوين من الاصحاح السابع والثلثون الى اخر السفر المذكور</title>
+                                                        <title type="uniform">Bible. Genesis</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1472097</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Treatise against Yūḥanná al-ʻUjaymī in defense of the Maronites</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1472098</note>
+                                                        <note type="content-contributor">{"id": 445887, "type": "Author", "nameNs": "قيالة، أنطون", "contributor": {"id": 13943, "name": "Qayyālah, Anṭūn, active 1768", "displayName": "Qayyālah, Anṭūn, active 1768"}}</note>
+                                                        <note type="incipit">الحمد لله المتوحد بالكمال فى عزة اقتداره</note>
+                                                    </msItem>
+                                                    <msItem n="6">
+                                                        <title type="provisional">Nūr al-albāb al-muhdī ilá al-ṣawāb</title>
+                                                        <title type="original">نور الالباب المهدى الى الصواب</title>
+                                                        <title type="uniform">Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758. Apology for Christianity</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1472099</note>
+                                                        <note type="content-contributor">{"id": 445888, "type": "Author", "nameNs": "بولس داود ابن فونسنسنيوس الازميرلى العبرانى المسيحى", "contributor": {"id": 8463, "name": "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758", "displayName": "Būluṣ Dāwūd ibn Mūsá al-Izmirlī, active 1758"}}</note>
+                                                        <note type="incipit">الحمد لله المنير الالباب بنعمة الايمان المستقيم بسيدنا يسوع المسيح</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1849" notAfter="1849">1849</origDate>
+                                                        <note type="script">Ruq‘ah</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 17-21 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Copied by حنا شحاده شمسانى. Portions completed at various dates; scribe and date information from colophons, pages 17, 54, 107, 149, 258</note>
+                                                    <note type="centuries">[19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
