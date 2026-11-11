@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:20:07.884Z",
+  "generated": "2026-11-11T17:20:27.016Z",
   "type": "manuscript",
   "records": [
     {
@@ -5338,6 +5338,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/450.xml"
+    },
+    {
+      "id": "451",
+      "uri": "https://biblia-arabica.com/manuscript/451",
+      "headword": "Ordre Basilien Alepin MS 8",
+      "altNames": [
+        "Gospels",
+        "انجيل",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/451.xml"
     }
   ]
 }
