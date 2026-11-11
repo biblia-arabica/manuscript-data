@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:27:32.888Z",
+  "generated": "2026-11-11T17:28:25.471Z",
   "type": "manuscript",
   "records": [
     {
@@ -5632,6 +5632,22 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/473.xml"
+    },
+    {
+      "id": "474",
+      "uri": "https://biblia-arabica.com/manuscript/474",
+      "headword": "Fondation Georges et Mathilde Salem Ar 446",
+      "altNames": [
+        "Rosary prayers",
+        "الوردية المقدسة لسيدتنا مريم العذرى بالاختصار",
+        "Prayers of thanksgiving",
+        "الصلوات الشكريه",
+        "Prayers of supplication",
+        "الطلبات للرب الاله الرحوم ملتمسين منه ان يهب لنا كفاية النيل",
+        "Diatessaron",
+        "Bible. Gospels. Syriac Diatessaron"
+      ],
+      "file": "data/manuscripts/474.xml"
     }
   ]
 }
