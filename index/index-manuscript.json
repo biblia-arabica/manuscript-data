@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:19:49.435Z",
+  "generated": "2026-11-11T17:20:07.884Z",
   "type": "manuscript",
   "records": [
     {
@@ -5327,6 +5327,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/449.xml"
+    },
+    {
+      "id": "450",
+      "uri": "https://biblia-arabica.com/manuscript/450",
+      "headword": "Ordre Basilien Alepin MS 7",
+      "altNames": [
+        "Gospels",
+        "الإنجيل الشريف الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/450.xml"
     }
   ]
 }
