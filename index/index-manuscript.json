@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:23:17.728Z",
+  "generated": "2026-11-11T17:23:35.401Z",
   "type": "manuscript",
   "records": [
     {
@@ -5477,6 +5477,17 @@
         "Bible. New Testament"
       ],
       "file": "data/manuscripts/460.xml"
+    },
+    {
+      "id": "461",
+      "uri": "https://biblia-arabica.com/manuscript/461",
+      "headword": "Fondation Georges et Mathilde Salem Ar 218",
+      "altNames": [
+        "Diatessaron",
+        "الانجيل الطاهر المدعو اباطاسارون وتفسير هذه اللفظه الرباعي",
+        "Bible. Gospels. Syriac Diatessaron"
+      ],
+      "file": "data/manuscripts/461.xml"
     }
   ]
 }
