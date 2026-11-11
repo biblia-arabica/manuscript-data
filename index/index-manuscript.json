@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T08:18:06.956Z",
+  "generated": "2026-11-11T10:00:35.022Z",
   "type": "manuscript",
   "records": [
     {
@@ -5204,6 +5204,16 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/438.xml"
+    },
+    {
+      "id": "439",
+      "uri": "https://biblia-arabica.com/manuscript/439",
+      "headword": "Bryn Mawr College Library BV 47",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Psalms (Tehillim)"
+      ],
+      "file": "data/manuscripts/439.xml"
     }
   ]
 }
