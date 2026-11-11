@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T15:26:00.327Z",
+  "generated": "2026-11-11T15:26:23.767Z",
   "type": "manuscript",
   "records": [
     {
@@ -5279,6 +5279,17 @@
         "Bible. Ecclesiasticus"
       ],
       "file": "data/manuscripts/445.xml"
+    },
+    {
+      "id": "446",
+      "uri": "https://biblia-arabica.com/manuscript/446",
+      "headword": "Ordre Basilien Alepin MS 16",
+      "altNames": [
+        "Ecclesiasticus",
+        "ابن سيراخ",
+        "Bible. Ecclesiasticus"
+      ],
+      "file": "data/manuscripts/446.xml"
     }
   ]
 }
