@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Turkey, Mardin, Mar Hirmiz Keldani Kilisesi 56</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/579</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-12"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Turkey</country>
+                                                <settlement>Mardin</settlement>
+                                                <repository>Mar Hirmiz Keldani Kilisesi</repository>
+                                                <collection>CCM</collection>
+                                                <idno>56</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>132235</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>CCM 00056</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 980063): 1345 [1345–1345]; Kiyahk 1062 AM; Sha‘bān 746 AH [?–?]; Naskh</summary>
+                                                <msItem xml:id="vhmm-132235-item-1" class="part-1">
+                                                    <title xml:lang="en">On Paul and Timothy</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <note xml:lang="en">vHMML part 1 (ID 980063); catalogue-content-id: 1790848; Title classification: provisional: On Paul and Timothy</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132235-item-2" class="part-1">
+                                                    <title xml:lang="en">Epistles of Paul</title>
+                                                    <title xml:lang="en">Bible. Epistles of Paul</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>من بولس عبد يسوع المسيح الرسول المدعو المفرد للبشر</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 980063); catalogue-content-id: 1790849; Title classification: provisional: Epistles of Paul; Title classification: uniform: Bible. Epistles of Paul</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132235-item-3" class="part-1">
+                                                    <title xml:lang="en">Epistles</title>
+                                                    <title xml:lang="ar">السبع رسايل القثاليقون للتلاميد الاطهار</title>
+                                                    <title xml:lang="en">Bible. Epistles</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>من يعقوب عبد الله والرب يسوع المسيح الى القبايل ال</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 980063); catalogue-content-id: 1790850; Title classification: provisional: Epistles; Title classification: original: السبع رسايل القثاليقون للتلاميد الاطهار; Title classification: uniform: Bible. Epistles</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-132235-item-4" class="part-1">
+                                                    <title xml:lang="en">Acts of the Apostles</title>
+                                                    <title xml:lang="ar">كتاب الابركسيس الذي هو اخبار الرسل مند صعود ربنا يسوع المسيح</title>
+                                                    <title xml:lang="en">Bible. Acts</title>
+                                                    <textLang mainLang="ar"/>
+                                                    <incipit>
+                                                        <quote>قد كتبت كتابا اولا يا تآؤفيلا في جميع الامور</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 980063); catalogue-content-id: 1790851; Title classification: provisional: Acts of the Apostles; Title classification: original: كتاب الابركسيس الذي هو اخبار الرسل مند صعود ربنا يسوع المسيح; Title classification: uniform: Bible. Acts</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: False; Part 1: signatures: False; Part 1: partNotes: Date from colophon on fol. 231v; incomplete tables in East Syriac Garshuni, much later than the main text, fol. 1v-4r; list of the divisions of each biblical book in another hand, fol. 232r. Copied at the Monastery of Mercurius; Part 1: centuries: [14]; Binding depth: 8.0 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">232 leaf(ves)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">280</height>
+                                                                <width unit="mm">200</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Naskh</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Arabic</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 980063): 1345 [1345–1345]; Kiyahk 1062 AM; Sha‘bān 746 AH [?–?]; Naskh</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 132235</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/132235"/>
+                                                    </bibl>
+                                                    <bibl xml:id="bib2">
+                                                        <title>Addaï Scher, &quot;Notice sur les manuscrits syriaques et arabes conservés à l’evêché chaldéen de Mardin,&quot; Revue des bibliothèques 18 (1908): 64-95.</title>
+                                                        <citedRange>Addaï Scher, &quot;Notice sur les manuscrits syriaques et arabes conservés à l’evêché chaldéen de Mardin,&quot; Revue des bibliothèques 18 (1908): 64-95.</citedRange>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/132235">https://w3id.org/vhmml/readingRoom/view/132235</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Macomber 12.4. Fol. 119v and 127r blank</note>
+                                                <note type="acknowledgments">Digitized in collaboration with Centre Numérique des Manuscrits Orientaux (CNMO), Ankawa, Erbil, Iraq; Cataloged by Adam McCollum</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2025/12/15</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2012/08/21</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">980063</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">On Paul and Timothy</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1790848</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Epistles of Paul</title>
+                                                        <title type="uniform">Bible. Epistles of Paul</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1790849</note>
+                                                        <note type="incipit">من بولس عبد يسوع المسيح الرسول المدعو المفرد للبشر</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Epistles</title>
+                                                        <title type="original">السبع رسايل القثاليقون للتلاميد الاطهار</title>
+                                                        <title type="uniform">Bible. Epistles</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1790850</note>
+                                                        <note type="incipit">من يعقوب عبد الله والرب يسوع المسيح الى القبايل ال</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Acts of the Apostles</title>
+                                                        <title type="original">كتاب الابركسيس الذي هو اخبار الرسل مند صعود ربنا يسوع المسيح</title>
+                                                        <title type="uniform">Bible. Acts</title>
+                                                        <textLang>Arabic</textLang>
+                                                        <note type="catalogue-content-id">1790851</note>
+                                                        <note type="incipit">قد كتبت كتابا اولا يا تآؤفيلا في جميع الامور</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1345" notAfter="1345">1345</origDate>
+                                                        <origDate type="original-calendar">Kiyahk 1062 AM; Sha‘bān 746 AH</origDate>
+                                                        <note type="script">Naskh</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 15 lines per page</note>
+                                                    <note type="writingSystem">Arabic</note>
+                                                    <note type="catchwords">False</note>
+                                                    <note type="signatures">False</note>
+                                                    <note type="partNotes">Date from colophon on fol. 231v; incomplete tables in East Syriac Garshuni, much later than the main text, fol. 1v-4r; list of the divisions of each biblical book in another hand, fol. 232r. Copied at the Monastery of Mercurius</note>
+                                                    <note type="centuries">[14]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
