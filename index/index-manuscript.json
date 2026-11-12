@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:41:14.675Z",
+  "generated": "2026-11-12T07:41:55.812Z",
   "type": "manuscript",
   "records": [
     {
@@ -6927,6 +6927,21 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/586.xml"
+    },
+    {
+      "id": "587",
+      "uri": "https://biblia-arabica.com/manuscript/587",
+      "headword": "Dayrā d-Mār Gabriʼél N/A",
+      "altNames": [
+        "Acts, James, 1 Peter, 1 John",
+        "ܐܠܐܒܪܟܣܝܣ",
+        "Bible. New Testament",
+        "Life of Elijah",
+        "ܩܨܗ̈ ܐܠܐܒ ܐܠܛܐܗܪ ܐܡܟ̣ܬܐܪ ܟ̇ܐܗܢ ܐܠܠܗ ܐܠܓ̣ܝܘܪ ܐܠܝܐܣ ܐܠܢܒܝ",
+        "Life of Joseph",
+        "ܩܨܗ̈ ܝܘܣܦ ܐܠܨܕܝܩ ܐܒܢ ܐܒܝܢܐ ܝܥܩܘܒ ܘܡܐ ܔܪܐ ܠܗ ܡܥ ܐܟܘܬܗ"
+      ],
+      "file": "data/manuscripts/587.xml"
     }
   ]
 }
