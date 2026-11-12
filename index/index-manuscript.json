@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:21:33.148Z",
+  "generated": "2026-11-12T05:21:51.701Z",
   "type": "manuscript",
   "records": [
     {
@@ -6352,6 +6352,18 @@
         "Book of questions and answers"
       ],
       "file": "data/manuscripts/537.xml"
+    },
+    {
+      "id": "538",
+      "uri": "https://biblia-arabica.com/manuscript/538",
+      "headword": "Meryem Ana Kilisesi MS 115",
+      "altNames": [
+        "Evangelion",
+        "Evangelion (Syriac Rite, Eastern)",
+        "Sermon",
+        "خطبة"
+      ],
+      "file": "data/manuscripts/538.xml"
     }
   ]
 }
