@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:21:40.373Z",
+  "generated": "2026-11-12T15:40:13.816Z",
   "type": "manuscript",
   "records": [
     {
@@ -47,10 +47,10 @@
       "headword": "Sinai, Saint Catherine Monastery Ar. 1",
       "altNames": [
         "unknown (entity whose identity is not known)",
-        "سفر أيوب",
-        "نبوة دانيال",
-        "نبوة أرميا",
-        "نبوة حزقيال"
+        "Job",
+        "Daniel",
+        "Jeremiah",
+        "Ezekiel"
       ],
       "file": "data/manuscripts/5.xml"
     },
