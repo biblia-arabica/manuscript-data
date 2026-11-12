@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:45:09.855Z",
+  "generated": "2026-11-12T07:37:46.068Z",
   "type": "manuscript",
   "records": [
     {
@@ -6854,6 +6854,18 @@
         "Commentary on the Gospel of Luke (Peshitta version)"
       ],
       "file": "data/manuscripts/580.xml"
+    },
+    {
+      "id": "581",
+      "uri": "https://biblia-arabica.com/manuscript/581",
+      "headword": "Mar Hirmiz Keldani Kilisesi 82",
+      "altNames": [
+        "Tafsīr al-Injīl",
+        "تفسير الانجيل",
+        "Abū al-Faraj ʻAbd Allāh ibn al-Tayyib, -1043. Tafsīr al-Injīl",
+        "Commentary on the Gospels"
+      ],
+      "file": "data/manuscripts/581.xml"
     }
   ]
 }
