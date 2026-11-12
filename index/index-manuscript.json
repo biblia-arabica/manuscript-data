@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:43:22.224Z",
+  "generated": "2026-11-12T05:43:45.948Z",
   "type": "manuscript",
   "records": [
     {
@@ -6825,6 +6825,23 @@
         "Psalter (Syriac Rite, Eastern)"
       ],
       "file": "data/manuscripts/578.xml"
+    },
+    {
+      "id": "579",
+      "uri": "https://biblia-arabica.com/manuscript/579",
+      "headword": "Mar Hirmiz Keldani Kilisesi 56",
+      "altNames": [
+        "On Paul and Timothy",
+        "Epistles of Paul",
+        "Bible. Epistles of Paul",
+        "Epistles",
+        "السبع رسايل القثاليقون للتلاميد الاطهار",
+        "Bible. Epistles",
+        "Acts of the Apostles",
+        "كتاب الابركسيس الذي هو اخبار الرسل مند صعود ربنا يسوع المسيح",
+        "Bible. Acts"
+      ],
+      "file": "data/manuscripts/579.xml"
     }
   ]
 }
