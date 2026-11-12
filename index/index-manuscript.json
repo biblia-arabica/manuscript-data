@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T16:26:02.012Z",
+  "generated": "2026-11-12T16:31:14.623Z",
   "type": "manuscript",
   "records": [
     {
@@ -7224,6 +7224,15 @@
         "Other"
       ],
       "file": "data/manuscripts/613.xml"
+    },
+    {
+      "id": "614",
+      "uri": "https://biblia-arabica.com/manuscript/614",
+      "headword": "Coptic Orthodox Patriarchate Theology 23",
+      "altNames": [
+        "Other"
+      ],
+      "file": "data/manuscripts/614.xml"
     }
   ]
 }
