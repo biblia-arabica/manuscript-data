@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T11:46:22.674Z",
+  "generated": "2026-11-12T11:46:40.807Z",
   "type": "manuscript",
   "records": [
     {
@@ -6989,11 +6989,32 @@
     {
       "id": "592",
       "uri": "https://biblia-arabica.com/manuscript/592",
-      "headword": "Bodleian Library MS. Huntington 17",
+      "headword": "Bodleian Library MS. Huntington 245",
       "altNames": [
+        "Evagrius Ponticus d. 399",
+        "Macarius of Egypt d.c. 390",
+        "Antony of Egypt d. 356",
+        "Pachomius d. 346",
         "Anonymous",
-        "Gospels in Coptic",
-        "Arabic index [Dallāl] to the Gospel lectionary for the year in the Coptic Church"
+        "John Thebaita fl. 4th cent.",
+        "Isaiah of Scete d. 488",
+        "Gregory, of Nazianzus, Saint d. c. 390",
+        "Theodorus, disciple of Pachomius",
+        "Letter [also attributed to Nilus of Ancyra d.c. 430 ] to Eulogius concerning monastic life, followed by a commentary on the Lordʼs Prayer",
+        "Collection of directives to his monks, followed by Macariusʼ reply to what a man should do when misled by the Devil",
+        "Rules for his monks at Dayr al-Naqlūn",
+        "Treatise on the discipline of monks",
+        "Collection of rules for those entering the order, by one [??] .",
+        "General reflections of a theological nature",
+        "Collection of directives etc. on the salvation of the soul, assembled by the [?] scribe or compiler of the MS.",
+        "Directives to the monks",
+        "Story of the three women in the time of Constantine",
+        "Short treatise affirming his faith",
+        "Ecclesiastes 11, ix - 12, viii, entitled Li-ajl inqiḍāʼ ḥayāt al-insān wa-mawtihi min ākhir kitāb Amthāl Sulaymān",
+        "Anonymous treatise on the purity of the soul and cleanliness of the body [ ṭahārat al-nafs wa-naqāwat al-jasad ]",
+        "Risālah",
+        "A collection of directives etc. by Antony of Egypt d. 356 and others, assembled by the [?] scribe or compiler of the MS.",
+        "Collection of dicta etc. [ Majmūʻ min qawl al-qiddīsīn ʻalá taqwīm al-faḍāʼil ], assembled by the [?] scribe or compiler of the MS."
       ],
       "file": "data/manuscripts/592.xml"
     }
