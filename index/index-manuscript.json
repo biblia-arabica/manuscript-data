@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:41:38.788Z",
+  "generated": "2026-11-12T05:42:13.315Z",
   "type": "manuscript",
   "records": [
     {
@@ -6780,6 +6780,29 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/575.xml"
+    },
+    {
+      "id": "576",
+      "uri": "https://biblia-arabica.com/manuscript/576",
+      "headword": "Dayr Za‘farān (Monastery) MS 6",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms",
+        "Nicene Creed with commentary",
+        "ܐܡܘܠܘܓܝܐ ܐܘܟܝܬ ܗܝܡܢܘܬܐ ܕܬܠܬ ܡ̈ܐܐ ܘܬܡܢܬܥ̈ܣܪ ܐܒ̈ܗܐ",
+        "Commentary on the Lord's Prayer",
+        "Commentary on the prayer Holy art thou, O God",
+        "On the Orthodox Faith",
+        "ܐܠܩܘܠ ܥܠܝ ܫܪܚ ܐܠܐܡܐܢܗ ܐܠܐܪܬܘܕܘܟܣܝܗ",
+        "Unidentified homily",
+        "Homily on remorse",
+        "ܥܠ ܬܘܬ ܢܦܫܐ ܥܠ ܐܠܦ ܒܝܬ",
+        "al-Ḥamāmah",
+        "ܟܬܐܒ ܐܠܚܡܐܡܗ",
+        "Bar Hebraeus, 1226-1286. Ktābā d-yawnā",
+        "Book of the dove"
+      ],
+      "file": "data/manuscripts/576.xml"
     }
   ]
 }
