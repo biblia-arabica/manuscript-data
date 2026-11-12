@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:37:31.721Z",
+  "generated": "2026-11-12T05:38:10.783Z",
   "type": "manuscript",
   "records": [
     {
@@ -6692,6 +6692,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/566.xml"
+    },
+    {
+      "id": "567",
+      "uri": "https://biblia-arabica.com/manuscript/567",
+      "headword": "Church of the Forty Martyrs MS 889",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/567.xml"
     }
   ]
 }
