@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:22:13.188Z",
+  "generated": "2026-11-12T05:22:36.674Z",
   "type": "manuscript",
   "records": [
     {
@@ -6378,6 +6378,20 @@
         "Bible. Acts"
       ],
       "file": "data/manuscripts/539.xml"
+    },
+    {
+      "id": "540",
+      "uri": "https://biblia-arabica.com/manuscript/540",
+      "headword": "Meryem Ana Kilisesi 166; 1/14",
+      "altNames": [
+        "Wisdom of Jesus ben Sirach",
+        "ܚܟܡܗ̈ ܝܫܘܥ ܐܒܢ ܫܝܪܐܟ",
+        "Bible. Ecclesiasticus",
+        "Ecclesiastes",
+        "ܟܬܐܒ ܩܘܗܠܬ",
+        "Bible. Ecclesiastes"
+      ],
+      "file": "data/manuscripts/540.xml"
     }
   ]
 }
