@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:38:26.978Z",
+  "generated": "2026-11-12T05:38:54.617Z",
   "type": "manuscript",
   "records": [
     {
@@ -6711,6 +6711,15 @@
         "Testimonies from the Prophets"
       ],
       "file": "data/manuscripts/568.xml"
+    },
+    {
+      "id": "569",
+      "uri": "https://biblia-arabica.com/manuscript/569",
+      "headword": "Church of the Forty Martyrs MS 898",
+      "altNames": [
+        "Testimonies from the New Testament"
+      ],
+      "file": "data/manuscripts/569.xml"
     }
   ]
 }
