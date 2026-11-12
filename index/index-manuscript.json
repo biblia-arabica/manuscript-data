@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:17:42.658Z",
+  "generated": "2026-11-12T05:18:08.647Z",
   "type": "manuscript",
   "records": [
     {
@@ -6259,6 +6259,17 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/530.xml"
+    },
+    {
+      "id": "531",
+      "uri": "https://biblia-arabica.com/manuscript/531",
+      "headword": "Kanīsat Ruqād al-Sayyidah al-ʻAdhrāʼ MS 12",
+      "altNames": [
+        "Evangelion",
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر مفصلا على مدار ايام السنه",
+        "Evangelion (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/531.xml"
     }
   ]
 }
