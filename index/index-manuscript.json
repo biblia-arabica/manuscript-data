@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T11:46:40.807Z",
+  "generated": "2026-11-12T12:08:20.612Z",
   "type": "manuscript",
   "records": [
     {
@@ -7017,6 +7017,17 @@
         "Collection of dicta etc. [ Majmūʻ min qawl al-qiddīsīn ʻalá taqwīm al-faḍāʼil ], assembled by the [?] scribe or compiler of the MS."
       ],
       "file": "data/manuscripts/592.xml"
+    },
+    {
+      "id": "593",
+      "uri": "https://biblia-arabica.com/manuscript/593",
+      "headword": "Bodleian Library MS. Laud Or. 135",
+      "altNames": [
+        "Anonymous",
+        "Pauline and Catholic Epistles",
+        "List of simples taken from Avicenna, 980-1037 , with Latin equivalents"
+      ],
+      "file": "data/manuscripts/593.xml"
     }
   ]
 }
