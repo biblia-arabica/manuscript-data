@@ -60,6 +60,7 @@
                                     <change who="#nfaqsh" when="2026-10-22"/>
                                     <change who="#nfaqsh" when="2026-10-23"/>
                                     <change who="#nfaqsh" when="2026-10-23">Name by which manuscript is generally known</change>
+                                    <change who="#nfaqsh" when="2026-11-12"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -68,8 +69,8 @@
                                         <msDesc>
                                             <msIdentifier>
                                                 <country>مصر</country>
-                                                <settlement>دير القديسة كاترينة</settlement>
-                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <settlement>Sinai</settlement>
+                                                <repository>Saint Catherine</repository>
                                                 <collection>Arabic</collection>
                                                 <idno>1</idno>
                                                 <altIdentifier>
@@ -81,11 +82,14 @@
                                                 </geogName>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>يحتوي المخطوط على جزء من سفر أيوب ونبوات دانيال وأرميا وحزقيال.</summary>
+                                                <summary xml:lang="ar">
+                                                    <p>The manuscript contains a section from the Book of Job, as well as prophecies from the Books of Daniel, Jeremiah, and Ezekiel.</p>
+                                                </summary>
                                                 <msItem xml:id="msitem-1" class="bible">
-                                                    <locus from="١أ" to="١١ ب"/>
-                                                    <title xml:lang="ar">سفر أيوب</title>
+                                                    <locus from="1 r" to="11 v"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/29">Job</title>
                                                     <author ref="http://www.wikidata.org/entity/Q24238356">unknown (entity whose identity is not known)</author>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>
                                                             <p>خفيت الموت والهلاك. قالوا سمعنا بمجدها وان الله احسن تقويم طرقها وهو يعلم موضعها</p>
@@ -93,13 +97,14 @@
                                                     </incipit>
                                                     <explicit>
                                                         <quote>
-                                                            <p>في بقعة مواب والذي قدموا على ايوب مثله اليفاز بن عيسون،ملك السمر وبلداد كبير السوطسى ودفر ملك المىوىى (كذا)، هكذا وردت عند عطية.</p>
+                                                            <p>في بقعة مواب والذي قدموا على ايوب مثله اليفاز بن عيسون،ملك السمر وبلداد كبير السوطسى ودفر ملك المىوىى .</p>
                                                         </quote>
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-2" class="bible">
-                                                    <locus from="١١ ب" to="٢٩ ب"/>
-                                                    <title>نبوة دانيال</title>
+                                                    <locus from="11 v" to="29 v"/>
+                                                    <title xml:lang="ar">Daniel</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>هذا كتاب دانيال النبي في سنة ثالثه من ملك يواقيم ملك يهودا انا بخت نصر ملك بابل اتى الى اورشليم فحصرها واسلمه الرب في يده</quote>
                                                     </incipit>
@@ -108,8 +113,9 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-3" class="bible">
-                                                    <locus from="٢٩ ب" to="٩٤ ب"/>
-                                                    <title xml:lang="ar">نبوة أرميا</title>
+                                                    <locus from="29 v" to="94 v"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/13">Jeremiah</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم نبوة أرميا بن حلقيا من كهنة يعانوت اي في أرض بنيامين</quote>
                                                     </incipit>
@@ -118,8 +124,9 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-4">
-                                                    <locus from="٩٥ أ" to="١٤٨ أ"/>
-                                                    <title>نبوة حزقيال</title>
+                                                    <locus from="95 r" to="148 r"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/14">Ezekiel</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>
                                                             <p>بسم الله الرحمن الرحيم نبوة حزقيال النبي في السنة الخامسة من ملك يواقيم ملك يهودا اسل عون الله - كان قول من الرب على فم حزقيال في ارض الكلدانيين على نهر جوبن على يد الرب</p>
@@ -127,11 +134,11 @@
                                                     </incipit>
                                                     <explicit>
                                                         <quote>
-                                                            <p>وخمس مايه وثلثه ابواب واحد جاد لاسير وواحد لنفتالى واحاطها ثمانية عشر الفا واسم المدينة من يومها الرب سماها كمل كتاب حزقيال النبي وهو ثمانية وعشرين صحاح (كذا) سبح لله خالق السما والارض والحمدلله رب العالمين.</p>
+                                                            <p>وخمس مايه وثلثه ابواب واحد جاد لاسير وواحد لنفتالى واحاطها ثمانية عشر الفا واسم المدينة من يومها الرب سماها كمل كتاب حزقيال النبي وهو ثمانية وعشرين صحاح سبح لله خالق السما والارض والحمدلله رب العالمين.</p>
                                                         </quote>
                                                     </explicit>
-                                                    <note>
-                                                        <p>  ملاحظات حول المخطوط: كتب تعليق خبر عجيب يقوي الايمان ورقة (١٤٨ ب) وهو بقلم آخر مما يدل على أن كاتبه غير كاتب المخطوط، والخط نسخي غليظ يرجع إلى تاريخ مبكر ، والعنوان بالمداد الأحمر وسجل تحته كاتبه المسمى خريستودولوس الكاهن والراهب اضطهادات الحاكم بغيرامر الله ; (٣٩٦- ٤١١ه/٩٩٦-١٠٢٠م) يقول خريستودولوس: لو كنت ادخل بلد بلد واعمل الميامر واعظ واقوى الامم ان تعبد ـهكذا وردت عند عطيهـولكن ربما ان تصبر !،فعند التمام يكون الفوز بالخلاص حتى اتيت مدينة دمشق وفعلت بها كذلك وفي اعمالها الى طبرية والساحل والبرارى الى حد الحفار ورأيت بدمشق امور فظيعة. وهذا التعليق ربما يدل على أن تاريخ المخطوط سابق للقرن العاشر ويحتمل كما ذكر سابقا أنه من القرن التاسع الميلادي المخطوط عبارة عن ملازم من ثمان ورقات مرقمة بالآبقطى يتضح منها فقدان ملزمتين وورقة واحدة من الملزمة الثالثة من بداية المخطوط وبالتالي هناك ١٧ ورقة ناقصة من البداية الورقة ٥٩ خالية من الكتابة هذه الترجمة ،مثيلاتها من التراجم العتيقة للعهد القديم يمكن ان تكون أساسا طيبا لمراجعة التراجم العربية الحديثة قامت بعثة مكتبة الكونجرس وجامعة الاسكندرية بتصوير المخطوط بالميكروفيلم سنة ١٩٥٠</p>
+                                                    <note xml:lang="ar">
+                                                        <p>ملاحظات حول المخطوط: كتب تعليق خبر عجيب يقوي الايمان ورقة (148v) وهو بقلم آخر مما يدل على أن كاتبه غير كاتب المخطوط، والخط نسخي غليظ يرجع إلى تاريخ مبكر ، والعنوان بالمداد الأحمر وسجل تحته كاتبه المسمى خريستودولوس الكاهن والراهب اضطهادات الحاكم بغير امر الله ; (396-5411 /996-1020م) يقول خريستودولوس: لو كنت ادخل بلد بلد واعمل الميامر واعظ واقوى الامم ان تصبر !،فعند التمام يكون الفوز بالخلاص حتى اتيت مدينة دمشق وفعلت بها كذلك وفي اعمالها الى طبرية والساحل والبرارى الى حد الحفار ورأيت بدمشق امور فظيعة. وهذا التعليق ربما يدل على أن تاريخ المخطوط سابق للقرن العاشر ويحتمل كما ذكر سابقا أنه من القرن التاسع الميلادي المخطوط عبارة عن ملازم من ثمان ورقات مرقمة بالآبقطى يتضح منها فقدان ملزمتين وورقة واحدة من الملزمة الثالثة من بداية المخطوط وبالتالي هناك 17 ورقة ناقصة من البداية الورقة 59 خالية من الكتابة هذه الترجمة ،مثيلاتها من التراجم العتيقة للعهد القديم يمكن ان تكون أساسا طيبا لمراجعة التراجم العربية الحديثة قامت بعثة مكتبة الكونجرس وجامعة الاسكندرية بتصوير المخطوط بالميكروفيلم سنة 1950.</p>
                                                     </note>
                                                 </msItem>
                                             </msContents>
@@ -143,14 +150,20 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Parchment</material>
+                                                            <note>
+                                                                <p>Kufic</p>
+                                                            </note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">١٤٨</measure>
+                                                            <measure unit="folio">148</measure>
                                                             <dimensions>
-                                                                <height unit="mm">٢٣</height>
-                                                                <width unit="mm">١٦</width>
+                                                                <height unit="mm">242</height>
+                                                                <width unit="mm">70</width>
                                                             </dimensions>
                                                         </extent>
+                                                        <collation>
+                                                            <note xml:lang="ar"/>
+                                                        </collation>
                                                         <condition>
                                                             <note xml:lang="ar"/>
                                                         </condition>
@@ -159,21 +172,30 @@
                                                         <summary>
                                                             <desc>Text on recto and verso</desc>
                                                         </summary>
+                                                        <layout writtenLines="23-26 in a page" columns="1" xml:id="layout-1">
+                                                            <dimensions type="written">
+                                                                <height unit="mm">160</height>
+                                                                <width unit="mm">230</width>
+                                                            </dimensions>
+                                                        </layout>
                                                     </layoutDesc>
                                                 </objectDesc>
                                                 <scriptDesc>
                                                     <scriptNote xml:lang="ar">
                                                         <note>
-                                                            <p>كوفي منقط بمداد مختلف عن الأصل ، ربما أضيفت هذه النقط في عصر لاحق للمخطوط، العناوين ورءوس الموضوعات بالمداد الأحمر</p>
+                                                            <p>The manuscript is written in Kufic script, with diacritical dots in ink different from that of the original text. These dots may have been added at a later date. Titles and section headings are written in red ink.</p>
                                                         </note>
                                                     </scriptNote>
                                                 </scriptDesc>
+                                                <decoDesc>
+                                                    <summary xml:lang="ar"/>
+                                                </decoDesc>
                                                 <bindingDesc>
                                                     <binding>
                                                         <decoNote>
                                                             <material>Wood</material>
                                                             <note>
-                                                                <p>غلاف خشبي مكسو بجلد بني داكن ، الجانب الأيسر من الغلاف مفقود</p>
+                                                                <p>A wooden binding covered with dark brown leather; the left side of the cover is missing.</p>
                                                             </note>
                                                         </decoNote>
                                                     </binding>
