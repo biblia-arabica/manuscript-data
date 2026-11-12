@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:39:59.867Z",
+  "generated": "2026-11-12T05:40:25.820Z",
   "type": "manuscript",
   "records": [
     {
@@ -6750,6 +6750,16 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/572.xml"
+    },
+    {
+      "id": "573",
+      "uri": "https://biblia-arabica.com/manuscript/573",
+      "headword": "Church of the Forty Martyrs MS 921",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/573.xml"
     }
   ]
 }
