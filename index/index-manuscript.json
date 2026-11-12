@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:24:35.899Z",
+  "generated": "2026-11-12T05:24:58.851Z",
   "type": "manuscript",
   "records": [
     {
@@ -6472,6 +6472,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/546.xml"
+    },
+    {
+      "id": "547",
+      "uri": "https://biblia-arabica.com/manuscript/547",
+      "headword": "Church of the Forty Martyrs MS 1029",
+      "altNames": [
+        "Psalms",
+        "بعض مزامير من داوود النبي",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/547.xml"
     }
   ]
 }
