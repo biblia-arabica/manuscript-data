@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:21:51.701Z",
+  "generated": "2026-11-12T05:22:13.188Z",
   "type": "manuscript",
   "records": [
     {
@@ -6364,6 +6364,20 @@
         "خطبة"
       ],
       "file": "data/manuscripts/538.xml"
+    },
+    {
+      "id": "539",
+      "uri": "https://biblia-arabica.com/manuscript/539",
+      "headword": "Meryem Ana Kilisesi 118; 272",
+      "altNames": [
+        "Pauline Epistles",
+        "Bible. Epistles of Paul",
+        "Seven Catholic Epistles",
+        "Bible. Catholic Epistles",
+        "Acts of the Apostles",
+        "Bible. Acts"
+      ],
+      "file": "data/manuscripts/539.xml"
     }
   ]
 }
