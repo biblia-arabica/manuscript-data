@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:41:55.812Z",
+  "generated": "2026-11-12T07:42:19.236Z",
   "type": "manuscript",
   "records": [
     {
@@ -6942,6 +6942,17 @@
         "ܩܨܗ̈ ܝܘܣܦ ܐܠܨܕܝܩ ܐܒܢ ܐܒܝܢܐ ܝܥܩܘܒ ܘܡܐ ܔܪܐ ܠܗ ܡܥ ܐܟܘܬܗ"
       ],
       "file": "data/manuscripts/587.xml"
+    },
+    {
+      "id": "588",
+      "uri": "https://biblia-arabica.com/manuscript/588",
+      "headword": "Mor Barṣawmo Library MS 79",
+      "altNames": [
+        "Psalms",
+        "مزامير داوود النبي",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/588.xml"
     }
   ]
 }
