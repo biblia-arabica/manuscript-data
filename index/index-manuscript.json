@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T16:19:21.034Z",
+  "generated": "2026-11-12T16:26:02.012Z",
   "type": "manuscript",
   "records": [
     {
@@ -7215,6 +7215,15 @@
         "Job"
       ],
       "file": "data/manuscripts/612.xml"
+    },
+    {
+      "id": "613",
+      "uri": "https://biblia-arabica.com/manuscript/613",
+      "headword": "Coptic Orthodox Patriarchate Theology 24",
+      "altNames": [
+        "Other"
+      ],
+      "file": "data/manuscripts/613.xml"
     }
   ]
 }
