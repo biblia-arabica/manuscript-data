@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:08:38.276Z",
+  "generated": "2026-11-12T12:08:59.462Z",
   "type": "manuscript",
   "records": [
     {
@@ -7037,6 +7037,15 @@
         "A lectionary from Pentateuch and Prophets for the whole year in Melchite churches, with prayers, verses and antiphons"
       ],
       "file": "data/manuscripts/594.xml"
+    },
+    {
+      "id": "595",
+      "uri": "https://biblia-arabica.com/manuscript/595",
+      "headword": "Bodleian Library MS. Marsh 687",
+      "altNames": [
+        "Psalms and Canticles"
+      ],
+      "file": "data/manuscripts/595.xml"
     }
   ]
 }
