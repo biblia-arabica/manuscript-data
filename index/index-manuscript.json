@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:31:29.023Z",
+  "generated": "2026-11-12T05:31:46.092Z",
   "type": "manuscript",
   "records": [
     {
@@ -6596,6 +6596,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/557.xml"
+    },
+    {
+      "id": "558",
+      "uri": "https://biblia-arabica.com/manuscript/558",
+      "headword": "Church of the Forty Martyrs MS 28",
+      "altNames": [
+        "Psalter",
+        "ܟܬܒ ܡܙܡܘܪ̈ܐ ܐܡܝܪ̈ܝ ܒܪܘܚܐ ܩܕܝܫܐ ܒܝܕ ܕܘܝܕ ܡܠܟܐ ܘܢܒܝܐ ܘܐܚܪ̈ܢܐ ܒܚܝܪ̈ܐ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/558.xml"
     }
   ]
 }
