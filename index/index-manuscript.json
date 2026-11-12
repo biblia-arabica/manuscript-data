@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:09:54.060Z",
+  "generated": "2026-11-12T12:10:10.704Z",
   "type": "manuscript",
   "records": [
     {
@@ -7055,6 +7055,15 @@
         "Psalms and Canticles"
       ],
       "file": "data/manuscripts/596.xml"
+    },
+    {
+      "id": "597",
+      "uri": "https://biblia-arabica.com/manuscript/597",
+      "headword": "Bodleian Library MS. Marshall Or. 138",
+      "altNames": [
+        "Gospels"
+      ],
+      "file": "data/manuscripts/597.xml"
     }
   ]
 }
