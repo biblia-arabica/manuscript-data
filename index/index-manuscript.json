@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:29:48.986Z",
+  "generated": "2026-11-12T05:30:16.176Z",
   "type": "manuscript",
   "records": [
     {
@@ -6554,6 +6554,17 @@
         "Liturgical text"
       ],
       "file": "data/manuscripts/553.xml"
+    },
+    {
+      "id": "554",
+      "uri": "https://biblia-arabica.com/manuscript/554",
+      "headword": "Church of the Forty Martyrs MS 17/1",
+      "altNames": [
+        "Samuel, Kings",
+        "كتاب شمويال والمللوك بحسب ترتيب نسخة البسيطة",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/554.xml"
     }
   ]
 }
