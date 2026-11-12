@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:39:14.743Z",
+  "generated": "2026-11-12T05:39:36.958Z",
   "type": "manuscript",
   "records": [
     {
@@ -6731,6 +6731,15 @@
         "Bible. Proverbs"
       ],
       "file": "data/manuscripts/570.xml"
+    },
+    {
+      "id": "571",
+      "uri": "https://biblia-arabica.com/manuscript/571",
+      "headword": "Church of the Forty Martyrs MS 900",
+      "altNames": [
+        "Testimonies from Scripture"
+      ],
+      "file": "data/manuscripts/571.xml"
     }
   ]
 }
