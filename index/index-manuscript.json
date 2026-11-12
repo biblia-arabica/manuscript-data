@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:43:43.490Z",
+  "generated": "2026-11-12T11:46:00.479Z",
   "type": "manuscript",
   "records": [
     {
@@ -6974,6 +6974,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/590.xml"
+    },
+    {
+      "id": "591",
+      "uri": "https://biblia-arabica.com/manuscript/591",
+      "headword": "Bodleian Library MS. Bodl. Or. 808",
+      "altNames": [
+        "Words and phrases used by Wasmuth, Matthias, 1625-1688 in his Arabic grammar",
+        "Qurʼān.",
+        "Verses from Isaiah xliii, xlii, xlv, xx-xxii, xlii; taken from the Polyglot Bible"
+      ],
+      "file": "data/manuscripts/591.xml"
     }
   ]
 }
