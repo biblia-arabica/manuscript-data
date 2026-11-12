@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:08:59.462Z",
+  "generated": "2026-11-12T12:09:54.060Z",
   "type": "manuscript",
   "records": [
     {
@@ -7046,6 +7046,15 @@
         "Psalms and Canticles"
       ],
       "file": "data/manuscripts/595.xml"
+    },
+    {
+      "id": "596",
+      "uri": "https://biblia-arabica.com/manuscript/596",
+      "headword": "Bodleian Library MS. Marsh 687",
+      "altNames": [
+        "Psalms and Canticles"
+      ],
+      "file": "data/manuscripts/596.xml"
     }
   ]
 }
