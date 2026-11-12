@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Turkey, Diyarbakır, Meryem Ana Kilisesi 225; 11/3</title>
+                <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                        <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                        <sponsor ref="https://www.uni-frankfurt.de/">
+                            <orgName>Goethe University Frankfurt</orgName> (<orgName xml:lang="de">Goethe-Universität Frankfurt</orgName>) </sponsor>
+                            <sponsor ref="https://www.fb06.uni-frankfurt.de/42495474/Profil">
+                                <orgName>Protestant Theology, Religious Studies</orgName> (<orgName xml:lang="de">Fachbereich Ev. Theologie, Religionswissenschaft</orgName>) </sponsor>
+                                <funder ref="https://badw.de/en/the-academy.html">
+                                    <orgName>Bavarian Academy of Sciences and Humanities</orgName> (<orgName xml:lang="de">Bayerische Akademie der Wissenschaften</orgName>) </funder>
+                                    <funder ref="https://www.adwmainz.de/startseite.html">
+                                        <orgName>Academy of Sciences and Literature in Mainz</orgName> (<orgName xml:lang="de">Akademie der Wissenschaften und der Literatur | Mainz</orgName>) </funder>
+                                        <principal ref="#rvollandt">Ronny Vollandt</principal>
+                                        <principal ref="#ngibson">Nathan Gibson</principal>
+                                        <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                                        <editor xml:id="ngibson" role="general" ref="https://www.fb06.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson? http://orcid.org/0000-0003-0786-8075 https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                                        <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html http://viaf.org/viaf/2912176725960924980001">Lea Gzella</editor>
+                                        <editor xml:id="hibrahim" role="contributor" ref="http://viaf.org/viaf/156150565763506252798 https://orcid.org/0000-0002-1667-9973">Habib Ibrahim</editor>
+                                        <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html https://orcid.org/0000-0002-2168-8655 http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                                        <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html https://orcid.org/0009-0009-1776-3171 http://viaf.org/viaf/37173908292419952891">Peter Tarras</editor>
+                                        <editor xml:id="vzaki" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/vevian_zaki1/index.html https://orcid.org/0000-0002-5211-390X http://viaf.org/viaf/16162982578386061324">Vevian Zaki</editor>
+                                        <editor xml:id="ffrigo" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktorierende/filippo_frigo/index.html">Filippo Frigo</editor>
+                                        <editor xml:id="gdib" role="contributor" ref="">Georges Dib</editor>
+                                        <editor xml:id="nfaqsh" role="contributor" ref="">Nour Faqsh</editor>
+                                        <editor xml:id="nibrahimi" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/nargez_ibrahimi/index.html">Nargez Ibrahimi</editor>
+                                        <editor xml:id="tjuen" role="contributor" ref="">Teresa Juen</editor>
+                                        <editor xml:id="aradke" role="contributor" ref="">Antonia Radke</editor>
+                                        <editor xml:id="jthalmann" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/thalmann1/index.html">Jessica Thalmann</editor>
+                                        <editor xml:id="dzaynali" role="contributor" ref="">Darius Zaynali</editor>
+                                        <respStmt>
+                                            <resp>Srophé app design and development by</resp>
+                                            <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                                        </respStmt>
+                                    </titleStmt>
+                                    <publicationStmt>
+                                        <authority>
+                                            <ref target="https://biblia-arabica.com/">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</ref>
+                                        </authority>
+                                        <idno type="URI">https://biblia-arabica.com/manuscript/541</idno>
+                                        <availability>
+                                            <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                                <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                                            </licence>
+                                        </availability>
+                                    </publicationStmt>
+                                    <sourceDesc>
+                                        <p>Born digital.</p>
+                                    </sourceDesc>
+                                </fileDesc>
+                                <revisionDesc status="unpublished">
+                                    <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
+                                    <change who="#hibrahim" when="2026-11-12"/>
+                                </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                <body>
+                                    <listBibl>
+                                        <msDesc>
+                                            <msIdentifier>
+                                                <country>Turkey</country>
+                                                <settlement>Diyarbakır</settlement>
+                                                <repository>Meryem Ana Kilisesi</repository>
+                                                <collection>DIYR</collection>
+                                                <idno>225; 11/3</idno>
+                                                <altIdentifier type="vhmml-readingroom">
+                                                    <idno>124496</idno>
+                                                </altIdentifier>
+                                                <altIdentifier type="hmml-project">
+                                                    <idno>DIYR 00206</idno>
+                                                </altIdentifier>
+                                            </msIdentifier>
+                                            <msContents>
+                                                <summary>Contents transcribed from vHMML part descriptions. Part 1 (vHMML part 954265): 1899–1901 [1899–1901]; Serṭā</summary>
+                                                <msItem xml:id="vhmm-124496-item-1" class="part-1">
+                                                    <title xml:lang="en">Rule for the Confraternity of Moses the Ethiopian</title>
+                                                    <title xml:lang="en">ܐܠܪܣܘܡ</title>
+                                                    <incipit>
+                                                        <quote>ܝܠܙܡ ܠܟܠ ܫܟܨܐ ܡܢ ܗܕܗ ܐܠܐܒܘܝܗ̈ ܐܠܡܩܕܣܗ ܩܒܠ ܟܠ ܫܝܐ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736174; content-contributor: {&quot;id&quot;: 630582, &quot;type&quot;: &quot;Author&quot;, &quot;contributor&quot;: {&quot;id&quot;: 4518, &quot;name&quot;: &quot;Jarwah, Ighnāṭiyūs Mīkhāʼīl, Patriarch of Antioch, 1730-1800&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/185144782955180391815&quot;, &quot;displayName&quot;: &quot;Jarwah, Ighnāṭiyūs Mīkhāʼīl, Patriarch of Antioch, 1730-1800&quot;}}; Title classification: provisional: Rule for the Confraternity of Moses the Ethiopian; Title classification: original: ܐܠܪܣܘܡ</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-2" class="part-1">
+                                                    <title xml:lang="en">Prayers, liturgical texts, and magical texts</title>
+                                                    <title xml:lang="en">ܟܬܐܒ ܨܠܐܗ̈</title>
+                                                    <textLang mainLang="syr"/>
+                                                    <incipit>
+                                                        <quote>ܐܥܬܩܕ ܒܐܠܐܡܐܢܗ̈ ܐܣܓܕ ܠܟ ܐܝܗܐ ܐܠܐܒ ܘܐܠܐܒܢ ܘܐܠܪܘܚ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736175; Title classification: provisional: Prayers, liturgical texts, and magical texts; Title classification: original: ܟܬܐܒ ܨܠܐܗ̈</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-3" class="part-1">
+                                                    <title xml:lang="en">Story of Solomon, son of David</title>
+                                                    <title xml:lang="en">ܣܪܩܘܒܐܛ ܣܠܝܡܐܢ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ</title>
+                                                    <incipit>
+                                                        <quote>ܘܟܐܢ ܣܠܝܡܐܢ ܕܐܬ ܝܘܡ ܓܐܠܣܐ ܦܝ ܡܠܟܗ ܘܡܓܕܗ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736176; Title classification: provisional: Story of Solomon, son of David; Title classification: original: ܣܪܩܘܒܐܛ ܣܠܝܡܐܢ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-4" class="part-1">
+                                                    <title xml:lang="en">Psalter. Selections</title>
+                                                    <title xml:lang="en">ܡܙܡܘܪ̈ܐ</title>
+                                                    <title xml:lang="en">Psalter (Syriac Rite, Western)</title>
+                                                    <textLang mainLang="syr"/>
+                                                    <incipit>
+                                                        <quote>ܐܠܗܝ ܐܠܗܝ ܠܡܢܐ ܫܒܩܬܢܝ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736177; Title classification: provisional: Psalter. Selections; Title classification: original: ܡܙܡܘܪ̈ܐ; Title classification: uniform: Psalter (Syriac Rite, Western)</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-5" class="part-1">
+                                                    <title xml:lang="en">Nicene Creed</title>
+                                                    <title xml:lang="en">ܬܚܘܡܐ ܕܗܝܡܢܘܬܐ ܕܬܠܬ ܡܐܐ ܘܬܡܢܬ ܥܣܪ ܐܒܗ̈ܬܐ ܩܕܝ̈ܫܐ ܕܐܬܟܢܘ ܒܢܝܩܝܐ</title>
+                                                    <title xml:lang="en">Nicene Creed</title>
+                                                    <title xml:lang="en">Definition of faith of the 318 fathers against the doctrine of Arius</title>
+                                                    <textLang mainLang="syr"/>
+                                                    <incipit>
+                                                        <quote>ܡܗܝܡܢܝܢ ܒܚܕ ܐܠܗܐ ܫܪܝܪܐ ܐܒܐ ܐܚܝܕ ܟܠ ܥܒܘܕܐ ܕܫܡܝܐ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736178; Title classification: provisional: Nicene Creed; Title classification: original: ܬܚܘܡܐ ܕܗܝܡܢܘܬܐ ܕܬܠܬ ܡܐܐ ܘܬܡܢܬ ܥܣܪ ܐܒܗ̈ܬܐ ܩܕܝ̈ܫܐ ܕܐܬܟܢܘ ܒܢܝܩܝܐ; Title classification: uniform: Nicene Creed; Title classification: alternative: Definition of faith of the 318 fathers against the doctrine of Arius</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-6" class="part-1">
+                                                    <title xml:lang="en">Lord&apos;s prayer</title>
+                                                    <title xml:lang="en">ܨܠܐܗ̈ ܐܠܪܒܐܢܝܗ̈</title>
+                                                    <title xml:lang="en">Lord&apos;s prayer</title>
+                                                    <incipit>
+                                                        <quote>ܐܒܐܢܐ ܐܠܕܝ ܦܝ ܐܠܣܡܘܐܬ ܠܝܬܩܕܣ ܐܣܡܟ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736179; Title classification: provisional: Lord&apos;s prayer; Title classification: original: ܨܠܐܗ̈ ܐܠܪܒܐܢܝܗ̈; Title classification: uniform: Lord&apos;s prayer</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-7" class="part-1">
+                                                    <title xml:lang="en">Homily on teaching</title>
+                                                    <title xml:lang="en">ܡܐܡܪܐ ܕܥܠ ܝܘܠܦܢܐ</title>
+                                                    <title xml:lang="en">Ephraem, Syrus, Saint, 303-373. Sermons</title>
+                                                    <textLang mainLang="syr"/>
+                                                    <incipit>
+                                                        <quote>ܐܠܗܐ ܗܒ ܝܘܠܦܢܐ ܠܐܝܢܐ ܕܪ̈ܚܡ ܝܘܠܦܢܐ ܘܠܪܒܐ ܕܡܠܦ ܫܦܝܪ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736180; content-contributor: {&quot;id&quot;: 630583, &quot;type&quot;: &quot;Author&quot;, &quot;nameNs&quot;: &quot;ܩܕܝܫܐ ܡܪܝ ܐܦܪܝܡ&quot;, &quot;contributor&quot;: {&quot;id&quot;: 3494, &quot;name&quot;: &quot;Ephraem, Syrus, Saint, 303-373&quot;, &quot;authorityUriLC&quot;: &quot;https://id.loc.gov/authorities/names/n50082928&quot;, &quot;authorityUriVIAF&quot;: &quot;https://viaf.org/viaf/100177778&quot;, &quot;displayName&quot;: &quot;Ephrem, of Nisibis, 303-373&quot;}}; Title classification: provisional: Homily on teaching; Title classification: original: ܡܐܡܪܐ ܕܥܠ ܝܘܠܦܢܐ; Title classification: uniform: Ephraem, Syrus, Saint, 303-373. Sermons</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-8" class="part-1">
+                                                    <title xml:lang="en">Names of all the angels</title>
+                                                    <title xml:lang="en">ܐܣܐܡܝ ܓܡܝܥ ܐܠܡܠܐܝܟܗ</title>
+                                                    <textLang mainLang="syr"/>
+                                                    <incipit>
+                                                        <quote>ܘܫܡܗ̈ܐ ܕܡܠܐܟ̈ܐ ܩܕܝ̈ܫܐ ܓܒܪܐܝܠ ܘܡܝܟܐܝܠ ܥܛܐܝܠ ܠܫܛܐܝܠ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736181; Title classification: provisional: Names of all the angels; Title classification: original: ܐܣܐܡܝ ܓܡܝܥ ܐܠܡܠܐܝܟܗ</note>
+                                                </msItem>
+                                                <msItem xml:id="vhmm-124496-item-9" class="part-1">
+                                                    <title xml:lang="en">Divination by the names of biblical figures</title>
+                                                    <title xml:lang="en">ܩܪܥܗ̈ ܐܠܬܠܐܡܝܕ</title>
+                                                    <incipit>
+                                                        <quote>ܐܘܠܟܝ ܩܐܒܘ ܐܕܡ</quote>
+                                                    </incipit>
+                                                    <note xml:lang="en">vHMML part 1 (ID 954265); catalogue-content-id: 1736182; Title classification: provisional: Divination by the names of biblical figures; Title classification: original: ܩܪܥܗ̈ ܐܠܬܠܐܡܝܕ</note>
+                                                </msItem>
+                                            </msContents>
+                                            <physDesc>
+                                                <objectDesc>
+                                                    <supportDesc>
+                                                        <support>
+                                                            <material>Paper</material>
+                                                            <note>Part 1: material PAPER; Part 1: catchwords: True; Part 1: signatures: True; Part 1: partNotes: Copied by ܝܥܩܘܒ ܒܪ ܝܘܣܦ ܣܒܐ ܐܡܝܕܝܐ. Colophons, pages 70-72, 575, 655, 664, 735, 816-820; Part 1: centuries: [20, 19]; Binding depth: 4.5 cm</note>
+                                                        </support>
+                                                        <extent>
+                                                            <measure unit="folio">834 page(s)</measure>
+                                                            <dimensions>
+                                                                <height unit="mm">115</height>
+                                                                <width unit="mm">95</width>
+                                                            </dimensions>
+                                                        </extent>
+                                                    </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>Layouts transcribed from vHMML part descriptions; each layout corresponds to a numbered manuscript part.</note>
+                                                        </summary>
+                                                    </layoutDesc>
+                                                </objectDesc>
+                                                <scriptDesc>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Serṭā</note>
+                                                    </scriptNote>
+                                                    <scriptNote xml:lang="en">
+                                                        <note>Part 1: Syriac</note>
+                                                    </scriptNote>
+                                                </scriptDesc>
+                                            </physDesc>
+                                            <history>
+                                                <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 954265): 1899–1901 [1899–1901]; Serṭā</summary>
+                                            </history>
+                                            <additional>
+                                                <listBibl>
+                                                    <bibl xml:id="bib1">
+                                                        <title>vHMML Reading Room source record 124496</title>
+                                                        <ptr target="https://w3id.org/vhmml/readingRoom/view/124496"/>
+                                                    </bibl>
+                                                </listBibl>
+                                                <adminInfo>
+                                                    <note type="catalogue-source">
+                                                        <ref target="https://w3id.org/vhmml/readingRoom/view/124496">https://w3id.org/vhmml/readingRoom/view/124496</ref>
+                                                    </note>
+                                                </adminInfo>
+                                                <note type="notes">Drawing of a dog, rear flyleaf</note>
+                                                <note type="acknowledgments">Cataloged by Grigory Kessel</note>
+                                                <note type="accessRestriction">Registered</note>
+                                                <note type="lastUpdateDisplay">2025/06/20</note>
+                                                <note type="currentStatus">In situ</note>
+                                                <note type="objectType">MANUSCRIPT</note>
+                                                <note type="captureDateDisplay">2008/08/17</note>
+                                                <note type="rightToLeft">True</note>
+                                            </additional>
+                                            <msPart n="1">
+                                                <msIdentifier>
+                                                    <idno type="vhmml-part">954265</idno>
+                                                </msIdentifier>
+                                                <msContents>
+                                                    <msItem n="1">
+                                                        <title type="provisional">Rule for the Confraternity of Moses the Ethiopian</title>
+                                                        <title type="original">ܐܠܪܣܘܡ</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <note type="catalogue-content-id">1736174</note>
+                                                        <note type="content-contributor">{"id": 630582, "type": "Author", "contributor": {"id": 4518, "name": "Jarwah, Ighnāṭiyūs Mīkhāʼīl, Patriarch of Antioch, 1730-1800", "authorityUriVIAF": "https://viaf.org/viaf/185144782955180391815", "displayName": "Jarwah, Ighnāṭiyūs Mīkhāʼīl, Patriarch of Antioch, 1730-1800"}}</note>
+                                                        <note type="incipit">ܝܠܙܡ ܠܟܠ ܫܟܨܐ ܡܢ ܗܕܗ ܐܠܐܒܘܝܗ̈ ܐܠܡܩܕܣܗ ܩܒܠ ܟܠ ܫܝܐ</note>
+                                                    </msItem>
+                                                    <msItem n="2">
+                                                        <title type="provisional">Prayers, liturgical texts, and magical texts</title>
+                                                        <title type="original">ܟܬܐܒ ܨܠܐܗ̈</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <textLang>Syriac</textLang>
+                                                        <textLang>Turkish Garshuni</textLang>
+                                                        <note type="catalogue-content-id">1736175</note>
+                                                        <note type="incipit">ܐܥܬܩܕ ܒܐܠܐܡܐܢܗ̈ ܐܣܓܕ ܠܟ ܐܝܗܐ ܐܠܐܒ ܘܐܠܐܒܢ ܘܐܠܪܘܚ</note>
+                                                    </msItem>
+                                                    <msItem n="3">
+                                                        <title type="provisional">Story of Solomon, son of David</title>
+                                                        <title type="original">ܣܪܩܘܒܐܛ ܣܠܝܡܐܢ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <note type="catalogue-content-id">1736176</note>
+                                                        <note type="incipit">ܘܟܐܢ ܣܠܝܡܐܢ ܕܐܬ ܝܘܡ ܓܐܠܣܐ ܦܝ ܡܠܟܗ ܘܡܓܕܗ</note>
+                                                    </msItem>
+                                                    <msItem n="4">
+                                                        <title type="provisional">Psalter. Selections</title>
+                                                        <title type="original">ܡܙܡܘܪ̈ܐ</title>
+                                                        <title type="uniform">Psalter (Syriac Rite, Western)</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <textLang>Syriac</textLang>
+                                                        <note type="catalogue-content-id">1736177</note>
+                                                        <note type="incipit">ܐܠܗܝ ܐܠܗܝ ܠܡܢܐ ܫܒܩܬܢܝ</note>
+                                                    </msItem>
+                                                    <msItem n="5">
+                                                        <title type="provisional">Nicene Creed</title>
+                                                        <title type="original">ܬܚܘܡܐ ܕܗܝܡܢܘܬܐ ܕܬܠܬ ܡܐܐ ܘܬܡܢܬ ܥܣܪ ܐܒܗ̈ܬܐ ܩܕܝ̈ܫܐ ܕܐܬܟܢܘ ܒܢܝܩܝܐ</title>
+                                                        <title type="uniform">Nicene Creed</title>
+                                                        <title type="alternative">Definition of faith of the 318 fathers against the doctrine of Arius</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <textLang>Syriac</textLang>
+                                                        <textLang>Turkish Garshuni</textLang>
+                                                        <note type="catalogue-content-id">1736178</note>
+                                                        <note type="incipit">ܡܗܝܡܢܝܢ ܒܚܕ ܐܠܗܐ ܫܪܝܪܐ ܐܒܐ ܐܚܝܕ ܟܠ ܥܒܘܕܐ ܕܫܡܝܐ</note>
+                                                    </msItem>
+                                                    <msItem n="6">
+                                                        <title type="provisional">Lord's prayer</title>
+                                                        <title type="original">ܨܠܐܗ̈ ܐܠܪܒܐܢܝܗ̈</title>
+                                                        <title type="uniform">Lord's prayer</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <textLang>Turkish Garshuni</textLang>
+                                                        <note type="catalogue-content-id">1736179</note>
+                                                        <note type="incipit">ܐܒܐܢܐ ܐܠܕܝ ܦܝ ܐܠܣܡܘܐܬ ܠܝܬܩܕܣ ܐܣܡܟ</note>
+                                                    </msItem>
+                                                    <msItem n="7">
+                                                        <title type="provisional">Homily on teaching</title>
+                                                        <title type="original">ܡܐܡܪܐ ܕܥܠ ܝܘܠܦܢܐ</title>
+                                                        <title type="uniform">Ephraem, Syrus, Saint, 303-373. Sermons</title>
+                                                        <textLang>Syriac</textLang>
+                                                        <note type="catalogue-content-id">1736180</note>
+                                                        <note type="content-contributor">{"id": 630583, "type": "Author", "nameNs": "ܩܕܝܫܐ ܡܪܝ ܐܦܪܝܡ", "contributor": {"id": 3494, "name": "Ephraem, Syrus, Saint, 303-373", "authorityUriLC": "https://id.loc.gov/authorities/names/n50082928", "authorityUriVIAF": "https://viaf.org/viaf/100177778", "displayName": "Ephrem, of Nisibis, 303-373"}}</note>
+                                                        <note type="incipit">ܐܠܗܐ ܗܒ ܝܘܠܦܢܐ ܠܐܝܢܐ ܕܪ̈ܚܡ ܝܘܠܦܢܐ ܘܠܪܒܐ ܕܡܠܦ ܫܦܝܪ</note>
+                                                    </msItem>
+                                                    <msItem n="8">
+                                                        <title type="provisional">Names of all the angels</title>
+                                                        <title type="original">ܐܣܐܡܝ ܓܡܝܥ ܐܠܡܠܐܝܟܗ</title>
+                                                        <textLang>Syriac</textLang>
+                                                        <note type="catalogue-content-id">1736181</note>
+                                                        <note type="incipit">ܘܫܡܗ̈ܐ ܕܡܠܐܟ̈ܐ ܩܕܝ̈ܫܐ ܓܒܪܐܝܠ ܘܡܝܟܐܝܠ ܥܛܐܝܠ ܠܫܛܐܝܠ</note>
+                                                    </msItem>
+                                                    <msItem n="9">
+                                                        <title type="provisional">Divination by the names of biblical figures</title>
+                                                        <title type="original">ܩܪܥܗ̈ ܐܠܬܠܐܡܝܕ</title>
+                                                        <textLang>Arabic Garshuni</textLang>
+                                                        <textLang>Turkish Garshuni</textLang>
+                                                        <note type="catalogue-content-id">1736182</note>
+                                                        <note type="incipit">ܐܘܠܟܝ ܩܐܒܘ ܐܕܡ</note>
+                                                    </msItem>
+                                                </msContents>
+                                                <history>
+                                                    <origin>
+                                                        <origDate notBefore="1899" notAfter="1901">1899–1901</origDate>
+                                                        <note type="script">Serṭā</note>
+                                                    </origin>
+                                                </history>
+                                                <physDesc>
+                                                    <objectDesc>
+                                                        <supportDesc>
+                                                            <support>PAPER</support>
+                                                        </supportDesc>
+                                                    </objectDesc>
+                                                    <note type="layout">1 column, 10 lines per page</note>
+                                                    <note type="writingSystem">Syriac</note>
+                                                    <note type="catchwords">True</note>
+                                                    <note type="signatures">True</note>
+                                                    <note type="partNotes">Copied by ܝܥܩܘܒ ܒܪ ܝܘܣܦ ܣܒܐ ܐܡܝܕܝܐ. Colophons, pages 70-72, 575, 655, 664, 735, 816-820</note>
+                                                    <note type="centuries">[20, 19]</note>
+                                                </physDesc>
+                                            </msPart>
+                                        </msDesc>
+                                    </listBibl>
+                                </body>
+                            </text>
+                        </TEI>
