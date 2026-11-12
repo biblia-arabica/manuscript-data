@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T11:46:00.479Z",
+  "generated": "2026-11-12T11:46:22.674Z",
   "type": "manuscript",
   "records": [
     {
@@ -6985,6 +6985,17 @@
         "Verses from Isaiah xliii, xlii, xlv, xx-xxii, xlii; taken from the Polyglot Bible"
       ],
       "file": "data/manuscripts/591.xml"
+    },
+    {
+      "id": "592",
+      "uri": "https://biblia-arabica.com/manuscript/592",
+      "headword": "Bodleian Library MS. Huntington 17",
+      "altNames": [
+        "Anonymous",
+        "Gospels in Coptic",
+        "Arabic index [Dallāl] to the Gospel lectionary for the year in the Coptic Church"
+      ],
+      "file": "data/manuscripts/592.xml"
     }
   ]
 }
