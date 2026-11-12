@@ -59,6 +59,7 @@
                                 <revisionDesc status="draft">
                                     <change who="#nfaqsh" when="2026-10-30"/>
                                     <change who="#nfaqsh" when="2026-11-10"/>
+                                    <change who="#nfaqsh" when="2026-11-12"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -74,7 +75,7 @@
                                                 <altIdentifier>
                                                     <idno>Arabic 2</idno>
                                                 </altIdentifier>
-                                                <msName>أسفار موسى الخمسة</msName>
+                                                <msName>Saint Catherine Monastery Ar. 2</msName>
                                                 <geogName>
                                                     <geo/>
                                                 </geogName>
@@ -217,6 +218,7 @@
                                                     <listBibl>
                                                         <bibl>
                                                             <title>Digital image online</title>
+                                                            <publisher>UCLA</publisher>
                                                             <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1572wqs"/>
                                                         </bibl>
                                                     </listBibl>
