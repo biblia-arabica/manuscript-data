@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:28:13.116Z",
+  "generated": "2026-11-12T05:28:36.952Z",
   "type": "manuscript",
   "records": [
     {
@@ -6505,6 +6505,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/549.xml"
+    },
+    {
+      "id": "550",
+      "uri": "https://biblia-arabica.com/manuscript/550",
+      "headword": "Church of the Forty Martyrs MS 1074",
+      "altNames": [
+        "Psalms",
+        "زبور داود النبي",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/550.xml"
     }
   ]
 }
