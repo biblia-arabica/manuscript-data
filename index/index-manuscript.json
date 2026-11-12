@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:22:36.674Z",
+  "generated": "2026-11-12T05:22:51.077Z",
   "type": "manuscript",
   "records": [
     {
@@ -6392,6 +6392,35 @@
         "Bible. Ecclesiastes"
       ],
       "file": "data/manuscripts/540.xml"
+    },
+    {
+      "id": "541",
+      "uri": "https://biblia-arabica.com/manuscript/541",
+      "headword": "Meryem Ana Kilisesi 225; 11/3",
+      "altNames": [
+        "Rule for the Confraternity of Moses the Ethiopian",
+        "ܐܠܪܣܘܡ",
+        "Prayers, liturgical texts, and magical texts",
+        "ܟܬܐܒ ܨܠܐܗ̈",
+        "Story of Solomon, son of David",
+        "ܣܪܩܘܒܐܛ ܣܠܝܡܐܢ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ",
+        "Psalter. Selections",
+        "ܡܙܡܘܪ̈ܐ",
+        "Psalter (Syriac Rite, Western)",
+        "Nicene Creed",
+        "ܬܚܘܡܐ ܕܗܝܡܢܘܬܐ ܕܬܠܬ ܡܐܐ ܘܬܡܢܬ ܥܣܪ ܐܒܗ̈ܬܐ ܩܕܝ̈ܫܐ ܕܐܬܟܢܘ ܒܢܝܩܝܐ",
+        "Definition of faith of the 318 fathers against the doctrine of Arius",
+        "Lord's prayer",
+        "ܨܠܐܗ̈ ܐܠܪܒܐܢܝܗ̈",
+        "Homily on teaching",
+        "ܡܐܡܪܐ ܕܥܠ ܝܘܠܦܢܐ",
+        "Ephraem, Syrus, Saint, 303-373. Sermons",
+        "Names of all the angels",
+        "ܐܣܐܡܝ ܓܡܝܥ ܐܠܡܠܐܝܟܗ",
+        "Divination by the names of biblical figures",
+        "ܩܪܥܗ̈ ܐܠܬܠܐܡܝܕ"
+      ],
+      "file": "data/manuscripts/541.xml"
     }
   ]
 }
