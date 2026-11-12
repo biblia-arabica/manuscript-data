@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:19:58.581Z",
+  "generated": "2026-11-12T05:20:41.570Z",
   "type": "manuscript",
   "records": [
     {
@@ -6305,6 +6305,18 @@
         "Evangelion (Byzantine Rite)"
       ],
       "file": "data/manuscripts/534.xml"
+    },
+    {
+      "id": "535",
+      "uri": "https://biblia-arabica.com/manuscript/535",
+      "headword": "Mar Petyun Keldani Kilisesi N/A",
+      "altNames": [
+        "Tafsīr al-Injīl. Matthew",
+        "الجز الأول من الإنجيل الطاهر بشارة متي الرسول",
+        "Abū al-Faraj ʻAbd Allāh ibn al-Tayyib, -1043. Tafsīr al-Injīl",
+        "Commentary on the Gospels"
+      ],
+      "file": "data/manuscripts/535.xml"
     }
   ]
 }
