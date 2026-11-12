@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:08:20.612Z",
+  "generated": "2026-11-12T12:08:38.276Z",
   "type": "manuscript",
   "records": [
     {
@@ -7028,6 +7028,15 @@
         "List of simples taken from Avicenna, 980-1037 , with Latin equivalents"
       ],
       "file": "data/manuscripts/593.xml"
+    },
+    {
+      "id": "594",
+      "uri": "https://biblia-arabica.com/manuscript/594",
+      "headword": "Bodleian Library MS. Marsh 649",
+      "altNames": [
+        "A lectionary from Pentateuch and Prophets for the whole year in Melchite churches, with prayers, verses and antiphons"
+      ],
+      "file": "data/manuscripts/594.xml"
     }
   ]
 }
