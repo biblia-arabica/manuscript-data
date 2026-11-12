@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:11:02.049Z",
+  "generated": "2026-11-12T12:11:37.773Z",
   "type": "manuscript",
   "records": [
     {
@@ -7091,6 +7091,15 @@
         "Psalms, doxologies and hymns for the feasts of angels and martyrs"
       ],
       "file": "data/manuscripts/600.xml"
+    },
+    {
+      "id": "601",
+      "uri": "https://biblia-arabica.com/manuscript/601",
+      "headword": "Bodleian Library MS. Ouseley 398",
+      "altNames": [
+        "Gospels [fragments]"
+      ],
+      "file": "data/manuscripts/601.xml"
     }
   ]
 }
