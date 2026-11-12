@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:18:08.647Z",
+  "generated": "2026-11-12T05:18:28.186Z",
   "type": "manuscript",
   "records": [
     {
@@ -6270,6 +6270,16 @@
         "Evangelion (Byzantine Rite)"
       ],
       "file": "data/manuscripts/531.xml"
+    },
+    {
+      "id": "532",
+      "uri": "https://biblia-arabica.com/manuscript/532",
+      "headword": "Kanīsat Ruqād al-Sayyidah al-ʻAdhrāʼ MS 19",
+      "altNames": [
+        "Praxapostolos",
+        "Praxapostolos (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/532.xml"
     }
   ]
 }
