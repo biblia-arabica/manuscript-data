@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:21:00.038Z",
+  "generated": "2026-11-12T05:21:33.148Z",
   "type": "manuscript",
   "records": [
     {
@@ -6337,6 +6337,21 @@
         "Testament of our Lord"
       ],
       "file": "data/manuscripts/536.xml"
+    },
+    {
+      "id": "537",
+      "uri": "https://biblia-arabica.com/manuscript/537",
+      "headword": "Meryem Ana Kilisesi 101; 1/24",
+      "altNames": [
+        "Book of Proverbs",
+        "Bible. Proverbs",
+        "Wisdom of Solomon",
+        "Bible. Wisdom of Solomon",
+        "Book of Sirach",
+        "Bible. Ecclesiasticus",
+        "Book of questions and answers"
+      ],
+      "file": "data/manuscripts/537.xml"
     }
   ]
 }
