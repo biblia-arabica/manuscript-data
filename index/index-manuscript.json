@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:23:29.805Z",
+  "generated": "2026-11-12T05:23:52.316Z",
   "type": "manuscript",
   "records": [
     {
@@ -6441,6 +6441,16 @@
         "الانجيل المقدس"
       ],
       "file": "data/manuscripts/543.xml"
+    },
+    {
+      "id": "544",
+      "uri": "https://biblia-arabica.com/manuscript/544",
+      "headword": "Chaldean Catholic Church. Archdiocese of Diyarbakır MS 50",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/544.xml"
     }
   ]
 }
