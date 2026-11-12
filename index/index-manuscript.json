@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:38:13.774Z",
+  "generated": "2026-11-12T07:38:53.227Z",
   "type": "manuscript",
   "records": [
     {
@@ -6878,6 +6878,16 @@
         "Bible. Romans"
       ],
       "file": "data/manuscripts/582.xml"
+    },
+    {
+      "id": "583",
+      "uri": "https://biblia-arabica.com/manuscript/583",
+      "headword": "Mar Hirmiz Keldani Kilisesi N/A",
+      "altNames": [
+        "Gospels",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/583.xml"
     }
   ]
 }
