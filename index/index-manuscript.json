@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:32:04.864Z",
+  "generated": "2026-11-12T05:32:24.454Z",
   "type": "manuscript",
   "records": [
     {
@@ -6617,6 +6617,20 @@
         "Bible. Chronicles"
       ],
       "file": "data/manuscripts/559.xml"
+    },
+    {
+      "id": "560",
+      "uri": "https://biblia-arabica.com/manuscript/560",
+      "headword": "Church of the Forty Martyrs MS 489",
+      "altNames": [
+        "The interpreter",
+        "ܟܬܒܐ ܕܬܘܪܓܡܐ",
+        "Elias, of Nisibis, 975-1046. Kitāb al-turjumān fī taʻlīm lughat al-Suryān",
+        "Book of the translator",
+        "Epistles of Paul. Selections",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/560.xml"
     }
   ]
 }
