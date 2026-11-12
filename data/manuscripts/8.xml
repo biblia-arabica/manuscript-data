@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٥</title>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. 5</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-30"/>
+                                    <change who="#nfaqsh" when="2026-11-12"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -73,7 +74,7 @@
                                                 <altIdentifier>
                                                     <idno>Arabic 5</idno>
                                                 </altIdentifier>
-                                                <msName>سفر الخروج</msName>
+                                                <msName>Saint Catherine Monastery Ar. 5</msName>
                                                 <geogName>
                                                     <geo/>
                                                 </geogName>
