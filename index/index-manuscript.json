@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:40:14.206Z",
+  "generated": "2026-11-12T07:41:14.675Z",
   "type": "manuscript",
   "records": [
     {
@@ -6917,6 +6917,16 @@
         "Treatise on the true Christological doctrine"
       ],
       "file": "data/manuscripts/585.xml"
+    },
+    {
+      "id": "586",
+      "uri": "https://biblia-arabica.com/manuscript/586",
+      "headword": "Dayrā d-Mār Gabriʼél N/A",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/586.xml"
     }
   ]
 }
