@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:18:46.293Z",
+  "generated": "2026-11-12T05:19:58.581Z",
   "type": "manuscript",
   "records": [
     {
@@ -6291,6 +6291,20 @@
         "Questions and answers"
       ],
       "file": "data/manuscripts/533.xml"
+    },
+    {
+      "id": "534",
+      "uri": "https://biblia-arabica.com/manuscript/534",
+      "headword": "Greek Orthodox Patriarchate of Antioch. Kfarbo Parish 1",
+      "altNames": [
+        "Gospels",
+        "الانجيل الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels",
+        "Evangelion. Selections",
+        "الاناجيل التي تقرا سحر الحدود علي القيامة المجيده",
+        "Evangelion (Byzantine Rite)"
+      ],
+      "file": "data/manuscripts/534.xml"
     }
   ]
 }
