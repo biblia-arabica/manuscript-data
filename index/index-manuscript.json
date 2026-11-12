@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:11:33.402Z",
+  "generated": "2026-11-12T14:13:00.280Z",
   "type": "manuscript",
   "records": [
     {
@@ -7151,6 +7151,16 @@
         "Job"
       ],
       "file": "data/manuscripts/606.xml"
+    },
+    {
+      "id": "607",
+      "uri": "https://biblia-arabica.com/manuscript/607",
+      "headword": "Coptic Orthodox Patriarchate 29",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Song of Songs (Shir Hashirim)"
+      ],
+      "file": "data/manuscripts/607.xml"
     }
   ]
 }
