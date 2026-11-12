@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="draft">
                                     <change who="#ptarras" when="2026-11-12">created record</change>
+                                    <change who="#ptarras" when="2026-11-12">updated shelfmark</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -69,7 +70,7 @@
                                                 <settlement>Cairo</settlement>
                                                 <repository>Coptic Orthodox Patriarchate</repository>
                                                 <collection>Bible</collection>
-                                                <idno>34</idno>
+                                                <idno>Bible 34</idno>
                                             </msIdentifier>
                                             <msContents>
                                                 <msItem xml:id="msitem-1">
