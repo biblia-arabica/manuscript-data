@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:16:01.880Z",
+  "generated": "2026-11-12T14:03:39.864Z",
   "type": "manuscript",
   "records": [
     {
@@ -7100,6 +7100,17 @@
         "Gospels [fragments]"
       ],
       "file": "data/manuscripts/601.xml"
+    },
+    {
+      "id": "602",
+      "uri": "https://biblia-arabica.com/manuscript/602",
+      "headword": "Coptic Orthodox Patriarchate 34",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Song of Songs (Shir Hashirim)",
+        "Job"
+      ],
+      "file": "data/manuscripts/602.xml"
     }
   ]
 }
