@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:42:13.315Z",
+  "generated": "2026-11-12T05:43:01.117Z",
   "type": "manuscript",
   "records": [
     {
@@ -6803,6 +6803,17 @@
         "Book of the dove"
       ],
       "file": "data/manuscripts/576.xml"
+    },
+    {
+      "id": "577",
+      "uri": "https://biblia-arabica.com/manuscript/577",
+      "headword": "Dayr Za‘farān (Monastery) MS 8",
+      "altNames": [
+        "Old Testament. Selections",
+        "ܫܗܐܕܐܬ ܡܢ ܐܠܟܬܒ ܐܠܡܩܕܣܗ",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/577.xml"
     }
   ]
 }
