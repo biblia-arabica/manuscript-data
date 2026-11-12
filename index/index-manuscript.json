@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:22:51.077Z",
+  "generated": "2026-11-12T05:23:09.968Z",
   "type": "manuscript",
   "records": [
     {
@@ -6421,6 +6421,16 @@
         "ܩܪܥܗ̈ ܐܠܬܠܐܡܝܕ"
       ],
       "file": "data/manuscripts/541.xml"
+    },
+    {
+      "id": "542",
+      "uri": "https://biblia-arabica.com/manuscript/542",
+      "headword": "Meryem Ana Kilisesi 56; 1-1/8",
+      "altNames": [
+        "New Testament",
+        "Bible. New Testament"
+      ],
+      "file": "data/manuscripts/542.xml"
     }
   ]
 }
