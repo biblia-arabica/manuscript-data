@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:41:15.401Z",
+  "generated": "2026-11-12T05:41:38.788Z",
   "type": "manuscript",
   "records": [
     {
@@ -6770,6 +6770,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/574.xml"
+    },
+    {
+      "id": "575",
+      "uri": "https://biblia-arabica.com/manuscript/575",
+      "headword": "Dayr Za‘farān (Monastery) MS 4",
+      "altNames": [
+        "Gospel of John, Gospel of Mark",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/575.xml"
     }
   ]
 }
