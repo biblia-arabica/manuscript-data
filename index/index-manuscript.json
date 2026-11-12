@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:29:30.054Z",
+  "generated": "2026-11-12T05:29:48.986Z",
   "type": "manuscript",
   "records": [
     {
@@ -6537,6 +6537,23 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/552.xml"
+    },
+    {
+      "id": "553",
+      "uri": "https://biblia-arabica.com/manuscript/553",
+      "headword": "Church of the Forty Martyrs MS 126",
+      "altNames": [
+        "Theological treatise",
+        "Epistle of James",
+        "ܨܚܐܚ ܡܢ ܪܣܐܠܬ ܝܥܩܘܒ ܐܠܣܠܝܚܝ",
+        "Bible. Epistles",
+        "Story of the skull that conversed with the saint",
+        "ܩܨܗ̈ ܐܠܓܡܓܡܗ ܘܐܠܩܕܝܣ ܐܠܕܝ ܚܕܬ ܡܥܗܐ ܟܐܢ ܐܣܡܗ ܐܣܛܝܦܐܢܘܣ. ܐܠܨܐܝܚ",
+        "Story of the talking skull",
+        "Story of Mar Isaiah of Aleppo",
+        "Liturgical text"
+      ],
+      "file": "data/manuscripts/553.xml"
     }
   ]
 }
