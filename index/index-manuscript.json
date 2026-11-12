@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:39:36.958Z",
+  "generated": "2026-11-12T05:39:59.867Z",
   "type": "manuscript",
   "records": [
     {
@@ -6740,6 +6740,16 @@
         "Testimonies from Scripture"
       ],
       "file": "data/manuscripts/571.xml"
+    },
+    {
+      "id": "572",
+      "uri": "https://biblia-arabica.com/manuscript/572",
+      "headword": "Church of the Forty Martyrs MS 918",
+      "altNames": [
+        "Epistles of Paul",
+        "Bible. Epistles of Paul"
+      ],
+      "file": "data/manuscripts/572.xml"
     }
   ]
 }
