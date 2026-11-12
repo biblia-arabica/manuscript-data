@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:03:39.864Z",
+  "generated": "2026-11-12T14:05:21.042Z",
   "type": "manuscript",
   "records": [
     {
@@ -7111,6 +7111,16 @@
         "Job"
       ],
       "file": "data/manuscripts/602.xml"
+    },
+    {
+      "id": "603",
+      "uri": "https://biblia-arabica.com/manuscript/603",
+      "headword": "Coptic Orthodox Patriarchate 78",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Song of Songs (Shir Hashirim)"
+      ],
+      "file": "data/manuscripts/603.xml"
     }
   ]
 }
