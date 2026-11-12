@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:32:24.454Z",
+  "generated": "2026-11-12T05:32:48.297Z",
   "type": "manuscript",
   "records": [
     {
@@ -6631,6 +6631,16 @@
         "Bible. Epistles of Paul"
       ],
       "file": "data/manuscripts/560.xml"
+    },
+    {
+      "id": "561",
+      "uri": "https://biblia-arabica.com/manuscript/561",
+      "headword": "Church of the Forty Martyrs MS 5/1",
+      "altNames": [
+        "Old Testament. Selections",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/561.xml"
     }
   ]
 }
