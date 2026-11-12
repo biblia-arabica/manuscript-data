@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:43:45.948Z",
+  "generated": "2026-11-12T05:45:09.855Z",
   "type": "manuscript",
   "records": [
     {
@@ -6842,6 +6842,18 @@
         "Bible. Acts"
       ],
       "file": "data/manuscripts/579.xml"
+    },
+    {
+      "id": "580",
+      "uri": "https://biblia-arabica.com/manuscript/580",
+      "headword": "Mar Hirmiz Keldani Kilisesi 80",
+      "altNames": [
+        "Tafsīr",
+        "تفسير",
+        "Abū al-Faraj ʻAbd Allāh ibn al-Tayyib, -1043. Tafsīr al-Injīl",
+        "Commentary on the Gospel of Luke (Peshitta version)"
+      ],
+      "file": "data/manuscripts/580.xml"
     }
   ]
 }
