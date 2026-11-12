@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:10:46.941Z",
+  "generated": "2026-11-12T12:11:02.049Z",
   "type": "manuscript",
   "records": [
     {
@@ -7082,6 +7082,15 @@
         "Psalms, Theotokia, lessons, various prayers, hymns for the angels and martyrs"
       ],
       "file": "data/manuscripts/599.xml"
+    },
+    {
+      "id": "600",
+      "uri": "https://biblia-arabica.com/manuscript/600",
+      "headword": "Bodleian Library MS. Marshall Or. 55",
+      "altNames": [
+        "Psalms, doxologies and hymns for the feasts of angels and martyrs"
+      ],
+      "file": "data/manuscripts/600.xml"
     }
   ]
 }
