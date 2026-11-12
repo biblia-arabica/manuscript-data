@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:31:46.092Z",
+  "generated": "2026-11-12T05:32:04.864Z",
   "type": "manuscript",
   "records": [
     {
@@ -6607,6 +6607,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/558.xml"
+    },
+    {
+      "id": "559",
+      "uri": "https://biblia-arabica.com/manuscript/559",
+      "headword": "Church of the Forty Martyrs MS 3/1",
+      "altNames": [
+        "Chronicles",
+        "Bible. Chronicles"
+      ],
+      "file": "data/manuscripts/559.xml"
     }
   ]
 }
