@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:43:03.140Z",
+  "generated": "2026-11-12T07:43:43.490Z",
   "type": "manuscript",
   "records": [
     {
@@ -6964,6 +6964,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/589.xml"
+    },
+    {
+      "id": "590",
+      "uri": "https://biblia-arabica.com/manuscript/590",
+      "headword": "Private Library (Fresno, Calif.) N/A",
+      "altNames": [
+        "Psalms",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/590.xml"
     }
   ]
 }
