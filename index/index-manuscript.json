@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:34:43.761Z",
+  "generated": "2026-11-12T05:37:12.887Z",
   "type": "manuscript",
   "records": [
     {
@@ -6671,6 +6671,16 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/564.xml"
+    },
+    {
+      "id": "565",
+      "uri": "https://biblia-arabica.com/manuscript/565",
+      "headword": "Church of the Forty Martyrs MS 7/1",
+      "altNames": [
+        "Ecclesiastes, Ecclesiasticus, Esther",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/565.xml"
     }
   ]
 }
