@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:33:59.446Z",
+  "generated": "2026-11-12T05:34:43.761Z",
   "type": "manuscript",
   "records": [
     {
@@ -6661,6 +6661,16 @@
         "Bible. Gospels"
       ],
       "file": "data/manuscripts/563.xml"
+    },
+    {
+      "id": "564",
+      "uri": "https://biblia-arabica.com/manuscript/564",
+      "headword": "Church of the Forty Martyrs MS 6/1",
+      "altNames": [
+        "Samuel, Kings",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/564.xml"
     }
   ]
 }
