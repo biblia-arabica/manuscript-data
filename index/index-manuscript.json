@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:18:28.186Z",
+  "generated": "2026-11-12T05:18:46.293Z",
   "type": "manuscript",
   "records": [
     {
@@ -6280,6 +6280,17 @@
         "Praxapostolos (Byzantine Rite)"
       ],
       "file": "data/manuscripts/532.xml"
+    },
+    {
+      "id": "533",
+      "uri": "https://biblia-arabica.com/manuscript/533",
+      "headword": "Kanīsat Ruqād al-Sayyidah al-ʻAdhrāʼ MS 6",
+      "altNames": [
+        "Ecclesiasticus",
+        "Bible. Ecclesiasticus",
+        "Questions and answers"
+      ],
+      "file": "data/manuscripts/533.xml"
     }
   ]
 }
