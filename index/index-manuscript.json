@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:30:16.176Z",
+  "generated": "2026-11-12T05:30:44.189Z",
   "type": "manuscript",
   "records": [
     {
@@ -6565,6 +6565,17 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/554.xml"
+    },
+    {
+      "id": "555",
+      "uri": "https://biblia-arabica.com/manuscript/555",
+      "headword": "Church of the Forty Martyrs MS 20/1",
+      "altNames": [
+        "Psalms",
+        "ܟܬܒܐ ܕܕܘܝܕ ܡܠܟܐ ܘܢܒܝܐ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/555.xml"
     }
   ]
 }
