@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T20:14:05.602Z",
+  "generated": "2026-11-12T05:17:42.658Z",
   "type": "manuscript",
   "records": [
     {
@@ -6248,6 +6248,17 @@
         "ܟܬܐܒ ܩܘܠ ܐܠܐܢܒܝܐ ܘܐܒܪܟܣܝ ܐܠܪܣܠ ܘܪܣܐܝܠ ܒܘܠܨ ܐܠܪܣܘܠ"
       ],
       "file": "data/manuscripts/529.xml"
+    },
+    {
+      "id": "530",
+      "uri": "https://biblia-arabica.com/manuscript/530",
+      "headword": "Monastery of Saint George (Mishtāyah, Syria) MS 38",
+      "altNames": [
+        "Four Gospels",
+        "كتاب الانجيل الطاهر والمصباح المنير الزاهر",
+        "Bible. Gospels"
+      ],
+      "file": "data/manuscripts/530.xml"
     }
   ]
 }
