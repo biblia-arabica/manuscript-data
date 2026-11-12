@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:42:19.236Z",
+  "generated": "2026-11-12T07:43:03.140Z",
   "type": "manuscript",
   "records": [
     {
@@ -6953,6 +6953,17 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/588.xml"
+    },
+    {
+      "id": "589",
+      "uri": "https://biblia-arabica.com/manuscript/589",
+      "headword": "Mor Barṣawmo Library N/A",
+      "altNames": [
+        "Psalms",
+        "ܟܬܐܒ ܡܙܐܡܝܪ ܕܐܘܘܕ ܐܠܢܒܝ",
+        "Bible. Psalms"
+      ],
+      "file": "data/manuscripts/589.xml"
     }
   ]
 }
