@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:20:41.570Z",
+  "generated": "2026-11-12T05:21:00.038Z",
   "type": "manuscript",
   "records": [
     {
@@ -6317,6 +6317,26 @@
         "Commentary on the Gospels"
       ],
       "file": "data/manuscripts/535.xml"
+    },
+    {
+      "id": "536",
+      "uri": "https://biblia-arabica.com/manuscript/536",
+      "headword": "Meryem Ana Kilisesi 1/1",
+      "altNames": [
+        "Commentary on the Old Testament",
+        "ܐܘܨܪ ܪ̈ܙܐ",
+        "Bar Hebraeus, 1226-1286. ʼAwṣar rāze",
+        "Life of Theodore",
+        "Old Testament",
+        "ܟܬܒܐ ܕܐܘܪܝܬܐ ܘܕܟܠܗܘܢ ܢܒܝ̈ܐ",
+        "Bible. Old Testament",
+        "New Testament",
+        "Bible. New Testament",
+        "Octateuch of Clement",
+        "ܕܝܐܬܝܩܝ ܐܘܟܝܬ ܡ̈ܠܐ ܕܐܡܪ ܡܪܢ ܠܫܠܝ̈ܚܐ",
+        "Testament of our Lord"
+      ],
+      "file": "data/manuscripts/536.xml"
     }
   ]
 }
