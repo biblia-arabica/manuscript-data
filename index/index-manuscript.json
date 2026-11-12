@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:06:54.640Z",
+  "generated": "2026-11-12T14:09:34.599Z",
   "type": "manuscript",
   "records": [
     {
@@ -7131,6 +7131,16 @@
         "Song of Songs (Shir Hashirim)"
       ],
       "file": "data/manuscripts/604.xml"
+    },
+    {
+      "id": "605",
+      "uri": "https://biblia-arabica.com/manuscript/605",
+      "headword": "Coptic Orthodox Patriarchate 220",
+      "altNames": [
+        "Hebrew Bible/Old Testament",
+        "Song of Songs (Shir Hashirim)"
+      ],
+      "file": "data/manuscripts/605.xml"
     }
   ]
 }
