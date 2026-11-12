@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T12:10:32.223Z",
+  "generated": "2026-11-12T12:10:46.941Z",
   "type": "manuscript",
   "records": [
     {
@@ -7073,6 +7073,15 @@
         "Gospels"
       ],
       "file": "data/manuscripts/598.xml"
+    },
+    {
+      "id": "599",
+      "uri": "https://biblia-arabica.com/manuscript/599",
+      "headword": "Bodleian Library MS. Marshall Or. 49",
+      "altNames": [
+        "Psalms, Theotokia, lessons, various prayers, hymns for the angels and martyrs"
+      ],
+      "file": "data/manuscripts/599.xml"
     }
   ]
 }
