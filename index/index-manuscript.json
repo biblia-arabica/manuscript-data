@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:39:43.830Z",
+  "generated": "2026-11-12T07:40:14.206Z",
   "type": "manuscript",
   "records": [
     {
@@ -6898,6 +6898,25 @@
         "Bible. Matthew"
       ],
       "file": "data/manuscripts/584.xml"
+    },
+    {
+      "id": "585",
+      "uri": "https://biblia-arabica.com/manuscript/585",
+      "headword": "Dayrā d-Mār Gabriʼél N/A",
+      "altNames": [
+        "Ecclesiasticus",
+        "ܚܟܡܗ̈ ܝܫܘܥ ܐܒܢ ܫܝܪܐܟ ܘܙܝܪ ܣܠܝܡܐܢ ܐܠܡܠܟ ܐܠܚܟܝܡ ܐܒܢ ܕܐܘܘܕ ܐܠܢܒܝ ܡܠܟ ܐܣܪܐܝܠ ܥܠܝܗ ܐܠܣܠܐܡ",
+        "Bible. Ecclesiasticus",
+        "Story of Afīqiyā the wise, wife of Jesus ben Sirach",
+        "ܟܒܪ ܐܦܝܩܝܐ ܐܠܚܟܝܡܗ̈ ܐܡܪܐܗ̈ ܝܫܘܥ ܐܒܢ ܫܝܪܐܟ ܘܡܐ ܬܡ ܠܗܐ ܡܥ ܣܠܝܡܐܢ ܐܠܡܠܟ ܐܒܢ ܕܐܘܘܕ ܐܠܢܒܝ ܥܠܝܗ ܐܠܣܠܐܡ",
+        "Ahiqar",
+        "ܟܒܪ ܐܠܚܟܝܡ ܐܠܡܐܗܪ ܐܠܦܝܠܣܘܦ ܐܠܫܐܛܪ ܚܝܩܐܪ ܘܙܝܪ ܣܢܚܐܪܝܒ ܐܒܢ ܣܪܚܐܕܘܡ ܡܠܟ ܐܬܘܪ ܘܢܝܢܘܝ ܘܐܠܡܘܨܠ ܘܡܐ ܔܪܐ ܡܢܗ ܘܡܢ ܐܒܢ ܐܟܬܗ ܢܐܕܐܢ",
+        "Ahikar (Folktale)",
+        "al-Iʻtiqād al-ṣaḥīḥ fī tajassud al-Masīḥ. Selections",
+        "ܐܠܐܥܬܩܐܕ ܐܠܨܚܝܚ ܦܝ ܬܓܣܕ ܐܠܣܝܕ ܐܠܡܣܝܚ",
+        "Treatise on the true Christological doctrine"
+      ],
+      "file": "data/manuscripts/585.xml"
     }
   ]
 }
