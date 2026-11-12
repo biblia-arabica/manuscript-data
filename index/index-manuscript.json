@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:37:12.887Z",
+  "generated": "2026-11-12T05:37:31.721Z",
   "type": "manuscript",
   "records": [
     {
@@ -6681,6 +6681,17 @@
         "Bible. Old Testament"
       ],
       "file": "data/manuscripts/565.xml"
+    },
+    {
+      "id": "566",
+      "uri": "https://biblia-arabica.com/manuscript/566",
+      "headword": "Church of the Forty Martyrs MS 8/1",
+      "altNames": [
+        "Proverbs, Ecclesiastes, Song of Solomon, Wisdom of Solomon",
+        "ܣܦܪ ܐܠܐܡܬܐܠ",
+        "Bible. Old Testament"
+      ],
+      "file": "data/manuscripts/566.xml"
     }
   ]
 }
