@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:23:52.316Z",
+  "generated": "2026-11-12T05:24:16.375Z",
   "type": "manuscript",
   "records": [
     {
@@ -6451,6 +6451,16 @@
         "Bible. Psalms"
       ],
       "file": "data/manuscripts/544.xml"
+    },
+    {
+      "id": "545",
+      "uri": "https://biblia-arabica.com/manuscript/545",
+      "headword": "Church of the Forty Martyrs MS 1018",
+      "altNames": [
+        "Gospels",
+        "الانجيل الشريف المقدس المملؤ كلام الحياة من اقوال ربنا والاهنا ومخلصنا يسوع المسيح"
+      ],
+      "file": "data/manuscripts/545.xml"
     }
   ]
 }
