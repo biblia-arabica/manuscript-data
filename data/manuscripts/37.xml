@@ -59,6 +59,7 @@
                                 <revisionDesc status="draft">
                                     <change>Automated MANO field mapping. No MANO record identifier assigned. Review before publication.</change>
                                     <change who="#hibrahim" when="2026-11-10"/>
+                                    <change who="#hibrahim" when="2026-11-13">corrected reproductions</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -122,6 +123,15 @@
                                                 <summary>Dating and origin information reported separately for manuscript parts: Part 1 (vHMML part 589724): 1600–1700 [1600–1700]; Naskh</summary>
                                             </history>
                                             <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Digital image online</title>
+                                                            <publisher>vhmml</publisher>
+                                                            <ptr target="https://w3id.org/vhmml/readingRoom/view/131693"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
                                                 <listBibl>
                                                     <bibl xml:id="bib1">
                                                         <title>vHMML Reading Room source record 131693</title>
