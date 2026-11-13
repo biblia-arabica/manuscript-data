@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:28:37.734Z",
+  "generated": "2026-11-13T18:29:05.947Z",
   "type": "manuscript",
   "records": [
     {
@@ -8124,6 +8124,30 @@
         "مزامير داود"
       ],
       "file": "data/manuscripts/701.xml"
+    },
+    {
+      "id": "702",
+      "uri": "https://biblia-arabica.com/manuscript/702",
+      "headword": "University Library Add. 2621",
+      "altNames": [
+        "Paul, the Apostle, Saint القديس بولس الرسول",
+        "St Paul's Epistles followed by the Acts of the Apostles"
+      ],
+      "file": "data/manuscripts/702.xml"
+    },
+    {
+      "id": "703",
+      "uri": "https://biblia-arabica.com/manuscript/703",
+      "headword": "University Library Add. 3044",
+      "altNames": [
+        "Joshua",
+        "Judges",
+        "Samuel",
+        "Kings",
+        "Ruth",
+        "Chronicles"
+      ],
+      "file": "data/manuscripts/703.xml"
     }
   ]
 }
