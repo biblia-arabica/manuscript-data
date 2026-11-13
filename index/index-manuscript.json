@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:45:11.621Z",
+  "generated": "2026-11-13T17:45:30.511Z",
   "type": "manuscript",
   "records": [
     {
@@ -7505,6 +7505,15 @@
         "[أعمال الرسل]"
       ],
       "file": "data/manuscripts/638.xml"
+    },
+    {
+      "id": "639",
+      "uri": "https://biblia-arabica.com/manuscript/639",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 26",
+      "altNames": [
+        "إنجيل مرقس"
+      ],
+      "file": "data/manuscripts/639.xml"
     }
   ]
 }
