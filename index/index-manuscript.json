@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:29:51.256Z",
+  "generated": "2026-11-13T18:31:20.377Z",
   "type": "manuscript",
   "records": [
     {
@@ -8167,6 +8167,65 @@
         "مزامير داود"
       ],
       "file": "data/manuscripts/705.xml"
+    },
+    {
+      "id": "706",
+      "uri": "https://biblia-arabica.com/manuscript/706",
+      "headword": "University Library Add. 3226",
+      "altNames": [
+        "The Four Gospels, Acts, Epistles and Revelation"
+      ],
+      "file": "data/manuscripts/706.xml"
+    },
+    {
+      "id": "707",
+      "uri": "https://biblia-arabica.com/manuscript/707",
+      "headword": "University Library Add. 3228",
+      "altNames": [
+        "Mazāmīr Dāwud",
+        "مزامير داود"
+      ],
+      "file": "data/manuscripts/707.xml"
+    },
+    {
+      "id": "708",
+      "uri": "https://biblia-arabica.com/manuscript/708",
+      "headword": "University Library Add. 3280",
+      "altNames": [
+        "Lessons and accompanying commentaries from the Epistles of S. Paul, the Acts and Catholic Epistles, as reed at the celebrations of the Eucharist in Lent and on other occasions throughout the year.",
+        "ܕܠܐܝܠ ܬܕܠ ܥܠܝ ܒܕܐܝܗ̈ ܘܢܗܐܝܗ̈ ܡܐ ܝܩܪܐ ܡܢ ܐܠܪܣܐܝܠ ܘܐܟܒܐܪ ܐܠܪܣܠ ܘܐܠܩܐܬܘܠܝܩܘܢ ܦܝ ܐܠܩܕܐܣܐܬ. ܦܝ ܐܝܐܡ ܐܠܟܡܣܝܢ. ܘܦܝ ܐܠܚܕܘܕ ܘܐܠܣܒܘܬ ܘܐܠܐܥܝܐܪ. ܘܦܝ ܐܝܐܡ ܐܠܣܢܗ ܓܡܝܥܗܐ ܡܥ ܬܦܐܣܝܪܗܐ ܒܣܠܐܡ ܐܠܪܒ. ܐܡܝܢ܀",
+        "Extracts from several writers"
+      ],
+      "file": "data/manuscripts/708.xml"
+    },
+    {
+      "id": "709",
+      "uri": "https://biblia-arabica.com/manuscript/709",
+      "headword": "University Library Add. 3287",
+      "altNames": [
+        "The Lectionary from the Gospels for the Sunday, Feasts and Commemoration of the whole year, tranlated from Syriac into Arabic",
+        "ܒܣܡ ܐܠܐܒ ܘܐܠܐܒܢ ܘܪܘܚ ܐܠܩܕܣ ܐܠܐܝܠܗ ܐܠܘܐܚܕ ܢܒܬܕܝ ܒܥܘܢ ܐܠܠܗ ܘܚܣܢ ܬܘܦܝܩܗ ܘܢܟܬܒ ܐܢܐܓܝܠ ܐܠܐܚܐܕ ܘܐܠܕܟܐܪܝܢ ܒܐܓܡܥܗܐ ܘܬܦܣܝܪܗܐ"
+      ],
+      "file": "data/manuscripts/709.xml"
+    },
+    {
+      "id": "710",
+      "uri": "https://biblia-arabica.com/manuscript/710",
+      "headword": "University Library Add. 3289",
+      "altNames": [
+        "The Pentateuch"
+      ],
+      "file": "data/manuscripts/710.xml"
+    },
+    {
+      "id": "711",
+      "uri": "https://biblia-arabica.com/manuscript/711",
+      "headword": "University Library Add. 3291",
+      "altNames": [
+        "The Acts of the Apostles and three Chatolic Epistles",
+        "The Lessons for the Sunday, Feasts and Commemorations of the whole year from the Epistles of S. Paul."
+      ],
+      "file": "data/manuscripts/711.xml"
     }
   ]
 }
