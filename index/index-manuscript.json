@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:59:27.928Z",
+  "generated": "2026-11-13T17:59:41.155Z",
   "type": "manuscript",
   "records": [
     {
@@ -7679,6 +7679,16 @@
         "[نصوص الكتاب المقدس مصنفة حسب المواضيع]"
       ],
       "file": "data/manuscripts/656.xml"
+    },
+    {
+      "id": "657",
+      "uri": "https://biblia-arabica.com/manuscript/657",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 121",
+      "altNames": [
+        "الأناجيل",
+        "الأناجيل الأربعة"
+      ],
+      "file": "data/manuscripts/657.xml"
     }
   ]
 }
