@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:08:49.104Z",
+  "generated": "2026-11-13T18:09:10.984Z",
   "type": "manuscript",
   "records": [
     {
@@ -7883,6 +7883,15 @@
         "كتاب التوراة"
       ],
       "file": "data/manuscripts/676.xml"
+    },
+    {
+      "id": "677",
+      "uri": "https://biblia-arabica.com/manuscript/677",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 557",
+      "altNames": [
+        "بشارة القديس الجليل التلميذ الرسول يوحنا ابن زبدى"
+      ],
+      "file": "data/manuscripts/677.xml"
     }
   ]
 }
