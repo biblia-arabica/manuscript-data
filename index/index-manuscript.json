@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:03:23.513Z",
+  "generated": "2026-11-13T18:03:42.377Z",
   "type": "manuscript",
   "records": [
     {
@@ -7771,6 +7771,16 @@
         "[أعمال الرسل]"
       ],
       "file": "data/manuscripts/665.xml"
+    },
+    {
+      "id": "666",
+      "uri": "https://biblia-arabica.com/manuscript/666",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 25",
+      "altNames": [
+        "[متى]",
+        "انجيل لوقا"
+      ],
+      "file": "data/manuscripts/666.xml"
     }
   ]
 }
