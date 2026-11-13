@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:46:20.628Z",
+  "generated": "2026-11-13T17:46:39.025Z",
   "type": "manuscript",
   "records": [
     {
@@ -7535,6 +7535,15 @@
         "[المزامير]"
       ],
       "file": "data/manuscripts/641.xml"
+    },
+    {
+      "id": "642",
+      "uri": "https://biblia-arabica.com/manuscript/642",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 413",
+      "altNames": [
+        "كتاب زبور داوود"
+      ],
+      "file": "data/manuscripts/642.xml"
     }
   ]
 }
