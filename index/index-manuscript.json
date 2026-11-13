@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:09:31.781Z",
+  "generated": "2026-11-13T18:09:48.904Z",
   "type": "manuscript",
   "records": [
     {
@@ -7901,6 +7901,15 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/678.xml"
+    },
+    {
+      "id": "679",
+      "uri": "https://biblia-arabica.com/manuscript/679",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 576",
+      "altNames": [
+        "كتاب مزامير داوود النبي"
+      ],
+      "file": "data/manuscripts/679.xml"
     }
   ]
 }
