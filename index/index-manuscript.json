@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:50:24.444Z",
+  "generated": "2026-11-13T17:51:04.062Z",
   "type": "manuscript",
   "records": [
     {
@@ -7601,6 +7601,15 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/648.xml"
+    },
+    {
+      "id": "649",
+      "uri": "https://biblia-arabica.com/manuscript/649",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 15",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/649.xml"
     }
   ]
 }
