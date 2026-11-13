@@ -59,6 +59,7 @@
                                 <revisionDesc status="draft">
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ptarras" when="2026-11-12">updated shelfmark</change>
+                                    <change who="#ptarras" when="2026-11-13"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -80,6 +81,17 @@
                                                     <title ref="https://biblia-arabica.com/work/32">Song of Songs (Shir Hashirim)</title>
                                                 </msItem>
                                             </msContents>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Microfilm</title>
+                                                            <publisher>Coptic Orthodox Patriarcate</publisher>
+                                                            <ptr target="https://archive.org/details/COP8-1"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
                                         </msDesc>
                                     </listBibl>
                                 </body>
