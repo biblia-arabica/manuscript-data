@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:04:47.529Z",
+  "generated": "2026-11-13T18:06:31.369Z",
   "type": "manuscript",
   "records": [
     {
@@ -7807,6 +7807,24 @@
         "سفر يشوع"
       ],
       "file": "data/manuscripts/668.xml"
+    },
+    {
+      "id": "669",
+      "uri": "https://biblia-arabica.com/manuscript/669",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 458",
+      "altNames": [
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/669.xml"
+    },
+    {
+      "id": "670",
+      "uri": "https://biblia-arabica.com/manuscript/670",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 465",
+      "altNames": [
+        "كتاب التوراة"
+      ],
+      "file": "data/manuscripts/670.xml"
     }
   ]
 }
