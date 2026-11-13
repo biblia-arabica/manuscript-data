@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:52:16.000Z",
+  "generated": "2026-11-13T17:57:00.737Z",
   "type": "manuscript",
   "records": [
     {
@@ -7628,6 +7628,15 @@
         "[أعمال الرسل]"
       ],
       "file": "data/manuscripts/651.xml"
+    },
+    {
+      "id": "652",
+      "uri": "https://biblia-arabica.com/manuscript/652",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 67",
+      "altNames": [
+        "الابركسيس"
+      ],
+      "file": "data/manuscripts/652.xml"
     }
   ]
 }
