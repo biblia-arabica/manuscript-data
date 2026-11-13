@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:32:36.926Z",
+  "generated": "2026-11-13T17:32:53.907Z",
   "type": "manuscript",
   "records": [
     {
@@ -7305,6 +7305,19 @@
         "تدريب لاجل المرسل"
       ],
       "file": "data/manuscripts/620.xml"
+    },
+    {
+      "id": "621",
+      "uri": "https://biblia-arabica.com/manuscript/621",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 77",
+      "altNames": [
+        "Serge Ier de Constantinople",
+        "al-ʻAqābī، Mūsā",
+        "المزامير داوود النبي",
+        "مدائح السيدة",
+        "[ديوان موسى العقابي]"
+      ],
+      "file": "data/manuscripts/621.xml"
     }
   ]
 }
