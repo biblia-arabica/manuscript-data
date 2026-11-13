@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:40:02.665Z",
+  "generated": "2026-11-13T17:40:41.375Z",
   "type": "manuscript",
   "records": [
     {
@@ -7453,6 +7453,24 @@
         "[المزامير]"
       ],
       "file": "data/manuscripts/633.xml"
+    },
+    {
+      "id": "634",
+      "uri": "https://biblia-arabica.com/manuscript/634",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 8",
+      "altNames": [
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/634.xml"
+    },
+    {
+      "id": "635",
+      "uri": "https://biblia-arabica.com/manuscript/635",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 12",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/635.xml"
     }
   ]
 }
