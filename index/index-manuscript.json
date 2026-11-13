@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:38:48.206Z",
+  "generated": "2026-11-13T17:39:08.496Z",
   "type": "manuscript",
   "records": [
     {
@@ -7415,6 +7415,15 @@
         "العشرة تسابيح"
       ],
       "file": "data/manuscripts/629.xml"
+    },
+    {
+      "id": "630",
+      "uri": "https://biblia-arabica.com/manuscript/630",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 749",
+      "altNames": [
+        "[المزامير ومنافع الموامير]"
+      ],
+      "file": "data/manuscripts/630.xml"
     }
   ]
 }
