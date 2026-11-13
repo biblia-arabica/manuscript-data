@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:42:42.711Z",
+  "generated": "2026-11-13T17:43:58.226Z",
   "type": "manuscript",
   "records": [
     {
@@ -7481,6 +7481,18 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/636.xml"
+    },
+    {
+      "id": "637",
+      "uri": "https://biblia-arabica.com/manuscript/637",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 21",
+      "altNames": [
+        "Paul (saint), 5‒67",
+        "[رسائل بولس]",
+        "[رسائل الكاثوليكون]",
+        "[أعمال الرسل]"
+      ],
+      "file": "data/manuscripts/637.xml"
     }
   ]
 }
