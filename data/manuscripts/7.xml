@@ -59,6 +59,7 @@
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-30"/>
                                     <change who="#nfaqsh" when="2026-11-12"/>
+                                    <change who="#nfaqsh" when="2026-11-13"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -67,8 +68,8 @@
                                         <msDesc>
                                             <msIdentifier>
                                                 <country>مصر</country>
-                                                <settlement>دير القديسة كاترينة</settlement>
-                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <settlement>Sinai</settlement>
+                                                <repository>Saint Catherine</repository>
                                                 <collection>عهد قديم</collection>
                                                 <idno>٤</idno>
                                                 <altIdentifier>
@@ -80,11 +81,14 @@
                                                 </geogName>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>يحتوي على أسفار موسى الخمسة.</summary>
+                                                <summary xml:lang="ar">
+                                                    <p>The manuscript contains the Five Books of Moses (the Pentateuch).</p>
+                                                </summary>
                                                 <msItem xml:id="msitem-1">
-                                                    <locus from="١أ" to="٦٤ب"/>
-                                                    <title>الكتاب الأول: سفر الخليقة، أي التكوين</title>
-                                                    <author>جبريل بن موسى</author>
+                                                    <locus from="1r" to="64v"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/1">Genesis (Bereshit)</title>
+                                                    <author>Jibrīl ibn Mūsā.</author>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>الفردوس وكان ينفصل من هناك ويتفرق على أربعة أنهار اسم أحدها فيشون الذي يحيط بجميع أرض الهند وتلك البلاد كثيرة الذهب</quote>
                                                     </incipit>
@@ -95,8 +99,8 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-2">
-                                                    <locus from="٦٥ب" to="١٢٥ب"/>
-                                                    <title>الكتاب الثاني: الخروج</title>
+                                                    <locus from="65 v" to="125 v"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/2">Exodus (Shemot)</title>
                                                     <incipit>
                                                         <quote>
                                                             <p>بسم الله الرحمن الرحيم ترجمة السفر الثاني من التوره وهذه اسما بني اسراييل .الدين دخلوا مصر مع بعض دخل كل امرئ منهم باهل بيته</p>
@@ -109,20 +113,20 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-3">
-                                                    <locus from="١٢٦ب" to="١٧٠ب"/>
-                                                    <title>الكتاب الثالث: سفر الأحبار، اللاويين</title>
+                                                    <locus from="126 v" to="170 v"/>
+                                                    <title>Leviticus (Wayiqra)</title>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم هذا السفر الثالث من التوراه وهو سفر الكهنه وفيه تلخيص القرابين واسير ما حرم وما حلل. ودعا الرب موسى وكلمه من قبه الامد وقال له كلم بني اسراييل وقل لهم كل انسان منكم اذا قرب للرب قربانا من البهايم فلتكن قرابينكن من البقر والغنم.</quote>
                                                     </incipit>
                                                     <explicit>
                                                         <quote>
-                                                            <p>ولا يسل صاحبه عن جودته او رداته ولا يبدله بغيره وان ابدله بغيره يصير هو وبديله مقدسين للرب فلا يخلصا .هذه الوصايا والسنن التي امر الله بها بني اسراييل على يدي موسى في حبل وهي على الارجح -جبل- (..) ربما سينا ! انقضى بعون الله السفر الثالث من اسفار التوراه</p>
+                                                            <p>ولا يسل صاحبه عن جودته او رداته ولا يبدله بغيره وان ابدله بغيره يصير هو وبديله مقدسين للرب فلا يخلصا .هذه الوصايا والسنن التي امر الله بها بني اسراييل على يدي موسى في حبل سينا ! انقضى بعون الله السفر الثالث من اسفار التوراه</p>
                                                         </quote>
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-4">
-                                                    <locus from="١٧١ب" to="٢٢٩ب"/>
-                                                    <title>الكتاب الرابع: العدد</title>
+                                                    <locus from="171 v" to="229 v"/>
+                                                    <title xml:lang="ar">Numbers (Bemidbar)</title>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم ترجمة السفر الرابع من اسفار التوره. قال الرب كلم موسى النبي في جبل سينا وفي قبه الامد في اول يوم من الشهر الثاني في السنه الثانيه لخروج بني اسراييل من مصر.</quote>
                                                     </incipit>
@@ -133,18 +137,18 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-5">
-                                                    <locus from="٢٣٠ب" to="٢٨٠ب"/>
-                                                    <title>الكتاب الخامس: التثنية</title>
+                                                    <locus from="230 v" to="280 v"/>
+                                                    <title xml:lang="ar">Deuteronomy (Devarim)</title>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم ترجمة السفر الخامس من التوره هذه الايات والاقوال التي قال موسى لبني اسراييل عند مجار الاردن</quote>
                                                     </incipit>
                                                     <explicit>
                                                         <quote>
-                                                            <p>وعمل جميع الايات التي ارسله ان يعلمها بأرض مصر بفرعون وجميع عبيده وكل ارضه واكمل كل اليد العزيزة المطو العظيم الذين عاين جميع بني اسرايل من فعال موسى - انقضى بعون الله السفر الخامس من اسفار التوريه وتكت ترجمتها- والتوره خمسة أسفار مايه وستة وعشرون اصحاحا منها السفر الأول الذي يسمى سفر الخليقة اربعه وثلثون اصحاحا والسفر الثاني سته وعشرون اصحاحا والسفر الثالث وهو الذي يسمى سفر الاحبا عشرين والسفر الرابع وهو الذي يسمى سفر العدد سته وعشرون اصحاحا والسفر الخامس عشرون اصحاحا.</p>
+                                                            <p>وعمل جميع الايات التي ارسله ان يعلمها بأرض مصر بفرعون وجميع عبيده وكل ارضه واكمل كل اليد العزيزة المطو العظيم الذين عاين جميع بني اسرايل من فعال موسى - انقضى بعون الله السفر الخامس من اسفار التوريه و ترجمتها- والتوره خمسة أسفار مايه وستة وعشرون اصحاحا منها السفر الأول الذي يسمى سفر الخليقة اربعه وثلثون اصحاحا والسفر الثاني سته وعشرون اصحاحا والسفر الثالث وهو الذي يسمى سفر الاحبا عشرين والسفر الرابع وهو الذي يسمى سفر العدد سته وعشرون اصحاحا والسفر الخامس عشرون اصحاحا.</p>
                                                         </quote>
                                                     </explicit>
                                                     <note xml:lang="ar">
-                                                        <p>ملاحظات حول المخطوط: يبدأ المخطوط بالآية العاشرة من الاصحاح الثاني من سفر التكوين المخطوط بال ومتآكل في أكثر من موضع الهوامش ضيقة الحواف مقصوصة ومتأكله مع الأسطر الأولى في بعص الصفحات عند البداية والنهاية يختلف هذا النص الخطي عن المخطوط رقم ٣ والاثنان يختلفان عن النسخة المطبوعة ورد هذا المخطوط في كتالوج ج مز.م.د.جبسون تحت اسم (كتاب مقالات عن سيرة ابراهيم) قامت بعتثة مكتبة الكونجرس وجامعة الاسكندريه بتصويره بالميكروفيلم سنة ١٩٥٠ قلوفون بتاريخ المخطوط وكاتبه ورقه (٢٨١أ) نصه: انقضى نسخها يوم الجمعة لثلث ليال خلون من رجب سنة ثلث وخمسين وثلثمايه وكان ذلك اليوم من تموز يوم عيد مار قراقوس وهي بخط جبريل بن موسى المعروف -حسلعه- هكذا وردت في عطية ، وقد تكون حنبله! الكاتب رضي الله عنه رضا أبراره واحبابه ورحم من قرأ أو قري عليه فقال امين امين. وهناك تعليق إضافي بخط نسخي حسن يختلف عن الأصل بقلم أحد القراء ورقة (٢٨١ أ): طالع في هذه التوريه المقدسه عبد عبيد الكلمه الالهيه ميخاييل المصري بدير طورسينا المقدس وذلك في سنة سبعمايه وادح للهجرة الرب الاله يعني لمن دعى له. لوحظ تحسن الخط قليلا ووضوحه عند السفر الثالث وهو سفر الكهنه.، ولكنه عاد بعدها كما في البداية</p>
+                                                        <p>The manuscript begins with verse 10 of chapter 2 of the Book of Genesis.</p>
                                                     </note>
                                                 </msItem>
                                             </msContents>
@@ -166,18 +170,55 @@
                                                         </extent>
                                                         <collation>
                                                             <note xml:lang="ar">
-                                                                <p>نسخ رديئ</p>
+                                                                <p>The text is written in a poorly legible Naskh hand.</p>
                                                             </note>
                                                         </collation>
                                                     </supportDesc>
+                                                    <layoutDesc>
+                                                        <summary>
+                                                            <note>
+                                                                <p>The manuscript is worn and deteriorated in several places. The margins are narrow, and the edges are cropped and damaged. The opening lines of some pages, as well as the beginning and end of the text, have also suffered damage.</p>
+                                                                <p>The handwritten text differs from that of Manuscript No. 3, and both differ from the printed edition.</p>
+                                                                <p>This manuscript is listed in Gibson’s catalogue under the title Kitāb Maqālāt ʿan Sīrat Ibrāhīm (Book of Essays on the Life of Abraham).</p>
+                                                                <p>It was microfilmed in 1950 by a joint expedition of the Library of Congress and Alexandria University.</p>
+                                                            </note>
+                                                        </summary>
+                                                    </layoutDesc>
                                                 </objectDesc>
+                                                <handDesc>
+                                                    <handNote medium="black" xml:id="hand-1">
+                                                        <note>
+                                                            <p>The handwriting shows a slight improvement in quality and legibility in the third book, Leviticus, but thereafter reverts to its initial condition.</p>
+                                                        </note>
+                                                    </handNote>
+                                                </handDesc>
+                                                <additions>
+                                                    <list>
+                                                        <item xml:id="addition-1">
+                                                            <objectType>Colophon</objectType>
+                                                            <locus from="281 r"/>
+                                                            <quote type="transcription" xml:lang="ar">
+                                                                <p>انقضى نسخها يوم الجمعة لثلث ليال خلون من رجب سنة ثلث وخمسين وثلثمايه وكان ذلك اليوم من تموز يوم عيد مار قراقوس وهي بخط جبريل بن موسى المعروف -حسلعه- ! الكاتب رضي الله عنه رضا ابراره واحبابه ورحم من قرأ أو قري عليه فقال امين امين.</p>
+                                                            </quote>
+                                                        </item>
+                                                        <item xml:id="addition-2">
+                                                            <objectType>Proofreading note</objectType>
+                                                            <locus from="281 r"/>
+                                                            <quote type="transcription" xml:lang="ar">
+                                                                <p>An additional note, written in a neat Naskh hand distinct from the original script, appears to have been added by one of the readers on folio 281 r:</p>
+                                                                <p>طالع في هذه التوريه المقدسه عبد عبيد الكلمه الالهيه ميخاييل المصري بدير طورسينا المقدس وذلك في سنة سبعمايه وادح للهجرة الرب الاله يعني لمن دعى له.</p>
+                                                                <p/>
+                                                            </quote>
+                                                        </item>
+                                                    </list>
+                                                </additions>
                                                 <bindingDesc>
                                                     <binding>
                                                         <decoNote>
-                                                            <origPlace>الجانب الأيمن مفقود</origPlace>
+                                                            <origPlace>right side</origPlace>
                                                             <material>Wood</material>
                                                             <note>
-                                                                <p>غلاف خشبي مكسو بجلد بني- الجانب الأيمن من الغلاف مفقود.</p>
+                                                                <p>A wooden binding covered with brown leather; the right side of the cover is missing.</p>
                                                             </note>
                                                         </decoNote>
                                                         <condition key="deficient"/>
@@ -200,6 +241,7 @@
                                                     <listBibl>
                                                         <bibl>
                                                             <title>Digital image online</title>
+                                                            <publisher>ULCA</publisher>
                                                             <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1989wgw"/>
                                                         </bibl>
                                                     </listBibl>
