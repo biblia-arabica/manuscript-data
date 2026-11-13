@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:13:20.720Z",
+  "generated": "2026-11-13T18:13:39.775Z",
   "type": "manuscript",
   "records": [
     {
@@ -7976,6 +7976,15 @@
         "الأناجيل"
       ],
       "file": "data/manuscripts/686.xml"
+    },
+    {
+      "id": "687",
+      "uri": "https://biblia-arabica.com/manuscript/687",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 611",
+      "altNames": [
+        "كتاب الانجيل الطاهر والمصباح"
+      ],
+      "file": "data/manuscripts/687.xml"
     }
   ]
 }
