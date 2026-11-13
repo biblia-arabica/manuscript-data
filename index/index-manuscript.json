@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:51:30.135Z",
+  "generated": "2026-11-13T17:52:16.000Z",
   "type": "manuscript",
   "records": [
     {
@@ -7619,6 +7619,15 @@
         "[كتاب الأناجيل]"
       ],
       "file": "data/manuscripts/650.xml"
+    },
+    {
+      "id": "651",
+      "uri": "https://biblia-arabica.com/manuscript/651",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 20",
+      "altNames": [
+        "[أعمال الرسل]"
+      ],
+      "file": "data/manuscripts/651.xml"
     }
   ]
 }
