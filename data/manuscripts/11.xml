@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-30"/>
+                                    <change who="#nfaqsh" when="2026-11-13"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -68,12 +69,11 @@
                                                 <country>مصر</country>
                                                 <settlement>دير القديسة كاترينة</settlement>
                                                 <repository>مكتبة دير طور سيناء</repository>
-                                                <collection>عهد قديم</collection>
+                                                <collection>Arabic</collection>
                                                 <idno>10</idno>
                                                 <altIdentifier>
                                                     <idno>Arabic 10</idno>
                                                 </altIdentifier>
-                                                <msName>العهد القديم أسفار موسى الخمسة</msName>
                                                 <geogName>
                                                     <geo/>
                                                 </geogName>
