@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:28:45.890Z",
+  "generated": "2026-11-13T17:31:14.236Z",
   "type": "manuscript",
   "records": [
     {
@@ -7242,6 +7242,15 @@
         "Other"
       ],
       "file": "data/manuscripts/615.xml"
+    },
+    {
+      "id": "616",
+      "uri": "https://biblia-arabica.com/manuscript/616",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 9",
+      "altNames": [
+        "كتاب الانجيل الشريف الطاهر والمصباح المنير الزاهر مرتبا ترتيبا كنايسيا"
+      ],
+      "file": "data/manuscripts/616.xml"
     }
   ]
 }
