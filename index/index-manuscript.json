@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:58:35.832Z",
+  "generated": "2026-11-13T17:59:00.768Z",
   "type": "manuscript",
   "records": [
     {
@@ -7659,6 +7659,17 @@
         "بشارة القديس التلميذ البتول يوحنا الانجيلي الرسول ابن زبدي حبيب ربنا يسوع المسيح"
       ],
       "file": "data/manuscripts/654.xml"
+    },
+    {
+      "id": "655",
+      "uri": "https://biblia-arabica.com/manuscript/655",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 65",
+      "altNames": [
+        "Serge Ier de Constantinople",
+        "[المزامير]",
+        "[ترنيمة القيام]"
+      ],
+      "file": "data/manuscripts/655.xml"
     }
   ]
 }
