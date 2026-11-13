@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:10:51.774Z",
+  "generated": "2026-11-13T18:11:21.033Z",
   "type": "manuscript",
   "records": [
     {
@@ -7939,6 +7939,15 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/682.xml"
+    },
+    {
+      "id": "683",
+      "uri": "https://biblia-arabica.com/manuscript/683",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 606.pt.1",
+      "altNames": [
+        "[التوراة مع بعض التفسير]"
+      ],
+      "file": "data/manuscripts/683.xml"
     }
   ]
 }
