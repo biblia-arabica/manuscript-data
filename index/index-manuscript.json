@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:57:00.737Z",
+  "generated": "2026-11-13T17:57:26.060Z",
   "type": "manuscript",
   "records": [
     {
@@ -7637,6 +7637,19 @@
         "الابركسيس"
       ],
       "file": "data/manuscripts/652.xml"
+    },
+    {
+      "id": "653",
+      "uri": "https://biblia-arabica.com/manuscript/653",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 201",
+      "altNames": [
+        "فصول الانجيل مقسمة على الرمان السنة بحسب ترتيب الكنيسة السريانية مكتوبا في الموصل",
+        "كتاب أخر من فصول الانجيل مكتوبا في مردين",
+        "كتاب حكمة يشوع ابن سيراخ",
+        "خبر افيقيا الحكمة امراة يشوع ابن سيراخ",
+        "خبر الحكيم الماهر الفيلسوف الشاطر حيقار"
+      ],
+      "file": "data/manuscripts/653.xml"
     }
   ]
 }
