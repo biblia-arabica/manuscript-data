@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:13:39.775Z",
+  "generated": "2026-11-13T18:13:56.423Z",
   "type": "manuscript",
   "records": [
     {
@@ -7985,6 +7985,15 @@
         "كتاب الانجيل الطاهر والمصباح"
       ],
       "file": "data/manuscripts/687.xml"
+    },
+    {
+      "id": "688",
+      "uri": "https://biblia-arabica.com/manuscript/688",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 790",
+      "altNames": [
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/688.xml"
     }
   ]
 }
