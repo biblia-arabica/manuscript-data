@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:25:38.925Z",
+  "generated": "2026-11-13T18:26:45.284Z",
   "type": "manuscript",
   "records": [
     {
@@ -8039,6 +8039,26 @@
         "The book of Genesis."
       ],
       "file": "data/manuscripts/693.xml"
+    },
+    {
+      "id": "694",
+      "uri": "https://biblia-arabica.com/manuscript/694",
+      "headword": "University Library Add. 1904",
+      "altNames": [
+        "Petermann, Jul. Henr. (Julius Heinrich) 1801-1876",
+        "Petermann's papers"
+      ],
+      "file": "data/manuscripts/694.xml"
+    },
+    {
+      "id": "695",
+      "uri": "https://biblia-arabica.com/manuscript/695",
+      "headword": "University Library Add. 1905",
+      "altNames": [
+        "Mark, Saint",
+        "Gospel of St Mark"
+      ],
+      "file": "data/manuscripts/695.xml"
     }
   ]
 }
