@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:02:46.708Z",
+  "generated": "2026-11-13T18:03:23.513Z",
   "type": "manuscript",
   "records": [
     {
@@ -7759,6 +7759,18 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/664.xml"
+    },
+    {
+      "id": "665",
+      "uri": "https://biblia-arabica.com/manuscript/665",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 23",
+      "altNames": [
+        "Paul (saint), 5‒67",
+        "[رسائل بولس]",
+        "القتاليقون الرسايل السبع",
+        "[أعمال الرسل]"
+      ],
+      "file": "data/manuscripts/665.xml"
     }
   ]
 }
