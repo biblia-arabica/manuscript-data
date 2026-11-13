@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:47:01.388Z",
+  "generated": "2026-11-13T17:47:57.403Z",
   "type": "manuscript",
   "records": [
     {
@@ -7556,6 +7556,15 @@
         "منافع المزامير"
       ],
       "file": "data/manuscripts/643.xml"
+    },
+    {
+      "id": "644",
+      "uri": "https://biblia-arabica.com/manuscript/644",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 2",
+      "altNames": [
+        "[التوراة]"
+      ],
+      "file": "data/manuscripts/644.xml"
     }
   ]
 }
