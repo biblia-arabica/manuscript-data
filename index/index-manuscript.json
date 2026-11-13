@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:46:39.025Z",
+  "generated": "2026-11-13T17:47:01.388Z",
   "type": "manuscript",
   "records": [
     {
@@ -7544,6 +7544,18 @@
         "كتاب زبور داوود"
       ],
       "file": "data/manuscripts/642.xml"
+    },
+    {
+      "id": "643",
+      "uri": "https://biblia-arabica.com/manuscript/643",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 450",
+      "altNames": [
+        "لستنا السيدة",
+        "العاشرة لزخاريا ابو يوحنا",
+        "[المزامير]",
+        "منافع المزامير"
+      ],
+      "file": "data/manuscripts/643.xml"
     }
   ]
 }
