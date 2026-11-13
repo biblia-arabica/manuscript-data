@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:04:27.730Z",
+  "generated": "2026-11-13T18:04:47.529Z",
   "type": "manuscript",
   "records": [
     {
@@ -7798,6 +7798,15 @@
         "[المزامير]"
       ],
       "file": "data/manuscripts/667.xml"
+    },
+    {
+      "id": "668",
+      "uri": "https://biblia-arabica.com/manuscript/668",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 278",
+      "altNames": [
+        "سفر يشوع"
+      ],
+      "file": "data/manuscripts/668.xml"
     }
   ]
 }
