@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:01:32.946Z",
+  "generated": "2026-11-13T18:02:02.417Z",
   "type": "manuscript",
   "records": [
     {
@@ -7727,6 +7727,16 @@
         "[العهد الجديد]"
       ],
       "file": "data/manuscripts/661.xml"
+    },
+    {
+      "id": "662",
+      "uri": "https://biblia-arabica.com/manuscript/662",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 773",
+      "altNames": [
+        "[قاموس الكتاب المقدس]",
+        "[العهد القديم]"
+      ],
+      "file": "data/manuscripts/662.xml"
     }
   ]
 }
