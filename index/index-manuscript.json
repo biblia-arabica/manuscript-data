@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:11:21.033Z",
+  "generated": "2026-11-13T18:11:49.793Z",
   "type": "manuscript",
   "records": [
     {
@@ -7948,6 +7948,15 @@
         "[التوراة مع بعض التفسير]"
       ],
       "file": "data/manuscripts/683.xml"
+    },
+    {
+      "id": "684",
+      "uri": "https://biblia-arabica.com/manuscript/684",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 606.pt.2",
+      "altNames": [
+        "[التوراة مع بعض التفسير]"
+      ],
+      "file": "data/manuscripts/684.xml"
     }
   ]
 }
