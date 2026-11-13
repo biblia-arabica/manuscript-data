@@ -56,10 +56,11 @@
                                         <p>Born digital.</p>
                                     </sourceDesc>
                                 </fileDesc>
-                                <revisionDesc status="draft">
+                                <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-30"/>
                                     <change who="#nfaqsh" when="2026-11-10"/>
                                     <change who="#nfaqsh" when="2026-11-12"/>
+                                    <change who="#nfaqsh" when="2026-11-13"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -68,10 +69,10 @@
                                         <msDesc>
                                             <msIdentifier>
                                                 <country>مصر</country>
-                                                <settlement>دير القديسة كاترينة</settlement>
-                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <settlement>Sinai</settlement>
+                                                <repository>Saint Catherine</repository>
                                                 <collection>عهد قديم</collection>
-                                                <idno>٢</idno>
+                                                <idno>2</idno>
                                                 <altIdentifier>
                                                     <idno>Arabic 2</idno>
                                                 </altIdentifier>
@@ -81,10 +82,12 @@
                                                 </geogName>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>يشمل أسفار موسى الخمسة ونبوة دانيال.</summary>
+                                                <summary xml:lang="ar">
+                                                    <p>The Five Books of Moses (Pentateuch) and the Prophecies of Daniel.</p>
+                                                </summary>
                                                 <msItem xml:id="msitem-1">
-                                                    <locus from="٢ أ" to="٨١ أ"/>
-                                                    <title>سفر التكوين</title>
+                                                    <locus from="2 r" to="81 r"/>
+                                                    <title ref="https://biblia-arabica.com/work/1">Genesis (Bereshit)</title>
                                                     <author ref="http://www.wikidata.org/entity/Q24238356">unknown (entity whose identity is not known)</author>
                                                     <textLang mainLang="ar" otherLangs="en"/>
                                                     <incipit>
@@ -95,8 +98,9 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-2" class="bible">
-                                                    <locus from="٨١ ب" to="١٤١ أ"/>
-                                                    <title>الخروج</title>
+                                                    <locus from="81 v" to="141 r"/>
+                                                    <title ref="https://biblia-arabica.com/work/2">Exodus (Shemot)</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>
                                                             <p>هذا كتاب مخرج بني اسرايل من مصر السفر الثاني من التوراه هاولى اسما الذين دخلو  مصر مع يعقوب كل رجل واهل بيته ، وروبيا وسمعان ، لاوى ويهودا، استخر ،زابلون وبنيامين</p>
@@ -107,8 +111,9 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-3">
-                                                    <locus from="١٤١ ب" to="١٧٨ ب"/>
-                                                    <title>اللاويين</title>
+                                                    <locus from="141 v" to="178 v"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/3">Leviticus (Wayiqra)</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم نبتدى بعون الله بكتاب السفر الثالث من التوراه- ودعا الله لموسى وكلمه من قبة الزمن وقال له كلم بني اسرايل قلم ايما رجل منكم اراد يقرب قربانا لله من الانعام.</quote>
                                                     </incipit>
@@ -117,8 +122,9 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-4">
-                                                    <locus from="١٧٩ أ" to="٢١٦ أ"/>
-                                                    <title>العدد</title>
+                                                    <locus from="179 r" to="216 r"/>
+                                                    <title xml:lang="ar" ref="https://biblia-arabica.com/work/4">Numbers (Bemidbar)</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>بسم الله الرحم الرحيم - هذا السفر الرابع من التوراه ، اذ امر الله موسى بعدد بني اسرايل- كلم الله موسى في قبة الزمن في برية سينا وقال له في يوم من الشهر الثاني من السنة الثالثة من مخرج بني اسرايل</quote>
                                                     </incipit>
@@ -127,8 +133,9 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-5">
-                                                    <locus from="٢١٦ ب" to="٢٤٦ ب"/>
-                                                    <title>المثناه ، كذا في الأصل والمقصود سفر التثنية</title>
+                                                    <locus from="216 v" to="246 v"/>
+                                                    <title ref="https://biblia-arabica.com/work/5">Deuteronomy (Devarim)</title>
+                                                    <textLang mainLang="ar"/>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم - هذا السفر الخامس من التوراه وهو سفر المثناه- هذا القول الذي قال موسى لبني اسرايل كلهم وهم في عبر الاردن في القفار في عربات مقابل سوف بين فاران وبين تفل لبنان وحصروث</quote>
                                                     </incipit>
@@ -137,17 +144,14 @@
                                                     </explicit>
                                                 </msItem>
                                                 <msItem xml:id="msitem-6">
-                                                    <locus from="٢٤٧ أ" to="٢٦٦ ب"/>
-                                                    <title>دانيال، وفقاً للترجمة السبعينية، ويلحق به قصة الوحش والتنين وهي غير كاملة</title>
+                                                    <locus from="247 r" to="266 v"/>
+                                                    <title>Daniel ، وفقاً للترجمة السبعينية، ويلحق به قصة الوحش والتنين وهي غير كاملة</title>
                                                     <incipit>
                                                         <quote>بسم الله الرحمن الرحيم - هذه نبوة دانيل النبي المبارك- في ثلثه سنين من ملك يواقيم ملك يهوذا اقبل بخت ناصر ملك بابل الى اورشلم</quote>
                                                     </incipit>
                                                     <explicit>
                                                         <quote>وانا الملك في اليوم السابع وهو يبكي على دانيل لانه قد كان حزن على دانيل حزن شديد وانه اتا الى الجب وتطلع فيه ونظر الى دانيل جالس فنادى</quote>
                                                     </explicit>
-                                                    <note>
-                                                        <p>ملاحظات حول المخطوط: كتب تعليق ورقة ١ ب بخط نسخ غليظ غير متقن ويختلف عن الأصل ويشمل اسم مقتنيه ومصدره وتاريخه: بسم الاب والابن والروح القدس اليه واحد يقول الخاطى صلمون المسما اسقف جبل الله المقدس طورسينا المعروف با الطورى المقدس اني اشترات (كذا) هذا المصحف من دمشق من رجلالموضع وبدراهمه وحبسته على طورسينا (.......) وكتب الخاطى المسكين صلمون ..... بخطه يوم الخميس لثلثه بقين من شهر المحرم سنة اثنين وسبعين و ... التاريخ غير مكتمل وذالك بسبب تلف الورقة عند نهايتها ولكن من المحتمل أنه سنة (٣٧٢ه/٩٨٢-٩٨٣م) تاريخ المخطوط على وجه التحديد مكتوب في ورقة (٢٤٦ب) وكتب في سنة ثمان وعشرين وثلثمايه. الأوراق الأخيرة من المخطوط مفقودة، المخطوط من دمشق وقد أوقفه صاحبه ومشتريه على دير سيناء</p>
-                                                    </note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
@@ -170,11 +174,13 @@
                                                         <collation>
                                                             <formula>2</formula>
                                                             <note xml:lang="ar">
-                                                                <p>خط وسط بين الكوفي والنسخ القديم - العناوين ورءوس الموضوعات بالمداد الأحمر</p>
+                                                                <p>The manuscript is written in a script intermediate between Kufic and early Naskh. Titles and section headings are written in red ink.</p>
                                                             </note>
                                                         </collation>
                                                         <condition>
-                                                            <note xml:lang="ar"/>
+                                                            <note xml:lang="ar">
+                                                                <p>The presence of several distinct scribal hands and the use of different inks suggest that the manuscript was written by more than one scribe, possibly at different periods.</p>
+                                                            </note>
                                                         </condition>
                                                     </supportDesc>
                                                     <layoutDesc>
@@ -190,13 +196,53 @@
                                                     <summary xml:lang="ar">
                                                         <p>خط وسط بين الكوفي والنسخ القديم - العناوين ورءوس الموضوعات بالمداد الأحمر</p>
                                                     </summary>
+                                                    <handNote medium="black" xml:id="hand-1">
+                                                        <persName>2</persName>
+                                                        <placeName>Damascus</placeName>
+                                                    </handNote>
                                                 </handDesc>
+                                                <additions>
+                                                    <list>
+                                                        <item xml:id="addition-1">
+                                                            <objectType>Colophon</objectType>
+                                                            <locus from="1 r"/>
+                                                            <quote type="transcription" xml:lang="ar">
+                                                                <p>هذا كتاب التوراه لموسى بكر الانبيا خمسه اسفار تامه كامله نفع بذلك من قري وتفهم وتادب بما دونه الله ليعلم امين</p>
+                                                            </quote>
+                                                        </item>
+                                                        <item xml:id="addition-2">
+                                                            <objectType>Proofreading note</objectType>
+                                                            <locus from="1 r"/>
+                                                            <quote type="transcription">
+                                                                <p>Later, in another hand and ink, a subsequent owner or scholar who compared this copy with other manuscripts wrote: :</p>
+                                                                <p> على من يقرا هذه النسخه الا يركن للتاريخ من ادم الى ابراهيم مغير غير صحيح</p>
+                                                            </quote>
+                                                        </item>
+                                                        <item xml:id="addition-3">
+                                                            <objectType>Patronage</objectType>
+                                                            <locus from="1 v"/>
+                                                            <quote type="transcription">
+                                                                <p>Written in a somewhat unskilled Naskh hand, distinct from the main scribal hand, recording the name of the manuscript’s owner, its provenance, and the date.</p>
+                                                                <p>بسم الاب والابن والروح القدس اليه واحد يقول الخاطى صلمون المسما اسقف جبل الله المقدس طورسينا المعروف با الطورس المقدس اني اشترات هذا المصحف من دمشق من رجل الموصع وبدراهمه وحبسته على طورسينا حرسه الله</p>
+                                                                <p>The date is incomplete due to damage to the end of the leaf; it is tentatively identified as 372 AH (982–983 CE).</p>
+                                                                <p>وكتب الخاطى المسكين صلمون (.....)! بخطه يوم الخميس لثلثه بقين من شهر المحرم سنة اثنين وسبعين و !(... )</p>
+                                                            </quote>
+                                                        </item>
+                                                        <item xml:id="addition-4">
+                                                            <objectType>Colophon</objectType>
+                                                            <locus from="246 v"/>
+                                                            <quote type="transcription">
+                                                                <p>كمل السفر الخامس من التوراه بعون الله وقوته وكتب في سنه ثمان وعشرين وثلثمايه رحم الله من كتب وقري ودعا لكا فيه بالمغفرة امين امين </p>
+                                                            </quote>
+                                                        </item>
+                                                    </list>
+                                                </additions>
                                                 <bindingDesc>
                                                     <binding>
                                                         <decoNote>
                                                             <material>Wood</material>
                                                             <note>
-                                                                <p> غلاف خشبي مكسو بجلد بني - الجانب الأيسر من الغلاف مفقود</p>
+                                                                <p>A wooden binding covered with brown leather; the left side of the cover is missing.</p>
                                                             </note>
                                                         </decoNote>
                                                     </binding>
