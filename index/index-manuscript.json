@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:02:02.417Z",
+  "generated": "2026-11-13T18:02:31.349Z",
   "type": "manuscript",
   "records": [
     {
@@ -7737,6 +7737,17 @@
         "[العهد القديم]"
       ],
       "file": "data/manuscripts/662.xml"
+    },
+    {
+      "id": "663",
+      "uri": "https://biblia-arabica.com/manuscript/663",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 774",
+      "altNames": [
+        "Nieremberg, Juan Eusebio",
+        "[العهد القديم]",
+        "ميزان الزمان"
+      ],
+      "file": "data/manuscripts/663.xml"
     }
   ]
 }
