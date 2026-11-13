@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:25:19.340Z",
+  "generated": "2026-11-13T18:25:38.925Z",
   "type": "manuscript",
   "records": [
     {
@@ -8030,6 +8030,15 @@
         "The Four Gospels"
       ],
       "file": "data/manuscripts/692.xml"
+    },
+    {
+      "id": "693",
+      "uri": "https://biblia-arabica.com/manuscript/693",
+      "headword": "University Library Add_1865",
+      "altNames": [
+        "The book of Genesis."
+      ],
+      "file": "data/manuscripts/693.xml"
     }
   ]
 }
