@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:59:41.155Z",
+  "generated": "2026-11-13T18:00:12.434Z",
   "type": "manuscript",
   "records": [
     {
@@ -7689,6 +7689,15 @@
         "الأناجيل الأربعة"
       ],
       "file": "data/manuscripts/657.xml"
+    },
+    {
+      "id": "658",
+      "uri": "https://biblia-arabica.com/manuscript/658",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 314",
+      "altNames": [
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر"
+      ],
+      "file": "data/manuscripts/658.xml"
     }
   ]
 }
