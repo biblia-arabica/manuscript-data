@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:49:10.453Z",
+  "generated": "2026-11-13T17:49:53.966Z",
   "type": "manuscript",
   "records": [
     {
@@ -7583,6 +7583,15 @@
         "[المزامير]"
       ],
       "file": "data/manuscripts/646.xml"
+    },
+    {
+      "id": "647",
+      "uri": "https://biblia-arabica.com/manuscript/647",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 6",
+      "altNames": [
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/647.xml"
     }
   ]
 }
