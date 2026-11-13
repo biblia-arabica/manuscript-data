@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:59:00.768Z",
+  "generated": "2026-11-13T17:59:27.928Z",
   "type": "manuscript",
   "records": [
     {
@@ -7670,6 +7670,15 @@
         "[ترنيمة القيام]"
       ],
       "file": "data/manuscripts/655.xml"
+    },
+    {
+      "id": "656",
+      "uri": "https://biblia-arabica.com/manuscript/656",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 96",
+      "altNames": [
+        "[نصوص الكتاب المقدس مصنفة حسب المواضيع]"
+      ],
+      "file": "data/manuscripts/656.xml"
     }
   ]
 }
