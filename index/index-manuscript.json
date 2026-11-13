@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:06:48.924Z",
+  "generated": "2026-11-13T18:07:21.200Z",
   "type": "manuscript",
   "records": [
     {
@@ -7834,6 +7834,24 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/671.xml"
+    },
+    {
+      "id": "672",
+      "uri": "https://biblia-arabica.com/manuscript/672",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 468",
+      "altNames": [
+        "[العهد القديم]"
+      ],
+      "file": "data/manuscripts/672.xml"
+    },
+    {
+      "id": "673",
+      "uri": "https://biblia-arabica.com/manuscript/673",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 483",
+      "altNames": [
+        "بشارة القديس الجليل التلميذ الرسول يوحنا ابن زبدى"
+      ],
+      "file": "data/manuscripts/673.xml"
     }
   ]
 }
