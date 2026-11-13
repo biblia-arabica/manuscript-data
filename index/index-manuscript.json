@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:07:21.200Z",
+  "generated": "2026-11-13T18:07:37.573Z",
   "type": "manuscript",
   "records": [
     {
@@ -7852,6 +7852,15 @@
         "بشارة القديس الجليل التلميذ الرسول يوحنا ابن زبدى"
       ],
       "file": "data/manuscripts/673.xml"
+    },
+    {
+      "id": "674",
+      "uri": "https://biblia-arabica.com/manuscript/674",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 501",
+      "altNames": [
+        "بشارة القديس الجليل التلميذ الرسول يوحنا ابن زبدى"
+      ],
+      "file": "data/manuscripts/674.xml"
     }
   ]
 }
