@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:14:20.154Z",
+  "generated": "2026-11-13T18:14:39.011Z",
   "type": "manuscript",
   "records": [
     {
@@ -8003,6 +8003,19 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/689.xml"
+    },
+    {
+      "id": "690",
+      "uri": "https://biblia-arabica.com/manuscript/690",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 1278",
+      "altNames": [
+        "Jean Chrysostome, 347?‒407 ; saint",
+        "[المزامير]",
+        "خدمة القداس الالهي للقديس يوحنا فم الذهب",
+        "كتاب اورولوجيون الصلوات المفروضة في السبعة اوقات",
+        "طروباريات"
+      ],
+      "file": "data/manuscripts/690.xml"
     }
   ]
 }
