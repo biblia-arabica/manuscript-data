@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:10:11.523Z",
+  "generated": "2026-11-13T18:10:32.338Z",
   "type": "manuscript",
   "records": [
     {
@@ -7921,6 +7921,15 @@
         "[بعض تسبحات من كتاب المقدس]"
       ],
       "file": "data/manuscripts/680.xml"
+    },
+    {
+      "id": "681",
+      "uri": "https://biblia-arabica.com/manuscript/681",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 589",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/681.xml"
     }
   ]
 }
