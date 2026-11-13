@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:26:45.284Z",
+  "generated": "2026-11-13T18:27:06.372Z",
   "type": "manuscript",
   "records": [
     {
@@ -8059,6 +8059,15 @@
         "Gospel of St Mark"
       ],
       "file": "data/manuscripts/695.xml"
+    },
+    {
+      "id": "696",
+      "uri": "https://biblia-arabica.com/manuscript/696",
+      "headword": "University Library Add_1962",
+      "altNames": [
+        "The Pentateuch in the Peshiṭta version."
+      ],
+      "file": "data/manuscripts/696.xml"
     }
   ]
 }
