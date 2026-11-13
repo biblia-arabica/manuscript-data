@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-11-10"/>
+                                    <change who="#nfaqsh" when="2026-11-13"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -68,7 +69,7 @@
                                                 <country>Egypt</country>
                                                 <settlement>دير القديسة كاتيرينا</settlement>
                                                 <repository>مكتبة طورسينا</repository>
-                                                <collection>عهد قديم</collection>
+                                                <collection>Arabic</collection>
                                                 <idno>351</idno>
                                             </msIdentifier>
                                             <msContents>
