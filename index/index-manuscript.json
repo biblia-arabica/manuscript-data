@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:29:05.947Z",
+  "generated": "2026-11-13T18:29:30.943Z",
   "type": "manuscript",
   "records": [
     {
@@ -8148,6 +8148,15 @@
         "Chronicles"
       ],
       "file": "data/manuscripts/703.xml"
+    },
+    {
+      "id": "704",
+      "uri": "https://biblia-arabica.com/manuscript/704",
+      "headword": "University Library Add. 3216",
+      "altNames": [
+        "The four Gospels"
+      ],
+      "file": "data/manuscripts/704.xml"
     }
   ]
 }
