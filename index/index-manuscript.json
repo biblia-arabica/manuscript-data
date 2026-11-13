@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:38:09.116Z",
+  "generated": "2026-11-13T17:38:29.244Z",
   "type": "manuscript",
   "records": [
     {
@@ -7396,6 +7396,15 @@
         "[قصة الطفل الذي أراد والداه قتله]"
       ],
       "file": "data/manuscripts/627.xml"
+    },
+    {
+      "id": "628",
+      "uri": "https://biblia-arabica.com/manuscript/628",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 405",
+      "altNames": [
+        "الانجيل الشريف الطاهر والمصباح المنير الزاهر"
+      ],
+      "file": "data/manuscripts/628.xml"
     }
   ]
 }
