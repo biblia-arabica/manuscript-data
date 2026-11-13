@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:37:32.740Z",
+  "generated": "2026-11-13T17:37:52.385Z",
   "type": "manuscript",
   "records": [
     {
@@ -7359,6 +7359,15 @@
         "فصول الاناجيل لايام الاعياد"
       ],
       "file": "data/manuscripts/625.xml"
+    },
+    {
+      "id": "626",
+      "uri": "https://biblia-arabica.com/manuscript/626",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 64",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/626.xml"
     }
   ]
 }
