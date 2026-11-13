@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:07:37.573Z",
+  "generated": "2026-11-13T18:08:27.869Z",
   "type": "manuscript",
   "records": [
     {
@@ -7861,6 +7861,19 @@
         "بشارة القديس الجليل التلميذ الرسول يوحنا ابن زبدى"
       ],
       "file": "data/manuscripts/674.xml"
+    },
+    {
+      "id": "675",
+      "uri": "https://biblia-arabica.com/manuscript/675",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 517",
+      "altNames": [
+        "Paul (saint), 5‒67",
+        "[رسائل بولس]",
+        "[رسائل الكاثوليكون]",
+        "أعمال الرسل",
+        "رؤيا يوحنا"
+      ],
+      "file": "data/manuscripts/675.xml"
     }
   ]
 }
