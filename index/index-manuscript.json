@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:45:30.511Z",
+  "generated": "2026-11-13T17:45:45.512Z",
   "type": "manuscript",
   "records": [
     {
@@ -7514,6 +7514,17 @@
         "إنجيل مرقس"
       ],
       "file": "data/manuscripts/639.xml"
+    },
+    {
+      "id": "640",
+      "uri": "https://biblia-arabica.com/manuscript/640",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 52",
+      "altNames": [
+        "طلبات",
+        "[مجموعة من الصلوات ورموز الإيمان]",
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/640.xml"
     }
   ]
 }
