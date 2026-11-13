@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:27:40.019Z",
+  "generated": "2026-11-13T18:28:00.142Z",
   "type": "manuscript",
   "records": [
     {
@@ -8092,6 +8092,18 @@
         "The Revelation of St John"
       ],
       "file": "data/manuscripts/698.xml"
+    },
+    {
+      "id": "699",
+      "uri": "https://biblia-arabica.com/manuscript/699",
+      "headword": "University Library Add. 236",
+      "altNames": [
+        "The books of Job",
+        "The books of Proverbs",
+        "The books of Ecclesiastes",
+        "The books of the Song of Solomon and Isaiah"
+      ],
+      "file": "data/manuscripts/699.xml"
     }
   ]
 }
