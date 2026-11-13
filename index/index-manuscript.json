@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:14:59.315Z",
+  "generated": "2026-11-13T18:15:22.120Z",
   "type": "manuscript",
   "records": [
     {
@@ -8012,6 +8012,15 @@
         "كتاب الأناجيل المقدسة"
       ],
       "file": "data/manuscripts/690.xml"
+    },
+    {
+      "id": "691",
+      "uri": "https://biblia-arabica.com/manuscript/691",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 2042",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/691.xml"
     }
   ]
 }
