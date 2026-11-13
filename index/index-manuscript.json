@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:32:10.752Z",
+  "generated": "2026-11-13T17:32:36.926Z",
   "type": "manuscript",
   "records": [
     {
@@ -7289,6 +7289,22 @@
         "اعتقاد الايمان الارتودكسي"
       ],
       "file": "data/manuscripts/619.xml"
+    },
+    {
+      "id": "620",
+      "uri": "https://biblia-arabica.com/manuscript/620",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 48",
+      "altNames": [
+        "Paul (saint), 5‒67",
+        "Gisolfo, Pietro",
+        "سفر الخليقة",
+        "سفر الخروج",
+        "[الأناجيل]",
+        "الابركسيس أخبار أبائنا الرسل",
+        "[رسائل بولس]",
+        "تدريب لاجل المرسل"
+      ],
+      "file": "data/manuscripts/620.xml"
     }
   ]
 }
