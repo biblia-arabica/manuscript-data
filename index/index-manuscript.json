@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T10:46:04.725Z",
+  "generated": "2026-11-13T10:47:58.401Z",
   "type": "manuscript",
   "records": [
     {
@@ -74,12 +74,12 @@
       "uri": "https://biblia-arabica.com/manuscript/7",
       "headword": "Saint Catherine Monastery Ar. 4",
       "altNames": [
-        "جبريل بن موسى",
-        "الكتاب الأول: سفر الخليقة، أي التكوين",
-        "الكتاب الثاني: الخروج",
-        "الكتاب الثالث: سفر الأحبار، اللاويين",
-        "الكتاب الرابع: العدد",
-        "الكتاب الخامس: التثنية"
+        "Jibrīl ibn Mūsā.",
+        "Genesis (Bereshit)",
+        "Exodus (Shemot)",
+        "Leviticus (Wayiqra)",
+        "Numbers (Bemidbar)",
+        "Deuteronomy (Devarim)"
       ],
       "file": "data/manuscripts/7.xml"
     },
