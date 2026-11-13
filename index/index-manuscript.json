@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:27:06.372Z",
+  "generated": "2026-11-13T18:27:22.573Z",
   "type": "manuscript",
   "records": [
     {
@@ -8068,6 +8068,16 @@
         "The Pentateuch in the Peshiṭta version."
       ],
       "file": "data/manuscripts/696.xml"
+    },
+    {
+      "id": "697",
+      "uri": "https://biblia-arabica.com/manuscript/697",
+      "headword": "University Library Add. 2027",
+      "altNames": [
+        "John, the Apostle, Saint يوحنا الرسول",
+        "The Revelation and Apocalypse of St John"
+      ],
+      "file": "data/manuscripts/697.xml"
     }
   ]
 }
