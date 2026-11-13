@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:08:27.869Z",
+  "generated": "2026-11-13T18:08:49.104Z",
   "type": "manuscript",
   "records": [
     {
@@ -7874,6 +7874,15 @@
         "رؤيا يوحنا"
       ],
       "file": "data/manuscripts/675.xml"
+    },
+    {
+      "id": "676",
+      "uri": "https://biblia-arabica.com/manuscript/676",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 525",
+      "altNames": [
+        "كتاب التوراة"
+      ],
+      "file": "data/manuscripts/676.xml"
     }
   ]
 }
