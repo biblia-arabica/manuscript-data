@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:28:14.915Z",
+  "generated": "2026-11-13T18:28:37.734Z",
   "type": "manuscript",
   "records": [
     {
@@ -8114,6 +8114,16 @@
         "مزامير داؤد"
       ],
       "file": "data/manuscripts/700.xml"
+    },
+    {
+      "id": "701",
+      "uri": "https://biblia-arabica.com/manuscript/701",
+      "headword": "University Library Add. 257",
+      "altNames": [
+        "Mazāmīr Dāwud",
+        "مزامير داود"
+      ],
+      "file": "data/manuscripts/701.xml"
     }
   ]
 }
