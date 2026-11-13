@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:02:31.349Z",
+  "generated": "2026-11-13T18:02:46.708Z",
   "type": "manuscript",
   "records": [
     {
@@ -7748,6 +7748,17 @@
         "ميزان الزمان"
       ],
       "file": "data/manuscripts/663.xml"
+    },
+    {
+      "id": "664",
+      "uri": "https://biblia-arabica.com/manuscript/664",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 776",
+      "altNames": [
+        "Asʿad ibn al-ʿAssāl, Asʿad ibn Ibrāhīm, after 1200‒before 1300",
+        "مقدمة الاناجيل المجيدة المقدسة",
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/664.xml"
     }
   ]
 }
