@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:32:53.907Z",
+  "generated": "2026-11-13T17:33:12.181Z",
   "type": "manuscript",
   "records": [
     {
@@ -7318,6 +7318,15 @@
         "[ديوان موسى العقابي]"
       ],
       "file": "data/manuscripts/621.xml"
+    },
+    {
+      "id": "622",
+      "uri": "https://biblia-arabica.com/manuscript/622",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 139",
+      "altNames": [
+        "[التوراة]"
+      ],
+      "file": "data/manuscripts/622.xml"
     }
   ]
 }
