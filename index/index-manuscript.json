@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:47:57.403Z",
+  "generated": "2026-11-13T17:48:39.546Z",
   "type": "manuscript",
   "records": [
     {
@@ -7565,6 +7565,15 @@
         "[التوراة]"
       ],
       "file": "data/manuscripts/644.xml"
+    },
+    {
+      "id": "645",
+      "uri": "https://biblia-arabica.com/manuscript/645",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 4",
+      "altNames": [
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/645.xml"
     }
   ]
 }
