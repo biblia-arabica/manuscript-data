@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:39:08.496Z",
+  "generated": "2026-11-13T17:39:26.313Z",
   "type": "manuscript",
   "records": [
     {
@@ -7424,6 +7424,17 @@
         "[المزامير ومنافع الموامير]"
       ],
       "file": "data/manuscripts/630.xml"
+    },
+    {
+      "id": "631",
+      "uri": "https://biblia-arabica.com/manuscript/631",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 1",
+      "altNames": [
+        "التوراة",
+        "كتاب التورة",
+        "[كتاب التورة]"
+      ],
+      "file": "data/manuscripts/631.xml"
     }
   ]
 }
