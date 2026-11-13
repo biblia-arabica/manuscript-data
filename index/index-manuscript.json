@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:06:31.369Z",
+  "generated": "2026-11-13T18:06:48.924Z",
   "type": "manuscript",
   "records": [
     {
@@ -7825,6 +7825,15 @@
         "كتاب التوراة"
       ],
       "file": "data/manuscripts/670.xml"
+    },
+    {
+      "id": "671",
+      "uri": "https://biblia-arabica.com/manuscript/671",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 467",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/671.xml"
     }
   ]
 }
