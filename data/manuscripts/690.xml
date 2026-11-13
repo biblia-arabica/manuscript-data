@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Vatican City, Biblioteca Apostolica Vaticana, Vaticani arabi 1278</title>
+                <title level="a" xml:lang="en">Vatican City, Biblioteca Apostolica Vaticana, Vaticani arabi 1354</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -69,74 +69,49 @@
                                                 <settlement>Vatican City</settlement>
                                                 <repository>Biblioteca Apostolica Vaticana</repository>
                                                 <collection>Vaticani arabi</collection>
-                                                <idno>Vaticani arabi 1278</idno>
+                                                <idno>Vaticani arabi 1354</idno>
                                                 <altIdentifier type="reconciled-physical-card">
-                                                    <idno>vatican:1464d3fd0005ce9ade918d36</idno>
+                                                    <idno>vatican:a24461ce431d91933eee4f0c</idno>
                                                 </altIdentifier>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>Catalogue descriptions identify 1 biblical textual source record(s) among 4 identified content record(s). All item titles below preserve the source catalogue transcriptions. Units and folio ranges may overlap.</summary>
+                                                <summary>Catalogue descriptions identify 1 biblical textual source record(s) among 1 identified content record(s). All item titles below preserve the source catalogue transcriptions. Units and folio ranges may overlap.</summary>
                                                 <msItem xml:id="msitem-1">
-                                                    <title xml:lang="ar">[المزامير]</title>
+                                                    <title xml:lang="ar">كتاب الأناجيل المقدسة</title>
                                                     <textLang mainLang="ar"/>
-                                                    <note>Biblical text identified from title (Psalms). Source record 564352. Association: description_of.</note>
-                                                </msItem>
-                                                <msItem xml:id="msitem-2">
-                                                    <title xml:lang="ar">خدمة القداس الالهي للقديس يوحنا فم الذهب</title>
-                                                    <author>Jean Chrysostome, 347?‒407 ; saint</author>
-                                                    <textLang mainLang="ar"/>
-                                                    <note>Other content in the same physical manuscript; not independently classified as biblical text. Source record 564356. Association: description_of.</note>
-                                                </msItem>
-                                                <msItem xml:id="msitem-3">
-                                                    <title xml:lang="ar">كتاب اورولوجيون الصلوات المفروضة في السبعة اوقات</title>
-                                                    <textLang mainLang="ar"/>
-                                                    <note>Other content in the same physical manuscript; not independently classified as biblical text. Source record 564358. Association: description_of.</note>
-                                                </msItem>
-                                                <msItem xml:id="msitem-4">
-                                                    <title xml:lang="ar">طروباريات</title>
-                                                    <textLang mainLang="ar"/>
-                                                    <note>Other content in the same physical manuscript; not independently classified as biblical text. Source record 564360. Association: description_of.</note>
+                                                    <note>Biblical text identified from title (Gospel). Source record 719007. Association: description_of.</note>
                                                 </msItem>
                                             </msContents>
                                             <physDesc>
                                                 <objectDesc>
                                                     <supportDesc>
                                                         <support>
-                                                            <material>Paper</material>
-                                                            <note>Writing medium: iron-gall ink (Vatican source 564351).</note>
+                                                            <material>Pasteboard Decoration element Gold tooling Decoration pattern Heraldic Age 20th century Back title: EBEDIESUS SOUBAWI EVANGELIA RHYTHMICE VERSA</material>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">273</measure>
-                                                            <dimensions>
-                                                                <height unit="mm">205</height>
-                                                                <width unit="mm">155</width>
-                                                            </dimensions>
+                                                            <measure unit="folio">121</measure>
                                                         </extent>
                                                     </supportDesc>
+                                                    <layoutDesc>
+                                                        <layout writtenLines="24" xml:id="layout-1">
+                                                            <dimensions type="written">
+                                                                <height unit="mm">245</height>
+                                                                <width unit="mm">135</width>
+                                                            </dimensions>
+                                                        </layout>
+                                                    </layoutDesc>
                                                 </objectDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>Source catalogue date expression: 18ᵗʰ century.</summary>
+                                                <summary>Source catalogue date expression: 1932.</summary>
                                                 <origin>
-                                                    <origDate>18ᵗʰ century</origDate>
+                                                    <origDate>1932</origDate>
                                                 </origin>
                                             </history>
                                             <additional>
                                                 <listBibl>
                                                     <bibl xml:id="bib1">
-                                                        <title>Vatican catalogue source 564351: Vatican. Bibliothèque apostolique vaticane. Manuscrit. Vaticani arabi 1278</title>
-                                                    </bibl>
-                                                    <bibl xml:id="bib2">
-                                                        <title>Vatican catalogue source 564352: [المزامير]</title>
-                                                    </bibl>
-                                                    <bibl xml:id="bib3">
-                                                        <title>Vatican catalogue source 564356: خدمة القداس الالهي للقديس يوحنا فم الذهب</title>
-                                                    </bibl>
-                                                    <bibl xml:id="bib4">
-                                                        <title>Vatican catalogue source 564358: كتاب اورولوجيون الصلوات المفروضة في السبعة اوقات</title>
-                                                    </bibl>
-                                                    <bibl xml:id="bib5">
-                                                        <title>Vatican catalogue source 564360: طروباريات</title>
+                                                        <title>Vatican catalogue source 719007: كتاب الأناجيل المقدسة</title>
                                                     </bibl>
                                                 </listBibl>
                                             </additional>
