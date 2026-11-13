@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:11:49.793Z",
+  "generated": "2026-11-13T18:12:22.337Z",
   "type": "manuscript",
   "records": [
     {
@@ -7957,6 +7957,16 @@
         "[التوراة مع بعض التفسير]"
       ],
       "file": "data/manuscripts/684.xml"
+    },
+    {
+      "id": "685",
+      "uri": "https://biblia-arabica.com/manuscript/685",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 609",
+      "altNames": [
+        "كتاب زبور داوود",
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/685.xml"
     }
   ]
 }
