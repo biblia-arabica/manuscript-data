@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:31:38.786Z",
+  "generated": "2026-11-13T17:31:54.861Z",
   "type": "manuscript",
   "records": [
     {
@@ -7260,6 +7260,15 @@
         "كتاب زبور داوود"
       ],
       "file": "data/manuscripts/617.xml"
+    },
+    {
+      "id": "618",
+      "uri": "https://biblia-arabica.com/manuscript/618",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 28",
+      "altNames": [
+        "[مزامير داود وتسابيح]"
+      ],
+      "file": "data/manuscripts/618.xml"
     }
   ]
 }
