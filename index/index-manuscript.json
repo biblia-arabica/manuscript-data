@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:33:12.181Z",
+  "generated": "2026-11-13T17:36:49.825Z",
   "type": "manuscript",
   "records": [
     {
@@ -7327,6 +7327,15 @@
         "[التوراة]"
       ],
       "file": "data/manuscripts/622.xml"
+    },
+    {
+      "id": "623",
+      "uri": "https://biblia-arabica.com/manuscript/623",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 203",
+      "altNames": [
+        "العهد الجديد لربنا يسوع المسيح"
+      ],
+      "file": "data/manuscripts/623.xml"
     }
   ]
 }
