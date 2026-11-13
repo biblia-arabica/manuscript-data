@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:03:42.377Z",
+  "generated": "2026-11-13T18:04:27.730Z",
   "type": "manuscript",
   "records": [
     {
@@ -7781,6 +7781,23 @@
         "انجيل لوقا"
       ],
       "file": "data/manuscripts/666.xml"
+    },
+    {
+      "id": "667",
+      "uri": "https://biblia-arabica.com/manuscript/667",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 93",
+      "altNames": [
+        "Évagre le Pontique, 346‒399",
+        "[الرذائل المضادة للفضائل]",
+        "[عن الصلاة]",
+        "[عن الزهد]",
+        "[عمل دحض]",
+        "[مقال عن الأفكار السيئة المختلفة]",
+        "[تعليقة على سفر الجامعة]",
+        "[تعليقة على سفر الأمثال]",
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/667.xml"
     }
   ]
 }
