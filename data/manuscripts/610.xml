@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="draft">
                                     <change who="#ptarras" when="2026-11-12">created record</change>
+                                    <change who="#ffrigo" when="2026-11-13">Reproduction link</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -82,6 +83,17 @@
                                                     <title ref="https://biblia-arabica.com/work/29">Job</title>
                                                 </msItem>
                                             </msContents>
+                                            <additional>
+                                                <surrogates>
+                                                    <listBibl>
+                                                        <bibl>
+                                                            <title>Microfilm</title>
+                                                            <publisher>Coptic Orthodox Patriarchate</publisher>
+                                                            <ptr target="https://archive.org/details/COP6-4"/>
+                                                        </bibl>
+                                                    </listBibl>
+                                                </surrogates>
+                                            </additional>
                                         </msDesc>
                                     </listBibl>
                                 </body>
