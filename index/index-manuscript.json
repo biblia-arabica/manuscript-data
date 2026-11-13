@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:37:05.041Z",
+  "generated": "2026-11-13T17:37:32.740Z",
   "type": "manuscript",
   "records": [
     {
@@ -7349,6 +7349,16 @@
         "[كتاب القراءات]"
       ],
       "file": "data/manuscripts/624.xml"
+    },
+    {
+      "id": "625",
+      "uri": "https://biblia-arabica.com/manuscript/625",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 243",
+      "altNames": [
+        "[الأناجيل]",
+        "فصول الاناجيل لايام الاعياد"
+      ],
+      "file": "data/manuscripts/625.xml"
     }
   ]
 }
