@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:38:29.244Z",
+  "generated": "2026-11-13T17:38:48.206Z",
   "type": "manuscript",
   "records": [
     {
@@ -7405,6 +7405,16 @@
         "الانجيل الشريف الطاهر والمصباح المنير الزاهر"
       ],
       "file": "data/manuscripts/628.xml"
+    },
+    {
+      "id": "629",
+      "uri": "https://biblia-arabica.com/manuscript/629",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 578",
+      "altNames": [
+        "[المزامير]",
+        "العشرة تسابيح"
+      ],
+      "file": "data/manuscripts/629.xml"
     }
   ]
 }
