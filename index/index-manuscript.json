@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:36:49.825Z",
+  "generated": "2026-11-13T17:37:05.041Z",
   "type": "manuscript",
   "records": [
     {
@@ -7336,6 +7336,19 @@
         "العهد الجديد لربنا يسوع المسيح"
       ],
       "file": "data/manuscripts/623.xml"
+    },
+    {
+      "id": "624",
+      "uri": "https://biblia-arabica.com/manuscript/624",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 239",
+      "altNames": [
+        "Ibn Nubāta, Muḥammad ibn Muḥammad, 1287‒1366",
+        "[سرح العيون في شرح رسالة ابن زيدون]",
+        "سفر التكوين",
+        "سفر الخروج",
+        "[كتاب القراءات]"
+      ],
+      "file": "data/manuscripts/624.xml"
     }
   ]
 }
