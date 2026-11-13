@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:28:00.142Z",
+  "generated": "2026-11-13T18:28:14.915Z",
   "type": "manuscript",
   "records": [
     {
@@ -8104,6 +8104,16 @@
         "The books of the Song of Solomon and Isaiah"
       ],
       "file": "data/manuscripts/699.xml"
+    },
+    {
+      "id": "700",
+      "uri": "https://biblia-arabica.com/manuscript/700",
+      "headword": "University Library Add. 237",
+      "altNames": [
+        "Mazāmīr Dāʼud",
+        "مزامير داؤد"
+      ],
+      "file": "data/manuscripts/700.xml"
     }
   ]
 }
