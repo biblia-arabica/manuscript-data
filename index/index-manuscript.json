@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T10:15:05.359Z",
+  "generated": "2026-11-13T10:19:39.524Z",
   "type": "manuscript",
   "records": [
     {
@@ -60,12 +60,12 @@
       "headword": "Saint Catherine Monastery Ar. 2",
       "altNames": [
         "unknown (entity whose identity is not known)",
-        "سفر التكوين",
-        "الخروج",
-        "اللاويين",
-        "العدد",
-        "المثناه ، كذا في الأصل والمقصود سفر التثنية",
-        "دانيال، وفقاً للترجمة السبعينية، ويلحق به قصة الوحش والتنين وهي غير كاملة"
+        "Genesis (Bereshit)",
+        "Exodus (Shemot)",
+        "Leviticus (Wayiqra)",
+        "Numbers (Bemidbar)",
+        "Deuteronomy (Devarim)",
+        "Daniel ، وفقاً للترجمة السبعينية، ويلحق به قصة الوحش والتنين وهي غير كاملة"
       ],
       "file": "data/manuscripts/6.xml"
     },
