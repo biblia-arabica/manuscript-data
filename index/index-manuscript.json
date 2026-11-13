@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:15:22.120Z",
+  "generated": "2026-11-13T18:25:19.340Z",
   "type": "manuscript",
   "records": [
     {
@@ -8021,6 +8021,15 @@
         "[الأناجيل]"
       ],
       "file": "data/manuscripts/691.xml"
+    },
+    {
+      "id": "692",
+      "uri": "https://biblia-arabica.com/manuscript/692",
+      "headword": "University Library Add. 1860",
+      "altNames": [
+        "The Four Gospels"
+      ],
+      "file": "data/manuscripts/692.xml"
     }
   ]
 }
