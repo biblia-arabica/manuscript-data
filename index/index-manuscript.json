@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:00:46.724Z",
+  "generated": "2026-11-13T18:01:32.946Z",
   "type": "manuscript",
   "records": [
     {
@@ -7707,6 +7707,26 @@
         "الإبركسيس"
       ],
       "file": "data/manuscripts/659.xml"
+    },
+    {
+      "id": "660",
+      "uri": "https://biblia-arabica.com/manuscript/660",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 579",
+      "altNames": [
+        "[المزامير]",
+        "العشرة تسابيح"
+      ],
+      "file": "data/manuscripts/660.xml"
+    },
+    {
+      "id": "661",
+      "uri": "https://biblia-arabica.com/manuscript/661",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 651",
+      "altNames": [
+        "[المزامير]",
+        "[العهد الجديد]"
+      ],
+      "file": "data/manuscripts/661.xml"
     }
   ]
 }
