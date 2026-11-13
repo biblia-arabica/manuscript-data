@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:57:26.060Z",
+  "generated": "2026-11-13T17:58:35.832Z",
   "type": "manuscript",
   "records": [
     {
@@ -7650,6 +7650,15 @@
         "خبر الحكيم الماهر الفيلسوف الشاطر حيقار"
       ],
       "file": "data/manuscripts/653.xml"
+    },
+    {
+      "id": "654",
+      "uri": "https://biblia-arabica.com/manuscript/654",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 226",
+      "altNames": [
+        "بشارة القديس التلميذ البتول يوحنا الانجيلي الرسول ابن زبدي حبيب ربنا يسوع المسيح"
+      ],
+      "file": "data/manuscripts/654.xml"
     }
   ]
 }
