@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:29:30.943Z",
+  "generated": "2026-11-13T18:29:51.256Z",
   "type": "manuscript",
   "records": [
     {
@@ -8157,6 +8157,16 @@
         "The four Gospels"
       ],
       "file": "data/manuscripts/704.xml"
+    },
+    {
+      "id": "705",
+      "uri": "https://biblia-arabica.com/manuscript/705",
+      "headword": "University Library Add. 3220",
+      "altNames": [
+        "Mazāmīr Dāwud",
+        "مزامير داود"
+      ],
+      "file": "data/manuscripts/705.xml"
     }
   ]
 }
