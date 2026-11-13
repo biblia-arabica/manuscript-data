@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:27:22.573Z",
+  "generated": "2026-11-13T18:27:40.019Z",
   "type": "manuscript",
   "records": [
     {
@@ -8078,6 +8078,20 @@
         "The Revelation and Apocalypse of St John"
       ],
       "file": "data/manuscripts/697.xml"
+    },
+    {
+      "id": "698",
+      "uri": "https://biblia-arabica.com/manuscript/698",
+      "headword": "University Library Add. 2029",
+      "altNames": [
+        "John Chrysostom, Saint, d. 407 يوحنا فم الذهب",
+        "Kitāb mawāʻiẓ sharīfah wa-alfāẓ mukhtaṣirah laṭīfah li-Yūḥannā Famm al-Dhahab",
+        "كتاب مواعظ شريفة والفاظ مختصرة لطيفة ليوحنا فم الذهب",
+        "Sīrat al-qiddīs mār Yūḥannā Famm al-Dhahab",
+        "سيرة القديس مار يوحنا فم الذهب",
+        "The Revelation of St John"
+      ],
+      "file": "data/manuscripts/698.xml"
     }
   ]
 }
