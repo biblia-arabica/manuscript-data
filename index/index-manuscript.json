@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:31:14.236Z",
+  "generated": "2026-11-13T17:31:38.786Z",
   "type": "manuscript",
   "records": [
     {
@@ -7251,6 +7251,15 @@
         "كتاب الانجيل الشريف الطاهر والمصباح المنير الزاهر مرتبا ترتيبا كنايسيا"
       ],
       "file": "data/manuscripts/616.xml"
+    },
+    {
+      "id": "617",
+      "uri": "https://biblia-arabica.com/manuscript/617",
+      "headword": "Biblioteca Apostolica Vaticana Borgiani arabi 27",
+      "altNames": [
+        "كتاب زبور داوود"
+      ],
+      "file": "data/manuscripts/617.xml"
     }
   ]
 }
