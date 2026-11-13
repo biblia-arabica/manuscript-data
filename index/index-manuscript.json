@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:00:12.434Z",
+  "generated": "2026-11-13T18:00:46.724Z",
   "type": "manuscript",
   "records": [
     {
@@ -7698,6 +7698,15 @@
         "الانجيل الشريف الطاهر والمصباح المنير الزاهر"
       ],
       "file": "data/manuscripts/658.xml"
+    },
+    {
+      "id": "659",
+      "uri": "https://biblia-arabica.com/manuscript/659",
+      "headword": "Biblioteca Apostolica Vaticana Sbath 404",
+      "altNames": [
+        "الإبركسيس"
+      ],
+      "file": "data/manuscripts/659.xml"
     }
   ]
 }
