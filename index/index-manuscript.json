@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:13:56.423Z",
+  "generated": "2026-11-13T18:14:20.154Z",
   "type": "manuscript",
   "records": [
     {
@@ -7994,6 +7994,15 @@
         "[المزامير]"
       ],
       "file": "data/manuscripts/688.xml"
+    },
+    {
+      "id": "689",
+      "uri": "https://biblia-arabica.com/manuscript/689",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 1227",
+      "altNames": [
+        "[الأناجيل]"
+      ],
+      "file": "data/manuscripts/689.xml"
     }
   ]
 }
