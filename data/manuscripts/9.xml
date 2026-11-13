@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. ٧</title>
+                <title level="a" xml:lang="en">Sinai, Saint Catherine Monastery Ar. 7</title>
                 <title level="m" xml:lang="en">Biblia Arabica: Critical edition and comprehensive digital inventory of Arabic Old Testament manuscripts and their paratexts</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
@@ -58,6 +58,7 @@
                                 </fileDesc>
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-30"/>
+                                    <change who="#nfaqsh" when="2026-11-13"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -68,12 +69,11 @@
                                                 <country>مصر</country>
                                                 <settlement>دير القديسة كاترينة</settlement>
                                                 <repository>مكتبة دير طور سيناء</repository>
-                                                <collection>عهد قديم</collection>
-                                                <idno>٧</idno>
+                                                <collection>Arabic</collection>
+                                                <idno>7</idno>
                                                 <altIdentifier>
                                                     <idno>Arabic 7</idno>
                                                 </altIdentifier>
-                                                <msName>أخبار الأيام ( الأول والثاني)</msName>
                                                 <geogName>
                                                     <geo/>
                                                 </geogName>
