@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:45:45.512Z",
+  "generated": "2026-11-13T17:46:20.628Z",
   "type": "manuscript",
   "records": [
     {
@@ -7525,6 +7525,16 @@
         "[المزامير]"
       ],
       "file": "data/manuscripts/640.xml"
+    },
+    {
+      "id": "641",
+      "uri": "https://biblia-arabica.com/manuscript/641",
+      "headword": "Biblioteca Apostolica Vaticana Vaticani arabi 139",
+      "altNames": [
+        "شرح التعليم المسيحى مختصراً الذى يلزم لكل مومن بالمسيح علمهُ وحفظهُ وهو على صفة السوال والجواب",
+        "[المزامير]"
+      ],
+      "file": "data/manuscripts/641.xml"
     }
   ]
 }
