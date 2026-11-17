@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T10:56:58.006Z",
+  "generated": "2026-11-17T11:03:22.498Z",
   "type": "manuscript",
   "records": [
     {
@@ -7258,7 +7258,37 @@
       "headword": "Coptic Orthodox Patriarchate Bible 45",
       "altNames": [
         "Hebrew Bible/Old Testament",
-        "Song of Songs (Shir Hashirim)"
+        "Song of Songs (Shir Hashirim)",
+        "Ezra",
+        "Nehemiah",
+        "Tobit",
+        "Judith",
+        "Esther",
+        "Job",
+        "Psalms (Tehillim)",
+        "Proverbs (Mishlei)",
+        "Ecclesiastes (Qohelet)",
+        "Wisdom (of Solomon)Sirach/Ecclesiasticus",
+        "Jeremiah",
+        "Isaiah",
+        "Lamentations (Eikha)",
+        "Baruch, incl. the Letter of Jeremiah",
+        "Daniel",
+        "Ezekiel",
+        "Hosea",
+        "Joel",
+        "Obadiah",
+        "Amos",
+        "Micah",
+        "Jonah",
+        "Nahum",
+        "Habakkuk",
+        "Zephaniah",
+        "Haggai",
+        "Zechariah",
+        "Malachi",
+        "1 Maccabees",
+        "2 Maccabees"
       ],
       "file": "data/manuscripts/608.xml"
     },
