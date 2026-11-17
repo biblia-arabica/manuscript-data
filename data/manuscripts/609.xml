@@ -60,6 +60,7 @@
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ffrigo" when="2026-11-13">Reproduction link</change>
                                     <change who="#ptarras" when="2026-11-17"/>
+                                    <change who="#ffrigo" when="2026-11-17">Content description</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -82,6 +83,27 @@
                                                 </msItem>
                                                 <msItem xml:id="msitem-3">
                                                     <title ref="https://biblia-arabica.com/work/29">Job</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <title ref="https://biblia-arabica.com/work/37">Ezra</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <title ref="https://biblia-arabica.com/work/38">Nehemiah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <title ref="https://biblia-arabica.com/work/41">Tobit</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-7">
+                                                    <title ref="https://biblia-arabica.com/work/35">Esther</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-8">
+                                                    <title ref="https://biblia-arabica.com/work/33">Ecclesiastes (Qohelet)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-9">
+                                                    <title ref="https://biblia-arabica.com/work/30">Proverbs (Mishlei)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-10">
+                                                    <title ref="https://biblia-arabica.com/work/50">Wisdom (of Solomon)Sirach/Ecclesiasticus</title>
                                                 </msItem>
                                             </msContents>
                                             <additional>
