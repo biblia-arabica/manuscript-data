@@ -60,6 +60,7 @@
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ffrigo" when="2026-11-13">Reproduction link</change>
                                     <change who="#ptarras" when="2026-11-17"/>
+                                    <change who="#ffrigo" when="2026-11-17">Content description</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -74,11 +75,26 @@
                                                 <idno>Bible 83</idno>
                                             </msIdentifier>
                                             <msContents>
+                                                <summary>
+                                                    <p>Other: Introduction to the books of Solomon (7v), introduction to Proverbs (8r-9v), The book of the demonstration ascribed to Jacob the Jew, who became a Christian in the time of the Emperor Haraclius, and what happened among the Jews converted to Christianity (97r-181v), the injunction of Stomathalassa to his disciple (182v-201r), a homily on the feast of Annunciation by John of Damascus (201v-205v).</p>
+                                                </summary>
                                                 <msItem xml:id="msitem-1">
                                                     <title ref="https://biblia-arabica.com/work/84">Hebrew Bible/Old Testament</title>
                                                 </msItem>
                                                 <msItem xml:id="msitem-2">
                                                     <title ref="https://biblia-arabica.com/work/32">Song of Songs (Shir Hashirim)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <title ref="https://biblia-arabica.com/work/88">Other</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <title ref="https://biblia-arabica.com/work/30">Proverbs (Mishlei)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <title ref="https://biblia-arabica.com/work/33">Ecclesiastes (Qohelet)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <title ref="https://biblia-arabica.com/work/50">Wisdom (of Solomon)Sirach/Ecclesiasticus</title>
                                                 </msItem>
                                             </msContents>
                                             <additional>
