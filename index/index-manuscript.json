@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T10:46:16.218Z",
+  "generated": "2026-11-17T10:49:37.578Z",
   "type": "manuscript",
   "records": [
     {
@@ -7184,7 +7184,22 @@
       "headword": "Coptic Orthodox Patriarchate Bible 89",
       "altNames": [
         "Hebrew Bible/Old Testament",
-        "Job"
+        "Job",
+        "Ezekiel",
+        "Daniel",
+        "Wisdom (of Solomon)Sirach/Ecclesiasticus",
+        "Proverbs (Mishlei)",
+        "Ecclesiastes (Qohelet)",
+        "Song of Songs (Shir Hashirim)",
+        "Tobit",
+        "2/4 Esdras",
+        "Joshua",
+        "Judges (Shofetim)",
+        "1 Samuel (Shmuel Aleph)",
+        "2 Samuel (Shmuel Bet)",
+        "1 Kings (Melakhim Aleph)",
+        "2 Kings (Melakhim Bet)",
+        "Micah"
       ],
       "file": "data/manuscripts/606.xml"
     },
