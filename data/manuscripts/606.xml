@@ -60,6 +60,7 @@
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ffrigo" when="2026-11-13">Reproduction link</change>
                                     <change who="#ptarras" when="2026-11-17"/>
+                                    <change who="#ffrigo" when="2026-11-17">Content description</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -82,6 +83,51 @@
                                                 </msItem>
                                                 <msItem xml:id="msitem-2">
                                                     <title ref="https://biblia-arabica.com/work/29">Job</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <title ref="https://biblia-arabica.com/work/14">Ezekiel</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <title ref="https://biblia-arabica.com/work/36">Daniel</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <title ref="https://biblia-arabica.com/work/50">Wisdom (of Solomon)Sirach/Ecclesiasticus</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <title ref="https://biblia-arabica.com/work/30">Proverbs (Mishlei)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-8">
+                                                    <title ref="https://biblia-arabica.com/work/33">Ecclesiastes (Qohelet)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-9">
+                                                    <title ref="https://biblia-arabica.com/work/32">Song of Songs (Shir Hashirim)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-10">
+                                                    <title ref="https://biblia-arabica.com/work/41">Tobit</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-11">
+                                                    <title ref="https://biblia-arabica.com/work/56">2/4 Esdras</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-12">
+                                                    <title ref="https://biblia-arabica.com/work/6">Joshua</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-13">
+                                                    <title ref="https://biblia-arabica.com/work/7">Judges (Shofetim)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-14">
+                                                    <title ref="https://biblia-arabica.com/work/8">1 Samuel (Shmuel Aleph)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-15">
+                                                    <title ref="https://biblia-arabica.com/work/9">2 Samuel (Shmuel Bet)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-16">
+                                                    <title ref="https://biblia-arabica.com/work/10">1 Kings (Melakhim Aleph)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-17">
+                                                    <title ref="https://biblia-arabica.com/work/11">2 Kings (Melakhim Bet)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-18">
+                                                    <title ref="https://biblia-arabica.com/work/21">Micah</title>
                                                 </msItem>
                                             </msContents>
                                             <additional>
