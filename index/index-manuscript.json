@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T13:03:54.674Z",
+  "generated": "2026-11-17T13:05:08.148Z",
   "type": "manuscript",
   "records": [
     {
@@ -7383,7 +7383,15 @@
       "altNames": [
         "Hebrew Bible/Old Testament",
         "Song of Songs (Shir Hashirim)",
-        "Job"
+        "Job",
+        "Nehemiah",
+        "Ezra",
+        "Esther",
+        "Tobit",
+        "Judith",
+        "Proverbs (Mishlei)",
+        "Ecclesiastes (Qohelet)",
+        "Wisdom (of Solomon)Sirach/Ecclesiasticus"
       ],
       "file": "data/manuscripts/612.xml"
     },
