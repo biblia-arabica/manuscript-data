@@ -59,6 +59,7 @@
                                 <revisionDesc status="draft">
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ffrigo" when="2026-11-13">Reproduction link</change>
+                                    <change who="#ffrigo" when="2026-11-17">Content description</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -74,7 +75,7 @@
                                             </msIdentifier>
                                             <msContents>
                                                 <summary>
-                                                    <p>Gregory of Nyssa, Commentary on Song of Songs</p>
+                                                    <p>Abridged Arabic version of the Gregory of Nyssa’s commentary on the Song of Songs (7r-8r), Gregory of Nyssa’s commentary on the Song of Songs (8v-52r), The Book of the Precious Pearls by al-Muqaffaʿa (54r-180v).</p>
                                                 </summary>
                                                 <msItem xml:id="msitem-1">
                                                     <title ref="https://biblia-arabica.com/work/88">Other</title>
