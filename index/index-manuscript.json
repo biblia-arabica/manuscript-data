@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T12:47:25.419Z",
+  "generated": "2026-11-17T13:03:54.674Z",
   "type": "manuscript",
   "records": [
     {
@@ -7343,7 +7343,36 @@
       "altNames": [
         "Hebrew Bible/Old Testament",
         "Song of Songs (Shir Hashirim)",
-        "Job"
+        "Job",
+        "Ezra",
+        "Nehemiah",
+        "Tobit",
+        "Judith",
+        "Esther",
+        "Psalms (Tehillim)",
+        "Proverbs (Mishlei)",
+        "Ecclesiastes (Qohelet)",
+        "Wisdom (of Solomon)Sirach/Ecclesiasticus",
+        "Jeremiah",
+        "Isaiah",
+        "Lamentations (Eikha)",
+        "Baruch, incl. the Letter of Jeremiah",
+        "Ezekiel",
+        "Daniel",
+        "Hosea",
+        "Joel",
+        "Amos",
+        "Obadiah",
+        "Jonah",
+        "Micah",
+        "Nahum",
+        "Habakkuk",
+        "Zephaniah",
+        "Haggai",
+        "Zechariah",
+        "Malachi",
+        "1 Maccabees",
+        "2 Maccabees"
       ],
       "file": "data/manuscripts/611.xml"
     },
