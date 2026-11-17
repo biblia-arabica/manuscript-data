@@ -60,6 +60,7 @@
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ffrigo" when="2026-11-13">Reproduction link</change>
                                     <change who="#ptarras" when="2026-11-17"/>
+                                    <change who="#ffrigo" when="2026-11-17">Content description</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -75,13 +76,19 @@
                                             </msIdentifier>
                                             <msContents>
                                                 <summary xml:lang="ar">
-                                                    <p>Bilingual in Arabic and Gəʕəz</p>
+                                                    <p>Bilingual in Arabic and Gəʕəz. Other: The praises of Mary (182r-199r), the supplementary praises of Mary that are commonly known as ‘The Gate of Light’ (200v-208r).</p>
                                                 </summary>
                                                 <msItem xml:id="msitem-1">
                                                     <title ref="https://biblia-arabica.com/work/84">Hebrew Bible/Old Testament</title>
                                                 </msItem>
                                                 <msItem xml:id="msitem-2">
                                                     <title ref="https://biblia-arabica.com/work/32">Song of Songs (Shir Hashirim)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <title ref="https://biblia-arabica.com/work/28">Psalms (Tehillim)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <title ref="https://biblia-arabica.com/work/88">Other</title>
                                                 </msItem>
                                             </msContents>
                                             <additional>
