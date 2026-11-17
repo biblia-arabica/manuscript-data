@@ -59,6 +59,7 @@
                                 <revisionDesc status="unpublished">
                                     <change who="#nfaqsh" when="2026-10-30"/>
                                     <change who="#nfaqsh" when="2026-11-12"/>
+                                    <change who="#nfaqsh" when="2026-11-17"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -67,10 +68,10 @@
                                         <msDesc>
                                             <msIdentifier>
                                                 <country>مصر</country>
-                                                <settlement>دير القديسة كاترينة</settlement>
-                                                <repository>مكتبة دير طور سيناء</repository>
+                                                <settlement>Sinai</settlement>
+                                                <repository>Saint Catherine</repository>
                                                 <collection>عهد قديم</collection>
-                                                <idno>٥</idno>
+                                                <idno>5</idno>
                                                 <altIdentifier>
                                                     <idno>Arabic 5</idno>
                                                 </altIdentifier>
@@ -80,23 +81,26 @@
                                                 </geogName>
                                             </msIdentifier>
                                             <msContents>
-                                                <summary>شرح لسفر الخروج مقسم إلى قراءات.</summary>
+                                                <summary xml:lang="ar">
+                                                    <p>A commentary on the Book of Exodus, divided into lections.</p>
+                                                </summary>
                                                 <msItem xml:id="msitem-1">
-                                                    <locus from="١أ" to="٣٠٨"/>
-                                                    <title>القراءة الرابعة، البداية</title>
+                                                    <locus from="1 r" to="308 v"/>
+                                                    <title>Fourth Lection – Beginning.</title>
                                                     <author ref="http://www.wikidata.org/entity/Q24238356">unknown (entity whose identity is not known)</author>
                                                     <incipit>
                                                         <quote>جعله الرب إشارة إلى أمانة الرأي أي أنه يحب أن يكون الإنسان ما دام لم ينتقل بالكامل من جميع الأوجاع</quote>
                                                     </incipit>
                                                 </msItem>
-                                                <msItem xml:id="msitem-2">
-                                                    <locus from="٣٠٨ ب" to="٣٠٨"/>
-                                                    <title>القراءة التاسعة عشرة، النهاية</title>
+                                                <msItem xml:id="msitem-2" class="bible">
+                                                    <locus from="308 v" to="308"/>
+                                                    <title>Nineteenth Lection – End.</title>
                                                     <incipit>
                                                         <quote>فالجميه هكذا بيت واحد لله كل واحد منهم بما قد اعطاه الله يخدم غيره مما ليس له تلك العطية ويخدم هو أيضا</quote>
                                                     </incipit>
                                                     <note xml:lang="ar">
-                                                        <p>المخطوط ينقسم إلى ١٩ قراءة مكتوبه بالمداد الأحمر المخطوط ناقص من البداية والنهاية الترقيم بدأ من الأخير إلى الأول المخطوط بدأ بالترقيم القبطي ورقة ١٩ أي أنه ناقص ١٨ ورقة ، وبعد الحساب يبدو أنه المخطوط ناقص دفترين إلا ورقة واحدةه من الآخر وقد يكون ناقصا ١٩ من الآخر. وقد يكون النقص هو دفتر كامل و١٠ ورقات</p>
+                                                        <p>The manuscript is divided into 19 lections, marked in red ink. It is incomplete at both the beginning and the end. The foliation runs in reverse order, from the end towards the beginning. The manuscript begins with folio 19 in the Coptic foliation, indicating that 18 leaves are missing from the beginning.</p>
+                                                        <p>On the basis of the folio count, the manuscript appears to be missing two quires, less one leaf at the end. Alternatively, it may be lacking 19 leaves from the end. Another possibility is that the loss consists of one complete quire and ten additional leaves.</p>
                                                     </note>
                                                 </msItem>
                                             </msContents>
@@ -108,19 +112,30 @@
                                                     <supportDesc>
                                                         <support>
                                                             <material>Paper</material>
-                                                            <note>
-                                                                <p>ط نسخ منتظم ويحتمل أن كاتبه مصري وليس سورياني مثل معظم النسخ الأخرى</p>
-                                                            </note>
                                                         </support>
                                                         <extent>
-                                                            <measure unit="folio">٣٠٨</measure>
+                                                            <measure unit="folio">308</measure>
                                                             <dimensions>
-                                                                <height unit="mm">٢٢ cm</height>
-                                                                <width unit="mm">١٥ cm</width>
+                                                                <height unit="mm">22 cm</height>
+                                                                <width unit="mm">15 cm</width>
                                                             </dimensions>
                                                         </extent>
+                                                        <foliation style="foliation" rendition="modern"/>
+                                                        <collation>
+                                                            <note xml:lang="ar"/>
+                                                        </collation>
                                                     </supportDesc>
                                                 </objectDesc>
+                                                <handDesc>
+                                                    <summary xml:lang="ar">
+                                                        <p>The text is written in a regular Naskh hand. Its scribe was possibly Egyptian rather than Syriac, unlike the scribes of most of the other copies.</p>
+                                                    </summary>
+                                                </handDesc>
+                                                <decoDesc>
+                                                    <summary xml:lang="ar">
+                                                        <p>The manuscript is written entirely in black ink, with the titles in red ink.</p>
+                                                    </summary>
+                                                </decoDesc>
                                                 <bindingDesc>
                                                     <binding>
                                                         <decoNote>
@@ -135,9 +150,6 @@
                                                 </sealDesc>
                                             </physDesc>
                                             <history>
-                                                <summary>
-                                                    <p>حوالي القرن الثالث عشر </p>
-                                                </summary>
                                                 <origin>
                                                     <geo/>
                                                     <origDate notBefore="1200" notAfter="1299">حوالي القرن الثالث عشر</origDate>
@@ -148,6 +160,7 @@
                                                     <listBibl>
                                                         <bibl>
                                                             <title>Digital image online</title>
+                                                            <publisher>UCLA</publisher>
                                                             <ptr target="https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1bc5h4p"/>
                                                         </bibl>
                                                     </listBibl>
