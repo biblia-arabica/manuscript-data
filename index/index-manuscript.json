@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T18:31:20.377Z",
+  "generated": "2026-11-17T10:07:37.676Z",
   "type": "manuscript",
   "records": [
     {
@@ -89,8 +89,8 @@
       "headword": "Saint Catherine Monastery Ar. 5",
       "altNames": [
         "unknown (entity whose identity is not known)",
-        "القراءة الرابعة، البداية",
-        "القراءة التاسعة عشرة، النهاية"
+        "Fourth Lection – Beginning.",
+        "Nineteenth Lection – End."
       ],
       "file": "data/manuscripts/8.xml"
     },
