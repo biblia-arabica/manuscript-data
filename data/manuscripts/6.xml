@@ -61,6 +61,7 @@
                                     <change who="#nfaqsh" when="2026-11-10"/>
                                     <change who="#nfaqsh" when="2026-11-12"/>
                                     <change who="#nfaqsh" when="2026-11-13"/>
+                                    <change who="#nfaqsh" when="2026-11-17"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -211,7 +212,7 @@
                                                             </quote>
                                                         </item>
                                                         <item xml:id="addition-2">
-                                                            <objectType>Proofreading note</objectType>
+                                                            <objectType>Observations</objectType>
                                                             <locus from="1 r"/>
                                                             <quote type="transcription">
                                                                 <p>Later, in another hand and ink, a subsequent owner or scholar who compared this copy with other manuscripts wrote: :</p>
@@ -221,11 +222,11 @@
                                                         <item xml:id="addition-3">
                                                             <objectType>Patronage</objectType>
                                                             <locus from="1 v"/>
-                                                            <quote type="transcription">
+                                                            <quote type="transcription" xml:lang="ar">
                                                                 <p>Written in a somewhat unskilled Naskh hand, distinct from the main scribal hand, recording the name of the manuscript’s owner, its provenance, and the date.</p>
-                                                                <p>بسم الاب والابن والروح القدس اليه واحد يقول الخاطى صلمون المسما اسقف جبل الله المقدس طورسينا المعروف با الطورس المقدس اني اشترات هذا المصحف من دمشق من رجل الموصع وبدراهمه وحبسته على طورسينا حرسه الله</p>
-                                                                <p>The date is incomplete due to damage to the end of the leaf; it is tentatively identified as 372 AH (982–983 CE).</p>
-                                                                <p>وكتب الخاطى المسكين صلمون (.....)! بخطه يوم الخميس لثلثه بقين من شهر المحرم سنة اثنين وسبعين و !(... )</p>
+                                                                <p>بسم الاب والابن والروح القدس اليه واحد يقول الخاطى صلمون المسما اسقف جبل الله المقدس طورسينا المعروف با الطورس المقدس اني اشترات هذا المصحف من دمشق من رجل الموصع وبدراهمه</p>
+                                                                <p>The date is incomplete due to damage to the end of the leaf; it is tentatively  identified as 372 AH (20 July 982 CE).</p>
+                                                                <p>&lt;وكتب الخاطى المسكين صلمون (.....)! بخطه يوم الخميس لثلثه بقين من شهر المحرم سنة اثنين وسبعين و !(... )&lt;ثلاثماية</p>
                                                             </quote>
                                                         </item>
                                                         <item xml:id="addition-4">
@@ -233,6 +234,13 @@
                                                             <locus from="246 v"/>
                                                             <quote type="transcription">
                                                                 <p>كمل السفر الخامس من التوراه بعون الله وقوته وكتب في سنه ثمان وعشرين وثلثمايه رحم الله من كتب وقري ودعا لكا فيه بالمغفرة امين امين </p>
+                                                            </quote>
+                                                        </item>
+                                                        <item xml:id="addition-5">
+                                                            <objectType>Certificates of endowment</objectType>
+                                                            <locus from="١ v"/>
+                                                            <quote type="transcription">
+                                                                <p>يقول الخاطى صلمون المسما اسقف جبل الله المقدس طورسينا المعروف با الطورس المقدس اني اشترات هذا المصحف من دمشق من رجل الموصع وبدراهمه وحبسته على طورسينا حرسه الله</p>
                                                             </quote>
                                                         </item>
                                                     </list>
