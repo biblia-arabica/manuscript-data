@@ -61,6 +61,7 @@
                                     <change who="#nfaqsh" when="2026-10-23"/>
                                     <change who="#nfaqsh" when="2026-10-23">Name by which manuscript is generally known</change>
                                     <change who="#nfaqsh" when="2026-11-12"/>
+                                    <change who="#nfaqsh" when="2026-11-17"/>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -161,6 +162,7 @@
                                                                 <width unit="mm">70</width>
                                                             </dimensions>
                                                         </extent>
+                                                        <foliation style="foliation" rendition="modern"/>
                                                         <collation>
                                                             <note xml:lang="ar"/>
                                                         </collation>
