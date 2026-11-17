@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T12:45:38.394Z",
+  "generated": "2026-11-17T12:47:25.419Z",
   "type": "manuscript",
   "records": [
     {
@@ -7317,7 +7317,22 @@
       "altNames": [
         "Hebrew Bible/Old Testament",
         "Song of Songs (Shir Hashirim)",
-        "Job"
+        "Job",
+        "Proverbs (Mishlei)",
+        "Ecclesiastes (Qohelet)",
+        "Wisdom (of Solomon)Sirach/Ecclesiasticus",
+        "Hosea",
+        "Joel",
+        "Amos",
+        "Obadiah",
+        "Jonah",
+        "Micah",
+        "Nahum",
+        "Habakkuk",
+        "Zephaniah",
+        "Haggai",
+        "Zechariah",
+        "Malachi"
       ],
       "file": "data/manuscripts/610.xml"
     },
