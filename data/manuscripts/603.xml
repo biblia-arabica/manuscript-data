@@ -60,6 +60,7 @@
                                     <change who="#ptarras" when="2026-11-12">created record</change>
                                     <change who="#ptarras" when="2026-11-12">updated shelfmark</change>
                                     <change who="#ptarras" when="2026-11-13"/>
+                                    <change who="#ffrigo" when="2026-11-17">Content description</change>
                                 </revisionDesc>
                             </teiHeader>
                             <text>
@@ -79,6 +80,63 @@
                                                 </msItem>
                                                 <msItem xml:id="msitem-2">
                                                     <title ref="https://biblia-arabica.com/work/32">Song of Songs (Shir Hashirim)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-3">
+                                                    <title ref="https://biblia-arabica.com/work/33">Ecclesiastes (Qohelet)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-4">
+                                                    <title ref="https://biblia-arabica.com/work/30">Proverbs (Mishlei)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-5">
+                                                    <title ref="https://biblia-arabica.com/work/13">Jeremiah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-6">
+                                                    <title ref="https://biblia-arabica.com/work/12">Isaiah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-7">
+                                                    <title ref="https://biblia-arabica.com/work/34">Lamentations (Eikha)</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-8">
+                                                    <title ref="https://biblia-arabica.com/work/14">Ezekiel</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-9">
+                                                    <title ref="https://biblia-arabica.com/work/15">Hosea</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-10">
+                                                    <title ref="https://biblia-arabica.com/work/36">Daniel</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-11">
+                                                    <title ref="https://biblia-arabica.com/work/16">Joel</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-12">
+                                                    <title ref="https://biblia-arabica.com/work/17">Amos</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-13">
+                                                    <title ref="https://biblia-arabica.com/work/18">Obadiah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-14">
+                                                    <title ref="https://biblia-arabica.com/work/19">Jonah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-15">
+                                                    <title ref="https://biblia-arabica.com/work/21">Micah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-16">
+                                                    <title ref="https://biblia-arabica.com/work/22">Nahum</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-17">
+                                                    <title ref="https://biblia-arabica.com/work/23">Habakkuk</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-18">
+                                                    <title ref="https://biblia-arabica.com/work/24">Zephaniah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-19">
+                                                    <title ref="https://biblia-arabica.com/work/25">Haggai</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-20">
+                                                    <title ref="https://biblia-arabica.com/work/26">Zechariah</title>
+                                                </msItem>
+                                                <msItem xml:id="msitem-21">
+                                                    <title ref="https://biblia-arabica.com/work/27">Malachi</title>
                                                 </msItem>
                                             </msContents>
                                             <additional>
